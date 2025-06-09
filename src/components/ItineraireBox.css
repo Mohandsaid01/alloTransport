@@ -1,0 +1,69 @@
+.itineraire-container {
+  background-color: #f7f9fb;
+  padding: 20px;
+  max-width: 800px;
+  margin: 30px auto;
+  border-radius: 12px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.08);
+}
+
+.itineraire-box {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.form-group {
+  margin-bottom: 16px;
+  position: relative;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.suggestions {
+  position: absolute;
+  background: white;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-top: none;
+  max-height: 150px;
+  overflow-y: auto;
+  z-index: 10;
+}
+
+.suggestions li {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.suggestions li:hover {
+  background-color: #f0f0f0;
+}
+
+.itineraire-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.itineraire-actions button {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  background-color: #007bff;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.itineraire-actions button:hover {
+  background-color: #0056b3;
+}
