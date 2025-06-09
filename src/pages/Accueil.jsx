@@ -1,36 +1,10 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { MapContainer, TileLayer, Marker, Polyline, useMapEvents } from 'react-leaflet';
-import L from 'leaflet';
 import './Accueil.css';
-
-// Composant pour sélectionner les points sur la carte
-const ItineraireSelector = ({ onPointsSelected }) => {
-  const [points, setPoints] = useState([]);
-
-  useMapEvents({
-    click(e) {
-      if (points.length < 2) {
-        const newPoints = [...points, e.latlng];
-        setPoints(newPoints);
-        onPointsSelected(newPoints);
-      }
-    }
-  });
-
-  return (
-    <>
-      {points.map((point, index) => (
-        <Marker key={index} position={point} />
-      ))}
-      {points.length === 2 && <Polyline positions={points} color="blue" />}
-    </>
-  );
-};
+import ItineraireBox from '../components/ItineraireBox';
 
 const Accueil = () => {
   const navigate = useNavigate();
-  const [selectedPoints, setSelectedPoints] = useState([]);
 
   const handleClick = (target) => {
     if (target === 'horaire') navigate('/horaires');
@@ -49,28 +23,7 @@ const Accueil = () => {
         </div>
       </nav>
 
-      <div className="map-container">
-        <MapContainer
-          center={[45.508888, -73.561668]}
-          zoom={13}
-          scrollWheelZoom={true}
-          style={{ height: '400px', width: '100%' }}
-        >
-          <TileLayer
-            attribution='&copy; OpenStreetMap'
-            url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-          />
-          <ItineraireSelector onPointsSelected={setSelectedPoints} />
-        </MapContainer>
-
-        {selectedPoints.length === 2 && (
-          <div style={{ padding: '10px' }}>
-            <p>🟢 Départ : {selectedPoints[0].lat.toFixed(5)}, {selectedPoints[0].lng.toFixed(5)}</p>
-            <p>🔴 Arrivée : {selectedPoints[1].lat.toFixed(5)}, {selectedPoints[1].lng.toFixed(5)}</p>
-          </div>
-        )}
-      </div>
-
+      {/* Blocs d’action */}
       <div className="carre-container">
         <div className="carre" onClick={() => handleClick('horaire')}>
           <h2>📆 Horaires</h2>
@@ -86,8 +39,40 @@ const Accueil = () => {
         </div>
       </div>
 
+      {/* Itinéraire */}
+      <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px' }}>
+        <ItineraireBox />
+      </div>
+
+      {/* À propos */}
+      <section className="section-about">
+        <h2>🚍 À propos de AlloTransport</h2>
+        <p>
+          AlloTransport est une plateforme développée dans le cadre d’un projet étudiant au Collège Teccart. 
+          Elle vise à améliorer l'expérience des usagers des transports publics à Montréal (STM) en facilitant 
+          la consultation des horaires, la gestion des cartes OPUS, et la signalisation des incidents.
+        </p>
+        <p>
+          Notre mission : rendre les transports en commun plus accessibles, plus efficaces, et plus connectés. 
+          Cette application s'inspire de Chrono et intègre des outils modernes comme la cartographie interactive et des paiements simplifiés.
+        </p>
+      </section>
+
+      {/* Footer pro */}
       <footer className="footer">
-        <p>&copy; 2025 AlloTransport - Projet étudiant STM</p>
+        <div className="footer-info">
+          <div><strong>Projet étudiant STM</strong></div>
+          <div>Réalisé par Mohand Said Halfaoui</div>
+          <div>Collège Teccart - Montréal, Canada</div>
+          <div>
+            Email : <a href="mailto:mohandsaidhalfaoui@gmail.com" style={{ color: '#4fc3f7', textDecoration: 'none' }}>
+              mohandsaidhalfaoui@gmail.com
+            </a>
+          </div>
+        </div>
+        <div className="footer-bottom">
+          © {new Date().getFullYear()} AlloTransport. Tous droits réservés.
+        </div>
       </footer>
     </div>
   );

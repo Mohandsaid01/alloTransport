@@ -1,0 +1,44 @@
+.horaires-wrapper {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 30px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.liste-lignes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.btn-ligne {
+  padding: 10px 18px;
+  background-color: #0059b2;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.btn-ligne:hover {
+  background-color: #0070e0;
+}
+
+.details-horaire {
+  margin-top: 30px;
+}
+
+.details-horaire ul {
+  list-style: none;
+  padding: 0;
+}
+
+.details-horaire li {
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+}
