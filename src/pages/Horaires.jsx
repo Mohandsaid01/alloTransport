@@ -30,7 +30,7 @@ const Horaires = () => {
 
   return (
     <div className="horaires-wrapper">
-      <h2>🚌 Horaires des lignes</h2>
+      <h2> Horaires des lignes</h2>
       <p>Choisissez une ligne pour voir les prochains départs :</p>
 
       <div className="liste-lignes">

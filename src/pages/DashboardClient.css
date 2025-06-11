@@ -1,0 +1,53 @@
+.dashboard-container {
+  display: flex;
+  min-height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.sidebar {
+  width: 500px;
+  background-color: #003366;
+  color: white;
+  padding: 50px;
+}
+
+.sidebar h2 {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.sidebar nav a,
+.sidebar nav button {
+  display: block;
+  margin-bottom: 15px;
+  color: white;
+  font-size: 16px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  padding: 0;
+}
+
+.sidebar nav a:hover,
+.sidebar nav button:hover {
+  text-decoration: underline;
+}
+
+.dashboard-content {
+  flex-grow: 1;
+  padding: 30px;
+  background-color: #f4f6f8;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+.compte-info p {
+  margin: 8px 0;
+}
+
+.dashboard-section {
+  margin-bottom: 40px;
+}

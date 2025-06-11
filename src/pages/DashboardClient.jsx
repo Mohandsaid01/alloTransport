@@ -1,13 +1,8 @@
 import React, { useContext } from 'react';
 import { AuthContext } from '../auth/AuthContext';
 import CompteInfo from '../components/CompteInfo';
-import ItineraireBox from '../components/ItineraireBox';
 import './DashboardClient.css';
 import PaiementForm from '../components/PaiementForm';
-
-import CarteOpus3D from '../components/CarteOpus3D';
-
-
 
 const DashboardClient = () => {
   const { user, logout } = useContext(AuthContext);
@@ -35,29 +30,19 @@ const DashboardClient = () => {
           <CompteInfo />
         </section>
 
-          <section id="paiement">
-        <h3>💳 Paiement</h3>
+        <section id="paiement">
+          <h3>💳 Paiement</h3>
           <PaiementForm />
-      </section>
-
-        <section id="itineraire">
-          <h3>🗺️ Planifier un itinéraire</h3>
-          <ItineraireBox />
         </section>
+
+        
 
         <section id="historique">
           <h3>🧾 Historique</h3>
           <p>Historique de recharges et trajets à venir</p>
         </section>
-
-        <section>
-  <h3>Test carte OPUS seule</h3>
-  <CarteOpus3D nom="Test Nom" opus="9876" email="test@email.com" />
-</section>
       </main>
     </div>
-
   );
 };
-
 export default DashboardClient;

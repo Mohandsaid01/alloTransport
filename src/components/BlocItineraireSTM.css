@@ -1,0 +1,71 @@
+
+.itineraire-wrapper {
+  position: relative;
+  max-width: 1200px;
+  margin: 40px auto;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: #f4f7fc;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+}
+
+.itineraire-panel {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background: white;
+  padding: 24px;
+  border-radius: 12px;
+  width: 340px;
+  z-index: 1000;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.itineraire-panel label {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 12px;
+  display: block;
+  color: #333;
+}
+
+.itineraire-panel input {
+  width: 100%;
+  padding: 10px 12px;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1rem;
+  box-sizing: border-box;
+}
+
+.itineraire-actions {
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+}
+
+.itineraire-actions button {
+  flex: 1;
+  padding: 10px 0;
+  background-color: #0056b3;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.itineraire-actions button:hover {
+  background-color: #004099;
+}
+
+.leaflet-container {
+  height: 480px;
+  width: 100%;
+  z-index: 1;
+  border-radius: 0 0 10px 10px;
+}

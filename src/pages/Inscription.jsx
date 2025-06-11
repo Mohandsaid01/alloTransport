@@ -7,11 +7,13 @@ const Inscription = () => {
   const [nom, setNom] = useState('');
   const [opus, setOpus] = useState('');
   const [mdp, setMdp] = useState('');
-  const [role, setRole] = useState('client');
+  
+  // Rôle forcé en interne (on ne l'affiche pas au formulaire)
+  const role = 'client';
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    login({ nom, opus, role });
+    login({ nom, opus, mdp, role }); // on envoie toujours role = 'client'
   };
 
   return (
@@ -62,15 +64,6 @@ const Inscription = () => {
             required
             style={inputStyle}
           />
-          <select
-            value={role}
-            onChange={(e) => setRole(e.target.value)}
-            style={{ ...inputStyle, cursor: 'pointer' }}
-          >
-            <option value="client">Client</option>
-            <option value="agent">Agent STM</option>
-            <option value="admin">Administrateur</option>
-          </select>
 
           <button
             type="submit"
