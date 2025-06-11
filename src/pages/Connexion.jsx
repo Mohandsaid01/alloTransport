@@ -1,10 +1,13 @@
 import React, { useContext, useState } from 'react';
 import { AuthContext } from '../auth/AuthContext';
-import Navbar from '../components/Navbar'; 
+import { useNavigate } from 'react-router-dom';
+
 import '../pages/Accueil.css';
 
 const Connexion = () => {
-  const { login } = useContext(AuthContext);
+  const auth = useContext(AuthContext);
+  const navigate = useNavigate();
+
   const [nom, setNom] = useState('');
   const [opus, setOpus] = useState('');
   const [mdp, setMdp] = useState('');
@@ -12,12 +15,18 @@ const Connexion = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    login({ nom, opus: role !== 'admin' ? opus : null, role });
+    if (!auth || !auth.login) {
+      console.error("AuthContext non disponible !");
+      return;
+    }
+
+    auth.login({ nom, opus: role !== 'admin' ? opus : null, role });
+    navigate(`/dashboard/${role}`); 
   };
 
   return (
     <>
-      <Navbar />
+     
 
       <div style={{
         minHeight: 'calc(100vh - 60px)',
@@ -54,7 +63,6 @@ const Connexion = () => {
               style={inputStyle}
             />
 
-            {/* Champ OPUS affiché uniquement pour client et agent */}
             {role !== 'admin' && (
               <input
                 type="text"
@@ -74,6 +82,7 @@ const Connexion = () => {
               required
               style={inputStyle}
             />
+
             <select
               value={role}
               onChange={(e) => setRole(e.target.value)}

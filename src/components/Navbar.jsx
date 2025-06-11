@@ -4,27 +4,30 @@ import { AuthContext } from '../auth/AuthContext';
 import { Link } from 'react-router-dom';
 
 const Navbar = () => {
-  const { user, logout } = useContext(AuthContext);
+  const auth = useContext(AuthContext);
+
+  //  Sécurité : éviter plantage si le contexte est absent
+  if (!auth) {
+    console.warn("AuthContext non disponible dans Navbar");
+    return null; // Ou tu peux afficher un loader, ou un message temporaire
+  }
+
+  const { user, logout } = auth;
 
   return (
     <nav style={styles.navbar}>
       <Link to="/" style={styles.logo}>AlloTransport</Link>
 
       <div style={styles.links}>
-        {/* Toujours visible */}
         <Link to="/" style={styles.link}>Accueil</Link>
 
-        {/* Connexion visible uniquement si pas connecté */}
         {!user && (
-          <Link to="/connexion" style={styles.link}>Connexion</Link>
+          <>
+            <Link to="/connexion" style={styles.link}>Connexion</Link>
+            <Link to="/inscription" style={styles.link}>Inscription</Link>
+          </>
         )}
 
-        {/* Inscription visible uniquement si pas connecté */}
-        {!user && (
-          <Link to="/inscription" style={styles.link}>Inscription</Link>
-        )}
-
-        {/* Si connecté, afficher le nom et bouton de déconnexion */}
         {user && (
           <>
             <span style={{ color: 'white', marginRight: '10px' }}>
@@ -74,4 +77,5 @@ const styles = {
     cursor: 'pointer',
   },
 };
+
 export default Navbar;
