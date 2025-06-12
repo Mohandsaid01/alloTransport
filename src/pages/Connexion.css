@@ -1,0 +1,269 @@
+/* Variables STM */
+:root {
+  --stm-blue: #009AD8;
+  --stm-green: #00B04F;
+  --stm-orange: #FF6319;
+  --stm-yellow: #FFD320;
+  --stm-dark-blue: #003E7E;
+  --stm-purple: #7B2D8E;
+  --white: #ffffff;
+  --gray: #666666;
+  --light-gray: #f8f9fb;
+  --gradient-primary: linear-gradient(135deg, var(--stm-blue) 0%, var(--stm-dark-blue) 100%);
+  --gradient-rainbow: linear-gradient(90deg, var(--stm-green), var(--stm-blue), var(--stm-orange), var(--stm-yellow));
+  --shadow: 0 15px 50px rgba(0,0,0,0.15);
+}
+
+.connexion-page {
+  min-height: 100vh;
+  background: var(--gradient-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.connexion-page::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: 
+    radial-gradient(circle at 20% 50%, rgba(0, 176, 79, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 80% 20%, rgba(255, 99, 25, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 40% 80%, rgba(255, 211, 32, 0.1) 0%, transparent 50%);
+  animation: float 20s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  33% { transform: translate(30px, -30px) scale(1.05); }
+  66% { transform: translate(-20px, 20px) scale(0.95); }
+}
+
+.connexion-box {
+  background: var(--white);
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: var(--shadow);
+  width: 100%;
+  max-width: 420px;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.logo {
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.logo::before {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80px;
+  height: 4px;
+  background: var(--gradient-rainbow);
+  border-radius: 2px;
+}
+
+.logo h1 {
+  font-size: 2.5rem;
+  font-weight: 900;
+  background: var(--gradient-rainbow);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 5px;
+  letter-spacing: 2px;
+  animation: pulse 3s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.02); }
+}
+
+.logo p {
+  font-size: 1rem;
+  color: var(--stm-dark-blue);
+  font-weight: 600;
+}
+
+.connexion-box h2 {
+  font-size: 1.8rem;
+  color: var(--stm-dark-blue);
+  margin-bottom: 25px;
+  font-weight: 400;
+  position: relative;
+}
+
+.connexion-box h2::after {
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 50px;
+  height: 2px;
+  background: var(--stm-blue);
+  border-radius: 1px;
+}
+
+.input-group {
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--gray);
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: color 0.3s ease;
+}
+
+.input-group input {
+  width: 100%;
+  padding: 15px 20px;
+  border: 2px solid #e8e8e8;
+  border-radius: 12px;
+  font-size: 1rem;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  background: var(--white);
+  outline: none;
+  position: relative;
+}
+
+.input-group input:focus {
+  border-color: var(--stm-blue);
+  box-shadow: 0 0 0 4px rgba(0, 154, 216, 0.1);
+  transform: translateY(-2px);
+}
+
+.input-group input:focus + label,
+.input-group input:valid + label {
+  color: var(--stm-blue);
+}
+
+.input-group input::placeholder {
+  color: #bbb;
+  font-size: 0.95rem;
+}
+
+button {
+  width: 100%;
+  background: var(--gradient-primary);
+  color: var(--white);
+  padding: 16px;
+  border: none;
+  border-radius: 12px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+button::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent);
+  transition: left 0.6s ease;
+}
+
+button:hover::before {
+  left: 100%;
+}
+
+button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 30px rgba(0, 154, 216, 0.4);
+}
+
+button:active {
+  transform: translateY(-1px);
+}
+
+.signup-link {
+  color: var(--gray);
+  font-size: 0.95rem;
+  position: relative;
+}
+
+.signup-link a {
+  color: var(--stm-blue);
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.signup-link a::before {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: var(--stm-blue);
+  transition: width 0.3s ease;
+}
+
+.signup-link a:hover {
+  color: var(--stm-dark-blue);
+}
+
+.signup-link a:hover::before {
+  width: 100%;
+}
+
+/* Animation d'entrée */
+.connexion-box {
+  animation: slideIn 0.6s ease-out;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive */
+@media (max-width: 480px) {
+  .connexion-box {
+    padding: 30px 25px;
+    margin: 10px;
+  }
+  
+  .logo h1 {
+    font-size: 2.2rem;
+  }
+  
+  .connexion-box h2 {
+    font-size: 1.5rem;
+  }
+}

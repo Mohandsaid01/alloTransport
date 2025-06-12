@@ -1,0 +1,356 @@
+/* Variables STM */
+:root {
+  --stm-blue: #009AD8;
+  --stm-green: #00B04F;
+  --stm-orange: #FF6319;
+  --stm-yellow: #FFD320;
+  --stm-dark-blue: #003E7E;
+  --stm-purple: #7B2D8E;
+  --white: #ffffff;
+  --gray: #666666;
+  --light-gray: #f8f9fb;
+  --gradient-secondary: linear-gradient(135deg, var(--stm-green) 0%, var(--stm-blue) 100%);
+  --gradient-rainbow: linear-gradient(90deg, var(--stm-green), var(--stm-blue), var(--stm-orange), var(--stm-yellow));
+  --shadow: 0 15px 50px rgba(0,0,0,0.15);
+}
+
+.inscription-page {
+  min-height: 100vh;
+  background: var(--gradient-secondary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.inscription-page::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: 
+    radial-gradient(circle at 30% 40%, rgba(0, 154, 216, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 70% 60%, rgba(255, 99, 25, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 20% 80%, rgba(255, 211, 32, 0.1) 0%, transparent 50%);
+  animation: floatReverse 25s ease-in-out infinite;
+}
+
+@keyframes floatReverse {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  33% { transform: translate(-20px, 30px) scale(1.02); }
+  66% { transform: translate(25px, -25px) scale(0.98); }
+}
+
+.inscription-box {
+  background: var(--white);
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: var(--shadow);
+  width: 100%;
+  max-width: 500px;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.logo {
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.logo::before {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80px;
+  height: 4px;
+  background: var(--gradient-rainbow);
+  border-radius: 2px;
+}
+
+.logo h1 {
+  font-size: 2.5rem;
+  font-weight: 900;
+  background: var(--gradient-rainbow);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 5px;
+  letter-spacing: 2px;
+  animation: pulse 3s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.02); }
+}
+
+.logo p {
+  font-size: 1rem;
+  color: var(--stm-dark-blue);
+  font-weight: 600;
+}
+
+.inscription-box h2 {
+  font-size: 1.8rem;
+  color: var(--stm-dark-blue);
+  margin-bottom: 25px;
+  font-weight: 400;
+  position: relative;
+}
+
+.inscription-box h2::after {
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 50px;
+  height: 2px;
+  background: var(--stm-green);
+  border-radius: 1px;
+}
+
+.name-row {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.input-group {
+  margin-bottom: 20px;
+  text-align: left;
+  flex: 1;
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--gray);
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: color 0.3s ease;
+}
+
+.input-group input {
+  width: 100%;
+  padding: 15px 20px;
+  border: 2px solid #e8e8e8;
+  border-radius: 12px;
+  font-size: 1rem;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  background: var(--white);
+  outline: none;
+}
+
+.input-group input:focus {
+  border-color: var(--stm-green);
+  box-shadow: 0 0 0 4px rgba(0, 176, 79, 0.1);
+  transform: translateY(-2px);
+}
+
+.input-group input:focus + label,
+.input-group input:valid + label {
+  color: var(--stm-green);
+}
+
+.input-group input::placeholder {
+  color: #bbb;
+  font-size: 0.95rem;
+}
+
+/* Checkbox personnalisé */
+.checkbox-group {
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.checkbox-label {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-size: 0.95rem;
+  color: var(--gray);
+  font-weight: 600;
+  padding: 15px;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+  background: var(--light-gray);
+  border: 2px solid transparent;
+}
+
+.checkbox-label:hover {
+  background: rgba(0, 176, 79, 0.05);
+  border-color: var(--stm-green);
+}
+
+.checkbox-label input[type="checkbox"] {
+  display: none;
+}
+
+.checkmark {
+  width: 22px;
+  height: 22px;
+  border: 2px solid #ddd;
+  border-radius: 6px;
+  margin-right: 15px;
+  position: relative;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  flex-shrink: 0;
+  background: var(--white);
+}
+
+.checkbox-label input[type="checkbox"]:checked + .checkmark {
+  background: var(--gradient-secondary);
+  border-color: var(--stm-green);
+  transform: scale(1.1);
+}
+
+.checkbox-label input[type="checkbox"]:checked + .checkmark::after {
+  content: '✓';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+button {
+  width: 100%;
+  background: var(--gradient-secondary);
+  color: var(--white);
+  padding: 16px;
+  border: none;
+  border-radius: 12px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+button::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent);
+  transition: left 0.6s ease;
+}
+
+button:hover::before {
+  left: 100%;
+}
+
+button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 30px rgba(0, 176, 79, 0.4);
+}
+
+button:active {
+  transform: translateY(-1px);
+}
+
+.login-link {
+  color: var(--gray);
+  font-size: 0.95rem;
+  position: relative;
+}
+
+.login-link a {
+  color: var(--stm-green);
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.login-link a::before {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: var(--stm-green);
+  transition: width 0.3s ease;
+}
+
+.login-link a:hover {
+  color: var(--stm-dark-blue);
+}
+
+.login-link a:hover::before {
+  width: 100%;
+}
+
+/* Animation d'entrée */
+.inscription-box {
+  animation: slideInUp 0.6s ease-out;
+}
+
+@keyframes slideInUp {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Animation pour le champ OPUS */
+.input-group {
+  transition: all 0.4s ease;
+}
+
+.input-group.opus-hidden {
+  opacity: 0;
+  max-height: 0;
+  margin-bottom: 0;
+  overflow: hidden;
+}
+
+.input-group.opus-visible {
+  opacity: 1;
+  max-height: 100px;
+  margin-bottom: 20px;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .name-row {
+    flex-direction: column;
+    gap: 0;
+  }
+  
+  .inscription-box {
+    padding: 30px 25px;
+    margin: 10px;
+  }
+  
+  .logo h1 {
+    font-size: 2.2rem;
+  }
+  
+  .inscription-box h2 {
+    font-size: 1.5rem;
+  }
+}
