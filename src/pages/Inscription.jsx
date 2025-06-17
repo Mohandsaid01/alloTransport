@@ -11,10 +11,39 @@ const Inscription = () => {
   const [numeroOpus, setNumeroOpus] = useState('');
   const [sansCarteOpus, setSansCarteOpus] = useState(false);
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    navigate('/dashboard/client');
+  const handleSubmit = async (e) => {
+  e.preventDefault();
+
+  const payload = {
+    prenom,
+    nom,
+    email,
+    mot_de_passe: motDePasse,
+    carte_opus: sansCarteOpus ? null : numeroOpus
   };
+
+  try {
+    const response = await fetch("http://127.0.0.1:8000/api/auth/register", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload)
+    });
+
+    if (!response.ok) {
+      const error = await response.json();
+      alert("Erreur : " + error.detail);
+      return;
+    }
+
+    const data = await response.json();
+    alert("✅ Compte créé avec succès !");
+    navigate("/connexion");
+  } catch (error) {
+    console.error("Erreur inscription :", error);
+    alert("Une erreur s’est produite.");
+  }
+};
+
 
   return (
     <div className="inscription-page">

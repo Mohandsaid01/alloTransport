@@ -7,19 +7,38 @@ const Connexion = () => {
   const [email, setEmail] = useState('');
   const [motDePasse, setMotDePasse] = useState('');
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    
-    // Logique simple de connexion
-    let role = 'client';
-    if (email.includes('agent')) {
-      role = 'agent';
-    } else if (email.includes('admin')) {
-      role = 'admin';
-    }
 
-    // Redirection vers le dashboard
-    navigate(`/dashboard/${role}`);
+    try {
+      const response = await fetch("http://127.0.0.1:8000/api/auth/login", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          email: email,
+          mot_de_passe: motDePasse, // ✅ Correction ici
+        }),
+      });
+
+      if (!response.ok) {
+        throw new Error("Erreur d'identifiants");
+      }
+
+      const data = await response.json();
+
+      // 🔐 Redirection dynamique selon le rôle
+      if (data.user.role === "client") {
+        navigate("/dashboard/client");
+      } else if (data.user.role === "agent") {
+        navigate("/dashboard/agent");
+      } else if (data.user.role === "admin") {
+        navigate("/dashboard/admin");
+      }
+
+
+    } catch (err) {
+      alert("Connexion échouée : " + err.message);
+    }
   };
 
   return (
