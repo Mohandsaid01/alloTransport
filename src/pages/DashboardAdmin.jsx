@@ -1,72 +1,87 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import './DashboardAdmin.css';
-
-// 🔽 Simulation de données (à remplacer par un fetch depuis le backend)
-const utilisateursSimules = {
-  clients: [
-    { id: 1, nom: 'Alice Tremblay', numeroOpus: '123456', email: 'alice@stm.ca' },
-    { id: 2, nom: 'Marc Leduc', numeroOpus: '789012', email: 'marc@stm.ca' },
-  ],
-  agents: [
-    { id: 1, nom: 'Agent 007', poste: 'Station Berri-UQAM', idUnique: 'AG007' },
-    { id: 2, nom: 'Agent 514', poste: 'Station Mont-Royal', idUnique: 'AG514' },
-  ],
-}
-
-// 🔽 Rapports soumis par les agents (à charger depuis la base de données)
-const rapportsSimules = [
-  { id: 1, titre: 'Panne métro', contenu: 'Panne sur la ligne orange à Berri.', valide: false },
-  { id: 2, titre: 'Retard bus', contenu: 'Bus 24 en retard de 20 minutes.', valide: false },
-];
 
 const DashboardAdmin = () => {
   const [onglet, setOnglet] = useState('dashboard');
-  const [agents, setAgents] = useState(utilisateursSimules.agents);
-  const [rapports, setRapports] = useState(rapportsSimules);
+  const [agents, setAgents] = useState([]);
+  const [clients, setClients] = useState([]);
+  const [rapports, setRapports] = useState([]);
+  const [pageClients, setPageClients] = useState(0);
 
-  // 🛠 BACKEND : Ajouter un agent STM en base
+  // Clients
+  useEffect(() => {
+    if (onglet === 'clients') {
+      fetch(`http://127.0.0.1:8000/api/clients?skip=${pageClients * 5}&limit=5`)
+        .then(res => res.json())
+        .then(data => setClients(data))
+        .catch(err => console.error("Erreur chargement clients", err));
+    }
+  }, [onglet, pageClients]);
+
+  // Agents
+  useEffect(() => {
+    if (onglet === 'agents') {
+      fetch(`http://127.0.0.1:8000/api/agents`)
+        .then(res => res.json())
+        .then(data => setAgents(data))
+        .catch(err => console.error("Erreur chargement agents", err));
+    }
+  }, [onglet]);
+
+  // Rapports
+  useEffect(() => {
+    if (onglet === 'rapports') {
+      fetch(`http://127.0.0.1:8000/api/rapports`)
+        .then(res => res.json())
+        .then(data => setRapports(data))
+        .catch(err => console.error("Erreur chargement rapports", err));
+    }
+  }, [onglet]);
+
   const handleAjoutAgent = (e) => {
     e.preventDefault();
     const form = e.target;
     const nom = form.nom.value;
-    const poste = form.poste.value;
-    const idUnique = form.idUnique.value;
+    const prenom = form.prenom.value;
+    const email = form.email.value;
+    const mot_de_passe = form.mot_de_passe.value;
 
-    const nouvelAgent = { id: Date.now(), nom, poste, idUnique };
+    const nouvelAgent = {
+      nom,
+      prenom,
+      email,
+      mot_de_passe,
+      role: 'agent'
+    };
 
-    setAgents([...agents, nouvelAgent]);
-
-    // 🛠 BACKEND : envoyer à l'API d’ajout d’agent
-    /*
-    fetch('/api/agents', {
+    fetch('http://127.0.0.1:8000/api/auth/register', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(nouvelAgent),
     })
-    */
+    .then(res => res.json())
+    .then(data => {
+      alert("Agent créé avec succès !");
+      setAgents([...agents, data]);
+      setOnglet("agents");
+    })
+    .catch(err => console.error("Erreur ajout agent", err));
 
     form.reset();
   };
 
-  // 🛠 BACKEND : Valider un rapport (mettre à jour en base de données)
   const validerRapport = (id) => {
-    const majRapports = rapports.map(r =>
-      r.id === id ? { ...r, valide: true } : r
-    );
-    setRapports(majRapports);
-
-    // 🛠 BACKEND : marquer le rapport comme validé
-    /*
-    fetch(`/api/rapports/${id}/valider`, {
+    fetch(`http://127.0.0.1:8000/api/rapports/${id}/valider`, {
       method: 'POST'
-    })
-    */
+    }).then(() => {
+      setRapports(rapports.map(r => r.id === id ? { ...r, valide: true } : r));
+    });
   };
 
   return (
     <div className="dashboard-admin-container">
       <aside className="admin-sidebar">
-        <h2>🛠 Admin</h2>
+        <h2>🔨 Admin</h2>
         <nav>
           <button onClick={() => setOnglet('dashboard')}>🏠 Accueil</button>
           <button onClick={() => setOnglet('clients')}>👥 Clients</button>
@@ -83,7 +98,7 @@ const DashboardAdmin = () => {
           <section>
             <h2>Tableau de bord</h2>
             <ul>
-              <li>🎫 Cartes OPUS : {utilisateursSimules.clients.length}</li>
+              <li>🎫 Cartes OPUS : {clients.length}</li>
               <li>👮 Agents STM : {agents.length}</li>
               <li>📋 Rapports à valider : {rapports.filter(r => !r.valide).length}</li>
             </ul>
@@ -94,13 +109,11 @@ const DashboardAdmin = () => {
           <section>
             <h2>Liste des clients</h2>
             <ul className="admin-list">
-              {utilisateursSimules.clients.map((client) => (
+              {Array.isArray(clients) && clients.map((client) => (
                 <li key={client.id}>
-                  <p>Nom : {client.nom}</p>
-                  <p>OPUS : {client.numeroOpus}</p>
+                  <p>Nom : {client.nom} {client.prenom}</p>
+                  <p>OPUS : {client.carte_opus}</p>
                   <p>Email : {client.email}</p>
-                  {/* 🛠 BACKEND : bouton suppression à connecter */}
-                  <button>🗑 Supprimer</button>
                 </li>
               ))}
             </ul>
@@ -111,14 +124,10 @@ const DashboardAdmin = () => {
           <section>
             <h2>👮 Liste des agents</h2>
             <ul className="admin-list">
-              {agents.map((agent) => (
+              {Array.isArray(agents) && agents.map((agent) => (
                 <li key={agent.id}>
-                  <p>Nom : {agent.nom}</p>
-                  <p>Poste : {agent.poste}</p>
-                  <p>ID Unique : {agent.idUnique}</p>
-                  {/* 🛠 BACKEND : afficher historique / suppression */}
-                  <button>🧾 Historique</button>
-                  <button>🗑 Supprimer</button>
+                  <p>Nom : {agent.nom} {agent.prenom}</p>
+                  <p>Email : {agent.email}</p>
                 </li>
               ))}
             </ul>
@@ -145,12 +154,14 @@ const DashboardAdmin = () => {
           <section>
             <h2>➕ Créer un nouvel agent</h2>
             <form className="form-ajout" onSubmit={handleAjoutAgent}>
-              <label>Nom complet :</label>
+              <label>Nom :</label>
               <input name="nom" type="text" required />
-              <label>Poste :</label>
-              <input name="poste" type="text" required />
-              <label>ID Unique :</label>
-              <input name="idUnique" type="text" required />
+              <label>Prénom :</label>
+              <input name="prenom" type="text" required />
+              <label>Email :</label>
+              <input name="email" type="email" required />
+              <label>Mot de passe :</label>
+              <input name="mot_de_passe" type="password" required />
               <button type="submit">💾 Créer</button>
             </form>
           </section>
@@ -159,14 +170,10 @@ const DashboardAdmin = () => {
         {onglet === 'ajout-titre' && (
           <section>
             <h2>🎫 Vente de titre OPUS</h2>
-            <form
-              className="form-ajout"
-              onSubmit={(e) => {
-                e.preventDefault();
-                // 🛠 BACKEND : envoi d’un titre à l’utilisateur
-                alert("À connecter au backend : vente de titre OPUS");
-              }}
-            >
+            <form className="form-ajout" onSubmit={(e) => {
+              e.preventDefault();
+              alert("À connecter au backend : vente de titre OPUS");
+            }}>
               <label>Numéro OPUS :</label>
               <input type="text" required />
               <label>Type de titre :</label>

@@ -5,8 +5,10 @@ from models import User
 from schemas import UserCreate, UserLogin, UserResponse
 from passlib.hash import bcrypt
 from passlib.context import CryptContext
+from typing import List
 
 router = APIRouter()
+
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 def get_db():
     db = SessionLocal()
@@ -48,3 +50,17 @@ def login(data: UserLogin, db: Session = Depends(get_db)):
 
         
     }}
+
+@router.get("/clients", response_model=List[dict])  # tu peux remplacer dict par un schéma plus propre plus tard
+def get_clients(skip: int = 0, limit: int = 10, db: Session = Depends(get_db)):
+    clients = db.query(User).filter(User.role == "client").offset(skip).limit(limit).all()
+    return [
+        {
+            "id": c.id,
+            "nom": c.nom,
+            "prenom": c.prenom,
+            "email": c.email,
+            "carte_opus": c.carte_opus
+        }
+        for c in clients
+    ]
