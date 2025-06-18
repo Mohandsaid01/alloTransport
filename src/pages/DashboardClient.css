@@ -1,23 +1,30 @@
-.dashboard-container {
+.dashboard-admin-container {
   display: flex;
   min-height: 100vh;
   font-family: 'Segoe UI', sans-serif;
 }
 
-.sidebar {
+/*  Style des icônes React Icons */
+.icon {
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+/*  Sidebar Admin */
+.admin-sidebar {
   width: 500px;
   background-color: #003366;
   color: white;
   padding: 50px;
 }
 
-.sidebar h2 {
+.admin-sidebar h2 {
   font-size: 20px;
   margin-bottom: 20px;
 }
 
-.sidebar nav a,
-.sidebar nav button {
+/*  Boutons de navigation */
+.admin-sidebar nav button {
   display: block;
   margin-bottom: 15px;
   color: white;
@@ -26,28 +33,87 @@
   border: none;
   cursor: pointer;
   text-align: left;
-  padding: 0;
+  padding: 8px;
+  border-radius: 5px;
+  transition: all 0.2s ease-in-out;
 }
 
-.sidebar nav a:hover,
-.sidebar nav button:hover {
-  text-decoration: underline;
+.admin-sidebar nav button:hover {
+  background-color: #004080;
+  text-decoration: none;
 }
 
-.dashboard-content {
+/*  Contenu principal admin */
+.admin-main {
   flex-grow: 1;
   padding: 30px;
   background-color: #f4f6f8;
 }
 
+/*  Listes et sections */
 section {
   margin-bottom: 40px;
 }
 
-.compte-info p {
-  margin: 8px 0;
+.admin-list p {
+  margin: 6px 0;
 }
 
-.dashboard-section {
-  margin-bottom: 40px;
+/*  Rapport */
+.rapport-card {
+  background: white;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 6px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+}
+
+.rapport-card.valide {
+  border-left: 6px solid green;
+}
+
+/* Formulaires */
+.form-ajout label {
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.form-ajout input,
+.form-ajout select,
+.form-ajout button {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  padding: 8px;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.form-ajout button {
+  background-color: #003366;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.form-ajout button:hover {
+  background-color: #004080;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .dashboard-admin-container {
+    flex-direction: column;
+  }
+
+  .admin-sidebar {
+    width: 100%;
+    padding: 20px;
+  }
+
+  .admin-main {
+    padding: 20px;
+  }
 }
