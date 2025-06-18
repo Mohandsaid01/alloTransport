@@ -22,3 +22,12 @@ def valider_rapport(id: int, db: Session = Depends(get_db)):
         db.commit()
         return {"message": "Rapport validé"}
     return {"message": "Rapport introuvable"}
+
+@router.post("/", response_model=RapportOut)
+def create_rapport(rapport: RapportCreate, db: Session = Depends(get_db)):
+    nouveau = Rapport(**rapport.dict())
+    db.add(nouveau)
+    db.commit()
+    db.refresh(nouveau)
+    return nouveau
+

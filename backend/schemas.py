@@ -32,6 +32,5 @@ class RapportOut(BaseModel):
     contenu: str
     valide: bool
 
-
     class Config:
         orm_mode = True

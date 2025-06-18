@@ -6,37 +6,41 @@ const DashboardAdmin = () => {
   const [agents, setAgents] = useState([]);
   const [clients, setClients] = useState([]);
   const [rapports, setRapports] = useState([]);
-  const [pageClients, setPageClients] = useState(0);
 
-  // Clients
+  // Chargement initial
   useEffect(() => {
-    if (onglet === 'clients') {
-      fetch(`http://127.0.0.1:8000/api/clients?skip=${pageClients * 5}&limit=5`)
-        .then(res => res.json())
-        .then(data => setClients(data))
-        .catch(err => console.error("Erreur chargement clients", err));
-    }
-  }, [onglet, pageClients]);
+    chargerClients();
+    chargerAgents();
+    chargerRapports();
+  }, []);
 
-  // Agents
+  // Rechargement si changement d'onglet
   useEffect(() => {
-    if (onglet === 'agents') {
-      fetch(`http://127.0.0.1:8000/api/agents`)
-        .then(res => res.json())
-        .then(data => setAgents(data))
-        .catch(err => console.error("Erreur chargement agents", err));
-    }
+    if (onglet === 'clients') chargerClients();
+    if (onglet === 'agents') chargerAgents();
+    if (onglet === 'rapports') chargerRapports();
   }, [onglet]);
 
-  // Rapports
-  useEffect(() => {
-    if (onglet === 'rapports') {
-      fetch(`http://127.0.0.1:8000/api/rapports`)
-        .then(res => res.json())
-        .then(data => setRapports(data))
-        .catch(err => console.error("Erreur chargement rapports", err));
-    }
-  }, [onglet]);
+  const chargerClients = () => {
+    fetch("http://127.0.0.1:8000/api/clients?skip=0&limit=100")
+      .then(res => res.json())
+      .then(data => setClients(data))
+      .catch(err => console.error("Erreur chargement clients", err));
+  };
+
+  const chargerAgents = () => {
+    fetch("http://127.0.0.1:8000/api/agents")
+      .then(res => res.json())
+      .then(data => setAgents(data))
+      .catch(err => console.error("Erreur chargement agents", err));
+  };
+
+  const chargerRapports = () => {
+    fetch("http://127.0.0.1:8000/api/rapports")
+      .then(res => res.json())
+      .then(data => setRapports(data))
+      .catch(err => console.error("Erreur chargement rapports", err));
+  };
 
   const handleAjoutAgent = (e) => {
     e.preventDefault();
@@ -59,13 +63,13 @@ const DashboardAdmin = () => {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(nouvelAgent),
     })
-    .then(res => res.json())
-    .then(data => {
-      alert("Agent créé avec succès !");
-      setAgents([...agents, data]);
-      setOnglet("agents");
-    })
-    .catch(err => console.error("Erreur ajout agent", err));
+      .then(res => res.json())
+      .then(data => {
+        alert("Agent créé avec succès !");
+        setAgents([...agents, data]);
+        setOnglet("agents");
+      })
+      .catch(err => console.error("Erreur ajout agent", err));
 
     form.reset();
   };
@@ -88,7 +92,6 @@ const DashboardAdmin = () => {
           <button onClick={() => setOnglet('agents')}>👮 Agents</button>
           <button onClick={() => setOnglet('rapports')}>📄 Rapports</button>
           <button onClick={() => setOnglet('ajout-agent')}>➕ Créer Agent</button>
-          <button onClick={() => setOnglet('ajout-titre')}>🎫 Vendre titre</button>
           <button onClick={() => window.location.href = '/'} style={{ marginTop: '20px' }}>🔓 Déconnexion</button>
         </nav>
       </aside>
@@ -109,7 +112,7 @@ const DashboardAdmin = () => {
           <section>
             <h2>Liste des clients</h2>
             <ul className="admin-list">
-              {Array.isArray(clients) && clients.map((client) => (
+              {clients.map((client) => (
                 <li key={client.id}>
                   <p>Nom : {client.nom} {client.prenom}</p>
                   <p>OPUS : {client.carte_opus}</p>
@@ -124,7 +127,7 @@ const DashboardAdmin = () => {
           <section>
             <h2>👮 Liste des agents</h2>
             <ul className="admin-list">
-              {Array.isArray(agents) && agents.map((agent) => (
+              {agents.map((agent) => (
                 <li key={agent.id}>
                   <p>Nom : {agent.nom} {agent.prenom}</p>
                   <p>Email : {agent.email}</p>
@@ -141,10 +144,11 @@ const DashboardAdmin = () => {
               <div key={r.id} className={`rapport-card ${r.valide ? 'valide' : ''}`}>
                 <h4>{r.titre}</h4>
                 <p>{r.contenu}</p>
-                {!r.valide && (
+                {!r.valide ? (
                   <button onClick={() => validerRapport(r.id)}>✅ Valider</button>
+                ) : (
+                  <p style={{ color: 'green' }}>✔ Publié</p>
                 )}
-                {r.valide && <p style={{ color: 'green' }}>✔ Publié</p>}
               </div>
             ))}
           </section>
@@ -163,26 +167,6 @@ const DashboardAdmin = () => {
               <label>Mot de passe :</label>
               <input name="mot_de_passe" type="password" required />
               <button type="submit">💾 Créer</button>
-            </form>
-          </section>
-        )}
-
-        {onglet === 'ajout-titre' && (
-          <section>
-            <h2>🎫 Vente de titre OPUS</h2>
-            <form className="form-ajout" onSubmit={(e) => {
-              e.preventDefault();
-              alert("À connecter au backend : vente de titre OPUS");
-            }}>
-              <label>Numéro OPUS :</label>
-              <input type="text" required />
-              <label>Type de titre :</label>
-              <select required>
-                <option>Mensuel</option>
-                <option>Hebdomadaire</option>
-                <option>Unité</option>
-              </select>
-              <button type="submit">💾 Vendre</button>
             </form>
           </section>
         )}

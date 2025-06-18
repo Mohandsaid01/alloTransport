@@ -21,11 +21,9 @@ const incidentsInitiaux = [
 
 const DashboardAgent = () => {
   const [incidents, setIncidents] = useState(incidentsInitiaux);
-  const [rapport, setRapport] = useState('');
   const [opusClient, setOpusClient] = useState('');
-  const [nomClient, setNomClient] = useState('');
   const [titre, setTitre] = useState('');
-  const [prix, setPrix] = useState('');
+  const [rapport, setRapport] = useState('');
   const navigate = useNavigate();
 
   const traiterIncident = (id) => {
@@ -33,57 +31,57 @@ const DashboardAgent = () => {
       incident.id === id ? { ...incident, status: 'résolu' } : incident
     );
     setIncidents(incidentsMisAJour);
-    // API: POST vers /api/incidents/resoudre
   };
 
   const envoyerRapport = () => {
-    console.log('Rapport envoyé au backend : ', rapport);
-    setRapport('');
+    if (!titre || !rapport) {
+      alert("Merci de remplir le titre et le contenu !");
+      return;
+    }
+
+    fetch("http://127.0.0.1:8000/api/rapports", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ titre, contenu: rapport }),
+    })
+      .then((res) => res.json())
+      .then(() => {
+        alert("Rapport envoyé avec succès !");
+        setTitre('');
+        setRapport('');
+      })
+      .catch(() => alert("Erreur lors de l’envoi."));
   };
 
-  const creerCarte = () => {
-    console.log(`Carte OPUS créée pour ${nomClient}, ID: ${opusClient}`);
-    setNomClient('');
-    setOpusClient('');
-  };
-
-  const vendreTitre = () => {
-    console.log(`Titre vendu : ${titre}, Prix : ${prix}$`);
-    setTitre('');
-    setPrix('');
+  const rechercherClient = () => {
+    if (!opusClient) return alert("Saisis un numéro OPUS !");
+    fetch(`http://127.0.0.1:8000/api/clients/${opusClient}`)
+      .then((res) => res.json())
+      .then((data) => alert(`Client : ${data.nom} ${data.prenom}`))
+      .catch(() => alert("Client introuvable"));
   };
 
   return (
     <div className="dashboard-agent-container">
       <aside className="sidebar">
-        <h2>Agent STM</h2>
+        <h2>🛠️ Agent STM</h2>
         <nav>
           <a href="#incidents">📋 Incidents</a>
           <a href="#horaires">🕒 Horaires</a>
           <a href="#recherche">🔎 Recherche</a>
           <a href="#rapport">📝 Rapport</a>
-          <a href="#carte">➕ Carte OPUS</a>
-          <a href="#titre">🎫 Vente titre</a>
         </nav>
         <button
           onClick={() => navigate('/')}
-          style={{
-            marginTop: '20px',
-            padding: '10px',
-            backgroundColor: '#ff4d4d',
-            color: 'white',
-            border: 'none',
-            borderRadius: '6px',
-            cursor: 'pointer',
-          }}
+          className="logout-button"
         >
-          Déconnexion
+          🚪 Déconnexion
         </button>
       </aside>
 
       <main className="main-content">
         <section id="incidents">
-          <h3>Incidents signalés</h3>
+          <h3>📋 Incidents signalés</h3>
           <ul className="incident-list">
             {incidents.map((incident) => (
               <li key={incident.id} className={`incident-card ${incident.status === 'résolu' ? 'resolu' : ''}`}>
@@ -93,7 +91,7 @@ const DashboardAgent = () => {
                 <p><strong>Statut :</strong> {incident.status}</p>
                 {incident.status !== 'résolu' && (
                   <button onClick={() => traiterIncident(incident.id)}>
-                    Marquer comme résolu
+                    ✅ Résoudre
                   </button>
                 )}
               </li>
@@ -102,43 +100,43 @@ const DashboardAgent = () => {
         </section>
 
         <section id="horaires">
-          <h3>Consultation horaires</h3>
-          <p>(Affichage horaire STM ici)</p>
+          <h3>🕒 Consultation horaires</h3>
+          <p>(Affichage des horaires de bus/métro à venir...)</p>
         </section>
 
         <section id="recherche">
-          <h3>Rechercher un client</h3>
-          <input type="text" placeholder="Entrer numéro OPUS" />
-          <button>Rechercher</button>
+          <h3>🔎 Rechercher un client</h3>
+          <input
+            type="text"
+            placeholder="Numéro OPUS"
+            value={opusClient}
+            onChange={(e) => setOpusClient(e.target.value)}
+            style={{ padding: '10px', marginRight: '10px', borderRadius: '6px' }}
+          />
+          <button onClick={rechercherClient}>🔍 Rechercher</button>
         </section>
 
         <section id="rapport">
-          <h3>Rédiger un rapport</h3>
+          <h3>📝 Rédiger un rapport</h3>
+          <input
+            type="text"
+            placeholder="Titre du rapport"
+            value={titre}
+            onChange={(e) => setTitre(e.target.value)}
+            style={{ width: '100%', padding: '10px', marginBottom: '10px', borderRadius: '6px' }}
+          />
           <textarea
             rows="5"
+            placeholder="Contenu du rapport..."
             value={rapport}
             onChange={(e) => setRapport(e.target.value)}
-            placeholder="Écrire le rapport à transmettre à l’administrateur..."
             style={{ width: '100%', padding: '12px', borderRadius: '6px', marginBottom: '10px' }}
           />
-          <button onClick={envoyerRapport}>Envoyer au responsable</button>
-        </section>
-
-        <section id="carte">
-          <h3>Créer une carte OPUS</h3>
-          <input type="text" placeholder="Nom client" value={nomClient} onChange={(e) => setNomClient(e.target.value)} />
-          <input type="text" placeholder="Numéro OPUS" value={opusClient} onChange={(e) => setOpusClient(e.target.value)} />
-          <button onClick={creerCarte}>Créer la carte</button>
-        </section>
-
-        <section id="titre">
-          <h3>Vendre un titre</h3>
-          <input type="text" placeholder="Nom du titre" value={titre} onChange={(e) => setTitre(e.target.value)} />
-          <input type="number" placeholder="Prix en $" value={prix} onChange={(e) => setPrix(e.target.value)} />
-          <button onClick={vendreTitre}>Valider la vente</button>
+          <button onClick={envoyerRapport}>📤 Envoyer au responsable</button>
         </section>
       </main>
     </div>
   );
 };
+
 export default DashboardAgent;
