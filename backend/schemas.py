@@ -22,5 +22,15 @@ class UserResponse(BaseModel):
     carte_opus: Optional[str]
     role: str  
 
+class RapportCreate(BaseModel):
+    titre: str
+    contenu: str
+
+class RapportOut(BaseModel):
+    id: int
+    titre: str
+    contenu: str
+    valide: bool
+
     class Config:
         orm_mode = True
