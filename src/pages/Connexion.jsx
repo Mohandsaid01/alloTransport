@@ -1,9 +1,11 @@
-import React, { useState } from 'react';
+import React, { useState, useContext } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './Connexion.css';
+import { AuthContext } from '../auth/AuthContext';
 
 const Connexion = () => {
   const navigate = useNavigate();
+  const { login } = useContext(AuthContext); // 🔐 Utilisation du contexte
   const [email, setEmail] = useState('');
   const [motDePasse, setMotDePasse] = useState('');
 
@@ -16,7 +18,7 @@ const Connexion = () => {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           email: email,
-          mot_de_passe: motDePasse, // ✅ Correction ici
+          mot_de_passe: motDePasse,
         }),
       });
 
@@ -26,15 +28,13 @@ const Connexion = () => {
 
       const data = await response.json();
 
-      // 🔐 Redirection dynamique selon le rôle
-      if (data.user.role === "client") {
-        navigate("/dashboard/client");
-      } else if (data.user.role === "agent") {
-        navigate("/dashboard/agent");
-      } else if (data.user.role === "admin") {
-        navigate("/dashboard/admin");
-      }
+      // 🔐 Enregistre l'utilisateur dans le contexte
+      login(data.user);
 
+      // 🚀 Redirection selon le rôle
+      if (data.user.role === "client") navigate("/dashboard/client");
+      else if (data.user.role === "agent") navigate("/dashboard/agent");
+      else if (data.user.role === "admin") navigate("/dashboard/admin");
 
     } catch (err) {
       alert("Connexion échouée : " + err.message);
@@ -50,7 +50,7 @@ const Connexion = () => {
         </div>
 
         <h2>Connexion</h2>
-        
+
         <form onSubmit={handleSubmit}>
           <div className="input-group">
             <label>Adresse e-mail</label>
