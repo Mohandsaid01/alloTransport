@@ -28,3 +28,4 @@ app.include_router(auth.router, prefix="/api/auth", tags=["auth"])
 app.include_router(client_router)   # <== très important
 app.include_router(agent_router)    # <== très important
 app.include_router(rapport_router)  # <== très important
+
