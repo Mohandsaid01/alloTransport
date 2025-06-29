@@ -1,0 +1,408 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54058",
+        "stop_name": "Aréna Howie-Morenz (Querbes / No 8650)"
+      },
+      {
+        "stop_id": "50682",
+        "stop_name": "de Liège / De L'Épée"
+      },
+      {
+        "stop_id": "50748",
+        "stop_name": "Bloomfield / d'Anvers"
+      },
+      {
+        "stop_id": "61237",
+        "stop_name": "Bloomfield / No 8120"
+      },
+      {
+        "stop_id": "50848",
+        "stop_name": "Jarry / Querbes"
+      },
+      {
+        "stop_id": "50893",
+        "stop_name": "Jarry / de l'Esplanade"
+      },
+      {
+        "stop_id": "50937",
+        "stop_name": "Jarry / Saint-Laurent"
+      },
+      {
+        "stop_id": "50958",
+        "stop_name": "Jarry / De Gaspé"
+      },
+      {
+        "stop_id": "50982",
+        "stop_name": "Jarry / Saint-Denis"
+      },
+      {
+        "stop_id": "50990",
+        "stop_name": "Station Jarry (Jarry / Lajeunesse)"
+      },
+      {
+        "stop_id": "51012",
+        "stop_name": "Jarry / Foucher"
+      },
+      {
+        "stop_id": "51043",
+        "stop_name": "Jarry / Saint-Hubert"
+      },
+      {
+        "stop_id": "51076",
+        "stop_name": "Jarry / Christophe-Colomb"
+      },
+      {
+        "stop_id": "51133",
+        "stop_name": "École Georges-Vanier (Jarry / De Normanville)"
+      },
+      {
+        "stop_id": "51165",
+        "stop_name": "Jarry / Rousselot"
+      },
+      {
+        "stop_id": "51190",
+        "stop_name": "Jarry / Fabre"
+      },
+      {
+        "stop_id": "51218",
+        "stop_name": "Jarry / Papineau"
+      },
+      {
+        "stop_id": "51232",
+        "stop_name": "Jarry / Chabot"
+      },
+      {
+        "stop_id": "51263",
+        "stop_name": "Jarry / De Lorimier"
+      },
+      {
+        "stop_id": "51317",
+        "stop_name": "Jarry / D'Iberville"
+      },
+      {
+        "stop_id": "51339",
+        "stop_name": "Jarry / 2e Avenue"
+      },
+      {
+        "stop_id": "51375",
+        "stop_name": "Jarry / 9e Avenue"
+      },
+      {
+        "stop_id": "51395",
+        "stop_name": "Jarry / Saint-Michel"
+      },
+      {
+        "stop_id": "53780",
+        "stop_name": "Jarry / Joseph-Guibord"
+      },
+      {
+        "stop_id": "51467",
+        "stop_name": "Jarry / 17e Avenue"
+      },
+      {
+        "stop_id": "51494",
+        "stop_name": "Jarry / 19e Avenue"
+      },
+      {
+        "stop_id": "51532",
+        "stop_name": "Jarry / Pie-IX"
+      },
+      {
+        "stop_id": "51548",
+        "stop_name": "Jarry / 23e Avenue"
+      },
+      {
+        "stop_id": "54844",
+        "stop_name": "Jarry / 25e Avenue"
+      },
+      {
+        "stop_id": "54855",
+        "stop_name": "Jarry / Nice"
+      },
+      {
+        "stop_id": "54867",
+        "stop_name": "Jarry / Viau"
+      },
+      {
+        "stop_id": "54875",
+        "stop_name": "Jarry / Chamilly"
+      },
+      {
+        "stop_id": "54885",
+        "stop_name": "Jarry / Jean-Nicolet"
+      },
+      {
+        "stop_id": "54893",
+        "stop_name": "Jarry / Fleuricourt"
+      },
+      {
+        "stop_id": "54904",
+        "stop_name": "Jarry / Lacordaire"
+      },
+      {
+        "stop_id": "54917",
+        "stop_name": "Jarry / Aimé-Renaud"
+      },
+      {
+        "stop_id": "54928",
+        "stop_name": "Jarry / Comtois"
+      },
+      {
+        "stop_id": "54934",
+        "stop_name": "Jarry / Louis-Vanier"
+      },
+      {
+        "stop_id": "54941",
+        "stop_name": "Jarry / de la Salette"
+      },
+      {
+        "stop_id": "54949",
+        "stop_name": "Jarry / No 6180"
+      },
+      {
+        "stop_id": "54957",
+        "stop_name": "Jarry / Langelier"
+      },
+      {
+        "stop_id": "54963",
+        "stop_name": "Jarry / du Creusot"
+      },
+      {
+        "stop_id": "54976",
+        "stop_name": "Jarry / Pascal-Gagnon"
+      },
+      {
+        "stop_id": "54732",
+        "stop_name": "Jarry / Neuville"
+      },
+      {
+        "stop_id": "54552",
+        "stop_name": "Jarry / des Galeries-d'Anjou"
+      },
+      {
+        "stop_id": "54558",
+        "stop_name": "Jarry / de Vernantes"
+      },
+      {
+        "stop_id": "54563",
+        "stop_name": "Jarry / du Haut-Anjou"
+      },
+      {
+        "stop_id": "54571",
+        "stop_name": "Jarry / Louis-Hippolyte-La Fontaine"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54571",
+        "stop_name": "Jarry / Louis-Hippolyte-La Fontaine"
+      },
+      {
+        "stop_id": "54562",
+        "stop_name": "Jarry / André-Laurendeau"
+      },
+      {
+        "stop_id": "54559",
+        "stop_name": "Jarry / de Vernantes"
+      },
+      {
+        "stop_id": "54550",
+        "stop_name": "Jarry / des Galeries-d'Anjou"
+      },
+      {
+        "stop_id": "54543",
+        "stop_name": "Jarry / Neuville"
+      },
+      {
+        "stop_id": "54975",
+        "stop_name": "Jarry / Pascal-Gagnon"
+      },
+      {
+        "stop_id": "54962",
+        "stop_name": "Jarry / du Creusot"
+      },
+      {
+        "stop_id": "54955",
+        "stop_name": "Jarry / Langelier"
+      },
+      {
+        "stop_id": "55013",
+        "stop_name": "Jarry / No 6180"
+      },
+      {
+        "stop_id": "54942",
+        "stop_name": "Jarry / du Béarn"
+      },
+      {
+        "stop_id": "54933",
+        "stop_name": "Jarry / Louis-Vanier"
+      },
+      {
+        "stop_id": "54927",
+        "stop_name": "Jarry / Comtois"
+      },
+      {
+        "stop_id": "54916",
+        "stop_name": "Jarry / Aimé-Renaud"
+      },
+      {
+        "stop_id": "54902",
+        "stop_name": "Jarry / Lacordaire"
+      },
+      {
+        "stop_id": "54892",
+        "stop_name": "Jarry / du Cap"
+      },
+      {
+        "stop_id": "54884",
+        "stop_name": "Jarry / Jean-Nicolet"
+      },
+      {
+        "stop_id": "54874",
+        "stop_name": "Jarry / Chamilly"
+      },
+      {
+        "stop_id": "54865",
+        "stop_name": "Jarry / Viau"
+      },
+      {
+        "stop_id": "54854",
+        "stop_name": "Jarry / Nice"
+      },
+      {
+        "stop_id": "54842",
+        "stop_name": "Jarry / 25e Avenue"
+      },
+      {
+        "stop_id": "51530",
+        "stop_name": "Jarry / Pie-IX"
+      },
+      {
+        "stop_id": "51524",
+        "stop_name": "Jarry / 22e Avenue"
+      },
+      {
+        "stop_id": "51493",
+        "stop_name": "Jarry / 20e Avenue"
+      },
+      {
+        "stop_id": "51466",
+        "stop_name": "Jarry / 17e Avenue"
+      },
+      {
+        "stop_id": "53779",
+        "stop_name": "Jarry / Joseph-Guibord"
+      },
+      {
+        "stop_id": "51393",
+        "stop_name": "Jarry / Saint-Michel"
+      },
+      {
+        "stop_id": "51374",
+        "stop_name": "Jarry / 9e Avenue"
+      },
+      {
+        "stop_id": "51341",
+        "stop_name": "Jarry / du Cirque"
+      },
+      {
+        "stop_id": "51316",
+        "stop_name": "Jarry / Paul-Boutet"
+      },
+      {
+        "stop_id": "54085",
+        "stop_name": "Jarry / Crémazie"
+      },
+      {
+        "stop_id": "51261",
+        "stop_name": "Jarry / De Lorimier"
+      },
+      {
+        "stop_id": "61627",
+        "stop_name": "Jarry / de Bordeaux"
+      },
+      {
+        "stop_id": "51216",
+        "stop_name": "Jarry / Papineau"
+      },
+      {
+        "stop_id": "51189",
+        "stop_name": "Jarry / Fabre"
+      },
+      {
+        "stop_id": "51164",
+        "stop_name": "Jarry / Rousselot"
+      },
+      {
+        "stop_id": "51132",
+        "stop_name": "École Georges-Vanier (Jarry / De Normanville)"
+      },
+      {
+        "stop_id": "51075",
+        "stop_name": "Jarry / Christophe-Colomb"
+      },
+      {
+        "stop_id": "51041",
+        "stop_name": "Jarry / Saint-Hubert"
+      },
+      {
+        "stop_id": "51011",
+        "stop_name": "Jarry / Foucher"
+      },
+      {
+        "stop_id": "50989",
+        "stop_name": "Station Jarry (Jarry / Berri)"
+      },
+      {
+        "stop_id": "50980",
+        "stop_name": "Jarry / Saint-Denis"
+      },
+      {
+        "stop_id": "50957",
+        "stop_name": "Jarry / De Gaspé"
+      },
+      {
+        "stop_id": "50935",
+        "stop_name": "Jarry / Saint-Laurent"
+      },
+      {
+        "stop_id": "54016",
+        "stop_name": "École Lucien-Pagé (Jarry / Centre Sainte-Croix)"
+      },
+      {
+        "stop_id": "50891",
+        "stop_name": "Jarry / de l'Esplanade"
+      },
+      {
+        "stop_id": "50843",
+        "stop_name": "Jarry / De L'Épée"
+      },
+      {
+        "stop_id": "50830",
+        "stop_name": "Jarry / Champagneur"
+      },
+      {
+        "stop_id": "50739",
+        "stop_name": "Champagneur / d'Anvers"
+      },
+      {
+        "stop_id": "50676",
+        "stop_name": "Champagneur / de Liège"
+      },
+      {
+        "stop_id": "50588",
+        "stop_name": "Champagneur / Crémazie"
+      },
+      {
+        "stop_id": "54058",
+        "stop_name": "Aréna Howie-Morenz (Querbes / No 8650)"
+      }
+    ]
+  }
+]

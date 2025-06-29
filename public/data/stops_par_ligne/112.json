@@ -1,0 +1,336 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "60869",
+        "stop_name": "Terminus Lafleur / Newman"
+      },
+      {
+        "stop_id": "56772",
+        "stop_name": "Lafleur / Airlie"
+      },
+      {
+        "stop_id": "61551",
+        "stop_name": "Lafleur / Centrale"
+      },
+      {
+        "stop_id": "56780",
+        "stop_name": "Centrale / Orchard"
+      },
+      {
+        "stop_id": "56790",
+        "stop_name": "Behrens / Airlie"
+      },
+      {
+        "stop_id": "57077",
+        "stop_name": "Airlie / 90e Avenue"
+      },
+      {
+        "stop_id": "57039",
+        "stop_name": "Place Airlie (Airlie / No 9189)"
+      },
+      {
+        "stop_id": "56829",
+        "stop_name": "Airlie / 80e Avenue"
+      },
+      {
+        "stop_id": "56860",
+        "stop_name": "75e Avenue / Beauport"
+      },
+      {
+        "stop_id": "61699",
+        "stop_name": "Salley / Tittley"
+      },
+      {
+        "stop_id": "56893",
+        "stop_name": "Salley / Dollard"
+      },
+      {
+        "stop_id": "56902",
+        "stop_name": "Bibliothèque L'Octogone (Dollard / De La Vérendrye"
+      },
+      {
+        "stop_id": "56916",
+        "stop_name": "Dollard / Champlain (Hôpital de LaSalle)"
+      },
+      {
+        "stop_id": "56930",
+        "stop_name": "Champlain / 35e Avenue"
+      },
+      {
+        "stop_id": "56933",
+        "stop_name": "Champlain / No 8398"
+      },
+      {
+        "stop_id": "56947",
+        "stop_name": "Champlain / Raymond"
+      },
+      {
+        "stop_id": "62336",
+        "stop_name": "Raymond / George"
+      },
+      {
+        "stop_id": "56962",
+        "stop_name": "Raymond / Lévis-Sauvé"
+      },
+      {
+        "stop_id": "57027",
+        "stop_name": "Raymond / Mongeau"
+      },
+      {
+        "stop_id": "56985",
+        "stop_name": "Centrale / Murphy"
+      },
+      {
+        "stop_id": "56987",
+        "stop_name": "Centrale / Duranceau"
+      },
+      {
+        "stop_id": "56997",
+        "stop_name": "Centrale / 12e Avenue"
+      },
+      {
+        "stop_id": "57006",
+        "stop_name": "Centrale / Bishop-Power"
+      },
+      {
+        "stop_id": "57010",
+        "stop_name": "Centrale / 8e Avenue"
+      },
+      {
+        "stop_id": "57011",
+        "stop_name": "Centrale / 5e Avenue"
+      },
+      {
+        "stop_id": "57012",
+        "stop_name": "Centrale / 2e Avenue"
+      },
+      {
+        "stop_id": "57013",
+        "stop_name": "Centrale / Lacharité"
+      },
+      {
+        "stop_id": "56498",
+        "stop_name": "Champlain / Parkdale"
+      },
+      {
+        "stop_id": "56500",
+        "stop_name": "Champlain / Crawford"
+      },
+      {
+        "stop_id": "56501",
+        "stop_name": "Champlain / No 7100"
+      },
+      {
+        "stop_id": "56502",
+        "stop_name": "Champlain / No 7070"
+      },
+      {
+        "stop_id": "56507",
+        "stop_name": "Champlain / Stephens"
+      },
+      {
+        "stop_id": "56512",
+        "stop_name": "Stephens / No 1482"
+      },
+      {
+        "stop_id": "61695",
+        "stop_name": "Beurling / Rolland"
+      },
+      {
+        "stop_id": "56519",
+        "stop_name": "Beurling / Allard"
+      },
+      {
+        "stop_id": "56521",
+        "stop_name": "Beurling / Brown"
+      },
+      {
+        "stop_id": "56523",
+        "stop_name": "Beurling / Moffat"
+      },
+      {
+        "stop_id": "56528",
+        "stop_name": "Champlain / Woodland"
+      },
+      {
+        "stop_id": "56531",
+        "stop_name": "Champlain / Desmarchais"
+      },
+      {
+        "stop_id": "56533",
+        "stop_name": "Champlain / 5e Avenue"
+      },
+      {
+        "stop_id": "54101",
+        "stop_name": "Station Jolicoeur (Drake / Jolicoeur)"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54101",
+        "stop_name": "Station Jolicoeur (Drake / Jolicoeur)"
+      },
+      {
+        "stop_id": "56534",
+        "stop_name": "Champlain / 5e Avenue"
+      },
+      {
+        "stop_id": "56530",
+        "stop_name": "Champlain / Desmarchais"
+      },
+      {
+        "stop_id": "56527",
+        "stop_name": "Champlain / Woodland"
+      },
+      {
+        "stop_id": "56522",
+        "stop_name": "Beurling / Moffat"
+      },
+      {
+        "stop_id": "56520",
+        "stop_name": "Beurling / Brown"
+      },
+      {
+        "stop_id": "56518",
+        "stop_name": "Beurling / Allard"
+      },
+      {
+        "stop_id": "56517",
+        "stop_name": "Beurling / Rolland"
+      },
+      {
+        "stop_id": "56513",
+        "stop_name": "Rolland / No 1411"
+      },
+      {
+        "stop_id": "56511",
+        "stop_name": "Rolland / Champlain"
+      },
+      {
+        "stop_id": "56508",
+        "stop_name": "Champlain / Stephens"
+      },
+      {
+        "stop_id": "56668",
+        "stop_name": "Champlain / No 7070"
+      },
+      {
+        "stop_id": "56667",
+        "stop_name": "Champlain / No 7100"
+      },
+      {
+        "stop_id": "56499",
+        "stop_name": "Champlain / Crawford"
+      },
+      {
+        "stop_id": "56497",
+        "stop_name": "Champlain / Fayolle"
+      },
+      {
+        "stop_id": "62270",
+        "stop_name": "Centrale / Sénécal"
+      },
+      {
+        "stop_id": "62271",
+        "stop_name": "Centrale / 2e Avenue"
+      },
+      {
+        "stop_id": "62272",
+        "stop_name": "Centrale / 5e Avenue"
+      },
+      {
+        "stop_id": "62273",
+        "stop_name": "Centrale / 8e Avenue"
+      },
+      {
+        "stop_id": "57005",
+        "stop_name": "Centrale / Bishop-Power"
+      },
+      {
+        "stop_id": "56996",
+        "stop_name": "Centrale / 12e Avenue"
+      },
+      {
+        "stop_id": "56988",
+        "stop_name": "Centrale / Cyrenne"
+      },
+      {
+        "stop_id": "56984",
+        "stop_name": "Centrale / Blais"
+      },
+      {
+        "stop_id": "57026",
+        "stop_name": "Raymond / Mongeau"
+      },
+      {
+        "stop_id": "56961",
+        "stop_name": "Raymond / Lévis-Sauvé"
+      },
+      {
+        "stop_id": "62366",
+        "stop_name": "Raymond / George"
+      },
+      {
+        "stop_id": "56946",
+        "stop_name": "Raymond / 30e Avenue"
+      },
+      {
+        "stop_id": "57040",
+        "stop_name": "Champlain / No 8398"
+      },
+      {
+        "stop_id": "56929",
+        "stop_name": "Champlain / 35e Avenue"
+      },
+      {
+        "stop_id": "56917",
+        "stop_name": "Dollard / Champlain (Hôpital de LaSalle)"
+      },
+      {
+        "stop_id": "56903",
+        "stop_name": "Dollard / De La Vérendrye"
+      },
+      {
+        "stop_id": "57062",
+        "stop_name": "Salley / Dollard"
+      },
+      {
+        "stop_id": "56865",
+        "stop_name": "Salley / 75e Avenue"
+      },
+      {
+        "stop_id": "56861",
+        "stop_name": "75e Avenue / Beauport"
+      },
+      {
+        "stop_id": "56848",
+        "stop_name": "Airlie / 76e Avenue"
+      },
+      {
+        "stop_id": "56828",
+        "stop_name": "Airlie / 80e Avenue"
+      },
+      {
+        "stop_id": "56819",
+        "stop_name": "Airlie / Place Airlie"
+      },
+      {
+        "stop_id": "57076",
+        "stop_name": "Airlie / 90e Avenue"
+      },
+      {
+        "stop_id": "57038",
+        "stop_name": "Airlie / Labatt"
+      },
+      {
+        "stop_id": "60869",
+        "stop_name": "Terminus Lafleur / Newman"
+      }
+    ]
+  }
+]

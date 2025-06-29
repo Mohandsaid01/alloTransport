@@ -1,0 +1,292 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "61328",
+        "stop_name": "Station Lionel-Groulx"
+      },
+      {
+        "stop_id": "56305",
+        "stop_name": "Saint-Antoine / Greene"
+      },
+      {
+        "stop_id": "52093",
+        "stop_name": "Saint-Antoine / Rose-de-Lima"
+      },
+      {
+        "stop_id": "51997",
+        "stop_name": "Saint-Antoine / Laporte"
+      },
+      {
+        "stop_id": "51964",
+        "stop_name": "Saint-Antoine / du Couvent"
+      },
+      {
+        "stop_id": "51917",
+        "stop_name": "Saint-Antoine / Saint-Ferdinand"
+      },
+      {
+        "stop_id": "51851",
+        "stop_name": "Saint-Antoine / Lenoir"
+      },
+      {
+        "stop_id": "51789",
+        "stop_name": "Saint-Antoine / De Courcelle"
+      },
+      {
+        "stop_id": "53958",
+        "stop_name": "Notre-Dame / Place Turcot Ouest"
+      },
+      {
+        "stop_id": "53957",
+        "stop_name": "Notre-Dame / No 6000"
+      },
+      {
+        "stop_id": "60586",
+        "stop_name": "Notre-Dame / No 6200"
+      },
+      {
+        "stop_id": "53956",
+        "stop_name": "Notre-Dame / No 6300"
+      },
+      {
+        "stop_id": "53955",
+        "stop_name": "Notre-Dame / No 6450"
+      },
+      {
+        "stop_id": "56485",
+        "stop_name": "Notre-Dame / No 8000"
+      },
+      {
+        "stop_id": "56450",
+        "stop_name": "Notre-Dame / de la Berge-du-Canal"
+      },
+      {
+        "stop_id": "56483",
+        "stop_name": "Notre-Dame / No 1000"
+      },
+      {
+        "stop_id": "56481",
+        "stop_name": "Notre-Dame / No 450"
+      },
+      {
+        "stop_id": "56472",
+        "stop_name": "Notre-Dame / Saint-Pierre"
+      },
+      {
+        "stop_id": "56463",
+        "stop_name": "Saint-Jacques / Richardson"
+      },
+      {
+        "stop_id": "62071",
+        "stop_name": "Saint-Jacques / du Chalet"
+      },
+      {
+        "stop_id": "56479",
+        "stop_name": "Saint-Jacques / Duranceau"
+      },
+      {
+        "stop_id": "56487",
+        "stop_name": "Saint-Jacques / No 92"
+      },
+      {
+        "stop_id": "56444",
+        "stop_name": "Avon / Ronald"
+      },
+      {
+        "stop_id": "56476",
+        "stop_name": "Milton / Mount-Vernon"
+      },
+      {
+        "stop_id": "56464",
+        "stop_name": "Milton / de l'Union"
+      },
+      {
+        "stop_id": "56486",
+        "stop_name": "des Érables / Émile-Pominville"
+      },
+      {
+        "stop_id": "56494",
+        "stop_name": "Norman / No 230"
+      },
+      {
+        "stop_id": "56454",
+        "stop_name": "Norman / No 255"
+      },
+      {
+        "stop_id": "56489",
+        "stop_name": "Norman / No 360"
+      },
+      {
+        "stop_id": "56451",
+        "stop_name": "Norman / Richer"
+      },
+      {
+        "stop_id": "57114",
+        "stop_name": "Norman / No 435"
+      },
+      {
+        "stop_id": "57319",
+        "stop_name": "Norman / No 1100"
+      },
+      {
+        "stop_id": "57318",
+        "stop_name": "Norman / No 1400"
+      },
+      {
+        "stop_id": "61382",
+        "stop_name": "Norman / Claire"
+      },
+      {
+        "stop_id": "57340",
+        "stop_name": "Norman / Claire"
+      },
+      {
+        "stop_id": "57115",
+        "stop_name": "Croissant Claire / No 1150"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "57115",
+        "stop_name": "Croissant Claire / No 1150"
+      },
+      {
+        "stop_id": "57116",
+        "stop_name": "Claire / Croissant Claire"
+      },
+      {
+        "stop_id": "57235",
+        "stop_name": "Norman / No 1400"
+      },
+      {
+        "stop_id": "57241",
+        "stop_name": "Norman / No 1100"
+      },
+      {
+        "stop_id": "57320",
+        "stop_name": "Norman / No 435"
+      },
+      {
+        "stop_id": "56452",
+        "stop_name": "Norman / Richer"
+      },
+      {
+        "stop_id": "56453",
+        "stop_name": "Norman / No 360"
+      },
+      {
+        "stop_id": "56490",
+        "stop_name": "Norman / No 255"
+      },
+      {
+        "stop_id": "56493",
+        "stop_name": "Norman / No 230"
+      },
+      {
+        "stop_id": "56491",
+        "stop_name": "Norman / Émile-Pominville"
+      },
+      {
+        "stop_id": "56465",
+        "stop_name": "Milton / de l'Union"
+      },
+      {
+        "stop_id": "56477",
+        "stop_name": "Milton / Mount-Vernon"
+      },
+      {
+        "stop_id": "56446",
+        "stop_name": "Milton / Saint-Jacques"
+      },
+      {
+        "stop_id": "56478",
+        "stop_name": "Saint-Jacques / Ouellette"
+      },
+      {
+        "stop_id": "62070",
+        "stop_name": "Saint-Jacques / du Chalet"
+      },
+      {
+        "stop_id": "56461",
+        "stop_name": "Saint-Jacques / Richardson"
+      },
+      {
+        "stop_id": "56474",
+        "stop_name": "Notre-Dame / Saint-Pierre"
+      },
+      {
+        "stop_id": "56480",
+        "stop_name": "Notre-Dame / No 450"
+      },
+      {
+        "stop_id": "56482",
+        "stop_name": "Notre-Dame / No 1000"
+      },
+      {
+        "stop_id": "56449",
+        "stop_name": "Notre-Dame / de la Berge-du-Canal"
+      },
+      {
+        "stop_id": "56484",
+        "stop_name": "Notre-Dame / No 8000"
+      },
+      {
+        "stop_id": "51240",
+        "stop_name": "Notre-Dame / No 6450"
+      },
+      {
+        "stop_id": "51305",
+        "stop_name": "Notre-Dame / No 6300"
+      },
+      {
+        "stop_id": "60585",
+        "stop_name": "Notre-Dame / No 6200"
+      },
+      {
+        "stop_id": "51418",
+        "stop_name": "Notre-Dame / No 6000"
+      },
+      {
+        "stop_id": "62042",
+        "stop_name": "Notre-Dame / Turcot"
+      },
+      {
+        "stop_id": "51826",
+        "stop_name": "Saint-Jacques / Delinelle"
+      },
+      {
+        "stop_id": "51870",
+        "stop_name": "Saint-Jacques / Lenoir"
+      },
+      {
+        "stop_id": "51925",
+        "stop_name": "Saint-Jacques / Sainte-Marguerite"
+      },
+      {
+        "stop_id": "51987",
+        "stop_name": "Station Place-Saint-Henri / Saint-Ferdinand"
+      },
+      {
+        "stop_id": "52033",
+        "stop_name": "Saint-Jacques / du Couvent"
+      },
+      {
+        "stop_id": "52052",
+        "stop_name": "Saint-Jacques / Laporte"
+      },
+      {
+        "stop_id": "52094",
+        "stop_name": "Saint-Jacques / Rose-de-Lima"
+      },
+      {
+        "stop_id": "61328",
+        "stop_name": "Station Lionel-Groulx"
+      }
+    ]
+  }
+]

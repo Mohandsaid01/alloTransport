@@ -1,0 +1,493 @@
+[
+  {
+    "direction": "Ouest destination Gare Dorval Nord",
+    "arrets": [
+      {
+        "stop_id": "54589",
+        "stop_name": "des Galeries-d'Anjou / No 7450"
+      },
+      {
+        "stop_id": "54697",
+        "stop_name": "des Halles / Bélanger"
+      },
+      {
+        "stop_id": "54578",
+        "stop_name": "des Halles / Jean-Talon"
+      },
+      {
+        "stop_id": "54565",
+        "stop_name": "des Galeries-d'Anjou / de Belfroy"
+      },
+      {
+        "stop_id": "54553",
+        "stop_name": "Jarry / des Galeries-d'Anjou"
+      },
+      {
+        "stop_id": "54982",
+        "stop_name": "Métropolitain / Langelier"
+      },
+      {
+        "stop_id": "54750",
+        "stop_name": "Métropolitain / Lacordaire"
+      },
+      {
+        "stop_id": "54751",
+        "stop_name": "Métropolitain / Viau"
+      },
+      {
+        "stop_id": "55014",
+        "stop_name": "Métropolitain / Provencher"
+      },
+      {
+        "stop_id": "51524",
+        "stop_name": "Jarry / 22e Avenue"
+      },
+      {
+        "stop_id": "51539",
+        "stop_name": "17e Avenue / Crémazie"
+      },
+      {
+        "stop_id": "51470",
+        "stop_name": "Crémazie / Saint-Michel"
+      },
+      {
+        "stop_id": "51342",
+        "stop_name": "Crémazie / D'Iberville"
+      },
+      {
+        "stop_id": "51177",
+        "stop_name": "Crémazie / Papineau"
+      },
+      {
+        "stop_id": "50961",
+        "stop_name": "Crémazie / Christophe-Colomb"
+      },
+      {
+        "stop_id": "50794",
+        "stop_name": "Station Crémazie Nord (Crémazie / Lajeunesse)"
+      },
+      {
+        "stop_id": "50664",
+        "stop_name": "Crémazie / Clark"
+      },
+      {
+        "stop_id": "50549",
+        "stop_name": "Crémazie / de l'Acadie"
+      },
+      {
+        "stop_id": "55770",
+        "stop_name": "Côte-de-Liesse / Montpellier"
+      },
+      {
+        "stop_id": "55853",
+        "stop_name": "Côte-de-Liesse / No 3155"
+      },
+      {
+        "stop_id": "55757",
+        "stop_name": "Côte-de-Liesse / Sainte-Croix"
+      },
+      {
+        "stop_id": "55827",
+        "stop_name": "Décarie / No 255"
+      },
+      {
+        "stop_id": "55840",
+        "stop_name": "Station Du Collège (Cartier / Ouimet)"
+      },
+      {
+        "stop_id": "55655",
+        "stop_name": "Passerelle Isabey-Darnley (Côte-de-Liesse/Isabey)"
+      },
+      {
+        "stop_id": "55602",
+        "stop_name": "Côte-de-Liesse / Cavendish"
+      },
+      {
+        "stop_id": "55860",
+        "stop_name": "Passerelle Barr (Côte-de-Liesse / No 6665)"
+      },
+      {
+        "stop_id": "55521",
+        "stop_name": "Côte-de-Liesse Nord / McArthur"
+      },
+      {
+        "stop_id": "55856",
+        "stop_name": "Côte-de-Liesse / Montée de Liesse"
+      },
+      {
+        "stop_id": "55780",
+        "stop_name": "Côte-de-Liesse / No 8585"
+      },
+      {
+        "stop_id": "57489",
+        "stop_name": "Côte-de-Liesse / Autoroute Chomedey"
+      },
+      {
+        "stop_id": "57526",
+        "stop_name": "Côte-de-Liesse / No 9551"
+      },
+      {
+        "stop_id": "57487",
+        "stop_name": "Côte-de-Liesse / Riddle"
+      },
+      {
+        "stop_id": "57542",
+        "stop_name": "Côte-de-Liesse / No 10525"
+      },
+      {
+        "stop_id": "57565",
+        "stop_name": "Côte-de-Liesse / No 10755"
+      },
+      {
+        "stop_id": "57117",
+        "stop_name": "Côte-de-Liesse / Calais"
+      },
+      {
+        "stop_id": "62025",
+        "stop_name": "Marshall / English"
+      },
+      {
+        "stop_id": "62026",
+        "stop_name": "Marshall / McMillan"
+      },
+      {
+        "stop_id": "61541",
+        "stop_name": "Mc Millan / No 555"
+      },
+      {
+        "stop_id": "62024",
+        "stop_name": "Gare Dorval Nord"
+      }
+    ]
+  },
+  {
+    "direction": "Est via Jarry",
+    "arrets": [
+      {
+        "stop_id": "62022",
+        "stop_name": "Gare Dorval Nord"
+      },
+      {
+        "stop_id": "57524",
+        "stop_name": "Michel-Jasmin / Orly"
+      },
+      {
+        "stop_id": "57313",
+        "stop_name": "Côte-de-Liesse / 55e Avenue"
+      },
+      {
+        "stop_id": "57314",
+        "stop_name": "Côte-de-Liesse / 46e Avenue"
+      },
+      {
+        "stop_id": "57312",
+        "stop_name": "Côte-de-Liesse / 43e Avenue"
+      },
+      {
+        "stop_id": "57311",
+        "stop_name": "Côte-de-Liesse / 32e Avenue"
+      },
+      {
+        "stop_id": "57343",
+        "stop_name": "Côte-de-Liesse / No 9500"
+      },
+      {
+        "stop_id": "55468",
+        "stop_name": "Côte-de-Liesse / Graveline"
+      },
+      {
+        "stop_id": "55907",
+        "stop_name": "Côte-de-Liesse / No 8180"
+      },
+      {
+        "stop_id": "55480",
+        "stop_name": "Côte-de-Liesse / Montée de Liesse"
+      },
+      {
+        "stop_id": "55851",
+        "stop_name": "Côte-de-Liesse / No 7520"
+      },
+      {
+        "stop_id": "55520",
+        "stop_name": "Côte-de-Liesse / Hickmore"
+      },
+      {
+        "stop_id": "55842",
+        "stop_name": "Passerelle Barr (Côte-de-Liesse / No 6600)"
+      },
+      {
+        "stop_id": "55601",
+        "stop_name": "Côte-de-Liesse / Cavendish"
+      },
+      {
+        "stop_id": "56110",
+        "stop_name": "Passerelle Isabey-Darnley (Côte-de-Liesse/Isabey)"
+      },
+      {
+        "stop_id": "56139",
+        "stop_name": "Côte-de-Liesse / No 5750"
+      },
+      {
+        "stop_id": "56120",
+        "stop_name": "Côte-de-Liesse / No 5430"
+      },
+      {
+        "stop_id": "50398",
+        "stop_name": "Décarie / Royalmount"
+      },
+      {
+        "stop_id": "50377",
+        "stop_name": "Station De la Savane (Décarie / de Sorel)"
+      },
+      {
+        "stop_id": "56141",
+        "stop_name": "Côte-de-Liesse / Lucerne"
+      },
+      {
+        "stop_id": "56145",
+        "stop_name": "Côte-de-Liesse / Sunset"
+      },
+      {
+        "stop_id": "50561",
+        "stop_name": "Crémazie / de l'Acadie"
+      },
+      {
+        "stop_id": "50671",
+        "stop_name": "Crémazie / Saint-Laurent"
+      },
+      {
+        "stop_id": "50770",
+        "stop_name": "Station Crémazie Sud (Crémazie / Berri)"
+      },
+      {
+        "stop_id": "50977",
+        "stop_name": "Crémazie / Christophe-Colomb"
+      },
+      {
+        "stop_id": "51178",
+        "stop_name": "Crémazie / Papineau"
+      },
+      {
+        "stop_id": "51343",
+        "stop_name": "Crémazie / Molson"
+      },
+      {
+        "stop_id": "51472",
+        "stop_name": "Crémazie / Saint-Michel"
+      },
+      {
+        "stop_id": "51541",
+        "stop_name": "17e Avenue / Crémazie"
+      },
+      {
+        "stop_id": "51548",
+        "stop_name": "Jarry / 23e Avenue"
+      },
+      {
+        "stop_id": "55015",
+        "stop_name": "Provencher / Métropolitain"
+      },
+      {
+        "stop_id": "55011",
+        "stop_name": "Métropolitain / Viau"
+      },
+      {
+        "stop_id": "54921",
+        "stop_name": "Métropolitain / Lacordaire"
+      },
+      {
+        "stop_id": "55026",
+        "stop_name": "Métropolitain / No 6170"
+      },
+      {
+        "stop_id": "54981",
+        "stop_name": "Métropolitain / Langelier"
+      },
+      {
+        "stop_id": "54589",
+        "stop_name": "des Galeries-d'Anjou / No 7450"
+      },
+      {
+        "stop_id": "61626",
+        "stop_name": "YUL Aéroport Montréal-Trudeau"
+      },
+      {
+        "stop_id": "51540",
+        "stop_name": "Crémazie / 17e Avenue"
+      },
+      {
+        "stop_id": "55016",
+        "stop_name": "Métropolitain / Provencher"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54589",
+        "stop_name": "des Galeries-d'Anjou / No 7450"
+      },
+      {
+        "stop_id": "54697",
+        "stop_name": "des Halles / Bélanger"
+      },
+      {
+        "stop_id": "54578",
+        "stop_name": "des Halles / Jean-Talon"
+      },
+      {
+        "stop_id": "54565",
+        "stop_name": "des Galeries-d'Anjou / de Belfroy"
+      },
+      {
+        "stop_id": "54553",
+        "stop_name": "Jarry / des Galeries-d'Anjou"
+      },
+      {
+        "stop_id": "54982",
+        "stop_name": "Métropolitain / Langelier"
+      },
+      {
+        "stop_id": "54750",
+        "stop_name": "Métropolitain / Lacordaire"
+      },
+      {
+        "stop_id": "54751",
+        "stop_name": "Métropolitain / Viau"
+      },
+      {
+        "stop_id": "55014",
+        "stop_name": "Métropolitain / Provencher"
+      },
+      {
+        "stop_id": "51524",
+        "stop_name": "Jarry / 22e Avenue"
+      },
+      {
+        "stop_id": "51539",
+        "stop_name": "17e Avenue / Crémazie"
+      },
+      {
+        "stop_id": "51470",
+        "stop_name": "Crémazie / Saint-Michel"
+      },
+      {
+        "stop_id": "51342",
+        "stop_name": "Crémazie / D'Iberville"
+      },
+      {
+        "stop_id": "51177",
+        "stop_name": "Crémazie / Papineau"
+      },
+      {
+        "stop_id": "50961",
+        "stop_name": "Crémazie / Christophe-Colomb"
+      },
+      {
+        "stop_id": "50794",
+        "stop_name": "Station Crémazie Nord (Crémazie / Lajeunesse)"
+      },
+      {
+        "stop_id": "50664",
+        "stop_name": "Crémazie / Clark"
+      },
+      {
+        "stop_id": "50549",
+        "stop_name": "Crémazie / de l'Acadie"
+      },
+      {
+        "stop_id": "55770",
+        "stop_name": "Côte-de-Liesse / Montpellier"
+      },
+      {
+        "stop_id": "55853",
+        "stop_name": "Côte-de-Liesse / No 3155"
+      },
+      {
+        "stop_id": "55757",
+        "stop_name": "Côte-de-Liesse / Sainte-Croix"
+      },
+      {
+        "stop_id": "55827",
+        "stop_name": "Décarie / No 255"
+      },
+      {
+        "stop_id": "55840",
+        "stop_name": "Station Du Collège (Cartier / Ouimet)"
+      },
+      {
+        "stop_id": "55655",
+        "stop_name": "Passerelle Isabey-Darnley (Côte-de-Liesse/Isabey)"
+      },
+      {
+        "stop_id": "55602",
+        "stop_name": "Côte-de-Liesse / Cavendish"
+      },
+      {
+        "stop_id": "55860",
+        "stop_name": "Passerelle Barr (Côte-de-Liesse / No 6665)"
+      },
+      {
+        "stop_id": "55521",
+        "stop_name": "Côte-de-Liesse Nord / McArthur"
+      },
+      {
+        "stop_id": "55856",
+        "stop_name": "Côte-de-Liesse / Montée de Liesse"
+      },
+      {
+        "stop_id": "55780",
+        "stop_name": "Côte-de-Liesse / No 8585"
+      },
+      {
+        "stop_id": "57489",
+        "stop_name": "Côte-de-Liesse / Autoroute Chomedey"
+      },
+      {
+        "stop_id": "57526",
+        "stop_name": "Côte-de-Liesse / No 9551"
+      },
+      {
+        "stop_id": "57487",
+        "stop_name": "Côte-de-Liesse / Riddle"
+      },
+      {
+        "stop_id": "57542",
+        "stop_name": "Côte-de-Liesse / No 10525"
+      },
+      {
+        "stop_id": "57565",
+        "stop_name": "Côte-de-Liesse / No 10755"
+      },
+      {
+        "stop_id": "57117",
+        "stop_name": "Côte-de-Liesse / Calais"
+      },
+      {
+        "stop_id": "62025",
+        "stop_name": "Marshall / English"
+      },
+      {
+        "stop_id": "62026",
+        "stop_name": "Marshall / McMillan"
+      },
+      {
+        "stop_id": "61541",
+        "stop_name": "Mc Millan / No 555"
+      },
+      {
+        "stop_id": "62024",
+        "stop_name": "Gare Dorval Nord"
+      },
+      {
+        "stop_id": "61626",
+        "stop_name": "YUL Aéroport Montréal-Trudeau"
+      },
+      {
+        "stop_id": "51538",
+        "stop_name": "Crémazie / 17e Avenue"
+      }
+    ]
+  }
+]

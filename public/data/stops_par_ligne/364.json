@@ -1,0 +1,684 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54696",
+        "stop_name": "Centre de transport Anjou"
+      },
+      {
+        "stop_id": "54531",
+        "stop_name": "Larrey / Secant"
+      },
+      {
+        "stop_id": "54705",
+        "stop_name": "J.-René-Ouimet / Parkway"
+      },
+      {
+        "stop_id": "54725",
+        "stop_name": "Parkway / No 10800"
+      },
+      {
+        "stop_id": "54727",
+        "stop_name": "Parkway / No 10700"
+      },
+      {
+        "stop_id": "54726",
+        "stop_name": "Parkway / No 10600"
+      },
+      {
+        "stop_id": "54548",
+        "stop_name": "Parkway / Bombardier"
+      },
+      {
+        "stop_id": "54561",
+        "stop_name": "Parkway / Ernest-Cormier"
+      },
+      {
+        "stop_id": "54566",
+        "stop_name": "Ernest-Cormier / No 8530"
+      },
+      {
+        "stop_id": "54569",
+        "stop_name": "Ernest-Cormier / Ray-Lawson"
+      },
+      {
+        "stop_id": "54587",
+        "stop_name": "Ray-Lawson / Grenache"
+      },
+      {
+        "stop_id": "54716",
+        "stop_name": "Ray-Lawson / Place Upton"
+      },
+      {
+        "stop_id": "54597",
+        "stop_name": "Ray-Lawson / Jarry"
+      },
+      {
+        "stop_id": "54620",
+        "stop_name": "Roi-René / de Châteauneuf"
+      },
+      {
+        "stop_id": "54611",
+        "stop_name": "de Châteauneuf / de la Loire"
+      },
+      {
+        "stop_id": "54608",
+        "stop_name": "de Châteauneuf / de Vaujours"
+      },
+      {
+        "stop_id": "54607",
+        "stop_name": "Joseph-Renaud / de Châteauneuf"
+      },
+      {
+        "stop_id": "54630",
+        "stop_name": "Joseph-Renaud / Wilfrid-Pelletier"
+      },
+      {
+        "stop_id": "54647",
+        "stop_name": "Joseph-Renaud / de Châtillon"
+      },
+      {
+        "stop_id": "54652",
+        "stop_name": "Joseph-Renaud / des Vendéens"
+      },
+      {
+        "stop_id": "54662",
+        "stop_name": "Joseph-Renaud / Yves-Prévost"
+      },
+      {
+        "stop_id": "54669",
+        "stop_name": "Chénier / Saint-Donat"
+      },
+      {
+        "stop_id": "54673",
+        "stop_name": "Saint-Donat / des Réaux"
+      },
+      {
+        "stop_id": "54675",
+        "stop_name": "Saint-Donat / Fonteneau"
+      },
+      {
+        "stop_id": "54677",
+        "stop_name": "Saint-Donat / De Grosbois"
+      },
+      {
+        "stop_id": "53266",
+        "stop_name": "Saint-Donat / De Forbin-Janson"
+      },
+      {
+        "stop_id": "53288",
+        "stop_name": "Saint-Donat / Sherbrooke"
+      },
+      {
+        "stop_id": "53278",
+        "stop_name": "Sherbrooke / Liébert"
+      },
+      {
+        "stop_id": "53252",
+        "stop_name": "Station Honoré-Beaugrand"
+      },
+      {
+        "stop_id": "53241",
+        "stop_name": "Sherbrooke / Lepailleur"
+      },
+      {
+        "stop_id": "53206",
+        "stop_name": "Sherbrooke / du Trianon"
+      },
+      {
+        "stop_id": "53196",
+        "stop_name": "Station Radisson (Sherbrooke / Des Groseilliers)"
+      },
+      {
+        "stop_id": "53185",
+        "stop_name": "Sherbrooke / Émile-Legrand"
+      },
+      {
+        "stop_id": "53177",
+        "stop_name": "Sherbrooke / Haig"
+      },
+      {
+        "stop_id": "53164",
+        "stop_name": "Sherbrooke / Desautels"
+      },
+      {
+        "stop_id": "53149",
+        "stop_name": "Station Langelier (Sherbrooke / Langelier)"
+      },
+      {
+        "stop_id": "53130",
+        "stop_name": "Sherbrooke / de Granby"
+      },
+      {
+        "stop_id": "53120",
+        "stop_name": "Sherbrooke / de Carignan"
+      },
+      {
+        "stop_id": "53706",
+        "stop_name": "Pavillon Grace Dart (Sherbrooke / No 6082)"
+      },
+      {
+        "stop_id": "53099",
+        "stop_name": "Station Cadillac (Sherbrooke / De Cadillac)"
+      },
+      {
+        "stop_id": "53077",
+        "stop_name": "Sherbrooke / Lacordaire"
+      },
+      {
+        "stop_id": "53069",
+        "stop_name": "Sherbrooke / Dickson"
+      },
+      {
+        "stop_id": "53705",
+        "stop_name": "Sherbrooke / No 5600"
+      },
+      {
+        "stop_id": "53040",
+        "stop_name": "Sherbrooke / de l'Assomption"
+      },
+      {
+        "stop_id": "53726",
+        "stop_name": "Sherbrooke / No 5300"
+      },
+      {
+        "stop_id": "52985",
+        "stop_name": "Sherbrooke / Viau"
+      },
+      {
+        "stop_id": "53704",
+        "stop_name": "Sherbrooke / No 4751"
+      },
+      {
+        "stop_id": "52960",
+        "stop_name": "Sherbrooke / Pie-IX (coin Nord-Est)"
+      },
+      {
+        "stop_id": "52962",
+        "stop_name": "Sherbrooke/Pie-IX (coin Nord-Ouest)"
+      },
+      {
+        "stop_id": "52957",
+        "stop_name": "Sherbrooke / Bourbonnière"
+      },
+      {
+        "stop_id": "54164",
+        "stop_name": "Sherbrooke / Valois"
+      },
+      {
+        "stop_id": "52948",
+        "stop_name": "Sherbrooke / De Chambly"
+      },
+      {
+        "stop_id": "52941",
+        "stop_name": "Sherbrooke / Aylwin"
+      },
+      {
+        "stop_id": "52923",
+        "stop_name": "Sherbrooke / Davidson"
+      },
+      {
+        "stop_id": "52899",
+        "stop_name": "Sherbrooke / Saint-Germain"
+      },
+      {
+        "stop_id": "52875",
+        "stop_name": "Sherbrooke / Moreau"
+      },
+      {
+        "stop_id": "52836",
+        "stop_name": "Sherbrooke / De Léry"
+      },
+      {
+        "stop_id": "52811",
+        "stop_name": "Sherbrooke / Hogan"
+      },
+      {
+        "stop_id": "52789",
+        "stop_name": "Gascon / Sherbrooke"
+      },
+      {
+        "stop_id": "53016",
+        "stop_name": "Station Frontenac (du Havre / Ontario)"
+      },
+      {
+        "stop_id": "53075",
+        "stop_name": "du Havre / La Fontaine"
+      },
+      {
+        "stop_id": "53112",
+        "stop_name": "du Havre / De Maisonneuve"
+      },
+      {
+        "stop_id": "53845",
+        "stop_name": "René-Lévesque / De Champlain"
+      },
+      {
+        "stop_id": "53031",
+        "stop_name": "René-Lévesque / Panet"
+      },
+      {
+        "stop_id": "52980",
+        "stop_name": "René-Lévesque / Atateken"
+      },
+      {
+        "stop_id": "52954",
+        "stop_name": "René-Lévesque / Saint-André"
+      },
+      {
+        "stop_id": "52930",
+        "stop_name": "René-Lévesque / Saint-Hubert"
+      },
+      {
+        "stop_id": "52905",
+        "stop_name": "René-Lévesque / Berri"
+      },
+      {
+        "stop_id": "52881",
+        "stop_name": "René-Lévesque / Saint-Denis (CHUM)"
+      },
+      {
+        "stop_id": "52834",
+        "stop_name": "René-Lévesque / de l'Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "52783",
+        "stop_name": "René-Lévesque / Saint-Laurent"
+      },
+      {
+        "stop_id": "52745",
+        "stop_name": "René-Lévesque / Saint-Urbain"
+      },
+      {
+        "stop_id": "52697",
+        "stop_name": "René-Lévesque / Jeanne-Mance"
+      },
+      {
+        "stop_id": "52625",
+        "stop_name": "Place du Frère-André"
+      },
+      {
+        "stop_id": "52587",
+        "stop_name": "René-Lévesque / Robert-Bourassa"
+      },
+      {
+        "stop_id": "52529",
+        "stop_name": "René-Lévesque / Mansfield"
+      },
+      {
+        "stop_id": "52483",
+        "stop_name": "René-Lévesque / Peel"
+      },
+      {
+        "stop_id": "52463",
+        "stop_name": "René-Lévesque / Stanley"
+      },
+      {
+        "stop_id": "52416",
+        "stop_name": "René-Lévesque / de la Montagne"
+      },
+      {
+        "stop_id": "52373",
+        "stop_name": "René-Lévesque / Bishop"
+      },
+      {
+        "stop_id": "52327",
+        "stop_name": "René-Lévesque / Guy"
+      },
+      {
+        "stop_id": "52284",
+        "stop_name": "René-Lévesque / Saint-Mathieu"
+      },
+      {
+        "stop_id": "52198",
+        "stop_name": "René-Lévesque / Seymour"
+      },
+      {
+        "stop_id": "52149",
+        "stop_name": "René-Lévesque / du Sussex"
+      },
+      {
+        "stop_id": "52078",
+        "stop_name": "René-Lévesque / Atwater"
+      },
+      {
+        "stop_id": "54148",
+        "stop_name": "Station Atwater (Ste-Catherine / Lambert-Closse)"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54148",
+        "stop_name": "Station Atwater (Ste-Catherine / Lambert-Closse)"
+      },
+      {
+        "stop_id": "52227",
+        "stop_name": "René-Lévesque / du Fort"
+      },
+      {
+        "stop_id": "52286",
+        "stop_name": "René-Lévesque / Saint-Mathieu"
+      },
+      {
+        "stop_id": "52329",
+        "stop_name": "René-Lévesque / Guy"
+      },
+      {
+        "stop_id": "52374",
+        "stop_name": "René-Lévesque / Bishop"
+      },
+      {
+        "stop_id": "52437",
+        "stop_name": "René-Lévesque / Drummond"
+      },
+      {
+        "stop_id": "61807",
+        "stop_name": "René-Lévesque / Stanley"
+      },
+      {
+        "stop_id": "52530",
+        "stop_name": "René-Lévesque / Mansfield"
+      },
+      {
+        "stop_id": "53918",
+        "stop_name": "René-Lévesque / Union"
+      },
+      {
+        "stop_id": "52627",
+        "stop_name": "Basilique St-Patrick (R.-Lévesque / St-Alexandre)"
+      },
+      {
+        "stop_id": "60683",
+        "stop_name": "René-Lévesque / Jeanne-Mance"
+      },
+      {
+        "stop_id": "52782",
+        "stop_name": "René-Lévesque / Saint-Laurent"
+      },
+      {
+        "stop_id": "52835",
+        "stop_name": "René-Lévesque / de l'Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "52882",
+        "stop_name": "René-Lévesque / Saint-Denis (CHUM)"
+      },
+      {
+        "stop_id": "54041",
+        "stop_name": "René-Lévesque / Berri"
+      },
+      {
+        "stop_id": "52931",
+        "stop_name": "René-Lévesque / Saint-Hubert"
+      },
+      {
+        "stop_id": "52982",
+        "stop_name": "René-Lévesque / Atateken"
+      },
+      {
+        "stop_id": "53032",
+        "stop_name": "René-Lévesque / Panet"
+      },
+      {
+        "stop_id": "53073",
+        "stop_name": "René-Lévesque / Papineau (Maison Radio-Canada)"
+      },
+      {
+        "stop_id": "54071",
+        "stop_name": "Frontenac / Mondelet"
+      },
+      {
+        "stop_id": "53092",
+        "stop_name": "Frontenac / Logan"
+      },
+      {
+        "stop_id": "53014",
+        "stop_name": "Station Frontenac (Frontenac / Ontario)"
+      },
+      {
+        "stop_id": "52934",
+        "stop_name": "Frontenac / de Rouen"
+      },
+      {
+        "stop_id": "52857",
+        "stop_name": "Frontenac / Hochelaga"
+      },
+      {
+        "stop_id": "52788",
+        "stop_name": "Sherbrooke / Gascon"
+      },
+      {
+        "stop_id": "52812",
+        "stop_name": "Sherbrooke / Hogan"
+      },
+      {
+        "stop_id": "52854",
+        "stop_name": "Sherbrooke / De Léry"
+      },
+      {
+        "stop_id": "52876",
+        "stop_name": "Sherbrooke / Moreau"
+      },
+      {
+        "stop_id": "52900",
+        "stop_name": "Sherbrooke / Saint-Germain"
+      },
+      {
+        "stop_id": "52924",
+        "stop_name": "Sherbrooke / Davidson"
+      },
+      {
+        "stop_id": "52942",
+        "stop_name": "Sherbrooke / Aylwin"
+      },
+      {
+        "stop_id": "52949",
+        "stop_name": "Sherbrooke / De Chambly"
+      },
+      {
+        "stop_id": "52953",
+        "stop_name": "Collège de Maisonneuve (Sherbrooke/V.-Bourgeau)"
+      },
+      {
+        "stop_id": "52958",
+        "stop_name": "Sherbrooke / d'Orléans"
+      },
+      {
+        "stop_id": "52961",
+        "stop_name": "Sherbrooke / Pie-IX (coin Sud-Ouest)"
+      },
+      {
+        "stop_id": "52955",
+        "stop_name": "Sherbrooke / Pie-IX (coin Sud-Est)"
+      },
+      {
+        "stop_id": "52989",
+        "stop_name": "Sherbrooke / No 4750"
+      },
+      {
+        "stop_id": "52987",
+        "stop_name": "Sherbrooke / Viau"
+      },
+      {
+        "stop_id": "53008",
+        "stop_name": "Sherbrooke / No 5300"
+      },
+      {
+        "stop_id": "53042",
+        "stop_name": "Sherbrooke / de l'Assomption"
+      },
+      {
+        "stop_id": "53061",
+        "stop_name": "Sherbrooke / No 5600"
+      },
+      {
+        "stop_id": "53070",
+        "stop_name": "Sherbrooke / Dickson"
+      },
+      {
+        "stop_id": "53078",
+        "stop_name": "Sherbrooke / Lacordaire"
+      },
+      {
+        "stop_id": "61692",
+        "stop_name": "Station Cadillac (Sherbrooke / De Cadillac)"
+      },
+      {
+        "stop_id": "53111",
+        "stop_name": "Sherbrooke / No 6082"
+      },
+      {
+        "stop_id": "53121",
+        "stop_name": "Sherbrooke / de Carignan"
+      },
+      {
+        "stop_id": "53131",
+        "stop_name": "Sherbrooke / de Granby"
+      },
+      {
+        "stop_id": "53150",
+        "stop_name": "Station Langelier (Sherbrooke / Langelier)"
+      },
+      {
+        "stop_id": "53165",
+        "stop_name": "Sherbrooke / Desautels"
+      },
+      {
+        "stop_id": "53178",
+        "stop_name": "Sherbrooke / Haig"
+      },
+      {
+        "stop_id": "53186",
+        "stop_name": "Sherbrooke / Émile-Legrand"
+      },
+      {
+        "stop_id": "53198",
+        "stop_name": "Sherbrooke / Radisson"
+      },
+      {
+        "stop_id": "54080",
+        "stop_name": "Station Radisson (Sherbrooke / du Trianon)"
+      },
+      {
+        "stop_id": "53207",
+        "stop_name": "Sherbrooke / Place Versailles"
+      },
+      {
+        "stop_id": "53242",
+        "stop_name": "Sherbrooke / Lepailleur"
+      },
+      {
+        "stop_id": "53253",
+        "stop_name": "Station Honoré-Beaugrand"
+      },
+      {
+        "stop_id": "53279",
+        "stop_name": "Sherbrooke / Liébert"
+      },
+      {
+        "stop_id": "53290",
+        "stop_name": "Saint-Donat / Sherbrooke"
+      },
+      {
+        "stop_id": "53265",
+        "stop_name": "Saint-Donat / De Forbin-Janson"
+      },
+      {
+        "stop_id": "54676",
+        "stop_name": "Saint-Donat / De Grosbois"
+      },
+      {
+        "stop_id": "54674",
+        "stop_name": "Saint-Donat / Roi-René"
+      },
+      {
+        "stop_id": "54672",
+        "stop_name": "Saint-Donat / des Réaux"
+      },
+      {
+        "stop_id": "54668",
+        "stop_name": "Saint-Donat / Chénier"
+      },
+      {
+        "stop_id": "54661",
+        "stop_name": "Joseph-Renaud / Yves-Prévost"
+      },
+      {
+        "stop_id": "54646",
+        "stop_name": "Joseph-Renaud / de Châtillon"
+      },
+      {
+        "stop_id": "54629",
+        "stop_name": "Joseph-Renaud / Wilfrid-Pelletier"
+      },
+      {
+        "stop_id": "54605",
+        "stop_name": "Joseph-Renaud / de Châteauneuf"
+      },
+      {
+        "stop_id": "54609",
+        "stop_name": "de Châteauneuf / Talcy"
+      },
+      {
+        "stop_id": "54610",
+        "stop_name": "de Châteauneuf / Rabelais"
+      },
+      {
+        "stop_id": "54612",
+        "stop_name": "de Châteauneuf / de la Loire"
+      },
+      {
+        "stop_id": "62113",
+        "stop_name": "de Châteauneuf / de Fougeray"
+      },
+      {
+        "stop_id": "54596",
+        "stop_name": "Ray-Lawson / Jarry"
+      },
+      {
+        "stop_id": "54715",
+        "stop_name": "Ray-Lawson / Upton"
+      },
+      {
+        "stop_id": "54586",
+        "stop_name": "Ray-Lawson / Grenache"
+      },
+      {
+        "stop_id": "54570",
+        "stop_name": "Ernest-Cormier / Ray-Lawson"
+      },
+      {
+        "stop_id": "54689",
+        "stop_name": "Ernest-Cormier / No 8530"
+      },
+      {
+        "stop_id": "54560",
+        "stop_name": "Ernest-Cormier / Parkway"
+      },
+      {
+        "stop_id": "54547",
+        "stop_name": "Secant / Bombardier"
+      },
+      {
+        "stop_id": "54729",
+        "stop_name": "Secant / No 10600"
+      },
+      {
+        "stop_id": "54730",
+        "stop_name": "Secant / No 10700"
+      },
+      {
+        "stop_id": "54688",
+        "stop_name": "Larrey / L.-J.- Forget"
+      },
+      {
+        "stop_id": "54696",
+        "stop_name": "Centre de transport Anjou"
+      }
+    ]
+  }
+]

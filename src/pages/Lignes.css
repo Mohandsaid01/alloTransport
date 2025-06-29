@@ -1,0 +1,41 @@
+.lignes-wrapper {
+  background-color: #1c1c1c;
+  color: #e0e0e0;
+  min-height: 100vh;
+  padding: 2rem;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.lignes-wrapper h2 {
+  color: #00bcd4;
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.lignes-wrapper ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.lignes-wrapper li {
+  margin-bottom: 1rem;
+}
+
+.lignes-wrapper button {
+  background-color: #00bcd4;
+  color: #000;
+  border: none;
+  padding: 12px 18px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 100%;
+  max-width: 400px;
+  text-align: left;
+}
+
+.lignes-wrapper button:hover {
+  background-color: #008fa1;
+}

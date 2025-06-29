@@ -1,0 +1,944 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54038",
+        "stop_name": "Station Frontenac (Frontenac / Ontario)"
+      },
+      {
+        "stop_id": "52934",
+        "stop_name": "Frontenac / de Rouen"
+      },
+      {
+        "stop_id": "52857",
+        "stop_name": "Frontenac / Hochelaga"
+      },
+      {
+        "stop_id": "52766",
+        "stop_name": "Sherbrooke / D'Iberville"
+      },
+      {
+        "stop_id": "52741",
+        "stop_name": "Sherbrooke / Fullum"
+      },
+      {
+        "stop_id": "52735",
+        "stop_name": "Sherbrooke / Parthenais"
+      },
+      {
+        "stop_id": "52719",
+        "stop_name": "Sherbrooke / De Lorimier"
+      },
+      {
+        "stop_id": "52700",
+        "stop_name": "Sherbrooke / Dorion"
+      },
+      {
+        "stop_id": "52677",
+        "stop_name": "Sherbrooke / Émile-Duployé"
+      },
+      {
+        "stop_id": "52652",
+        "stop_name": "Sherbrooke / Plessis"
+      },
+      {
+        "stop_id": "50123",
+        "stop_name": "Sherbrooke / du Parc-La-Fontaine"
+      },
+      {
+        "stop_id": "52569",
+        "stop_name": "Sherbrooke / Saint-Denis"
+      },
+      {
+        "stop_id": "52542",
+        "stop_name": "Sherbrooke / de l'Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "52509",
+        "stop_name": "Sherbrooke / Saint-Laurent"
+      },
+      {
+        "stop_id": "52487",
+        "stop_name": "Sherbrooke / Saint-Urbain"
+      },
+      {
+        "stop_id": "52458",
+        "stop_name": "Sherbrooke / Jeanne-Mance"
+      },
+      {
+        "stop_id": "52430",
+        "stop_name": "Sherbrooke / Hutchison"
+      },
+      {
+        "stop_id": "59314",
+        "stop_name": "Sherbrooke / Aylmer"
+      },
+      {
+        "stop_id": "52368",
+        "stop_name": "Sherbrooke / University"
+      },
+      {
+        "stop_id": "52314",
+        "stop_name": "Sherbrooke / Mansfield"
+      },
+      {
+        "stop_id": "52278",
+        "stop_name": "Sherbrooke / Peel"
+      },
+      {
+        "stop_id": "52203",
+        "stop_name": "Sherbrooke / de la Montagne"
+      },
+      {
+        "stop_id": "52166",
+        "stop_name": "Sherbrooke / Redpath"
+      },
+      {
+        "stop_id": "52114",
+        "stop_name": "Sherbrooke / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "52095",
+        "stop_name": "Sherbrooke / Saint-Mathieu"
+      },
+      {
+        "stop_id": "52065",
+        "stop_name": "Sherbrooke / Saint-Marc"
+      },
+      {
+        "stop_id": "52008",
+        "stop_name": "Sherbrooke / Chomedey"
+      },
+      {
+        "stop_id": "53786",
+        "stop_name": "Station Atwater (Atwater / Tupper)"
+      },
+      {
+        "stop_id": "51952",
+        "stop_name": "Collège Dawson (Sherbrooke / No 3040)"
+      },
+      {
+        "stop_id": "56289",
+        "stop_name": "Sherbrooke / Wood"
+      },
+      {
+        "stop_id": "56285",
+        "stop_name": "Sherbrooke / Mount-Pleasant"
+      },
+      {
+        "stop_id": "56279",
+        "stop_name": "Sherbrooke / Kitchener"
+      },
+      {
+        "stop_id": "56277",
+        "stop_name": "Sherbrooke / Redfern"
+      },
+      {
+        "stop_id": "56273",
+        "stop_name": "Sherbrooke / Metcalfe"
+      },
+      {
+        "stop_id": "56266",
+        "stop_name": "Sherbrooke / Strathcona"
+      },
+      {
+        "stop_id": "56262",
+        "stop_name": "Sherbrooke / Lansdowne"
+      },
+      {
+        "stop_id": "56256",
+        "stop_name": "Sherbrooke / Victoria"
+      },
+      {
+        "stop_id": "56251",
+        "stop_name": "Sherbrooke / Claremont"
+      },
+      {
+        "stop_id": "51495",
+        "stop_name": "Sherbrooke / de Vendôme"
+      },
+      {
+        "stop_id": "51461",
+        "stop_name": "Sherbrooke / Décarie"
+      },
+      {
+        "stop_id": "51396",
+        "stop_name": "Sherbrooke / Girouard"
+      },
+      {
+        "stop_id": "51344",
+        "stop_name": "Sherbrooke / Oxford"
+      },
+      {
+        "stop_id": "51313",
+        "stop_name": "Sherbrooke / Wilson"
+      },
+      {
+        "stop_id": "51259",
+        "stop_name": "Sherbrooke / Royal"
+      },
+      {
+        "stop_id": "51211",
+        "stop_name": "Sherbrooke / Hingston"
+      },
+      {
+        "stop_id": "51162",
+        "stop_name": "Sherbrooke / Grand Boulevard"
+      },
+      {
+        "stop_id": "51134",
+        "stop_name": "Sherbrooke / Madison"
+      },
+      {
+        "stop_id": "51077",
+        "stop_name": "Sherbrooke / Benny"
+      },
+      {
+        "stop_id": "51027",
+        "stop_name": "Sherbrooke / Cavendish"
+      },
+      {
+        "stop_id": "50991",
+        "stop_name": "Sherbrooke / Walkley"
+      },
+      {
+        "stop_id": "50945",
+        "stop_name": "Sherbrooke / King-Edward"
+      },
+      {
+        "stop_id": "50899",
+        "stop_name": "Sherbrooke / Mariette"
+      },
+      {
+        "stop_id": "50854",
+        "stop_name": "Sherbrooke / Coronation"
+      },
+      {
+        "stop_id": "53806",
+        "stop_name": "Université Concordia / Campus Loyola"
+      },
+      {
+        "stop_id": "50763",
+        "stop_name": "Sherbrooke / West Broadway"
+      },
+      {
+        "stop_id": "50743",
+        "stop_name": "Elmhurst / Coffee"
+      },
+      {
+        "stop_id": "50801",
+        "stop_name": "Elmhurst / Harley"
+      },
+      {
+        "stop_id": "50850",
+        "stop_name": "Elmhurst / Saint-Jacques"
+      },
+      {
+        "stop_id": "56447",
+        "stop_name": "Avon / Westminster"
+      },
+      {
+        "stop_id": "56445",
+        "stop_name": "Avon / Milton"
+      },
+      {
+        "stop_id": "56478",
+        "stop_name": "Saint-Jacques / Ouellette"
+      },
+      {
+        "stop_id": "62070",
+        "stop_name": "Saint-Jacques / du Chalet"
+      },
+      {
+        "stop_id": "56461",
+        "stop_name": "Saint-Jacques / Richardson"
+      },
+      {
+        "stop_id": "57305",
+        "stop_name": "Saint-Joseph / No 23"
+      },
+      {
+        "stop_id": "57281",
+        "stop_name": "Saint-Joseph / No 56"
+      },
+      {
+        "stop_id": "61648",
+        "stop_name": "Gare du Canal (Saint-Joseph / Victoria)"
+      },
+      {
+        "stop_id": "57309",
+        "stop_name": "Saint-Joseph / No 130"
+      },
+      {
+        "stop_id": "57308",
+        "stop_name": "Saint-Joseph / No 160"
+      },
+      {
+        "stop_id": "57279",
+        "stop_name": "Saint-Joseph / George-V"
+      },
+      {
+        "stop_id": "57277",
+        "stop_name": "George-V / William-Macdonald"
+      },
+      {
+        "stop_id": "57272",
+        "stop_name": "Victoria / 1re Avenue"
+      },
+      {
+        "stop_id": "57268",
+        "stop_name": "Victoria / 3e Avenue"
+      },
+      {
+        "stop_id": "57261",
+        "stop_name": "Victoria / 6e Avenue"
+      },
+      {
+        "stop_id": "57247",
+        "stop_name": "Victoria / 10e Avenue"
+      },
+      {
+        "stop_id": "57225",
+        "stop_name": "Victoria / 18e Avenue"
+      },
+      {
+        "stop_id": "57215",
+        "stop_name": "Victoria / 21e Avenue"
+      },
+      {
+        "stop_id": "57341",
+        "stop_name": "Victoria / 28e Avenue"
+      },
+      {
+        "stop_id": "57344",
+        "stop_name": "Victoria / 33e Avenue"
+      },
+      {
+        "stop_id": "57189",
+        "stop_name": "Victoria / 34e Avenue"
+      },
+      {
+        "stop_id": "57177",
+        "stop_name": "Victoria / 40e Avenue"
+      },
+      {
+        "stop_id": "57165",
+        "stop_name": "Victoria / 44e Avenue"
+      },
+      {
+        "stop_id": "57152",
+        "stop_name": "Victoria / 48e Avenue"
+      },
+      {
+        "stop_id": "57136",
+        "stop_name": "Victoria / Meadowbrook"
+      },
+      {
+        "stop_id": "57125",
+        "stop_name": "Victoria / 54e Avenue"
+      },
+      {
+        "stop_id": "57484",
+        "stop_name": "Bouchard / Galland"
+      },
+      {
+        "stop_id": "57481",
+        "stop_name": "Bouchard / No 205"
+      },
+      {
+        "stop_id": "57476",
+        "stop_name": "Bouchard / No 215"
+      },
+      {
+        "stop_id": "57474",
+        "stop_name": "Bouchard / George-V"
+      },
+      {
+        "stop_id": "57512",
+        "stop_name": "Bouchard / Autoroute 20"
+      },
+      {
+        "stop_id": "57504",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "57508",
+        "stop_name": "YUL Aéroport Montréal-Trudeau"
+      },
+      {
+        "stop_id": "61539",
+        "stop_name": "Roméo-Vachon / No 700"
+      },
+      {
+        "stop_id": "57515",
+        "stop_name": "Albert-de-Niverville / Rodolphe-Pagé"
+      },
+      {
+        "stop_id": "57534",
+        "stop_name": "Cardinal / Stuart-Graham"
+      },
+      {
+        "stop_id": "57420",
+        "stop_name": "Gare Pine Beach (Cardinal / Westwood)"
+      },
+      {
+        "stop_id": "57392",
+        "stop_name": "Cardinal / Neptune"
+      },
+      {
+        "stop_id": "60402",
+        "stop_name": "Cardinal / Strathmore"
+      },
+      {
+        "stop_id": "57761",
+        "stop_name": "des Sources / Chanteclerc"
+      },
+      {
+        "stop_id": "57759",
+        "stop_name": "des Sources / Belmont"
+      },
+      {
+        "stop_id": "57366",
+        "stop_name": "des Sources / No 1733"
+      },
+      {
+        "stop_id": "57756",
+        "stop_name": "des Sources / Reverchon"
+      },
+      {
+        "stop_id": "57598",
+        "stop_name": "des Sources / Avro"
+      },
+      {
+        "stop_id": "57783",
+        "stop_name": "des Sources / de l'Aviation"
+      },
+      {
+        "stop_id": "57782",
+        "stop_name": "des Sources / Avro"
+      },
+      {
+        "stop_id": "57367",
+        "stop_name": "des Sources / Transcanadienne"
+      },
+      {
+        "stop_id": "57947",
+        "stop_name": "des Sources / Brunswick"
+      },
+      {
+        "stop_id": "57930",
+        "stop_name": "des Sources / de Salaberry"
+      },
+      {
+        "stop_id": "57923",
+        "stop_name": "des Sources / Hyman"
+      },
+      {
+        "stop_id": "61138",
+        "stop_name": "Hyman / Sunshine"
+      },
+      {
+        "stop_id": "61139",
+        "stop_name": "Hyman / Davignon"
+      },
+      {
+        "stop_id": "61141",
+        "stop_name": "Hyman / Forest"
+      },
+      {
+        "stop_id": "61142",
+        "stop_name": "Hyman / Maisonneuve"
+      },
+      {
+        "stop_id": "60445",
+        "stop_name": "Hyman / Sunnybrooke"
+      },
+      {
+        "stop_id": "60421",
+        "stop_name": "Sunnybrooke / Cérès"
+      },
+      {
+        "stop_id": "61143",
+        "stop_name": "Gare Sunnybrooke (Sunnybrooke / Gouin)"
+      },
+      {
+        "stop_id": "61144",
+        "stop_name": "Gare Sunnybrooke (Gouin / Sunnybrooke)"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "61144",
+        "stop_name": "Gare Sunnybrooke (Gouin / Sunnybrooke)"
+      },
+      {
+        "stop_id": "61145",
+        "stop_name": "Sunnybrooke / Cérès"
+      },
+      {
+        "stop_id": "57976",
+        "stop_name": "Hyman / Sunnybrooke"
+      },
+      {
+        "stop_id": "57964",
+        "stop_name": "Hyman / Maisonneuve"
+      },
+      {
+        "stop_id": "61148",
+        "stop_name": "Hyman / Forest"
+      },
+      {
+        "stop_id": "61149",
+        "stop_name": "Hyman / Davignon"
+      },
+      {
+        "stop_id": "61150",
+        "stop_name": "Hyman / Sunshine"
+      },
+      {
+        "stop_id": "57932",
+        "stop_name": "des Sources / de Salaberry"
+      },
+      {
+        "stop_id": "57945",
+        "stop_name": "des Sources / Brunswick"
+      },
+      {
+        "stop_id": "57369",
+        "stop_name": "des Sources / Hymus"
+      },
+      {
+        "stop_id": "57781",
+        "stop_name": "des Sources / Avro"
+      },
+      {
+        "stop_id": "57596",
+        "stop_name": "des Sources / de l'Aviation"
+      },
+      {
+        "stop_id": "57597",
+        "stop_name": "des Sources / Avro"
+      },
+      {
+        "stop_id": "57755",
+        "stop_name": "des Sources / Saint-Louis"
+      },
+      {
+        "stop_id": "57791",
+        "stop_name": "des Sources / No 1733"
+      },
+      {
+        "stop_id": "57760",
+        "stop_name": "des Sources / Belmont"
+      },
+      {
+        "stop_id": "57762",
+        "stop_name": "des Sources / Chanteclerc"
+      },
+      {
+        "stop_id": "57379",
+        "stop_name": "Cardinal / Strathmore"
+      },
+      {
+        "stop_id": "57394",
+        "stop_name": "Cardinal / Neptune"
+      },
+      {
+        "stop_id": "57421",
+        "stop_name": "Gare Pine Beach (Cardinal / Pine Beach)"
+      },
+      {
+        "stop_id": "57535",
+        "stop_name": "Cardinal / Stuart-Graham"
+      },
+      {
+        "stop_id": "57516",
+        "stop_name": "Albert-de-Niverville / Arthur-Fecteau"
+      },
+      {
+        "stop_id": "61261",
+        "stop_name": "YUL Aéroport Montréal-Trudeau"
+      },
+      {
+        "stop_id": "61538",
+        "stop_name": "YUL Aéroport Montréal-Trudeau / Transport Canada"
+      },
+      {
+        "stop_id": "57537",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "57467",
+        "stop_name": "Bouchard / Racine"
+      },
+      {
+        "stop_id": "57511",
+        "stop_name": "Bouchard / Poste de pompiers"
+      },
+      {
+        "stop_id": "57475",
+        "stop_name": "Bouchard / George-V"
+      },
+      {
+        "stop_id": "57513",
+        "stop_name": "Bouchard / No 215"
+      },
+      {
+        "stop_id": "57514",
+        "stop_name": "Bouchard / No 200"
+      },
+      {
+        "stop_id": "57483",
+        "stop_name": "Bouchard / Bourke"
+      },
+      {
+        "stop_id": "57126",
+        "stop_name": "Victoria / 54e Avenue"
+      },
+      {
+        "stop_id": "57137",
+        "stop_name": "Victoria / 51e Avenue"
+      },
+      {
+        "stop_id": "57153",
+        "stop_name": "Victoria / 49e Avenue"
+      },
+      {
+        "stop_id": "57166",
+        "stop_name": "Victoria / 44e Avenue"
+      },
+      {
+        "stop_id": "57178",
+        "stop_name": "Victoria / 40e Avenue"
+      },
+      {
+        "stop_id": "57190",
+        "stop_name": "Victoria / 33e Avenue"
+      },
+      {
+        "stop_id": "57338",
+        "stop_name": "Victoria / 28e Avenue"
+      },
+      {
+        "stop_id": "57216",
+        "stop_name": "Victoria / 21e Avenue"
+      },
+      {
+        "stop_id": "57226",
+        "stop_name": "Victoria / 18e Avenue"
+      },
+      {
+        "stop_id": "57249",
+        "stop_name": "Victoria / 10e Avenue"
+      },
+      {
+        "stop_id": "57262",
+        "stop_name": "Victoria / 6e Avenue"
+      },
+      {
+        "stop_id": "57269",
+        "stop_name": "Victoria / 3e Avenue"
+      },
+      {
+        "stop_id": "57278",
+        "stop_name": "William-MacDonald / George-V"
+      },
+      {
+        "stop_id": "57280",
+        "stop_name": "George-V / Saint-Joseph"
+      },
+      {
+        "stop_id": "57301",
+        "stop_name": "Saint-Joseph / George-V"
+      },
+      {
+        "stop_id": "57307",
+        "stop_name": "Saint-Joseph / No 160"
+      },
+      {
+        "stop_id": "57310",
+        "stop_name": "Saint-Joseph / No 130"
+      },
+      {
+        "stop_id": "61647",
+        "stop_name": "Gare du Canal (Saint-Joseph / Victoria)"
+      },
+      {
+        "stop_id": "57333",
+        "stop_name": "Saint-Joseph / No 56"
+      },
+      {
+        "stop_id": "57303",
+        "stop_name": "Saint-Joseph / No 31"
+      },
+      {
+        "stop_id": "57304",
+        "stop_name": "Saint-Joseph / Notre-Dame"
+      },
+      {
+        "stop_id": "56463",
+        "stop_name": "Saint-Jacques / Richardson"
+      },
+      {
+        "stop_id": "57302",
+        "stop_name": "Saint-Jacques / Jolicoeur"
+      },
+      {
+        "stop_id": "62071",
+        "stop_name": "Saint-Jacques / du Chalet"
+      },
+      {
+        "stop_id": "56479",
+        "stop_name": "Saint-Jacques / Duranceau"
+      },
+      {
+        "stop_id": "56487",
+        "stop_name": "Saint-Jacques / No 92"
+      },
+      {
+        "stop_id": "56444",
+        "stop_name": "Avon / Ronald"
+      },
+      {
+        "stop_id": "56448",
+        "stop_name": "Avon / Brynmor"
+      },
+      {
+        "stop_id": "54035",
+        "stop_name": "Elmhurst / Saint-Jacques"
+      },
+      {
+        "stop_id": "50800",
+        "stop_name": "Elmhurst / Harley"
+      },
+      {
+        "stop_id": "54160",
+        "stop_name": "Elmhurst / Sherbrooke"
+      },
+      {
+        "stop_id": "50765",
+        "stop_name": "Sherbrooke / West Broadway"
+      },
+      {
+        "stop_id": "50831",
+        "stop_name": "Université Concordia / Campus Loyola"
+      },
+      {
+        "stop_id": "50855",
+        "stop_name": "Sherbrooke / Coronation"
+      },
+      {
+        "stop_id": "50900",
+        "stop_name": "Sherbrooke / Mariette"
+      },
+      {
+        "stop_id": "50946",
+        "stop_name": "Sherbrooke / King-Edward"
+      },
+      {
+        "stop_id": "50992",
+        "stop_name": "Sherbrooke / Walkley"
+      },
+      {
+        "stop_id": "51029",
+        "stop_name": "Sherbrooke / Cavendish"
+      },
+      {
+        "stop_id": "51078",
+        "stop_name": "Sherbrooke / Benny"
+      },
+      {
+        "stop_id": "51135",
+        "stop_name": "Sherbrooke / Madison"
+      },
+      {
+        "stop_id": "51163",
+        "stop_name": "Sherbrooke / Grand Boulevard"
+      },
+      {
+        "stop_id": "51212",
+        "stop_name": "Sherbrooke / Hingston"
+      },
+      {
+        "stop_id": "51268",
+        "stop_name": "Sherbrooke / de Clifton"
+      },
+      {
+        "stop_id": "51314",
+        "stop_name": "Sherbrooke / Wilson"
+      },
+      {
+        "stop_id": "51345",
+        "stop_name": "Sherbrooke / Oxford"
+      },
+      {
+        "stop_id": "51399",
+        "stop_name": "Sherbrooke / Girouard"
+      },
+      {
+        "stop_id": "51463",
+        "stop_name": "Sherbrooke / Décarie"
+      },
+      {
+        "stop_id": "51496",
+        "stop_name": "Sherbrooke / de Vendôme"
+      },
+      {
+        "stop_id": "56253",
+        "stop_name": "Sherbrooke / Claremont"
+      },
+      {
+        "stop_id": "56258",
+        "stop_name": "Sherbrooke / Grosvenor"
+      },
+      {
+        "stop_id": "56263",
+        "stop_name": "Sherbrooke / Arlington"
+      },
+      {
+        "stop_id": "56267",
+        "stop_name": "Sherbrooke / Strathcona"
+      },
+      {
+        "stop_id": "56274",
+        "stop_name": "Sherbrooke / Metcalfe"
+      },
+      {
+        "stop_id": "56278",
+        "stop_name": "Sherbrooke / Redfern"
+      },
+      {
+        "stop_id": "56281",
+        "stop_name": "Sherbrooke / Clarke"
+      },
+      {
+        "stop_id": "56286",
+        "stop_name": "Sherbrooke / Greene"
+      },
+      {
+        "stop_id": "56290",
+        "stop_name": "Sherbrooke / Wood"
+      },
+      {
+        "stop_id": "51951",
+        "stop_name": "Sherbrooke / Atwater"
+      },
+      {
+        "stop_id": "52069",
+        "stop_name": "Station Atwater (Sainte-Catherine / Atwater)"
+      },
+      {
+        "stop_id": "52009",
+        "stop_name": "Sherbrooke / Chomedey"
+      },
+      {
+        "stop_id": "52066",
+        "stop_name": "Sherbrooke / Saint-Marc"
+      },
+      {
+        "stop_id": "52097",
+        "stop_name": "Sherbrooke / Saint-Mathieu"
+      },
+      {
+        "stop_id": "52115",
+        "stop_name": "Sherbrooke / Guy"
+      },
+      {
+        "stop_id": "52167",
+        "stop_name": "Sherbrooke / Bishop"
+      },
+      {
+        "stop_id": "52204",
+        "stop_name": "Sherbrooke / de la Montagne"
+      },
+      {
+        "stop_id": "52277",
+        "stop_name": "Sherbrooke / Peel"
+      },
+      {
+        "stop_id": "52335",
+        "stop_name": "Université McGill (Sherbrooke / McGill College)"
+      },
+      {
+        "stop_id": "52369",
+        "stop_name": "Sherbrooke / Robert-Bourassa"
+      },
+      {
+        "stop_id": "52409",
+        "stop_name": "Sherbrooke / Aylmer"
+      },
+      {
+        "stop_id": "52444",
+        "stop_name": "Sherbrooke / De Bleury"
+      },
+      {
+        "stop_id": "52459",
+        "stop_name": "Sherbrooke / Jeanne-Mance"
+      },
+      {
+        "stop_id": "52488",
+        "stop_name": "Sherbrooke / Saint-Urbain"
+      },
+      {
+        "stop_id": "52510",
+        "stop_name": "Sherbrooke / Saint-Laurent"
+      },
+      {
+        "stop_id": "52543",
+        "stop_name": "Sherbrooke / de l'Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "52570",
+        "stop_name": "Sherbrooke / Saint-Denis"
+      },
+      {
+        "stop_id": "52635",
+        "stop_name": "Sherbrooke / du Parc-La-Fontaine"
+      },
+      {
+        "stop_id": "52647",
+        "stop_name": "Sherbrooke / Panet"
+      },
+      {
+        "stop_id": "52653",
+        "stop_name": "Sherbrooke / Plessis"
+      },
+      {
+        "stop_id": "54019",
+        "stop_name": "Sherbrooke / De Champlain (Hôpital Notre-Dame)"
+      },
+      {
+        "stop_id": "52683",
+        "stop_name": "Sherbrooke / Papineau"
+      },
+      {
+        "stop_id": "52701",
+        "stop_name": "Sherbrooke / Dorion"
+      },
+      {
+        "stop_id": "52720",
+        "stop_name": "Sherbrooke / De Lorimier"
+      },
+      {
+        "stop_id": "52737",
+        "stop_name": "Sherbrooke / Parthenais"
+      },
+      {
+        "stop_id": "52742",
+        "stop_name": "Sherbrooke / Fullum"
+      },
+      {
+        "stop_id": "52765",
+        "stop_name": "Sherbrooke / D'Iberville"
+      },
+      {
+        "stop_id": "54038",
+        "stop_name": "Station Frontenac (Frontenac / Ontario)"
+      }
+    ]
+  }
+]

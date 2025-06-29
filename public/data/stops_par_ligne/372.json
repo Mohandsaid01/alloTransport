@@ -1,0 +1,1029 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "50510",
+        "stop_name": "Station Namur (Décarie / Jean-Talon)"
+      },
+      {
+        "stop_id": "50475",
+        "stop_name": "Décarie / Paré"
+      },
+      {
+        "stop_id": "54224",
+        "stop_name": "Paré / Mountain Sights"
+      },
+      {
+        "stop_id": "50532",
+        "stop_name": "Mountain Sights / Jean-Talon"
+      },
+      {
+        "stop_id": "53776",
+        "stop_name": "Jean-Talon / No 5000"
+      },
+      {
+        "stop_id": "50583",
+        "stop_name": "Jean-Talon / Victoria"
+      },
+      {
+        "stop_id": "50609",
+        "stop_name": "Jean-Talon / de la Savane"
+      },
+      {
+        "stop_id": "54318",
+        "stop_name": "Jean-Talon / Lucerne"
+      },
+      {
+        "stop_id": "54068",
+        "stop_name": "Jean-Talon / de Nancy"
+      },
+      {
+        "stop_id": "50694",
+        "stop_name": "Jean-Talon / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "50746",
+        "stop_name": "Jean-Talon / Frobisher"
+      },
+      {
+        "stop_id": "50822",
+        "stop_name": "Jean-Talon / de Dieppe"
+      },
+      {
+        "stop_id": "50104",
+        "stop_name": "Gare Canora (Jean-Talon / Wilderton)"
+      },
+      {
+        "stop_id": "56093",
+        "stop_name": "Dresden / Aberdare"
+      },
+      {
+        "stop_id": "56121",
+        "stop_name": "Dresden / Clyde"
+      },
+      {
+        "stop_id": "56122",
+        "stop_name": "Dresden / Rockland"
+      },
+      {
+        "stop_id": "56095",
+        "stop_name": "Graham / Rockland"
+      },
+      {
+        "stop_id": "56100",
+        "stop_name": "Graham / Markham"
+      },
+      {
+        "stop_id": "51064",
+        "stop_name": "Jean-Talon / de l'Acadie"
+      },
+      {
+        "stop_id": "51085",
+        "stop_name": "Jean-Talon / Wiseman"
+      },
+      {
+        "stop_id": "51114",
+        "stop_name": "Jean-Talon / Bloomfield"
+      },
+      {
+        "stop_id": "51127",
+        "stop_name": "Jean-Talon / Querbes"
+      },
+      {
+        "stop_id": "51140",
+        "stop_name": "Station Parc (Jean-Talon / Hutchison)"
+      },
+      {
+        "stop_id": "51199",
+        "stop_name": "Jean-Talon / Alexandra"
+      },
+      {
+        "stop_id": "51227",
+        "stop_name": "Jean-Talon / Clark"
+      },
+      {
+        "stop_id": "51266",
+        "stop_name": "Jean-Talon / Saint-Dominique"
+      },
+      {
+        "stop_id": "53774",
+        "stop_name": "Jean-Talon / Drolet"
+      },
+      {
+        "stop_id": "51322",
+        "stop_name": "Station Jean-Talon Sud / De Saint-Vallier"
+      },
+      {
+        "stop_id": "54171",
+        "stop_name": "Jean-Talon / De Chateaubriand"
+      },
+      {
+        "stop_id": "51337",
+        "stop_name": "Station Jean-Talon Est / Saint-Hubert"
+      },
+      {
+        "stop_id": "51358",
+        "stop_name": "Jean-Talon / Christophe-Colomb"
+      },
+      {
+        "stop_id": "62397",
+        "stop_name": "Jean-Talon / De Normanville"
+      },
+      {
+        "stop_id": "51413",
+        "stop_name": "Jean-Talon / De Lanaudière"
+      },
+      {
+        "stop_id": "51436",
+        "stop_name": "Station Fabre (Jean-Talon / Fabre)"
+      },
+      {
+        "stop_id": "62398",
+        "stop_name": "Jean-Talon / Papineau"
+      },
+      {
+        "stop_id": "62399",
+        "stop_name": "Jean-Talon / Chabot"
+      },
+      {
+        "stop_id": "62400",
+        "stop_name": "Jean-Talon / De Lorimier"
+      },
+      {
+        "stop_id": "51528",
+        "stop_name": "Jean-Talon / Louis-Hémon"
+      },
+      {
+        "stop_id": "51554",
+        "stop_name": "Station D'Iberville (Jean-Talon / Louis-Hébert)"
+      },
+      {
+        "stop_id": "62401",
+        "stop_name": "Jean-Talon / D'Iberville"
+      },
+      {
+        "stop_id": "51588",
+        "stop_name": "Jean-Talon / 1re Avenue"
+      },
+      {
+        "stop_id": "51609",
+        "stop_name": "Jean-Talon / 8e Avenue"
+      },
+      {
+        "stop_id": "51633",
+        "stop_name": "Jean-Talon / Saint-Michel"
+      },
+      {
+        "stop_id": "51663",
+        "stop_name": "Jean-Talon / 13e Avenue"
+      },
+      {
+        "stop_id": "51693",
+        "stop_name": "Jean-Talon / 15e Avenue"
+      },
+      {
+        "stop_id": "51707",
+        "stop_name": "Jean-Talon / 17e Avenue"
+      },
+      {
+        "stop_id": "61977",
+        "stop_name": "Jean-Talon / 18e Avenue"
+      },
+      {
+        "stop_id": "51913",
+        "stop_name": "Bélanger / Pie-IX"
+      },
+      {
+        "stop_id": "51941",
+        "stop_name": "Bélanger / 24e Avenue"
+      },
+      {
+        "stop_id": "51968",
+        "stop_name": "Bélanger / 26e Avenue"
+      },
+      {
+        "stop_id": "51999",
+        "stop_name": "Bélanger / 28e Avenue"
+      },
+      {
+        "stop_id": "52016",
+        "stop_name": "Bélanger / 30e Avenue"
+      },
+      {
+        "stop_id": "52064",
+        "stop_name": "Bélanger / 33e Avenue"
+      },
+      {
+        "stop_id": "52092",
+        "stop_name": "Bélanger / 35e Avenue"
+      },
+      {
+        "stop_id": "52119",
+        "stop_name": "Bélanger / Viau (Institut de cardiologie)"
+      },
+      {
+        "stop_id": "52164",
+        "stop_name": "Bélanger / 40e Avenue"
+      },
+      {
+        "stop_id": "52225",
+        "stop_name": "Bélanger / 43e Avenue"
+      },
+      {
+        "stop_id": "52256",
+        "stop_name": "Bélanger / de l'Assomption"
+      },
+      {
+        "stop_id": "52280",
+        "stop_name": "Bélanger / Châtelain"
+      },
+      {
+        "stop_id": "52319",
+        "stop_name": "Bélanger / de Pontoise"
+      },
+      {
+        "stop_id": "52342",
+        "stop_name": "Bélanger / Lacordaire"
+      },
+      {
+        "stop_id": "55002",
+        "stop_name": "Bélanger / Valdombre"
+      },
+      {
+        "stop_id": "55003",
+        "stop_name": "Bélanger / d'Avila"
+      },
+      {
+        "stop_id": "55005",
+        "stop_name": "Bélanger / Dumesnil"
+      },
+      {
+        "stop_id": "55008",
+        "stop_name": "Bélanger / Daveluy"
+      },
+      {
+        "stop_id": "52492",
+        "stop_name": "Bélanger / Langelier"
+      },
+      {
+        "stop_id": "52555",
+        "stop_name": "Bélanger / Jean-Milot"
+      },
+      {
+        "stop_id": "52584",
+        "stop_name": "Bélanger / Étienne-Bouchard"
+      },
+      {
+        "stop_id": "54697",
+        "stop_name": "des Halles / Bélanger"
+      },
+      {
+        "stop_id": "54578",
+        "stop_name": "des Halles / Jean-Talon"
+      },
+      {
+        "stop_id": "54582",
+        "stop_name": "Jean-Talon / des Galeries-d'Anjou"
+      },
+      {
+        "stop_id": "54565",
+        "stop_name": "des Galeries-d'Anjou / de Belfroy"
+      },
+      {
+        "stop_id": "54549",
+        "stop_name": "des Galeries-d'Anjou / Jarry"
+      },
+      {
+        "stop_id": "54540",
+        "stop_name": "des Galeries-d'Anjou / Fontevrault"
+      },
+      {
+        "stop_id": "54533",
+        "stop_name": "des Galeries-d'Anjou / de l'Alsace"
+      },
+      {
+        "stop_id": "54522",
+        "stop_name": "des Galeries-d'Anjou / M.-B.-Jodoin"
+      },
+      {
+        "stop_id": "54516",
+        "stop_name": "des Galeries-d'Anjou / Bombardier"
+      },
+      {
+        "stop_id": "54528",
+        "stop_name": "Bombardier / Renaude-Lapointe"
+      },
+      {
+        "stop_id": "54534",
+        "stop_name": "Colbert / Ravenel"
+      },
+      {
+        "stop_id": "54687",
+        "stop_name": "Colbert / No 10700"
+      },
+      {
+        "stop_id": "54520",
+        "stop_name": "Colbert / Larrey"
+      },
+      {
+        "stop_id": "54525",
+        "stop_name": "Larrey / Mirabeau"
+      },
+      {
+        "stop_id": "54731",
+        "stop_name": "Larrey / L.-J.-Forget"
+      },
+      {
+        "stop_id": "54515",
+        "stop_name": "L.-J.- Forget / Henri-Bourassa"
+      },
+      {
+        "stop_id": "52026",
+        "stop_name": "Armand-Bombardier / Henri-Bourassa"
+      },
+      {
+        "stop_id": "51878",
+        "stop_name": "Armand-Bombardier / Blaise-Pascal"
+      },
+      {
+        "stop_id": "61888",
+        "stop_name": "Armand-Bombardier / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "51766",
+        "stop_name": "Armand-Bombardier / Jean-Vincent"
+      },
+      {
+        "stop_id": "51722",
+        "stop_name": "Armand-Bombardier / André-Ampère"
+      },
+      {
+        "stop_id": "51669",
+        "stop_name": "Armand-Bombardier / Philippe-Lebon"
+      },
+      {
+        "stop_id": "51619",
+        "stop_name": "Armand-Bombardier / Perras"
+      },
+      {
+        "stop_id": "51691",
+        "stop_name": "Perras / 25e Avenue"
+      },
+      {
+        "stop_id": "51720",
+        "stop_name": "Perras / 27e Avenue"
+      },
+      {
+        "stop_id": "51807",
+        "stop_name": "Perras / Alfred-Nobel"
+      },
+      {
+        "stop_id": "51890",
+        "stop_name": "Perras / Rita-Levi-Montalcini"
+      },
+      {
+        "stop_id": "54050",
+        "stop_name": "Perras / Pierre-Baillargeon"
+      },
+      {
+        "stop_id": "54152",
+        "stop_name": "Perras / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "52125",
+        "stop_name": "Perras / René-Masson"
+      },
+      {
+        "stop_id": "53684",
+        "stop_name": "Perras / 49e Avenue"
+      },
+      {
+        "stop_id": "52303",
+        "stop_name": "Perras / 54e Avenue"
+      },
+      {
+        "stop_id": "54073",
+        "stop_name": "Perras / 57e Avenue"
+      },
+      {
+        "stop_id": "52429",
+        "stop_name": "Perras / Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "52471",
+        "stop_name": "Rivière-des-Prairies / 4e Rue"
+      },
+      {
+        "stop_id": "52567",
+        "stop_name": "Rivière-des-Prairies / 5e Rue"
+      },
+      {
+        "stop_id": "54271",
+        "stop_name": "Maurice-Duplessis / 63e Avenue"
+      },
+      {
+        "stop_id": "54284",
+        "stop_name": "Maurice-Duplessis / 70e Avenue"
+      },
+      {
+        "stop_id": "54270",
+        "stop_name": "Maurice-Duplessis / 62e Avenue"
+      },
+      {
+        "stop_id": "54397",
+        "stop_name": "Maurice-Duplessis / Rivière-des-Prairies"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54397",
+        "stop_name": "Maurice-Duplessis / Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "52566",
+        "stop_name": "Rivière-des-Prairies / 5e Rue"
+      },
+      {
+        "stop_id": "52470",
+        "stop_name": "Rivière-des-Prairies / 4e Rue"
+      },
+      {
+        "stop_id": "52375",
+        "stop_name": "Perras / 57e Avenue"
+      },
+      {
+        "stop_id": "52302",
+        "stop_name": "Perras / 54e Avenue"
+      },
+      {
+        "stop_id": "53683",
+        "stop_name": "Perras / 51e Avenue"
+      },
+      {
+        "stop_id": "52124",
+        "stop_name": "Perras / René-Masson"
+      },
+      {
+        "stop_id": "54151",
+        "stop_name": "Perras / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "54049",
+        "stop_name": "Perras / Pierre-Baillargeon"
+      },
+      {
+        "stop_id": "51889",
+        "stop_name": "Perras / Rita-Levi-Montalcini"
+      },
+      {
+        "stop_id": "51806",
+        "stop_name": "Perras / Alfred-Nobel"
+      },
+      {
+        "stop_id": "51719",
+        "stop_name": "Perras / 27e Avenue"
+      },
+      {
+        "stop_id": "53694",
+        "stop_name": "Perras / 25e Avenue"
+      },
+      {
+        "stop_id": "54000",
+        "stop_name": "Armand-Bombardier / Perras"
+      },
+      {
+        "stop_id": "51670",
+        "stop_name": "Armand-Bombardier / Philippe-Lebon"
+      },
+      {
+        "stop_id": "51723",
+        "stop_name": "Armand-Bombardier / André-Ampère"
+      },
+      {
+        "stop_id": "51767",
+        "stop_name": "Armand-Bombardier / Jean-Vincent"
+      },
+      {
+        "stop_id": "51810",
+        "stop_name": "Armand-Bombardier / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "51877",
+        "stop_name": "Armand-Bombardier / Blaise-Pascal"
+      },
+      {
+        "stop_id": "52025",
+        "stop_name": "Armand-Bombardier / Henri-Bourassa"
+      },
+      {
+        "stop_id": "54721",
+        "stop_name": "L.-J.- Forget / Henri-Bourassa"
+      },
+      {
+        "stop_id": "54717",
+        "stop_name": "Larrey / L.-J.-Forget"
+      },
+      {
+        "stop_id": "54524",
+        "stop_name": "Larrey / Mirabeau"
+      },
+      {
+        "stop_id": "54692",
+        "stop_name": "Colbert / Larrey"
+      },
+      {
+        "stop_id": "54512",
+        "stop_name": "Colbert / No 10700"
+      },
+      {
+        "stop_id": "54535",
+        "stop_name": "Colbert / Ravenel"
+      },
+      {
+        "stop_id": "54537",
+        "stop_name": "Colbert / Bombardier"
+      },
+      {
+        "stop_id": "54529",
+        "stop_name": "Bombardier / Renaude-Lapointe"
+      },
+      {
+        "stop_id": "54519",
+        "stop_name": "des Galeries-d'Anjou / Bombardier"
+      },
+      {
+        "stop_id": "54523",
+        "stop_name": "des Galeries-d'Anjou / M.-B.-Jodoin"
+      },
+      {
+        "stop_id": "54532",
+        "stop_name": "des Galeries-d'Anjou / de l'Alsace"
+      },
+      {
+        "stop_id": "54536",
+        "stop_name": "des Galeries-d'Anjou / Giraud"
+      },
+      {
+        "stop_id": "54551",
+        "stop_name": "des Galeries-d'Anjou / Jarry"
+      },
+      {
+        "stop_id": "54564",
+        "stop_name": "des Galeries-d'Anjou / de la Pléiade"
+      },
+      {
+        "stop_id": "54581",
+        "stop_name": "des Galeries-d'Anjou / Jean-Talon"
+      },
+      {
+        "stop_id": "62386",
+        "stop_name": "des Halles / Jean-Talon"
+      },
+      {
+        "stop_id": "52583",
+        "stop_name": "Bélanger / Étienne-Bouchard"
+      },
+      {
+        "stop_id": "52554",
+        "stop_name": "Bélanger / Jean-Milot"
+      },
+      {
+        "stop_id": "52490",
+        "stop_name": "Bélanger / Langelier"
+      },
+      {
+        "stop_id": "55007",
+        "stop_name": "Bélanger / Daveluy"
+      },
+      {
+        "stop_id": "55006",
+        "stop_name": "Bélanger / Dumesnil"
+      },
+      {
+        "stop_id": "55004",
+        "stop_name": "Bélanger / Liénart"
+      },
+      {
+        "stop_id": "55001",
+        "stop_name": "Bélanger / Valdombre"
+      },
+      {
+        "stop_id": "52340",
+        "stop_name": "Bélanger / Lacordaire"
+      },
+      {
+        "stop_id": "52318",
+        "stop_name": "Bélanger / de Pontoise"
+      },
+      {
+        "stop_id": "52279",
+        "stop_name": "Bélanger / Châtelain"
+      },
+      {
+        "stop_id": "52254",
+        "stop_name": "Bélanger / de l'Assomption"
+      },
+      {
+        "stop_id": "52224",
+        "stop_name": "Bélanger / Sagamo"
+      },
+      {
+        "stop_id": "52163",
+        "stop_name": "Bélanger / 40e Avenue"
+      },
+      {
+        "stop_id": "52117",
+        "stop_name": "Bélanger / Viau (Institut de cardiologie)"
+      },
+      {
+        "stop_id": "52091",
+        "stop_name": "Bélanger / 35e Avenue"
+      },
+      {
+        "stop_id": "52063",
+        "stop_name": "Bélanger / 33e Avenue"
+      },
+      {
+        "stop_id": "52030",
+        "stop_name": "Bélanger / 31e Avenue"
+      },
+      {
+        "stop_id": "61942",
+        "stop_name": "Provencher / Jean-Talon"
+      },
+      {
+        "stop_id": "61943",
+        "stop_name": "Buies / Gênes"
+      },
+      {
+        "stop_id": "61981",
+        "stop_name": "Everett / Pie-IX"
+      },
+      {
+        "stop_id": "61931",
+        "stop_name": "19e Avenue / Jean-Talon"
+      },
+      {
+        "stop_id": "51706",
+        "stop_name": "Jean-Talon / 17e Avenue"
+      },
+      {
+        "stop_id": "51692",
+        "stop_name": "Jean-Talon / 15e Avenue"
+      },
+      {
+        "stop_id": "51662",
+        "stop_name": "Jean-Talon / 13e Avenue"
+      },
+      {
+        "stop_id": "51631",
+        "stop_name": "Jean-Talon / Saint-Michel"
+      },
+      {
+        "stop_id": "51608",
+        "stop_name": "Jean-Talon / 8e Avenue"
+      },
+      {
+        "stop_id": "51587",
+        "stop_name": "Jean-Talon / 1re Avenue"
+      },
+      {
+        "stop_id": "61886",
+        "stop_name": "Station D'Iberville (Jean-Talon / des Écores)"
+      },
+      {
+        "stop_id": "51527",
+        "stop_name": "Jean-Talon / Louis-Hémon"
+      },
+      {
+        "stop_id": "51498",
+        "stop_name": "Jean-Talon / De Lorimier"
+      },
+      {
+        "stop_id": "51477",
+        "stop_name": "Jean-Talon / Chabot"
+      },
+      {
+        "stop_id": "51454",
+        "stop_name": "Station Fabre (Jean-Talon / Papineau)"
+      },
+      {
+        "stop_id": "51435",
+        "stop_name": "Station Fabre (Jean-Talon / Fabre)"
+      },
+      {
+        "stop_id": "62269",
+        "stop_name": "Jean-Talon / De Lanaudière"
+      },
+      {
+        "stop_id": "51385",
+        "stop_name": "Jean-Talon / De Normanville"
+      },
+      {
+        "stop_id": "51356",
+        "stop_name": "Jean-Talon / Christophe-Colomb"
+      },
+      {
+        "stop_id": "51336",
+        "stop_name": "Station Jean-Talon Est / Saint-Hubert"
+      },
+      {
+        "stop_id": "51330",
+        "stop_name": "Jean-Talon / De Chateaubriand"
+      },
+      {
+        "stop_id": "51311",
+        "stop_name": "Station Jean-Talon Nord / Saint-Denis"
+      },
+      {
+        "stop_id": "51296",
+        "stop_name": "Jean-Talon / Henri-Julien"
+      },
+      {
+        "stop_id": "51269",
+        "stop_name": "Jean-Talon / Casgrain"
+      },
+      {
+        "stop_id": "51226",
+        "stop_name": "Jean-Talon / Clark"
+      },
+      {
+        "stop_id": "51198",
+        "stop_name": "Jean-Talon / Alexandra"
+      },
+      {
+        "stop_id": "54170",
+        "stop_name": "Station Parc (Jean-Talon / du Parc)"
+      },
+      {
+        "stop_id": "51125",
+        "stop_name": "Jean-Talon / Querbes"
+      },
+      {
+        "stop_id": "51113",
+        "stop_name": "Jean-Talon / Bloomfield"
+      },
+      {
+        "stop_id": "51084",
+        "stop_name": "Jean-Talon / Wiseman"
+      },
+      {
+        "stop_id": "51063",
+        "stop_name": "Jean-Talon / de l'Acadie"
+      },
+      {
+        "stop_id": "56123",
+        "stop_name": "Graham / Markham"
+      },
+      {
+        "stop_id": "56124",
+        "stop_name": "Graham / Rockland"
+      },
+      {
+        "stop_id": "56125",
+        "stop_name": "Dresden / Rockland"
+      },
+      {
+        "stop_id": "56126",
+        "stop_name": "Dresden / Clyde"
+      },
+      {
+        "stop_id": "56127",
+        "stop_name": "Dresden / Aberdare"
+      },
+      {
+        "stop_id": "50933",
+        "stop_name": "Gare Canora (Jean-Talon / Wilderton)"
+      },
+      {
+        "stop_id": "50922",
+        "stop_name": "Jean-Talon / de Dunkirk"
+      },
+      {
+        "stop_id": "50821",
+        "stop_name": "Jean-Talon / de Dieppe"
+      },
+      {
+        "stop_id": "50735",
+        "stop_name": "Jean-Talon / Mulberry"
+      },
+      {
+        "stop_id": "50693",
+        "stop_name": "Jean-Talon / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "54067",
+        "stop_name": "Jean-Talon / de Nancy"
+      },
+      {
+        "stop_id": "56104",
+        "stop_name": "Jean-Talon / Lucerne"
+      },
+      {
+        "stop_id": "50608",
+        "stop_name": "Jean-Talon / de la Savane"
+      },
+      {
+        "stop_id": "50581",
+        "stop_name": "Jean-Talon / Victoria"
+      },
+      {
+        "stop_id": "53892",
+        "stop_name": "Jean-Talon / No 5005"
+      },
+      {
+        "stop_id": "50531",
+        "stop_name": "Jean-Talon / Mountain Sights"
+      },
+      {
+        "stop_id": "50507",
+        "stop_name": "Station Namur (Jean-Talon / Décarie)"
+      },
+      {
+        "stop_id": "51564",
+        "stop_name": "Station D'Iberville (Jean-Talon / D'Iberville)"
+      }
+    ]
+  },
+  {
+    "direction": "Est destination Station St-Michel",
+    "arrets": [
+      {
+        "stop_id": "50510",
+        "stop_name": "Station Namur (Décarie / Jean-Talon)"
+      },
+      {
+        "stop_id": "50475",
+        "stop_name": "Décarie / Paré"
+      },
+      {
+        "stop_id": "54224",
+        "stop_name": "Paré / Mountain Sights"
+      },
+      {
+        "stop_id": "50532",
+        "stop_name": "Mountain Sights / Jean-Talon"
+      },
+      {
+        "stop_id": "53776",
+        "stop_name": "Jean-Talon / No 5000"
+      },
+      {
+        "stop_id": "50583",
+        "stop_name": "Jean-Talon / Victoria"
+      },
+      {
+        "stop_id": "50609",
+        "stop_name": "Jean-Talon / de la Savane"
+      },
+      {
+        "stop_id": "54318",
+        "stop_name": "Jean-Talon / Lucerne"
+      },
+      {
+        "stop_id": "54068",
+        "stop_name": "Jean-Talon / de Nancy"
+      },
+      {
+        "stop_id": "50694",
+        "stop_name": "Jean-Talon / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "50746",
+        "stop_name": "Jean-Talon / Frobisher"
+      },
+      {
+        "stop_id": "50822",
+        "stop_name": "Jean-Talon / de Dieppe"
+      },
+      {
+        "stop_id": "50104",
+        "stop_name": "Gare Canora (Jean-Talon / Wilderton)"
+      },
+      {
+        "stop_id": "56093",
+        "stop_name": "Dresden / Aberdare"
+      },
+      {
+        "stop_id": "56121",
+        "stop_name": "Dresden / Clyde"
+      },
+      {
+        "stop_id": "56122",
+        "stop_name": "Dresden / Rockland"
+      },
+      {
+        "stop_id": "56095",
+        "stop_name": "Graham / Rockland"
+      },
+      {
+        "stop_id": "56100",
+        "stop_name": "Graham / Markham"
+      },
+      {
+        "stop_id": "51064",
+        "stop_name": "Jean-Talon / de l'Acadie"
+      },
+      {
+        "stop_id": "51085",
+        "stop_name": "Jean-Talon / Wiseman"
+      },
+      {
+        "stop_id": "51114",
+        "stop_name": "Jean-Talon / Bloomfield"
+      },
+      {
+        "stop_id": "51127",
+        "stop_name": "Jean-Talon / Querbes"
+      },
+      {
+        "stop_id": "51140",
+        "stop_name": "Station Parc (Jean-Talon / Hutchison)"
+      },
+      {
+        "stop_id": "51199",
+        "stop_name": "Jean-Talon / Alexandra"
+      },
+      {
+        "stop_id": "51227",
+        "stop_name": "Jean-Talon / Clark"
+      },
+      {
+        "stop_id": "51266",
+        "stop_name": "Jean-Talon / Saint-Dominique"
+      },
+      {
+        "stop_id": "53774",
+        "stop_name": "Jean-Talon / Drolet"
+      },
+      {
+        "stop_id": "51322",
+        "stop_name": "Station Jean-Talon Sud / De Saint-Vallier"
+      },
+      {
+        "stop_id": "54171",
+        "stop_name": "Jean-Talon / De Chateaubriand"
+      },
+      {
+        "stop_id": "51337",
+        "stop_name": "Station Jean-Talon Est / Saint-Hubert"
+      },
+      {
+        "stop_id": "51358",
+        "stop_name": "Jean-Talon / Christophe-Colomb"
+      },
+      {
+        "stop_id": "62397",
+        "stop_name": "Jean-Talon / De Normanville"
+      },
+      {
+        "stop_id": "51413",
+        "stop_name": "Jean-Talon / De Lanaudière"
+      },
+      {
+        "stop_id": "51436",
+        "stop_name": "Station Fabre (Jean-Talon / Fabre)"
+      },
+      {
+        "stop_id": "62398",
+        "stop_name": "Jean-Talon / Papineau"
+      },
+      {
+        "stop_id": "62399",
+        "stop_name": "Jean-Talon / Chabot"
+      },
+      {
+        "stop_id": "62400",
+        "stop_name": "Jean-Talon / De Lorimier"
+      },
+      {
+        "stop_id": "51528",
+        "stop_name": "Jean-Talon / Louis-Hémon"
+      },
+      {
+        "stop_id": "51554",
+        "stop_name": "Station D'Iberville (Jean-Talon / Louis-Hébert)"
+      },
+      {
+        "stop_id": "62401",
+        "stop_name": "Jean-Talon / D'Iberville"
+      },
+      {
+        "stop_id": "51588",
+        "stop_name": "Jean-Talon / 1re Avenue"
+      },
+      {
+        "stop_id": "51609",
+        "stop_name": "Jean-Talon / 8e Avenue"
+      },
+      {
+        "stop_id": "51633",
+        "stop_name": "Jean-Talon / Saint-Michel"
+      }
+    ]
+  }
+]

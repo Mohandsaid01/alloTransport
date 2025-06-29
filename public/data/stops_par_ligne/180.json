@@ -1,0 +1,264 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54088",
+        "stop_name": "Station Sauvé (Édicule Sud)"
+      },
+      {
+        "stop_id": "61972",
+        "stop_name": "Lajeunesse / Sauriol"
+      },
+      {
+        "stop_id": "54089",
+        "stop_name": "Fleury / Berri"
+      },
+      {
+        "stop_id": "50347",
+        "stop_name": "Fleury / D'Auteuil"
+      },
+      {
+        "stop_id": "50337",
+        "stop_name": "Fleury / Saint-Laurent"
+      },
+      {
+        "stop_id": "50322",
+        "stop_name": "Fleury / Saint-Urbain"
+      },
+      {
+        "stop_id": "50319",
+        "stop_name": "Fleury / de l'Esplanade"
+      },
+      {
+        "stop_id": "50311",
+        "stop_name": "Fleury / Jeanne-Mance"
+      },
+      {
+        "stop_id": "50302",
+        "stop_name": "Fleury / Hogue"
+      },
+      {
+        "stop_id": "50289",
+        "stop_name": "Meilleur / Prieur"
+      },
+      {
+        "stop_id": "50276",
+        "stop_name": "Meilleur / Henri-Bourassa"
+      },
+      {
+        "stop_id": "53727",
+        "stop_name": "SAAQ (Henri-Bourassa / No 750)"
+      },
+      {
+        "stop_id": "62374",
+        "stop_name": "Henri-Bourassa / du Bois-de-Boulogne"
+      },
+      {
+        "stop_id": "50264",
+        "stop_name": "Henri-Bourassa / Marcelin-Wilson"
+      },
+      {
+        "stop_id": "50260",
+        "stop_name": "Henri-Bourassa / de l'Acadie"
+      },
+      {
+        "stop_id": "50251",
+        "stop_name": "Aréna Marcelin-Wilson (de l'Acadie / C.-Gill)"
+      },
+      {
+        "stop_id": "50246",
+        "stop_name": "de l'Acadie / Dudemaine"
+      },
+      {
+        "stop_id": "50242",
+        "stop_name": "de l'Acadie / de Louisbourg"
+      },
+      {
+        "stop_id": "50232",
+        "stop_name": "De Salaberry / Frigon"
+      },
+      {
+        "stop_id": "50225",
+        "stop_name": "De Salaberry / Taylor"
+      },
+      {
+        "stop_id": "50217",
+        "stop_name": "De Salaberry / De Poutrincourt"
+      },
+      {
+        "stop_id": "50203",
+        "stop_name": "De Salaberry / Guertin"
+      },
+      {
+        "stop_id": "50196",
+        "stop_name": "De Salaberry / O'Brien"
+      },
+      {
+        "stop_id": "50189",
+        "stop_name": "De Salaberry / Saint-Évariste"
+      },
+      {
+        "stop_id": "50178",
+        "stop_name": "De Salaberry / De Meulles"
+      },
+      {
+        "stop_id": "50172",
+        "stop_name": "De Salaberry / Grenet"
+      },
+      {
+        "stop_id": "50167",
+        "stop_name": "De Salaberry / Lachapelle"
+      },
+      {
+        "stop_id": "61864",
+        "stop_name": "Lachapelle / Périnault"
+      },
+      {
+        "stop_id": "61865",
+        "stop_name": "Lachapelle / Ranger"
+      },
+      {
+        "stop_id": "61870",
+        "stop_name": "Gouin / Chevalier"
+      },
+      {
+        "stop_id": "61834",
+        "stop_name": "Vanier / Lachapelle"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "61834",
+        "stop_name": "Vanier / Lachapelle"
+      },
+      {
+        "stop_id": "61989",
+        "stop_name": "Laurentien / No 12404"
+      },
+      {
+        "stop_id": "61081",
+        "stop_name": "Laurentien / Émile-Nelligan"
+      },
+      {
+        "stop_id": "61871",
+        "stop_name": "Laurentien / Émile-Nelligan"
+      },
+      {
+        "stop_id": "61866",
+        "stop_name": "Laurentien / Périnault"
+      },
+      {
+        "stop_id": "50168",
+        "stop_name": "De Salaberry / Lachapelle"
+      },
+      {
+        "stop_id": "50174",
+        "stop_name": "De Salaberry / Grenet"
+      },
+      {
+        "stop_id": "50179",
+        "stop_name": "De Salaberry / De Meulles"
+      },
+      {
+        "stop_id": "50190",
+        "stop_name": "De Salaberry / Saint-Évariste"
+      },
+      {
+        "stop_id": "50198",
+        "stop_name": "De Salaberry / O'Brien"
+      },
+      {
+        "stop_id": "50204",
+        "stop_name": "De Salaberry / Guertin"
+      },
+      {
+        "stop_id": "50218",
+        "stop_name": "De Salaberry / De Poutrincourt"
+      },
+      {
+        "stop_id": "50226",
+        "stop_name": "De Salaberry / Taylor"
+      },
+      {
+        "stop_id": "54006",
+        "stop_name": "de l'Acadie / De Salaberry"
+      },
+      {
+        "stop_id": "50243",
+        "stop_name": "de l'Acadie / de Louisbourg"
+      },
+      {
+        "stop_id": "50249",
+        "stop_name": "de l'Acadie / Dudemaine"
+      },
+      {
+        "stop_id": "50252",
+        "stop_name": "de l'Acadie / Charles-Gill"
+      },
+      {
+        "stop_id": "50263",
+        "stop_name": "Henri-Bourassa / de l'Acadie"
+      },
+      {
+        "stop_id": "62369",
+        "stop_name": "Henri-Bourassa / Marcelin-Wilson"
+      },
+      {
+        "stop_id": "50270",
+        "stop_name": "Collège de Bois-de-Boulogne"
+      },
+      {
+        "stop_id": "50278",
+        "stop_name": "SAAQ (Henri-Bourassa / Meilleur)"
+      },
+      {
+        "stop_id": "50290",
+        "stop_name": "Hogue / Prieur"
+      },
+      {
+        "stop_id": "54124",
+        "stop_name": "Hogue / Fleury"
+      },
+      {
+        "stop_id": "54087",
+        "stop_name": "Fleury / Verville"
+      },
+      {
+        "stop_id": "50315",
+        "stop_name": "Fleury / Tolhurst"
+      },
+      {
+        "stop_id": "50320",
+        "stop_name": "Fleury / de l'Esplanade"
+      },
+      {
+        "stop_id": "50323",
+        "stop_name": "Fleury / Saint-Urbain"
+      },
+      {
+        "stop_id": "50339",
+        "stop_name": "Fleury / Saint-Laurent"
+      },
+      {
+        "stop_id": "50348",
+        "stop_name": "Fleury / D'Auteuil"
+      },
+      {
+        "stop_id": "50359",
+        "stop_name": "Fleury / Berri"
+      },
+      {
+        "stop_id": "61973",
+        "stop_name": "Berri / Sauriol"
+      },
+      {
+        "stop_id": "50437",
+        "stop_name": "Station Sauvé (Édicule Nord)"
+      }
+    ]
+  }
+]

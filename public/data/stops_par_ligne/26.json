@@ -1,0 +1,277 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "61223",
+        "stop_name": "Claude-Masson / Anne-Courtemanche"
+      },
+      {
+        "stop_id": "61224",
+        "stop_name": "Claude-Masson / Anne-Courtemanche"
+      },
+      {
+        "stop_id": "61225",
+        "stop_name": "De Contrecoeur / Rousseau"
+      },
+      {
+        "stop_id": "62421",
+        "stop_name": "De Contrecoeur / Jean-Pierre-Ronfard"
+      },
+      {
+        "stop_id": "61761",
+        "stop_name": "De Contrecoeur / Marie-Ange-Bouchard"
+      },
+      {
+        "stop_id": "61228",
+        "stop_name": "De Contrecoeur / Sherbrooke"
+      },
+      {
+        "stop_id": "53350",
+        "stop_name": "Sherbrooke / Hector"
+      },
+      {
+        "stop_id": "54483",
+        "stop_name": "Georges-V / Sainte-Claire"
+      },
+      {
+        "stop_id": "61229",
+        "stop_name": "Georges-V / Hochelaga"
+      },
+      {
+        "stop_id": "53422",
+        "stop_name": "Hochelaga / Hector"
+      },
+      {
+        "stop_id": "53415",
+        "stop_name": "Hochelaga / Fletcher"
+      },
+      {
+        "stop_id": "53413",
+        "stop_name": "Hochelaga / Aubry"
+      },
+      {
+        "stop_id": "53408",
+        "stop_name": "Hochelaga / Taillon"
+      },
+      {
+        "stop_id": "53400",
+        "stop_name": "Hochelaga / Pierre-Bernard"
+      },
+      {
+        "stop_id": "53394",
+        "stop_name": "Hochelaga / Joffre"
+      },
+      {
+        "stop_id": "53386",
+        "stop_name": "Hochelaga / Des Ormeaux"
+      },
+      {
+        "stop_id": "53372",
+        "stop_name": "Des Ormeaux / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "53362",
+        "stop_name": "Des Ormeaux / Sainte-Claire"
+      },
+      {
+        "stop_id": "53351",
+        "stop_name": "Des Ormeaux / de Marseille"
+      },
+      {
+        "stop_id": "53337",
+        "stop_name": "Des Ormeaux / De Teck"
+      },
+      {
+        "stop_id": "53311",
+        "stop_name": "Des Ormeaux / Sherbrooke"
+      },
+      {
+        "stop_id": "53301",
+        "stop_name": "Sherbrooke / Baldwin"
+      },
+      {
+        "stop_id": "53287",
+        "stop_name": "Sherbrooke / Saint-Donat"
+      },
+      {
+        "stop_id": "53278",
+        "stop_name": "Sherbrooke / Liébert"
+      },
+      {
+        "stop_id": "53252",
+        "stop_name": "Station Honoré-Beaugrand"
+      },
+      {
+        "stop_id": "53241",
+        "stop_name": "Sherbrooke / Lepailleur"
+      },
+      {
+        "stop_id": "53206",
+        "stop_name": "Sherbrooke / du Trianon"
+      },
+      {
+        "stop_id": "61230",
+        "stop_name": "Station Radisson (Des Groseilliers / Sherbrooke)"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "61230",
+        "stop_name": "Station Radisson (Des Groseilliers / Sherbrooke)"
+      },
+      {
+        "stop_id": "53207",
+        "stop_name": "Sherbrooke / Place Versailles"
+      },
+      {
+        "stop_id": "53242",
+        "stop_name": "Sherbrooke / Lepailleur"
+      },
+      {
+        "stop_id": "54257",
+        "stop_name": "Station Honoré-Beaugrand"
+      },
+      {
+        "stop_id": "53279",
+        "stop_name": "Sherbrooke / Liébert"
+      },
+      {
+        "stop_id": "53289",
+        "stop_name": "Sherbrooke / Saint-Donat"
+      },
+      {
+        "stop_id": "53302",
+        "stop_name": "Sherbrooke / Baldwin"
+      },
+      {
+        "stop_id": "53316",
+        "stop_name": "Des Ormeaux / Sherbrooke"
+      },
+      {
+        "stop_id": "53338",
+        "stop_name": "Des Ormeaux / De Teck"
+      },
+      {
+        "stop_id": "53352",
+        "stop_name": "Des Ormeaux / de Marseille"
+      },
+      {
+        "stop_id": "53363",
+        "stop_name": "Des Ormeaux / Sainte-Claire"
+      },
+      {
+        "stop_id": "53373",
+        "stop_name": "Des Ormeaux / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "53387",
+        "stop_name": "Des Ormeaux / Hochelaga"
+      },
+      {
+        "stop_id": "53395",
+        "stop_name": "Hochelaga / Joffre"
+      },
+      {
+        "stop_id": "53401",
+        "stop_name": "Hochelaga / Pierre-Bernard"
+      },
+      {
+        "stop_id": "53409",
+        "stop_name": "Hochelaga / Taillon"
+      },
+      {
+        "stop_id": "53414",
+        "stop_name": "Hochelaga / Aubry"
+      },
+      {
+        "stop_id": "53416",
+        "stop_name": "Hochelaga / Fletcher"
+      },
+      {
+        "stop_id": "53423",
+        "stop_name": "Hochelaga / Hector"
+      },
+      {
+        "stop_id": "54482",
+        "stop_name": "Georges-V / Sainte-Claire"
+      },
+      {
+        "stop_id": "53349",
+        "stop_name": "Sherbrooke / Hector"
+      },
+      {
+        "stop_id": "61216",
+        "stop_name": "De Contrecoeur / Sherbrooke"
+      },
+      {
+        "stop_id": "61762",
+        "stop_name": "De Contrecoeur / Marie-Ange-Bouchard"
+      },
+      {
+        "stop_id": "62422",
+        "stop_name": "De Contrecoeur / Jean-Pierre-Ronfard"
+      },
+      {
+        "stop_id": "61218",
+        "stop_name": "De Contrecoeur / Rousseau"
+      },
+      {
+        "stop_id": "61221",
+        "stop_name": "Anne-Courtemanche / Claude-Masson"
+      },
+      {
+        "stop_id": "61223",
+        "stop_name": "Claude-Masson / Anne-Courtemanche"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest destination Station Honoré-Beaugrand",
+    "arrets": [
+      {
+        "stop_id": "61223",
+        "stop_name": "Claude-Masson / Anne-Courtemanche"
+      },
+      {
+        "stop_id": "61224",
+        "stop_name": "Claude-Masson / Anne-Courtemanche"
+      },
+      {
+        "stop_id": "61225",
+        "stop_name": "De Contrecoeur / Rousseau"
+      },
+      {
+        "stop_id": "62421",
+        "stop_name": "De Contrecoeur / Jean-Pierre-Ronfard"
+      },
+      {
+        "stop_id": "61761",
+        "stop_name": "De Contrecoeur / Marie-Ange-Bouchard"
+      },
+      {
+        "stop_id": "61228",
+        "stop_name": "De Contrecoeur / Sherbrooke"
+      },
+      {
+        "stop_id": "53301",
+        "stop_name": "Sherbrooke / Baldwin"
+      },
+      {
+        "stop_id": "53287",
+        "stop_name": "Sherbrooke / Saint-Donat"
+      },
+      {
+        "stop_id": "53278",
+        "stop_name": "Sherbrooke / Liébert"
+      },
+      {
+        "stop_id": "53252",
+        "stop_name": "Station Honoré-Beaugrand"
+      }
+    ]
+  }
+]

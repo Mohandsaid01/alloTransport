@@ -1,0 +1,904 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "53736",
+        "stop_name": "100e Avenue / Bureau"
+      },
+      {
+        "stop_id": "53716",
+        "stop_name": "Sainte-Maria-Goretti / 100e Avenue"
+      },
+      {
+        "stop_id": "53670",
+        "stop_name": "Sainte-Maria-Goretti / 96e Avenue"
+      },
+      {
+        "stop_id": "53879",
+        "stop_name": "Sainte-Maria-Goretti / 93e Avenue"
+      },
+      {
+        "stop_id": "53660",
+        "stop_name": "Sainte-Maria-Goretti / Terrasse Maria-Goretti"
+      },
+      {
+        "stop_id": "60552",
+        "stop_name": "Notre-Dame / Raoul-Jobin"
+      },
+      {
+        "stop_id": "53654",
+        "stop_name": "Notre-Dame / Antoine-Chaudillon"
+      },
+      {
+        "stop_id": "54378",
+        "stop_name": "Notre-Dame / No 15657"
+      },
+      {
+        "stop_id": "53642",
+        "stop_name": "Notre-Dame / 81e Avenue"
+      },
+      {
+        "stop_id": "54011",
+        "stop_name": "Notre-Dame / Beausoleil (est)"
+      },
+      {
+        "stop_id": "53628",
+        "stop_name": "Notre-Dame / No 15291"
+      },
+      {
+        "stop_id": "53634",
+        "stop_name": "Notre-Dame / Bellevue"
+      },
+      {
+        "stop_id": "53627",
+        "stop_name": "Notre-Dame / Beausoleil"
+      },
+      {
+        "stop_id": "53721",
+        "stop_name": "Parc-Nature de la Pointe-aux-Prairies"
+      },
+      {
+        "stop_id": "53617",
+        "stop_name": "Notre-Dame / 67e Avenue"
+      },
+      {
+        "stop_id": "53612",
+        "stop_name": "Notre-Dame / 64e Avenue"
+      },
+      {
+        "stop_id": "54147",
+        "stop_name": "Notre-Dame / Antoine-Bazinet"
+      },
+      {
+        "stop_id": "53600",
+        "stop_name": "Notre-Dame / 58e Avenue"
+      },
+      {
+        "stop_id": "53596",
+        "stop_name": "Notre-Dame / 54e Avenue"
+      },
+      {
+        "stop_id": "53566",
+        "stop_name": "53e Avenue / De Montigny"
+      },
+      {
+        "stop_id": "53531",
+        "stop_name": "53e Avenue / Forsyth"
+      },
+      {
+        "stop_id": "53511",
+        "stop_name": "53e Avenue / 52e Avenue"
+      },
+      {
+        "stop_id": "53508",
+        "stop_name": "Sherbrooke / De La Rousselière"
+      },
+      {
+        "stop_id": "53501",
+        "stop_name": "Sherbrooke / 42e Avenue"
+      },
+      {
+        "stop_id": "53494",
+        "stop_name": "Sherbrooke / 40e Avenue"
+      },
+      {
+        "stop_id": "53486",
+        "stop_name": "Sherbrooke / 36e Avenue"
+      },
+      {
+        "stop_id": "53476",
+        "stop_name": "Sherbrooke / 32e Avenue"
+      },
+      {
+        "stop_id": "53713",
+        "stop_name": "Sherbrooke / No 13092"
+      },
+      {
+        "stop_id": "53469",
+        "stop_name": "Sherbrooke / Robert-Chevalier"
+      },
+      {
+        "stop_id": "53456",
+        "stop_name": "Sherbrooke / du Tricentenaire"
+      },
+      {
+        "stop_id": "53491",
+        "stop_name": "du Tricentenaire / Forsyth"
+      },
+      {
+        "stop_id": "53711",
+        "stop_name": "du Tricentenaire / No 1735"
+      },
+      {
+        "stop_id": "53540",
+        "stop_name": "du Tricentenaire / De Montigny"
+      },
+      {
+        "stop_id": "53547",
+        "stop_name": "du Tricentenaire / Joseph-d'Argent"
+      },
+      {
+        "stop_id": "53589",
+        "stop_name": "du Tricentenaire / René-Lévesque"
+      },
+      {
+        "stop_id": "53708",
+        "stop_name": "René-Lévesque / du Tricentenaire"
+      },
+      {
+        "stop_id": "53579",
+        "stop_name": "René-Lévesque / des Saules"
+      },
+      {
+        "stop_id": "53575",
+        "stop_name": "René-Lévesque / 18e Avenue"
+      },
+      {
+        "stop_id": "53571",
+        "stop_name": "René-Lévesque / 16e Avenue"
+      },
+      {
+        "stop_id": "53563",
+        "stop_name": "René-Lévesque / 14e Avenue"
+      },
+      {
+        "stop_id": "53554",
+        "stop_name": "René-Lévesque / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "53548",
+        "stop_name": "René-Lévesque / 8e Avenue"
+      },
+      {
+        "stop_id": "53543",
+        "stop_name": "René-Lévesque / 5e Avenue"
+      },
+      {
+        "stop_id": "53534",
+        "stop_name": "René-Lévesque / 3e Avenue"
+      },
+      {
+        "stop_id": "53529",
+        "stop_name": "René-Lévesque / 1re Avenue"
+      },
+      {
+        "stop_id": "54448",
+        "stop_name": "Dorchester / Marien"
+      },
+      {
+        "stop_id": "54454",
+        "stop_name": "Marien / De La Gauchetière"
+      },
+      {
+        "stop_id": "54457",
+        "stop_name": "Marien / Victoria"
+      },
+      {
+        "stop_id": "54465",
+        "stop_name": "Marien / Notre-Dame"
+      },
+      {
+        "stop_id": "54462",
+        "stop_name": "Notre-Dame / Broadway"
+      },
+      {
+        "stop_id": "54458",
+        "stop_name": "Notre-Dame / Lelièvre"
+      },
+      {
+        "stop_id": "54455",
+        "stop_name": "Notre-Dame / Hinton"
+      },
+      {
+        "stop_id": "54450",
+        "stop_name": "Notre-Dame / Richard"
+      },
+      {
+        "stop_id": "54469",
+        "stop_name": "Notre-Dame / No 10800"
+      },
+      {
+        "stop_id": "61797",
+        "stop_name": "Notre-Dame / Gamble"
+      },
+      {
+        "stop_id": "54468",
+        "stop_name": "Notre-Dame / No 10150"
+      },
+      {
+        "stop_id": "54432",
+        "stop_name": "Notre-Dame / Joseph-Versailles"
+      },
+      {
+        "stop_id": "54485",
+        "stop_name": "Notre-Dame / David"
+      },
+      {
+        "stop_id": "54425",
+        "stop_name": "Georges-V / Dubuisson"
+      },
+      {
+        "stop_id": "54422",
+        "stop_name": "Georges-V / Hochelaga"
+      },
+      {
+        "stop_id": "53422",
+        "stop_name": "Hochelaga / Hector"
+      },
+      {
+        "stop_id": "53415",
+        "stop_name": "Hochelaga / Fletcher"
+      },
+      {
+        "stop_id": "53413",
+        "stop_name": "Hochelaga / Aubry"
+      },
+      {
+        "stop_id": "53408",
+        "stop_name": "Hochelaga / Taillon"
+      },
+      {
+        "stop_id": "53400",
+        "stop_name": "Hochelaga / Pierre-Bernard"
+      },
+      {
+        "stop_id": "53394",
+        "stop_name": "Hochelaga / Joffre"
+      },
+      {
+        "stop_id": "53386",
+        "stop_name": "Hochelaga / Des Ormeaux"
+      },
+      {
+        "stop_id": "53372",
+        "stop_name": "Des Ormeaux / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "53362",
+        "stop_name": "Des Ormeaux / Sainte-Claire"
+      },
+      {
+        "stop_id": "53351",
+        "stop_name": "Des Ormeaux / de Marseille"
+      },
+      {
+        "stop_id": "53337",
+        "stop_name": "Des Ormeaux / De Teck"
+      },
+      {
+        "stop_id": "53311",
+        "stop_name": "Des Ormeaux / Sherbrooke"
+      },
+      {
+        "stop_id": "53301",
+        "stop_name": "Sherbrooke / Baldwin"
+      },
+      {
+        "stop_id": "53287",
+        "stop_name": "Sherbrooke / Saint-Donat"
+      },
+      {
+        "stop_id": "53278",
+        "stop_name": "Sherbrooke / Liébert"
+      },
+      {
+        "stop_id": "54237",
+        "stop_name": "Station Honoré-Beaugrand / Terminus Sud"
+      },
+      {
+        "stop_id": "53307",
+        "stop_name": "Honoré-Beaugrand / de Marseille"
+      },
+      {
+        "stop_id": "53336",
+        "stop_name": "Honoré-Beaugrand / Sainte-Claire"
+      },
+      {
+        "stop_id": "53347",
+        "stop_name": "Honoré-Beaugrand / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "53360",
+        "stop_name": "Honoré-Beaugrand / Hochelaga"
+      },
+      {
+        "stop_id": "53355",
+        "stop_name": "Hochelaga / Curatteau"
+      },
+      {
+        "stop_id": "53980",
+        "stop_name": "Hochelaga / No 7401 (Hôpital L.-H.-La Fontaine)"
+      },
+      {
+        "stop_id": "54326",
+        "stop_name": "Hochelaga / Centre Fernand-Seguin"
+      },
+      {
+        "stop_id": "53328",
+        "stop_name": "Hochelaga / Beauclerk"
+      },
+      {
+        "stop_id": "53318",
+        "stop_name": "Hochelaga / Haig"
+      },
+      {
+        "stop_id": "53304",
+        "stop_name": "Hochelaga / Desautels"
+      },
+      {
+        "stop_id": "53297",
+        "stop_name": "Hochelaga / de Granby"
+      },
+      {
+        "stop_id": "54002",
+        "stop_name": "Hochelaga / Garnison Montréal"
+      },
+      {
+        "stop_id": "53981",
+        "stop_name": "Polyvalente Édouard-Montpetit"
+      },
+      {
+        "stop_id": "53255",
+        "stop_name": "Hochelaga / De Cadillac"
+      },
+      {
+        "stop_id": "53239",
+        "stop_name": "Hochelaga / Louis-Veuillot"
+      },
+      {
+        "stop_id": "53228",
+        "stop_name": "Hochelaga / Dickson"
+      },
+      {
+        "stop_id": "53202",
+        "stop_name": "Hochelaga / de l'Assomption"
+      },
+      {
+        "stop_id": "53982",
+        "stop_name": "Hochelaga / Vimont"
+      },
+      {
+        "stop_id": "53167",
+        "stop_name": "Hochelaga / Viau"
+      },
+      {
+        "stop_id": "53162",
+        "stop_name": "Hochelaga / Saint-Clément"
+      },
+      {
+        "stop_id": "53147",
+        "stop_name": "Hochelaga / Leclaire"
+      },
+      {
+        "stop_id": "53128",
+        "stop_name": "Hochelaga / Aird"
+      },
+      {
+        "stop_id": "53106",
+        "stop_name": "Hochelaga / Letourneux"
+      },
+      {
+        "stop_id": "53086",
+        "stop_name": "Hochelaga / Pie-IX"
+      },
+      {
+        "stop_id": "53071",
+        "stop_name": "Hochelaga / d'Orléans"
+      },
+      {
+        "stop_id": "53052",
+        "stop_name": "Hochelaga / Nicolet"
+      },
+      {
+        "stop_id": "53038",
+        "stop_name": "Station Joliette (Hochelaga / Aylwin)"
+      },
+      {
+        "stop_id": "53011",
+        "stop_name": "Hochelaga / Davidson"
+      },
+      {
+        "stop_id": "52999",
+        "stop_name": "Hochelaga / Saint-Germain"
+      },
+      {
+        "stop_id": "52966",
+        "stop_name": "Station Préfontaine (Édicule Nord)"
+      },
+      {
+        "stop_id": "52917",
+        "stop_name": "Hochelaga / Wurtele"
+      },
+      {
+        "stop_id": "52888",
+        "stop_name": "Hochelaga / Hogan"
+      },
+      {
+        "stop_id": "61810",
+        "stop_name": "D'Iberville / Hochelaga"
+      },
+      {
+        "stop_id": "61889",
+        "stop_name": "D'Iberville / de Rouen"
+      },
+      {
+        "stop_id": "53016",
+        "stop_name": "Station Frontenac (du Havre / Ontario)"
+      },
+      {
+        "stop_id": "54038",
+        "stop_name": "Station Frontenac (Frontenac / Ontario)"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54038",
+        "stop_name": "Station Frontenac (Frontenac / Ontario)"
+      },
+      {
+        "stop_id": "52877",
+        "stop_name": "Hochelaga / Gascon"
+      },
+      {
+        "stop_id": "52889",
+        "stop_name": "Hochelaga / Hogan"
+      },
+      {
+        "stop_id": "53750",
+        "stop_name": "Hochelaga / Florian"
+      },
+      {
+        "stop_id": "52967",
+        "stop_name": "Station Préfontaine (Édicule Sud)"
+      },
+      {
+        "stop_id": "53000",
+        "stop_name": "Hochelaga / Saint-Germain"
+      },
+      {
+        "stop_id": "53012",
+        "stop_name": "Hochelaga / Davidson"
+      },
+      {
+        "stop_id": "53037",
+        "stop_name": "Station Joliette (Hochelaga / Joliette)"
+      },
+      {
+        "stop_id": "53054",
+        "stop_name": "Hochelaga / Nicolet"
+      },
+      {
+        "stop_id": "53072",
+        "stop_name": "Hochelaga / d'Orléans"
+      },
+      {
+        "stop_id": "53088",
+        "stop_name": "Hochelaga / Pie-IX"
+      },
+      {
+        "stop_id": "53107",
+        "stop_name": "Hochelaga / Letourneux"
+      },
+      {
+        "stop_id": "53129",
+        "stop_name": "Hochelaga / Aird"
+      },
+      {
+        "stop_id": "53148",
+        "stop_name": "Hochelaga / Leclaire"
+      },
+      {
+        "stop_id": "53161",
+        "stop_name": "Hochelaga / Saint-Clément"
+      },
+      {
+        "stop_id": "53168",
+        "stop_name": "Hochelaga / Viau"
+      },
+      {
+        "stop_id": "53195",
+        "stop_name": "Hochelaga / Vimont"
+      },
+      {
+        "stop_id": "53204",
+        "stop_name": "Hochelaga / de l'Assomption"
+      },
+      {
+        "stop_id": "53232",
+        "stop_name": "Hochelaga / Monsabré"
+      },
+      {
+        "stop_id": "53240",
+        "stop_name": "Hochelaga / Louis-Veuillot"
+      },
+      {
+        "stop_id": "53257",
+        "stop_name": "Hochelaga / De Cadillac"
+      },
+      {
+        "stop_id": "53273",
+        "stop_name": "Polyvalente Édouard-Montpetit"
+      },
+      {
+        "stop_id": "53300",
+        "stop_name": "Hochelaga / Langelier"
+      },
+      {
+        "stop_id": "53305",
+        "stop_name": "Hochelaga / Desautels"
+      },
+      {
+        "stop_id": "53320",
+        "stop_name": "Hochelaga / Haig"
+      },
+      {
+        "stop_id": "53329",
+        "stop_name": "Hochelaga / Beauclerk"
+      },
+      {
+        "stop_id": "53979",
+        "stop_name": "Hochelaga / No 7401 (Hôpital L.-H.-La Fontaine)"
+      },
+      {
+        "stop_id": "61793",
+        "stop_name": "Hochelaga / Lepailleur"
+      },
+      {
+        "stop_id": "53361",
+        "stop_name": "Honoré-Beaugrand / Hochelaga"
+      },
+      {
+        "stop_id": "53346",
+        "stop_name": "Honoré-Beaugrand / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "53335",
+        "stop_name": "Honoré-Beaugrand / Sainte-Claire"
+      },
+      {
+        "stop_id": "53306",
+        "stop_name": "Honoré-Beaugrand / de Marseille"
+      },
+      {
+        "stop_id": "53293",
+        "stop_name": "Honoré-Beaugrand / Roux"
+      },
+      {
+        "stop_id": "54257",
+        "stop_name": "Station Honoré-Beaugrand"
+      },
+      {
+        "stop_id": "53279",
+        "stop_name": "Sherbrooke / Liébert"
+      },
+      {
+        "stop_id": "53289",
+        "stop_name": "Sherbrooke / Saint-Donat"
+      },
+      {
+        "stop_id": "53302",
+        "stop_name": "Sherbrooke / Baldwin"
+      },
+      {
+        "stop_id": "53316",
+        "stop_name": "Des Ormeaux / Sherbrooke"
+      },
+      {
+        "stop_id": "53338",
+        "stop_name": "Des Ormeaux / De Teck"
+      },
+      {
+        "stop_id": "53352",
+        "stop_name": "Des Ormeaux / de Marseille"
+      },
+      {
+        "stop_id": "53363",
+        "stop_name": "Des Ormeaux / Sainte-Claire"
+      },
+      {
+        "stop_id": "53373",
+        "stop_name": "Des Ormeaux / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "53387",
+        "stop_name": "Des Ormeaux / Hochelaga"
+      },
+      {
+        "stop_id": "53395",
+        "stop_name": "Hochelaga / Joffre"
+      },
+      {
+        "stop_id": "53401",
+        "stop_name": "Hochelaga / Pierre-Bernard"
+      },
+      {
+        "stop_id": "53409",
+        "stop_name": "Hochelaga / Taillon"
+      },
+      {
+        "stop_id": "53414",
+        "stop_name": "Hochelaga / Aubry"
+      },
+      {
+        "stop_id": "53416",
+        "stop_name": "Hochelaga / Fletcher"
+      },
+      {
+        "stop_id": "53423",
+        "stop_name": "Hochelaga / Hector"
+      },
+      {
+        "stop_id": "54423",
+        "stop_name": "Hochelaga / Georges-V"
+      },
+      {
+        "stop_id": "54427",
+        "stop_name": "Georges-V / Notre-Dame"
+      },
+      {
+        "stop_id": "54484",
+        "stop_name": "Notre-Dame / David"
+      },
+      {
+        "stop_id": "54431",
+        "stop_name": "Notre-Dame / Joseph-Versailles"
+      },
+      {
+        "stop_id": "54433",
+        "stop_name": "Notre-Dame / No 10150"
+      },
+      {
+        "stop_id": "54444",
+        "stop_name": "Notre-Dame / Gamble"
+      },
+      {
+        "stop_id": "54445",
+        "stop_name": "Notre-Dame / No 10800"
+      },
+      {
+        "stop_id": "54451",
+        "stop_name": "Notre-Dame / Richard"
+      },
+      {
+        "stop_id": "54456",
+        "stop_name": "Notre-Dame / Hinton"
+      },
+      {
+        "stop_id": "54459",
+        "stop_name": "Notre-Dame / Providence"
+      },
+      {
+        "stop_id": "54463",
+        "stop_name": "Notre-Dame / Broadway"
+      },
+      {
+        "stop_id": "54467",
+        "stop_name": "Marien / Notre-Dame"
+      },
+      {
+        "stop_id": "54460",
+        "stop_name": "Marien / Prince-Albert"
+      },
+      {
+        "stop_id": "54453",
+        "stop_name": "Marien / De La Gauchetière"
+      },
+      {
+        "stop_id": "54447",
+        "stop_name": "Marien / Dorchester"
+      },
+      {
+        "stop_id": "53530",
+        "stop_name": "René-Lévesque / 1re Avenue"
+      },
+      {
+        "stop_id": "53535",
+        "stop_name": "René-Lévesque / 3e Avenue"
+      },
+      {
+        "stop_id": "53544",
+        "stop_name": "René-Lévesque / 5e Avenue"
+      },
+      {
+        "stop_id": "53549",
+        "stop_name": "René-Lévesque / 8e Avenue"
+      },
+      {
+        "stop_id": "53556",
+        "stop_name": "René-Lévesque / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "53564",
+        "stop_name": "René-Lévesque / 14e Avenue"
+      },
+      {
+        "stop_id": "53572",
+        "stop_name": "René-Lévesque / 16e Avenue"
+      },
+      {
+        "stop_id": "53576",
+        "stop_name": "René-Lévesque / du Poitou"
+      },
+      {
+        "stop_id": "53580",
+        "stop_name": "René-Lévesque / des Saules"
+      },
+      {
+        "stop_id": "53707",
+        "stop_name": "René-Lévesque / No 865"
+      },
+      {
+        "stop_id": "53590",
+        "stop_name": "René-Lévesque / du Tricentenaire"
+      },
+      {
+        "stop_id": "53710",
+        "stop_name": "du Tricentenaire / Joseph-d'Argent"
+      },
+      {
+        "stop_id": "53538",
+        "stop_name": "du Tricentenaire / De Montigny"
+      },
+      {
+        "stop_id": "53493",
+        "stop_name": "du Tricentenaire / No 1735"
+      },
+      {
+        "stop_id": "53490",
+        "stop_name": "du Tricentenaire / Forsyth"
+      },
+      {
+        "stop_id": "53455",
+        "stop_name": "du Tricentenaire / Sherbrooke"
+      },
+      {
+        "stop_id": "53470",
+        "stop_name": "Sherbrooke / Robert-Chevalier"
+      },
+      {
+        "stop_id": "53712",
+        "stop_name": "Sherbrooke / No 13092"
+      },
+      {
+        "stop_id": "53477",
+        "stop_name": "Sherbrooke / 32e Avenue"
+      },
+      {
+        "stop_id": "53487",
+        "stop_name": "Sherbrooke / 36e Avenue"
+      },
+      {
+        "stop_id": "53495",
+        "stop_name": "Sherbrooke / 40e Avenue"
+      },
+      {
+        "stop_id": "53714",
+        "stop_name": "Sherbrooke / 42e Avenue"
+      },
+      {
+        "stop_id": "53506",
+        "stop_name": "Sherbrooke / 47e Avenue"
+      },
+      {
+        "stop_id": "53509",
+        "stop_name": "Sherbrooke / De La Rousselière"
+      },
+      {
+        "stop_id": "53510",
+        "stop_name": "Sherbrooke / 52e Avenue"
+      },
+      {
+        "stop_id": "53532",
+        "stop_name": "53e Avenue / Forsyth"
+      },
+      {
+        "stop_id": "53567",
+        "stop_name": "53e Avenue / De Montigny"
+      },
+      {
+        "stop_id": "53584",
+        "stop_name": "53e Avenue / Victoria"
+      },
+      {
+        "stop_id": "53597",
+        "stop_name": "53e Avenue / Notre-Dame"
+      },
+      {
+        "stop_id": "53599",
+        "stop_name": "Notre-Dame / 54e Avenue"
+      },
+      {
+        "stop_id": "53601",
+        "stop_name": "Notre-Dame / 57e Avenue"
+      },
+      {
+        "stop_id": "53605",
+        "stop_name": "Notre-Dame / 60e Avenue"
+      },
+      {
+        "stop_id": "53613",
+        "stop_name": "Notre-Dame / 64e Avenue"
+      },
+      {
+        "stop_id": "53618",
+        "stop_name": "Notre-Dame / 67e Avenue"
+      },
+      {
+        "stop_id": "53623",
+        "stop_name": "Parc-Nature de la Pointe-aux-Prairies"
+      },
+      {
+        "stop_id": "53641",
+        "stop_name": "Notre-Dame / Beausoleil"
+      },
+      {
+        "stop_id": "53640",
+        "stop_name": "Notre-Dame / Bellevue"
+      },
+      {
+        "stop_id": "53636",
+        "stop_name": "Notre-Dame / No 15290"
+      },
+      {
+        "stop_id": "53637",
+        "stop_name": "Notre-Dame / 79e Avenue"
+      },
+      {
+        "stop_id": "53644",
+        "stop_name": "Notre-Dame / 81e Avenue"
+      },
+      {
+        "stop_id": "54379",
+        "stop_name": "Notre-Dame / 83e Avenue"
+      },
+      {
+        "stop_id": "53655",
+        "stop_name": "Notre-Dame / 86e Avenue"
+      },
+      {
+        "stop_id": "53846",
+        "stop_name": "Notre-Dame / Raoul-Jobin"
+      },
+      {
+        "stop_id": "53880",
+        "stop_name": "Sainte-Maria-Goretti / 93e Avenue"
+      },
+      {
+        "stop_id": "53671",
+        "stop_name": "Sainte-Maria-Goretti / 96e Avenue"
+      },
+      {
+        "stop_id": "53715",
+        "stop_name": "Sainte-Maria-Goretti / 100e Avenue"
+      },
+      {
+        "stop_id": "53736",
+        "stop_name": "100e Avenue / Bureau"
+      }
+    ]
+  }
+]

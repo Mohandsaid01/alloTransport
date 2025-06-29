@@ -1,0 +1,312 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "57799",
+        "stop_name": "Terminus Fairview"
+      },
+      {
+        "stop_id": "57621",
+        "stop_name": "Brunswick / Saint-Jean"
+      },
+      {
+        "stop_id": "57657",
+        "stop_name": "Hymus / Carlisle"
+      },
+      {
+        "stop_id": "57664",
+        "stop_name": "Hymus / Hastings"
+      },
+      {
+        "stop_id": "57674",
+        "stop_name": "Hymus / Hilary"
+      },
+      {
+        "stop_id": "57686",
+        "stop_name": "Hymus / Winthrop"
+      },
+      {
+        "stop_id": "57693",
+        "stop_name": "Hymus / Nordic"
+      },
+      {
+        "stop_id": "57703",
+        "stop_name": "Hymus / Delmar"
+      },
+      {
+        "stop_id": "57706",
+        "stop_name": "Delmar / Hearne"
+      },
+      {
+        "stop_id": "57712",
+        "stop_name": "Delmar / des Canots"
+      },
+      {
+        "stop_id": "57717",
+        "stop_name": "Delmar / Braebrook"
+      },
+      {
+        "stop_id": "57711",
+        "stop_name": "Braebrook / Broadview"
+      },
+      {
+        "stop_id": "57720",
+        "stop_name": "Broadview / Saint-Louis"
+      },
+      {
+        "stop_id": "57726",
+        "stop_name": "Broadview / John-Fisher"
+      },
+      {
+        "stop_id": "57728",
+        "stop_name": "Broadview / John-Fisher"
+      },
+      {
+        "stop_id": "57730",
+        "stop_name": "Broadview / Belmont"
+      },
+      {
+        "stop_id": "57732",
+        "stop_name": "Broadview / Donegani"
+      },
+      {
+        "stop_id": "57742",
+        "stop_name": "Gare Valois (Donegani / de la Baie-de-Valois)"
+      },
+      {
+        "stop_id": "57747",
+        "stop_name": "Donegani / Queen"
+      },
+      {
+        "stop_id": "57751",
+        "stop_name": "Donegani / Lucerne"
+      },
+      {
+        "stop_id": "57765",
+        "stop_name": "Cardinal / des Sources"
+      },
+      {
+        "stop_id": "57379",
+        "stop_name": "Cardinal / Strathmore"
+      },
+      {
+        "stop_id": "57395",
+        "stop_name": "Neptune / Cardinal"
+      },
+      {
+        "stop_id": "57388",
+        "stop_name": "Parkfield / Neptune"
+      },
+      {
+        "stop_id": "57402",
+        "stop_name": "Parkfield / Avila-Legault"
+      },
+      {
+        "stop_id": "57409",
+        "stop_name": "Parkfield / Saint-Louis"
+      },
+      {
+        "stop_id": "57413",
+        "stop_name": "Saint-Louis / Surrey"
+      },
+      {
+        "stop_id": "57417",
+        "stop_name": "Surrey / Pine Beach"
+      },
+      {
+        "stop_id": "57421",
+        "stop_name": "Gare Pine Beach (Cardinal / Pine Beach)"
+      },
+      {
+        "stop_id": "61683",
+        "stop_name": "Stuart-Graham / Rodolphe-Pagé"
+      },
+      {
+        "stop_id": "57573",
+        "stop_name": "Stuart-Graham / No 751"
+      },
+      {
+        "stop_id": "61688",
+        "stop_name": "Stuart-Graham / Rodolphe-Pagé"
+      },
+      {
+        "stop_id": "57516",
+        "stop_name": "Albert-de-Niverville / Arthur-Fecteau"
+      },
+      {
+        "stop_id": "61737",
+        "stop_name": "YUL Aéroport Montréal-Trudeau"
+      },
+      {
+        "stop_id": "61540",
+        "stop_name": "Arthur-Fecteau / Roméo-Vachon"
+      },
+      {
+        "stop_id": "57568",
+        "stop_name": "Gare Dorval"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "57568",
+        "stop_name": "Gare Dorval"
+      },
+      {
+        "stop_id": "57502",
+        "stop_name": "Jacques-de-Lesseps / Hôtel Sheraton"
+      },
+      {
+        "stop_id": "61736",
+        "stop_name": "YUL Aéroport Montréal-Trudeau"
+      },
+      {
+        "stop_id": "57515",
+        "stop_name": "Albert-de-Niverville / Rodolphe-Pagé"
+      },
+      {
+        "stop_id": "61684",
+        "stop_name": "Stuart-Graham / Rodolphe-Pagé"
+      },
+      {
+        "stop_id": "57578",
+        "stop_name": "Stuart-Graham / No 751"
+      },
+      {
+        "stop_id": "61685",
+        "stop_name": "Stuart-Graham / Rodolphe-Pagé"
+      },
+      {
+        "stop_id": "57420",
+        "stop_name": "Gare Pine Beach (Cardinal / Westwood)"
+      },
+      {
+        "stop_id": "57416",
+        "stop_name": "Pine Beach / Davidson"
+      },
+      {
+        "stop_id": "57412",
+        "stop_name": "Surrey / Saint-Louis"
+      },
+      {
+        "stop_id": "57408",
+        "stop_name": "Saint-Louis / Parkfield"
+      },
+      {
+        "stop_id": "57403",
+        "stop_name": "Parkfield / Wright"
+      },
+      {
+        "stop_id": "57397",
+        "stop_name": "Parkfield / Avila-Legault"
+      },
+      {
+        "stop_id": "57389",
+        "stop_name": "Parkfield / Neptune"
+      },
+      {
+        "stop_id": "57393",
+        "stop_name": "Neptune / Cardinal"
+      },
+      {
+        "stop_id": "60402",
+        "stop_name": "Cardinal / Strathmore"
+      },
+      {
+        "stop_id": "57779",
+        "stop_name": "Cardinal / des Sources"
+      },
+      {
+        "stop_id": "57750",
+        "stop_name": "Donegani / Lucerne"
+      },
+      {
+        "stop_id": "57804",
+        "stop_name": "Donegani / King"
+      },
+      {
+        "stop_id": "57740",
+        "stop_name": "Gare Valois (Donegani / de la Baie-de-Valois)"
+      },
+      {
+        "stop_id": "57731",
+        "stop_name": "Donegani / Broadview"
+      },
+      {
+        "stop_id": "57729",
+        "stop_name": "Broadview / Belmont"
+      },
+      {
+        "stop_id": "57727",
+        "stop_name": "Broadview / No 105"
+      },
+      {
+        "stop_id": "57725",
+        "stop_name": "Broadview / John-Fisher"
+      },
+      {
+        "stop_id": "57719",
+        "stop_name": "Broadview / Saint-Louis"
+      },
+      {
+        "stop_id": "57710",
+        "stop_name": "Broadview / Braebrook"
+      },
+      {
+        "stop_id": "57718",
+        "stop_name": "Braebrook / Delmar"
+      },
+      {
+        "stop_id": "57713",
+        "stop_name": "Delmar / des Canots"
+      },
+      {
+        "stop_id": "57705",
+        "stop_name": "Delmar / Hearne"
+      },
+      {
+        "stop_id": "57702",
+        "stop_name": "Delmar / Hymus"
+      },
+      {
+        "stop_id": "57692",
+        "stop_name": "Hymus / Nordic"
+      },
+      {
+        "stop_id": "57687",
+        "stop_name": "Hymus / Gun"
+      },
+      {
+        "stop_id": "57673",
+        "stop_name": "Hymus / Hilary"
+      },
+      {
+        "stop_id": "57663",
+        "stop_name": "Hymus / Hastings"
+      },
+      {
+        "stop_id": "57656",
+        "stop_name": "Hymus / Carlisle"
+      },
+      {
+        "stop_id": "57808",
+        "stop_name": "Saint-Jean / Holiday"
+      },
+      {
+        "stop_id": "57792",
+        "stop_name": "Saint-Jean / Complexe Pointe-Claire"
+      },
+      {
+        "stop_id": "57767",
+        "stop_name": "Revcon / Place Frontenac"
+      },
+      {
+        "stop_id": "57799",
+        "stop_name": "Terminus Fairview"
+      }
+    ]
+  }
+]

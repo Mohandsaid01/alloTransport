@@ -9,11 +9,13 @@ import SignalerIncident from './pages/SignalerIncident';
 import DashboardClient from './pages/DashboardClient';
 import DashboardAgent from './pages/DashboardAgent';
 import DashboardAdmin from './pages/DashboardAdmin';
-import { AuthProvider } from './auth/AuthContext'; // ✅
+import { AuthProvider } from './auth/AuthContext'; 
+import Lignes from './pages/Lignes';
+import Arrets from './pages/Arrets';
 
 const App = () => {
   return (
-    <AuthProvider> {/* ✅ Contexte disponible partout */}
+    <AuthProvider> {/* Contexte disponible partout */}
       <Routes>
         {/* Routes publiques avec Layout */}
         <Route element={<Layout />}>
@@ -21,6 +23,8 @@ const App = () => {
           <Route path="/connexion" element={<Connexion />} />
           <Route path="/inscription" element={<Inscription />} />
           <Route path="/horaires" element={<Horaires />} />
+          <Route path="/horaires/:mode" element={<Lignes />} />
+          <Route path="/horaires/:mode/:routeId" element={<Arrets />} />  
           <Route path="/signaler" element={<SignalerIncident />} />
         </Route>
 

@@ -1,0 +1,508 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "60403",
+        "stop_name": "Rivière-des-Prairies / Gouin"
+      },
+      {
+        "stop_id": "60462",
+        "stop_name": "Rivière-des-Prairies / 3e Rue"
+      },
+      {
+        "stop_id": "52375",
+        "stop_name": "Perras / 57e Avenue"
+      },
+      {
+        "stop_id": "52302",
+        "stop_name": "Perras / 54e Avenue"
+      },
+      {
+        "stop_id": "53683",
+        "stop_name": "Perras / 51e Avenue"
+      },
+      {
+        "stop_id": "52124",
+        "stop_name": "Perras / René-Masson"
+      },
+      {
+        "stop_id": "54151",
+        "stop_name": "Perras / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "54049",
+        "stop_name": "Perras / Pierre-Baillargeon"
+      },
+      {
+        "stop_id": "51891",
+        "stop_name": "Perras / Rita-Levi-Montalcini"
+      },
+      {
+        "stop_id": "51981",
+        "stop_name": "Rita-Levi-Montalcini / Samuel-Morse"
+      },
+      {
+        "stop_id": "52072",
+        "stop_name": "Rita-Levi-Montalcini / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "51993",
+        "stop_name": "Maurice-Duplessis / André-Dumas"
+      },
+      {
+        "stop_id": "51906",
+        "stop_name": "Maurice-Duplessis / 27e Avenue"
+      },
+      {
+        "stop_id": "51850",
+        "stop_name": "Maurice-Duplessis / Clément-Ader"
+      },
+      {
+        "stop_id": "51809",
+        "stop_name": "Maurice-Duplessis / Armand-Bombardier"
+      },
+      {
+        "stop_id": "51756",
+        "stop_name": "Maurice-Duplessis / No 7861"
+      },
+      {
+        "stop_id": "51699",
+        "stop_name": "Maurice-Duplessis / La Valinière"
+      },
+      {
+        "stop_id": "53927",
+        "stop_name": "Maurice-Duplessis / Fernand-Gauthier"
+      },
+      {
+        "stop_id": "54051",
+        "stop_name": "Maurice-Duplessis / No 7588"
+      },
+      {
+        "stop_id": "51552",
+        "stop_name": "Maurice-Duplessis / Pierre-Blanchet"
+      },
+      {
+        "stop_id": "51521",
+        "stop_name": "Maurice-Duplessis / 5e Avenue"
+      },
+      {
+        "stop_id": "53930",
+        "stop_name": "Maurice-Duplessis / Marie-Victorin (Cégep Marie-Vi"
+      },
+      {
+        "stop_id": "53931",
+        "stop_name": "Maurice-Duplessis / No 7000 (Hôpital Rivière-des-P"
+      },
+      {
+        "stop_id": "55290",
+        "stop_name": "Maurice-Duplessis / Albert-Hudon"
+      },
+      {
+        "stop_id": "55286",
+        "stop_name": "Maurice-Duplessis / Langelier"
+      },
+      {
+        "stop_id": "55298",
+        "stop_name": "Langelier / Marie-Victorin"
+      },
+      {
+        "stop_id": "55303",
+        "stop_name": "Langelier / Dijon"
+      },
+      {
+        "stop_id": "55304",
+        "stop_name": "Langelier / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55312",
+        "stop_name": "Henri-Bourassa / No 6475"
+      },
+      {
+        "stop_id": "55300",
+        "stop_name": "Henri-Bourassa / Valade"
+      },
+      {
+        "stop_id": "55292",
+        "stop_name": "Henri-Bourassa / Rolland"
+      },
+      {
+        "stop_id": "59462",
+        "stop_name": "Henri-Bourassa / No 6085"
+      },
+      {
+        "stop_id": "55277",
+        "stop_name": "Henri-Bourassa / Désy"
+      },
+      {
+        "stop_id": "55258",
+        "stop_name": "Lacordaire / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55270",
+        "stop_name": "Lacordaire / d'Amos"
+      },
+      {
+        "stop_id": "55279",
+        "stop_name": "Lacordaire / de Charleroi"
+      },
+      {
+        "stop_id": "55253",
+        "stop_name": "Jean-Meunier / Louis-Francoeur"
+      },
+      {
+        "stop_id": "55265",
+        "stop_name": "Jean-Meunier / de Castille"
+      },
+      {
+        "stop_id": "55248",
+        "stop_name": "de Castille / Louis-Fréchette"
+      },
+      {
+        "stop_id": "55231",
+        "stop_name": "de Castille / Alfred"
+      },
+      {
+        "stop_id": "55220",
+        "stop_name": "Racette / de Castille"
+      },
+      {
+        "stop_id": "55240",
+        "stop_name": "Racette / d'Amiens"
+      },
+      {
+        "stop_id": "55215",
+        "stop_name": "d'Amiens / Sainte-Gertrude"
+      },
+      {
+        "stop_id": "55201",
+        "stop_name": "d'Amiens / L'Archevêque"
+      },
+      {
+        "stop_id": "55184",
+        "stop_name": "d'Amiens / Drapeau"
+      },
+      {
+        "stop_id": "55162",
+        "stop_name": "d'Amiens / Armand-Lavergne"
+      },
+      {
+        "stop_id": "55136",
+        "stop_name": "d'Amiens / Garon"
+      },
+      {
+        "stop_id": "55123",
+        "stop_name": "d'Amiens / Hébert"
+      },
+      {
+        "stop_id": "55113",
+        "stop_name": "d'Amiens / Pie-IX"
+      },
+      {
+        "stop_id": "55105",
+        "stop_name": "Monselet / Pie-IX"
+      },
+      {
+        "stop_id": "55092",
+        "stop_name": "Monselet / des Récollets"
+      },
+      {
+        "stop_id": "55070",
+        "stop_name": "Monselet / Plaza"
+      },
+      {
+        "stop_id": "55062",
+        "stop_name": "Monselet / Saint-Vital"
+      },
+      {
+        "stop_id": "55050",
+        "stop_name": "Monselet / du Parc-Georges"
+      },
+      {
+        "stop_id": "55041",
+        "stop_name": "Monselet / Leblanc"
+      },
+      {
+        "stop_id": "55037",
+        "stop_name": "Monselet / Saint-Michel"
+      },
+      {
+        "stop_id": "61240",
+        "stop_name": "Saint-Michel / Gouin"
+      },
+      {
+        "stop_id": "55031",
+        "stop_name": "Gouin / Mackay"
+      },
+      {
+        "stop_id": "55033",
+        "stop_name": "Gouin / Audoin"
+      },
+      {
+        "stop_id": "55331",
+        "stop_name": "Gouin / De Belleville"
+      },
+      {
+        "stop_id": "55316",
+        "stop_name": "Gouin / des Laurentides"
+      },
+      {
+        "stop_id": "55044",
+        "stop_name": "Saint-Vital / Henri-Bourassa"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "55337",
+        "stop_name": "Saint-Vital / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55332",
+        "stop_name": "Gouin / No 3591"
+      },
+      {
+        "stop_id": "55032",
+        "stop_name": "Gouin / Lausanne"
+      },
+      {
+        "stop_id": "55030",
+        "stop_name": "Gouin / No 3315"
+      },
+      {
+        "stop_id": "55029",
+        "stop_name": "Gouin / Audoin"
+      },
+      {
+        "stop_id": "60433",
+        "stop_name": "Gouin / Cadieux"
+      },
+      {
+        "stop_id": "60505",
+        "stop_name": "Saint-Michel / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55335",
+        "stop_name": "Saint-Michel / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55042",
+        "stop_name": "Monselet / Leblanc"
+      },
+      {
+        "stop_id": "55051",
+        "stop_name": "Monselet / du Parc-Georges"
+      },
+      {
+        "stop_id": "55063",
+        "stop_name": "Monselet / Saint-Vital"
+      },
+      {
+        "stop_id": "55071",
+        "stop_name": "Monselet / Plaza"
+      },
+      {
+        "stop_id": "55093",
+        "stop_name": "Monselet / des Récollets"
+      },
+      {
+        "stop_id": "55104",
+        "stop_name": "Monselet / Pie-IX"
+      },
+      {
+        "stop_id": "55135",
+        "stop_name": "Forest / Pie-IX"
+      },
+      {
+        "stop_id": "55160",
+        "stop_name": "Forest / Garon"
+      },
+      {
+        "stop_id": "55189",
+        "stop_name": "Armand-Lavergne / Forest"
+      },
+      {
+        "stop_id": "55161",
+        "stop_name": "Armand-Lavergne / d'Amiens"
+      },
+      {
+        "stop_id": "55185",
+        "stop_name": "d'Amiens / Drapeau"
+      },
+      {
+        "stop_id": "55202",
+        "stop_name": "d'Amiens / L'Archevêque"
+      },
+      {
+        "stop_id": "55216",
+        "stop_name": "d'Amiens / Sainte-Gertrude"
+      },
+      {
+        "stop_id": "55241",
+        "stop_name": "Racette / d'Amiens"
+      },
+      {
+        "stop_id": "55219",
+        "stop_name": "Racette / de Castille"
+      },
+      {
+        "stop_id": "55242",
+        "stop_name": "de Castille / Edger"
+      },
+      {
+        "stop_id": "55249",
+        "stop_name": "de Castille / Louis-Fréchette"
+      },
+      {
+        "stop_id": "55266",
+        "stop_name": "Jean-Meunier / Louis-Francoeur"
+      },
+      {
+        "stop_id": "55250",
+        "stop_name": "Jean-Meunier / de Charleroi"
+      },
+      {
+        "stop_id": "55280",
+        "stop_name": "Lacordaire / de Charleroi"
+      },
+      {
+        "stop_id": "55269",
+        "stop_name": "Lacordaire / d'Amos"
+      },
+      {
+        "stop_id": "55254",
+        "stop_name": "Lacordaire / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55278",
+        "stop_name": "Henri-Bourassa / Désy"
+      },
+      {
+        "stop_id": "59461",
+        "stop_name": "Henri-Bourassa / No 6100"
+      },
+      {
+        "stop_id": "55294",
+        "stop_name": "Henri-Bourassa / Rolland"
+      },
+      {
+        "stop_id": "55301",
+        "stop_name": "Henri-Bourassa / Valade"
+      },
+      {
+        "stop_id": "55306",
+        "stop_name": "Langelier / Renoir"
+      },
+      {
+        "stop_id": "55302",
+        "stop_name": "Langelier / Dijon"
+      },
+      {
+        "stop_id": "55296",
+        "stop_name": "Langelier / Marie-Victorin"
+      },
+      {
+        "stop_id": "55285",
+        "stop_name": "Langelier / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "55291",
+        "stop_name": "Maurice-Duplessis / Albert-Hudon"
+      },
+      {
+        "stop_id": "54236",
+        "stop_name": "Maurice-Duplessis / No 7000"
+      },
+      {
+        "stop_id": "51464",
+        "stop_name": "Maurice-Duplessis / Marie-Victorin (Cégep Marie-Vi"
+      },
+      {
+        "stop_id": "54048",
+        "stop_name": "Maurice-Duplessis / 6e Avenue"
+      },
+      {
+        "stop_id": "51553",
+        "stop_name": "Maurice-Duplessis / Pierre-Blanchet"
+      },
+      {
+        "stop_id": "51610",
+        "stop_name": "Maurice-Duplessis / Marc-Aurèle-Fortin"
+      },
+      {
+        "stop_id": "53928",
+        "stop_name": "Maurice-Duplessis / Fernand-Gauthier"
+      },
+      {
+        "stop_id": "51698",
+        "stop_name": "Maurice-Duplessis / La Valinière"
+      },
+      {
+        "stop_id": "51760",
+        "stop_name": "Maurice-Duplessis / No 7860"
+      },
+      {
+        "stop_id": "51811",
+        "stop_name": "Maurice-Duplessis / Armand-Bombardier"
+      },
+      {
+        "stop_id": "51849",
+        "stop_name": "Maurice-Duplessis / Clément-Ader"
+      },
+      {
+        "stop_id": "51907",
+        "stop_name": "Maurice-Duplessis / 27e Avenue"
+      },
+      {
+        "stop_id": "51994",
+        "stop_name": "Maurice-Duplessis / André-Dumas"
+      },
+      {
+        "stop_id": "53929",
+        "stop_name": "Rita-Levi-Montalcini / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "51980",
+        "stop_name": "Rita-Levi-Montalcini / Samuel-Morse"
+      },
+      {
+        "stop_id": "51888",
+        "stop_name": "Rita-Levi-Montalcini / Perras"
+      },
+      {
+        "stop_id": "54050",
+        "stop_name": "Perras / Pierre-Baillargeon"
+      },
+      {
+        "stop_id": "54152",
+        "stop_name": "Perras / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "52125",
+        "stop_name": "Perras / René-Masson"
+      },
+      {
+        "stop_id": "53684",
+        "stop_name": "Perras / 49e Avenue"
+      },
+      {
+        "stop_id": "52303",
+        "stop_name": "Perras / 54e Avenue"
+      },
+      {
+        "stop_id": "54073",
+        "stop_name": "Perras / 57e Avenue"
+      },
+      {
+        "stop_id": "60802",
+        "stop_name": "Rivière-des-Prairies / 3e Rue"
+      },
+      {
+        "stop_id": "60403",
+        "stop_name": "Rivière-des-Prairies / Gouin"
+      }
+    ]
+  }
+]

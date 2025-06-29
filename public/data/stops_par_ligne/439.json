@@ -1,0 +1,547 @@
+[
+  {
+    "direction": "Sud destination Pie-IX / Notre-Dame",
+    "arrets": [
+      {
+        "stop_id": "62200",
+        "stop_name": "Marie-Victorin / No 7000"
+      },
+      {
+        "stop_id": "55318",
+        "stop_name": "Marie-Victorin / Albert-Hudon"
+      },
+      {
+        "stop_id": "59428",
+        "stop_name": "Albert-Hudon / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "55286",
+        "stop_name": "Maurice-Duplessis / Langelier"
+      },
+      {
+        "stop_id": "55282",
+        "stop_name": "Maurice-Duplessis / Monty"
+      },
+      {
+        "stop_id": "55276",
+        "stop_name": "Maurice-Duplessis / Lapierre"
+      },
+      {
+        "stop_id": "55261",
+        "stop_name": "Maurice-Duplessis / Rolland"
+      },
+      {
+        "stop_id": "55232",
+        "stop_name": "Maurice-Duplessis / Laurier"
+      },
+      {
+        "stop_id": "55211",
+        "stop_name": "Lacordaire / des Tulipes"
+      },
+      {
+        "stop_id": "55230",
+        "stop_name": "Lacordaire / des Iris"
+      },
+      {
+        "stop_id": "55324",
+        "stop_name": "Lacordaire / des Narcisses"
+      },
+      {
+        "stop_id": "55222",
+        "stop_name": "Henri-Bourassa / Jean-Meunier"
+      },
+      {
+        "stop_id": "55199",
+        "stop_name": "Henri-Bourassa / Salk"
+      },
+      {
+        "stop_id": "55145",
+        "stop_name": "Henri-Bourassa / Sainte-Gertrude"
+      },
+      {
+        "stop_id": "55325",
+        "stop_name": "Henri-Bourassa / Léger"
+      },
+      {
+        "stop_id": "61628",
+        "stop_name": "SRB Pie-IX / d'Amos"
+      },
+      {
+        "stop_id": "62107",
+        "stop_name": "SRB Pie-IX / de Castille"
+      },
+      {
+        "stop_id": "62105",
+        "stop_name": "SRB Pie-IX / Fleury"
+      },
+      {
+        "stop_id": "62103",
+        "stop_name": "SRB Pie-IX / 56e rue"
+      },
+      {
+        "stop_id": "62101",
+        "stop_name": "SRB Pie-IX / 47e rue"
+      },
+      {
+        "stop_id": "62099",
+        "stop_name": "SRB Pie-IX / 39e rue"
+      },
+      {
+        "stop_id": "62097",
+        "stop_name": "SRB Pie-IX / Robert"
+      },
+      {
+        "stop_id": "62095",
+        "stop_name": "SRB Pie-IX / Jarry"
+      },
+      {
+        "stop_id": "62093",
+        "stop_name": "SRB Pie-IX / Jean-Talon"
+      },
+      {
+        "stop_id": "62091",
+        "stop_name": "SRB Pie-IX / Bélanger"
+      },
+      {
+        "stop_id": "62089",
+        "stop_name": "SRB Pie-IX / Beaubien"
+      },
+      {
+        "stop_id": "62087",
+        "stop_name": "SRB Pie-IX / Rosemont"
+      },
+      {
+        "stop_id": "62085",
+        "stop_name": "SRB Pie-IX / Laurier"
+      },
+      {
+        "stop_id": "62083",
+        "stop_name": "SRB Pie-IX / du Mont-Royal"
+      },
+      {
+        "stop_id": "53018",
+        "stop_name": "Station Pie-IX (Pie-IX / Pierre-De Coubertin)"
+      },
+      {
+        "stop_id": "53087",
+        "stop_name": "Pie-IX / Hochelaga"
+      },
+      {
+        "stop_id": "53126",
+        "stop_name": "Pie-IX / de Rouen"
+      },
+      {
+        "stop_id": "53157",
+        "stop_name": "Pie-IX / No 2050"
+      },
+      {
+        "stop_id": "53190",
+        "stop_name": "Pie-IX / Ontario"
+      },
+      {
+        "stop_id": "53222",
+        "stop_name": "Pie-IX / La Fontaine"
+      },
+      {
+        "stop_id": "53238",
+        "stop_name": "Pie-IX / Adam"
+      },
+      {
+        "stop_id": "53270",
+        "stop_name": "Pie-IX / Sainte-Catherine"
+      },
+      {
+        "stop_id": "62008",
+        "stop_name": "SRB Pie-IX / Saint-Martin Est -Zone B"
+      },
+      {
+        "stop_id": "61274",
+        "stop_name": "SRB Pie-IX / Saint-Martin Ouest -Zone B"
+      },
+      {
+        "stop_id": "62047",
+        "stop_name": "SRB Pie-IX / de la Concorde -Zone B"
+      }
+    ]
+  },
+  {
+    "direction": "Nord destination Cégep Marie-Victorin",
+    "arrets": [
+      {
+        "stop_id": "53272",
+        "stop_name": "Pie-IX / Sainte-Catherine"
+      },
+      {
+        "stop_id": "53237",
+        "stop_name": "Pie-IX / Adam"
+      },
+      {
+        "stop_id": "53221",
+        "stop_name": "Pie-IX / La Fontaine"
+      },
+      {
+        "stop_id": "53188",
+        "stop_name": "Pie-IX / Ontario"
+      },
+      {
+        "stop_id": "53125",
+        "stop_name": "Pie-IX / de Rouen"
+      },
+      {
+        "stop_id": "53085",
+        "stop_name": "Pie-IX / Hochelaga"
+      },
+      {
+        "stop_id": "53019",
+        "stop_name": "Station Pie-IX (Pie-IX / Pierre-De Coubertin)"
+      },
+      {
+        "stop_id": "62082",
+        "stop_name": "SRB Pie-IX / du Mont-Royal"
+      },
+      {
+        "stop_id": "62084",
+        "stop_name": "SRB Pie-IX / Laurier"
+      },
+      {
+        "stop_id": "62086",
+        "stop_name": "SRB Pie-IX / Rosemont"
+      },
+      {
+        "stop_id": "62088",
+        "stop_name": "SRB Pie-IX / Beaubien"
+      },
+      {
+        "stop_id": "62090",
+        "stop_name": "SRB Pie-IX / Bélanger"
+      },
+      {
+        "stop_id": "62092",
+        "stop_name": "SRB Pie-IX / Jean-Talon"
+      },
+      {
+        "stop_id": "62094",
+        "stop_name": "SRB Pie-IX / Jarry"
+      },
+      {
+        "stop_id": "62096",
+        "stop_name": "SRB Pie-IX / Robert"
+      },
+      {
+        "stop_id": "62098",
+        "stop_name": "SRB Pie-IX / 39e rue"
+      },
+      {
+        "stop_id": "62100",
+        "stop_name": "SRB Pie-IX / 47e rue"
+      },
+      {
+        "stop_id": "62102",
+        "stop_name": "SRB Pie-IX / 56e rue"
+      },
+      {
+        "stop_id": "62104",
+        "stop_name": "SRB Pie-IX / Fleury"
+      },
+      {
+        "stop_id": "62106",
+        "stop_name": "SRB Pie-IX / de Castille"
+      },
+      {
+        "stop_id": "62108",
+        "stop_name": "SRB Pie-IX / d'Amos"
+      },
+      {
+        "stop_id": "55073",
+        "stop_name": "Henri-Bourassa / Pelletier"
+      },
+      {
+        "stop_id": "55147",
+        "stop_name": "Henri-Bourassa / Sainte-Gertrude"
+      },
+      {
+        "stop_id": "55200",
+        "stop_name": "Henri-Bourassa / Salk"
+      },
+      {
+        "stop_id": "55214",
+        "stop_name": "Henri-Bourassa / Sainte-Colette"
+      },
+      {
+        "stop_id": "55245",
+        "stop_name": "CLSC de Montréal-Nord"
+      },
+      {
+        "stop_id": "55221",
+        "stop_name": "Lacordaire / Crevier"
+      },
+      {
+        "stop_id": "55209",
+        "stop_name": "Lacordaire / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "55227",
+        "stop_name": "Maurice-Duplessis / Désy"
+      },
+      {
+        "stop_id": "55263",
+        "stop_name": "Maurice-Duplessis / Rolland"
+      },
+      {
+        "stop_id": "55281",
+        "stop_name": "Maurice-Duplessis / Matte"
+      },
+      {
+        "stop_id": "55288",
+        "stop_name": "Maurice-Duplessis / Langelier"
+      },
+      {
+        "stop_id": "55291",
+        "stop_name": "Maurice-Duplessis / Albert-Hudon"
+      },
+      {
+        "stop_id": "54236",
+        "stop_name": "Maurice-Duplessis / No 7000"
+      },
+      {
+        "stop_id": "62200",
+        "stop_name": "Marie-Victorin / No 7000"
+      }
+    ]
+  },
+  {
+    "direction": "Nord destination Laval",
+    "arrets": [
+      {
+        "stop_id": "53272",
+        "stop_name": "Pie-IX / Sainte-Catherine"
+      },
+      {
+        "stop_id": "53237",
+        "stop_name": "Pie-IX / Adam"
+      },
+      {
+        "stop_id": "53221",
+        "stop_name": "Pie-IX / La Fontaine"
+      },
+      {
+        "stop_id": "53188",
+        "stop_name": "Pie-IX / Ontario"
+      },
+      {
+        "stop_id": "53125",
+        "stop_name": "Pie-IX / de Rouen"
+      },
+      {
+        "stop_id": "53085",
+        "stop_name": "Pie-IX / Hochelaga"
+      },
+      {
+        "stop_id": "53019",
+        "stop_name": "Station Pie-IX (Pie-IX / Pierre-De Coubertin)"
+      },
+      {
+        "stop_id": "62082",
+        "stop_name": "SRB Pie-IX / du Mont-Royal"
+      },
+      {
+        "stop_id": "62084",
+        "stop_name": "SRB Pie-IX / Laurier"
+      },
+      {
+        "stop_id": "62086",
+        "stop_name": "SRB Pie-IX / Rosemont"
+      },
+      {
+        "stop_id": "62088",
+        "stop_name": "SRB Pie-IX / Beaubien"
+      },
+      {
+        "stop_id": "62090",
+        "stop_name": "SRB Pie-IX / Bélanger"
+      },
+      {
+        "stop_id": "62092",
+        "stop_name": "SRB Pie-IX / Jean-Talon"
+      },
+      {
+        "stop_id": "62094",
+        "stop_name": "SRB Pie-IX / Jarry"
+      },
+      {
+        "stop_id": "62096",
+        "stop_name": "SRB Pie-IX / Robert"
+      },
+      {
+        "stop_id": "62098",
+        "stop_name": "SRB Pie-IX / 39e rue"
+      },
+      {
+        "stop_id": "62100",
+        "stop_name": "SRB Pie-IX / 47e rue"
+      },
+      {
+        "stop_id": "62102",
+        "stop_name": "SRB Pie-IX / 56e rue"
+      },
+      {
+        "stop_id": "62104",
+        "stop_name": "SRB Pie-IX / Fleury"
+      },
+      {
+        "stop_id": "62106",
+        "stop_name": "SRB Pie-IX / de Castille"
+      },
+      {
+        "stop_id": "62108",
+        "stop_name": "SRB Pie-IX / d'Amos"
+      },
+      {
+        "stop_id": "62048",
+        "stop_name": "SRB Pie-IX / de la Concorde -Zone B"
+      },
+      {
+        "stop_id": "62008",
+        "stop_name": "SRB Pie-IX / Saint-Martin Est -Zone B"
+      }
+    ]
+  },
+  {
+    "direction": "Sud destination Station Pie-IX",
+    "arrets": [
+      {
+        "stop_id": "61545",
+        "stop_name": "Carrefour Henri-Bourassa / Pie-IX"
+      },
+      {
+        "stop_id": "61628",
+        "stop_name": "SRB Pie-IX / d'Amos"
+      },
+      {
+        "stop_id": "62107",
+        "stop_name": "SRB Pie-IX / de Castille"
+      },
+      {
+        "stop_id": "62105",
+        "stop_name": "SRB Pie-IX / Fleury"
+      },
+      {
+        "stop_id": "62103",
+        "stop_name": "SRB Pie-IX / 56e rue"
+      },
+      {
+        "stop_id": "62101",
+        "stop_name": "SRB Pie-IX / 47e rue"
+      },
+      {
+        "stop_id": "62099",
+        "stop_name": "SRB Pie-IX / 39e rue"
+      },
+      {
+        "stop_id": "62097",
+        "stop_name": "SRB Pie-IX / Robert"
+      },
+      {
+        "stop_id": "62095",
+        "stop_name": "SRB Pie-IX / Jarry"
+      },
+      {
+        "stop_id": "62093",
+        "stop_name": "SRB Pie-IX / Jean-Talon"
+      },
+      {
+        "stop_id": "62091",
+        "stop_name": "SRB Pie-IX / Bélanger"
+      },
+      {
+        "stop_id": "62089",
+        "stop_name": "SRB Pie-IX / Beaubien"
+      },
+      {
+        "stop_id": "62087",
+        "stop_name": "SRB Pie-IX / Rosemont"
+      },
+      {
+        "stop_id": "62085",
+        "stop_name": "SRB Pie-IX / Laurier"
+      },
+      {
+        "stop_id": "62083",
+        "stop_name": "SRB Pie-IX / du Mont-Royal"
+      },
+      {
+        "stop_id": "53018",
+        "stop_name": "Station Pie-IX (Pie-IX / Pierre-De Coubertin)"
+      }
+    ]
+  },
+  {
+    "direction": "Nord destination Henri-Bourassa / Pie-IX",
+    "arrets": [
+      {
+        "stop_id": "53019",
+        "stop_name": "Station Pie-IX (Pie-IX / Pierre-De Coubertin)"
+      },
+      {
+        "stop_id": "62082",
+        "stop_name": "SRB Pie-IX / du Mont-Royal"
+      },
+      {
+        "stop_id": "62084",
+        "stop_name": "SRB Pie-IX / Laurier"
+      },
+      {
+        "stop_id": "62086",
+        "stop_name": "SRB Pie-IX / Rosemont"
+      },
+      {
+        "stop_id": "62088",
+        "stop_name": "SRB Pie-IX / Beaubien"
+      },
+      {
+        "stop_id": "62090",
+        "stop_name": "SRB Pie-IX / Bélanger"
+      },
+      {
+        "stop_id": "62092",
+        "stop_name": "SRB Pie-IX / Jean-Talon"
+      },
+      {
+        "stop_id": "62094",
+        "stop_name": "SRB Pie-IX / Jarry"
+      },
+      {
+        "stop_id": "62096",
+        "stop_name": "SRB Pie-IX / Robert"
+      },
+      {
+        "stop_id": "62098",
+        "stop_name": "SRB Pie-IX / 39e rue"
+      },
+      {
+        "stop_id": "62100",
+        "stop_name": "SRB Pie-IX / 47e rue"
+      },
+      {
+        "stop_id": "62102",
+        "stop_name": "SRB Pie-IX / 56e rue"
+      },
+      {
+        "stop_id": "62104",
+        "stop_name": "SRB Pie-IX / Fleury"
+      },
+      {
+        "stop_id": "62106",
+        "stop_name": "SRB Pie-IX / de Castille"
+      },
+      {
+        "stop_id": "62108",
+        "stop_name": "SRB Pie-IX / d'Amos"
+      },
+      {
+        "stop_id": "61545",
+        "stop_name": "Carrefour Henri-Bourassa / Pie-IX"
+      }
+    ]
+  }
+]

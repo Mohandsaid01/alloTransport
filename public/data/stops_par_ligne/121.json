@@ -1,0 +1,412 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54216",
+        "stop_name": "Saint-Michel / Sauvé"
+      },
+      {
+        "stop_id": "50802",
+        "stop_name": "Charland / J.-J.-Gagnier"
+      },
+      {
+        "stop_id": "50754",
+        "stop_name": "Charland / Sackville"
+      },
+      {
+        "stop_id": "50731",
+        "stop_name": "Charland / D'Iberville"
+      },
+      {
+        "stop_id": "50704",
+        "stop_name": "Charland / de Lille"
+      },
+      {
+        "stop_id": "50625",
+        "stop_name": "Sauvé / Rancourt"
+      },
+      {
+        "stop_id": "50616",
+        "stop_name": "Sauvé / Parthenais"
+      },
+      {
+        "stop_id": "50594",
+        "stop_name": "Sauvé / De Lorimier"
+      },
+      {
+        "stop_id": "50571",
+        "stop_name": "Sauvé / Charton"
+      },
+      {
+        "stop_id": "50556",
+        "stop_name": "Sauvé / Papineau"
+      },
+      {
+        "stop_id": "50542",
+        "stop_name": "Sauvé / Garnier"
+      },
+      {
+        "stop_id": "50527",
+        "stop_name": "Sauvé / Curotte"
+      },
+      {
+        "stop_id": "50503",
+        "stop_name": "Sauvé / Christophe-Colomb"
+      },
+      {
+        "stop_id": "50492",
+        "stop_name": "Sauvé / Chambord"
+      },
+      {
+        "stop_id": "50487",
+        "stop_name": "Sauvé / Georges-Baril"
+      },
+      {
+        "stop_id": "50467",
+        "stop_name": "Sauvé / Saint-Hubert"
+      },
+      {
+        "stop_id": "50446",
+        "stop_name": "Sauvé / Millen"
+      },
+      {
+        "stop_id": "50442",
+        "stop_name": "Sauvé / Lajeunesse"
+      },
+      {
+        "stop_id": "50439",
+        "stop_name": "Station Sauvé (Édicule Nord)"
+      },
+      {
+        "stop_id": "50403",
+        "stop_name": "Sauvé / Laverdure"
+      },
+      {
+        "stop_id": "50391",
+        "stop_name": "Sauvé / Saint-Laurent"
+      },
+      {
+        "stop_id": "50373",
+        "stop_name": "Sauvé / Saint-Urbain"
+      },
+      {
+        "stop_id": "50365",
+        "stop_name": "Sauvé / de l'Esplanade"
+      },
+      {
+        "stop_id": "50353",
+        "stop_name": "Sauvé / Tolhurst"
+      },
+      {
+        "stop_id": "50346",
+        "stop_name": "Sauvé / Verville"
+      },
+      {
+        "stop_id": "50341",
+        "stop_name": "Sauvé / Meilleur"
+      },
+      {
+        "stop_id": "50325",
+        "stop_name": "Sauvé / de l'Acadie (côté est)"
+      },
+      {
+        "stop_id": "50330",
+        "stop_name": "Sauvé / de l'Acadie (Côté ouest)"
+      },
+      {
+        "stop_id": "53681",
+        "stop_name": "Sauvé / Elzéar-Soucy"
+      },
+      {
+        "stop_id": "55736",
+        "stop_name": "Côte-Vertu / Lebeau"
+      },
+      {
+        "stop_id": "55733",
+        "stop_name": "Côte-Vertu / Grimard"
+      },
+      {
+        "stop_id": "55728",
+        "stop_name": "Côte-Vertu / Jules-Poitras"
+      },
+      {
+        "stop_id": "55718",
+        "stop_name": "Côte-Vertu / Muir"
+      },
+      {
+        "stop_id": "55707",
+        "stop_name": "Côte-Vertu / Champigny"
+      },
+      {
+        "stop_id": "55696",
+        "stop_name": "Côte-Vertu / Barré"
+      },
+      {
+        "stop_id": "55689",
+        "stop_name": "Côte-Vertu / Dutrisac"
+      },
+      {
+        "stop_id": "55661",
+        "stop_name": "Côte-Vertu / Sainte-Croix"
+      },
+      {
+        "stop_id": "55649",
+        "stop_name": "Côte-Vertu / Saint-Germain"
+      },
+      {
+        "stop_id": "55641",
+        "stop_name": "Station Côte-Vertu (Côte-Vertu / Décarie)"
+      },
+      {
+        "stop_id": "55803",
+        "stop_name": "Côte-Vertu / Crevier"
+      },
+      {
+        "stop_id": "55594",
+        "stop_name": "Côte-Vertu / Leduc"
+      },
+      {
+        "stop_id": "55597",
+        "stop_name": "Côte-Vertu / Tait"
+      },
+      {
+        "stop_id": "55580",
+        "stop_name": "Côte-Vertu / Marlatt"
+      },
+      {
+        "stop_id": "55554",
+        "stop_name": "Côte-Vertu / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55802",
+        "stop_name": "Côte-Vertu / Bourgoin"
+      },
+      {
+        "stop_id": "55518",
+        "stop_name": "Côte-Vertu / Bertrand"
+      },
+      {
+        "stop_id": "55517",
+        "stop_name": "Côte-Vertu / Duguay"
+      },
+      {
+        "stop_id": "55502",
+        "stop_name": "Côte-Vertu / Hocquart"
+      },
+      {
+        "stop_id": "55486",
+        "stop_name": "Côte-Vertu / Cavendish"
+      },
+      {
+        "stop_id": "55801",
+        "stop_name": "Place Vertu entrée sud-est (Côte-Vertu/No 3131)"
+      },
+      {
+        "stop_id": "55467",
+        "stop_name": "Beaulac / Côte-Vertu"
+      },
+      {
+        "stop_id": "55934",
+        "stop_name": "Beaulac / Thimens"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "55934",
+        "stop_name": "Beaulac / Thimens"
+      },
+      {
+        "stop_id": "55936",
+        "stop_name": "Beaulac / Thimens"
+      },
+      {
+        "stop_id": "55349",
+        "stop_name": "Thimens / Place Vertu"
+      },
+      {
+        "stop_id": "55454",
+        "stop_name": "Thimens / Cavendish"
+      },
+      {
+        "stop_id": "55892",
+        "stop_name": "Cavendish / Place Vertu"
+      },
+      {
+        "stop_id": "55503",
+        "stop_name": "Côte-Vertu / Hocquart"
+      },
+      {
+        "stop_id": "55516",
+        "stop_name": "Côte-Vertu / Hills"
+      },
+      {
+        "stop_id": "55898",
+        "stop_name": "Côte-Vertu / No 2308"
+      },
+      {
+        "stop_id": "55556",
+        "stop_name": "Côte-Vertu / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55581",
+        "stop_name": "Côte-Vertu / Marlatt"
+      },
+      {
+        "stop_id": "55596",
+        "stop_name": "Côte-Vertu / Marcel-Laurin"
+      },
+      {
+        "stop_id": "55604",
+        "stop_name": "Côte-Vertu / Leduc"
+      },
+      {
+        "stop_id": "55624",
+        "stop_name": "Côte-Vertu / Cardinal"
+      },
+      {
+        "stop_id": "55639",
+        "stop_name": "Station Côte-Vertu (Côte-Vertu / Décarie)"
+      },
+      {
+        "stop_id": "55650",
+        "stop_name": "Côte-Vertu / Saint-Germain"
+      },
+      {
+        "stop_id": "55662",
+        "stop_name": "Côte-Vertu / Sainte-Croix"
+      },
+      {
+        "stop_id": "55688",
+        "stop_name": "Côte-Vertu / Dutrisac"
+      },
+      {
+        "stop_id": "55712",
+        "stop_name": "Côte-Vertu / Montpellier"
+      },
+      {
+        "stop_id": "55720",
+        "stop_name": "Côte-Vertu / Muir"
+      },
+      {
+        "stop_id": "55730",
+        "stop_name": "Côte-Vertu / Jules-Poitras"
+      },
+      {
+        "stop_id": "55734",
+        "stop_name": "Côte-Vertu / Grimard"
+      },
+      {
+        "stop_id": "55865",
+        "stop_name": "Côte-Vertu / No 100"
+      },
+      {
+        "stop_id": "53682",
+        "stop_name": "Sauvé / Elzéar-Soucy"
+      },
+      {
+        "stop_id": "50328",
+        "stop_name": "Sauvé / de l'Acadie"
+      },
+      {
+        "stop_id": "50342",
+        "stop_name": "Sauvé / Meilleur"
+      },
+      {
+        "stop_id": "50354",
+        "stop_name": "Sauvé / Tolhurst"
+      },
+      {
+        "stop_id": "50370",
+        "stop_name": "Sauvé / Waverly"
+      },
+      {
+        "stop_id": "50382",
+        "stop_name": "Sauvé / Clark"
+      },
+      {
+        "stop_id": "50393",
+        "stop_name": "Sauvé / Grande Allée"
+      },
+      {
+        "stop_id": "50404",
+        "stop_name": "Sauvé / Laverdure"
+      },
+      {
+        "stop_id": "50438",
+        "stop_name": "Station Sauvé (Édicule Sud)"
+      },
+      {
+        "stop_id": "50443",
+        "stop_name": "Sauvé / Lajeunesse"
+      },
+      {
+        "stop_id": "50447",
+        "stop_name": "Sauvé / Millen"
+      },
+      {
+        "stop_id": "50469",
+        "stop_name": "Sauvé / Saint-Hubert"
+      },
+      {
+        "stop_id": "50488",
+        "stop_name": "Sauvé / Georges-Baril"
+      },
+      {
+        "stop_id": "50493",
+        "stop_name": "Sauvé / Chambord"
+      },
+      {
+        "stop_id": "50505",
+        "stop_name": "Sauvé / Christophe-Colomb"
+      },
+      {
+        "stop_id": "50528",
+        "stop_name": "Sauvé / Curotte"
+      },
+      {
+        "stop_id": "50543",
+        "stop_name": "Sauvé / Garnier"
+      },
+      {
+        "stop_id": "50558",
+        "stop_name": "Sauvé / Papineau"
+      },
+      {
+        "stop_id": "50572",
+        "stop_name": "Sauvé / Charton"
+      },
+      {
+        "stop_id": "50595",
+        "stop_name": "Sauvé / De Lorimier"
+      },
+      {
+        "stop_id": "50617",
+        "stop_name": "Sauvé / Parthenais"
+      },
+      {
+        "stop_id": "50634",
+        "stop_name": "Sauvé / de Lille"
+      },
+      {
+        "stop_id": "50667",
+        "stop_name": "Sauvé / D'Iberville"
+      },
+      {
+        "stop_id": "50686",
+        "stop_name": "Sauvé / Sackville"
+      },
+      {
+        "stop_id": "50719",
+        "stop_name": "Sauvé / Larose"
+      },
+      {
+        "stop_id": "54216",
+        "stop_name": "Saint-Michel / Sauvé"
+      }
+    ]
+  }
+]

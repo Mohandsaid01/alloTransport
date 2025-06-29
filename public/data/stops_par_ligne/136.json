@@ -1,0 +1,276 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "54776",
+        "stop_name": "des Grandes-Prairies / No 5940"
+      },
+      {
+        "stop_id": "54793",
+        "stop_name": "des Grandes-Prairies / du Prado"
+      },
+      {
+        "stop_id": "54810",
+        "stop_name": "du Prado / Couture"
+      },
+      {
+        "stop_id": "54801",
+        "stop_name": "Couture / Périnault"
+      },
+      {
+        "stop_id": "54795",
+        "stop_name": "Couture / Lacordaire"
+      },
+      {
+        "stop_id": "54790",
+        "stop_name": "Couture / Puyseaux"
+      },
+      {
+        "stop_id": "54782",
+        "stop_name": "Couture / Salvaye"
+      },
+      {
+        "stop_id": "54768",
+        "stop_name": "Couture / François-1er"
+      },
+      {
+        "stop_id": "54765",
+        "stop_name": "Couture / Long-Sault"
+      },
+      {
+        "stop_id": "54787",
+        "stop_name": "Viau / Lavoisier"
+      },
+      {
+        "stop_id": "54808",
+        "stop_name": "Viau / Valéry"
+      },
+      {
+        "stop_id": "54819",
+        "stop_name": "Viau / Robert"
+      },
+      {
+        "stop_id": "54827",
+        "stop_name": "Viau / Jean-Nicolet"
+      },
+      {
+        "stop_id": "54829",
+        "stop_name": "Viau / D'Artagnan"
+      },
+      {
+        "stop_id": "54847",
+        "stop_name": "Viau / Jean-Rivard"
+      },
+      {
+        "stop_id": "54866",
+        "stop_name": "Viau / Jarry"
+      },
+      {
+        "stop_id": "55010",
+        "stop_name": "Viau / Métropolitain"
+      },
+      {
+        "stop_id": "54919",
+        "stop_name": "Viau / Viterbe"
+      },
+      {
+        "stop_id": "54932",
+        "stop_name": "Viau / Millet"
+      },
+      {
+        "stop_id": "54947",
+        "stop_name": "Viau / Jean-Talon"
+      },
+      {
+        "stop_id": "52118",
+        "stop_name": "Viau / Bélanger (Institut de cardiologie)"
+      },
+      {
+        "stop_id": "52235",
+        "stop_name": "Viau / Saint-Zotique"
+      },
+      {
+        "stop_id": "52359",
+        "stop_name": "Viau / Beaubien"
+      },
+      {
+        "stop_id": "52494",
+        "stop_name": "Viau / de Bellechasse"
+      },
+      {
+        "stop_id": "52573",
+        "stop_name": "Viau / Rosemont"
+      },
+      {
+        "stop_id": "52707",
+        "stop_name": "Viau / des Sorbiers"
+      },
+      {
+        "stop_id": "52986",
+        "stop_name": "Viau / Sherbrooke"
+      },
+      {
+        "stop_id": "53988",
+        "stop_name": "Viau / No 3265 (Stade Saputo)"
+      },
+      {
+        "stop_id": "50108",
+        "stop_name": "Viau / de Marseille"
+      },
+      {
+        "stop_id": "53116",
+        "stop_name": "Viau / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "50105",
+        "stop_name": "Station Viau"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "50105",
+        "stop_name": "Station Viau"
+      },
+      {
+        "stop_id": "53118",
+        "stop_name": "Viau / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "50107",
+        "stop_name": "Viau / de Marseille"
+      },
+      {
+        "stop_id": "53987",
+        "stop_name": "Viau / No 3265"
+      },
+      {
+        "stop_id": "52984",
+        "stop_name": "Viau / Sherbrooke"
+      },
+      {
+        "stop_id": "52988",
+        "stop_name": "Viau / Village Olympique"
+      },
+      {
+        "stop_id": "52706",
+        "stop_name": "Viau / des Sorbiers"
+      },
+      {
+        "stop_id": "52571",
+        "stop_name": "Viau / Rosemont"
+      },
+      {
+        "stop_id": "52493",
+        "stop_name": "Viau / de Bellechasse"
+      },
+      {
+        "stop_id": "52357",
+        "stop_name": "Viau / Beaubien"
+      },
+      {
+        "stop_id": "52234",
+        "stop_name": "Viau / Saint-Zotique"
+      },
+      {
+        "stop_id": "52116",
+        "stop_name": "Viau / Bélanger (Institut de cardiologie)"
+      },
+      {
+        "stop_id": "54945",
+        "stop_name": "Viau / Jean-Talon"
+      },
+      {
+        "stop_id": "54931",
+        "stop_name": "Viau / Burel"
+      },
+      {
+        "stop_id": "54918",
+        "stop_name": "Viau / Viterbe"
+      },
+      {
+        "stop_id": "55009",
+        "stop_name": "Viau / Métropolitain"
+      },
+      {
+        "stop_id": "54864",
+        "stop_name": "Viau / Jarry"
+      },
+      {
+        "stop_id": "54846",
+        "stop_name": "Viau / Jean-Rivard"
+      },
+      {
+        "stop_id": "54828",
+        "stop_name": "Viau / D'Artagnan"
+      },
+      {
+        "stop_id": "54826",
+        "stop_name": "Viau / Jean-Nicolet"
+      },
+      {
+        "stop_id": "54817",
+        "stop_name": "Viau / Robert"
+      },
+      {
+        "stop_id": "54807",
+        "stop_name": "Viau / Valéry"
+      },
+      {
+        "stop_id": "54785",
+        "stop_name": "Viau / Lavoisier"
+      },
+      {
+        "stop_id": "54767",
+        "stop_name": "Couture / Viau"
+      },
+      {
+        "stop_id": "54759",
+        "stop_name": "Couture / Pierre-Elliott-Trudeau"
+      },
+      {
+        "stop_id": "54757",
+        "stop_name": "Couture / Lionel-Groulx"
+      },
+      {
+        "stop_id": "54752",
+        "stop_name": "Lionel-Groulx / des Grandes-Prairies"
+      },
+      {
+        "stop_id": "54749",
+        "stop_name": "des Grandes-Prairies / No 4840"
+      },
+      {
+        "stop_id": "54754",
+        "stop_name": "des Grandes-Prairies / Viau"
+      },
+      {
+        "stop_id": "54760",
+        "stop_name": "des Grandes-Prairies / Saguenay"
+      },
+      {
+        "stop_id": "54763",
+        "stop_name": "des Grandes-Prairies / Salvaye"
+      },
+      {
+        "stop_id": "54764",
+        "stop_name": "des Grandes-Prairies / Puyseaux"
+      },
+      {
+        "stop_id": "54774",
+        "stop_name": "des Grandes-Prairies / Lacordaire"
+      },
+      {
+        "stop_id": "54775",
+        "stop_name": "des Grandes-Prairies / No 5850"
+      },
+      {
+        "stop_id": "54776",
+        "stop_name": "des Grandes-Prairies / No 5940"
+      }
+    ]
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "56688",
+        "stop_name": "Station LaSalle"
+      },
+      {
+        "stop_id": "56717",
+        "stop_name": "LaSalle / Strathmore"
+      },
+      {
+        "stop_id": "62237",
+        "stop_name": "LaSalle / Hickson"
+      },
+      {
+        "stop_id": "62238",
+        "stop_name": "LaSalle / de l'Église"
+      },
+      {
+        "stop_id": "62378",
+        "stop_name": "de l'Église / Edna"
+      },
+      {
+        "stop_id": "56611",
+        "stop_name": "de l'Église / Gertrude"
+      },
+      {
+        "stop_id": "56591",
+        "stop_name": "de l'Église / de Verdun"
+      },
+      {
+        "stop_id": "56560",
+        "stop_name": "de l'Église / Bannantyne"
+      },
+      {
+        "stop_id": "52228",
+        "stop_name": "de l'Église / Lesage"
+      },
+      {
+        "stop_id": "53903",
+        "stop_name": "de l'Église / Drake"
+      },
+      {
+        "stop_id": "52058",
+        "stop_name": "de l'Église / Angers"
+      },
+      {
+        "stop_id": "53904",
+        "stop_name": "de l'Église / Laurendeau"
+      },
+      {
+        "stop_id": "51908",
+        "stop_name": "de l'Église / Eadie"
+      },
+      {
+        "stop_id": "51845",
+        "stop_name": "de l'Église / Hadley"
+      },
+      {
+        "stop_id": "51771",
+        "stop_name": "de l'Église / No 2244"
+      },
+      {
+        "stop_id": "54299",
+        "stop_name": "Saint-Patrick / Briand"
+      },
+      {
+        "stop_id": "54392",
+        "stop_name": "Monk / de la Côte-Saint-Paul"
+      },
+      {
+        "stop_id": "60228",
+        "stop_name": "Monk / Notre-Dame"
+      },
+      {
+        "stop_id": "61640",
+        "stop_name": "Notre-Dame / Gadbois"
+      },
+      {
+        "stop_id": "51775",
+        "stop_name": "École James-Lyng (Notre-Dame / de Carillon)"
+      },
+      {
+        "stop_id": "60527",
+        "stop_name": "Notre-Dame / de la Côte-Saint-Paul"
+      },
+      {
+        "stop_id": "51833",
+        "stop_name": "Saint-Rémi / Acorn"
+      },
+      {
+        "stop_id": "51700",
+        "stop_name": "Saint-Rémi / Saint-Jacques"
+      },
+      {
+        "stop_id": "53974",
+        "stop_name": "De Courcelle / Saint-Jacques"
+      },
+      {
+        "stop_id": "56270",
+        "stop_name": "Sainte-Catherine / Victoria"
+      },
+      {
+        "stop_id": "53763",
+        "stop_name": "Station Vendôme"
+      }
+    ]
+  },
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "53763",
+        "stop_name": "Station Vendôme"
+      },
+      {
+        "stop_id": "54044",
+        "stop_name": "Saint-Rémi / Pullman"
+      },
+      {
+        "stop_id": "51823",
+        "stop_name": "de la Côte-Saint-Paul / Sainte-Clotilde"
+      },
+      {
+        "stop_id": "51774",
+        "stop_name": "Notre-Dame / de Carillon"
+      },
+      {
+        "stop_id": "61641",
+        "stop_name": "École James-Lyng (Notre-Dame / de Carillon)"
+      },
+      {
+        "stop_id": "54393",
+        "stop_name": "Monk / Philippe-Turcot"
+      },
+      {
+        "stop_id": "54404",
+        "stop_name": "Saint-Patrick / Briand"
+      },
+      {
+        "stop_id": "51770",
+        "stop_name": "Saint-Patrick / de l'Église"
+      },
+      {
+        "stop_id": "51846",
+        "stop_name": "de l'Église / Hadley"
+      },
+      {
+        "stop_id": "51909",
+        "stop_name": "de l'Église / Eadie"
+      },
+      {
+        "stop_id": "53905",
+        "stop_name": "de l'Église / Saint-Rémi"
+      },
+      {
+        "stop_id": "52060",
+        "stop_name": "de l'Église / Angers"
+      },
+      {
+        "stop_id": "53902",
+        "stop_name": "de l'Église / Drake"
+      },
+      {
+        "stop_id": "56689",
+        "stop_name": "Galt / Champlain"
+      },
+      {
+        "stop_id": "56558",
+        "stop_name": "Galt / Bannantyne"
+      },
+      {
+        "stop_id": "56589",
+        "stop_name": "Galt / de Verdun"
+      },
+      {
+        "stop_id": "56630",
+        "stop_name": "Station De l'Église (Galt / Wellington)"
+      },
+      {
+        "stop_id": "56648",
+        "stop_name": "Galt / LaSalle"
+      },
+      {
+        "stop_id": "62231",
+        "stop_name": "LaSalle / de l'Église"
+      },
+      {
+        "stop_id": "62232",
+        "stop_name": "LaSalle / Hickson"
+      },
+      {
+        "stop_id": "56623",
+        "stop_name": "LaSalle / de Rushbrooke"
+      },
+      {
+        "stop_id": "61651",
+        "stop_name": "Station LaSalle (Caisse / de Rushbrooke)"
+      }
+    ]
+  }
+]

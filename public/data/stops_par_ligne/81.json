@@ -1,0 +1,260 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "61885",
+        "stop_name": "Rodolphe-Forget / Fernand-Forest"
+      },
+      {
+        "stop_id": "54152",
+        "stop_name": "Perras / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "60901",
+        "stop_name": "Rodolphe-Forget / No 12420"
+      },
+      {
+        "stop_id": "60305",
+        "stop_name": "Rodolphe-Forget / Louis-Dessaulles"
+      },
+      {
+        "stop_id": "60306",
+        "stop_name": "Rodolphe-Forget / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "52378",
+        "stop_name": "Maurice-Duplessis / J.-J.-Joubert"
+      },
+      {
+        "stop_id": "53977",
+        "stop_name": "Maurice-Duplessis / Jean-Yves-Bigras"
+      },
+      {
+        "stop_id": "54061",
+        "stop_name": "Maurice-Duplessis / 54e Avenue"
+      },
+      {
+        "stop_id": "52655",
+        "stop_name": "Maurice-Duplessis / Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "54271",
+        "stop_name": "Maurice-Duplessis / 63e Avenue"
+      },
+      {
+        "stop_id": "61201",
+        "stop_name": "Maurice-Duplessis / No 10000"
+      },
+      {
+        "stop_id": "61742",
+        "stop_name": "Maurice-Duplessis / Olivier-Lejeune"
+      },
+      {
+        "stop_id": "61638",
+        "stop_name": "Maurice-Duplessis / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "61668",
+        "stop_name": "Gare Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "60339",
+        "stop_name": "Maurice-Duplessis / 87e Avenue"
+      },
+      {
+        "stop_id": "53248",
+        "stop_name": "89e Avenue / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "54259",
+        "stop_name": "Rolland-Jeanneau / Armand-Chaput"
+      },
+      {
+        "stop_id": "54244",
+        "stop_name": "Centre de détention Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "54245",
+        "stop_name": "Armand-Chaput / No 11380"
+      },
+      {
+        "stop_id": "54261",
+        "stop_name": "Henri-Bourassa / No 10905 (Institut P.-Pinel)"
+      },
+      {
+        "stop_id": "61740",
+        "stop_name": "Saint-Jean-Baptiste / Industriel"
+      },
+      {
+        "stop_id": "53425",
+        "stop_name": "Saint-Jean-Baptiste / Sherbrooke"
+      },
+      {
+        "stop_id": "53481",
+        "stop_name": "Saint-Jean-Baptiste / Ontario"
+      },
+      {
+        "stop_id": "53504",
+        "stop_name": "Saint-Jean-Baptiste / De Montigny"
+      },
+      {
+        "stop_id": "53516",
+        "stop_name": "Saint-Jean-Baptiste / Place Pointe-aux-Trembles"
+      },
+      {
+        "stop_id": "53555",
+        "stop_name": "Saint-Jean-Baptiste / René-Lévesque"
+      },
+      {
+        "stop_id": "53582",
+        "stop_name": "Saint-Jean-Baptiste / De La Gauchetière"
+      },
+      {
+        "stop_id": "54131",
+        "stop_name": "Saint-Jean-Baptiste / No 850"
+      },
+      {
+        "stop_id": "53621",
+        "stop_name": "Saint-Jean-Baptiste / Victoria"
+      },
+      {
+        "stop_id": "53650",
+        "stop_name": "Saint-Jean-Baptiste / Notre-Dame"
+      },
+      {
+        "stop_id": "62135",
+        "stop_name": "Prince-Albert / 9e Avenue"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "62135",
+        "stop_name": "Prince-Albert / 9e Avenue"
+      },
+      {
+        "stop_id": "53622",
+        "stop_name": "Saint-Jean-Baptiste / Victoria"
+      },
+      {
+        "stop_id": "54132",
+        "stop_name": "Saint-Jean-Baptiste / No 850"
+      },
+      {
+        "stop_id": "53581",
+        "stop_name": "Saint-Jean-Baptiste / De La Gauchetière"
+      },
+      {
+        "stop_id": "53553",
+        "stop_name": "Saint-Jean-Baptiste / René-Lévesque"
+      },
+      {
+        "stop_id": "53730",
+        "stop_name": "Saint-Jean-Baptiste / Place Pointe-aux-Trembles"
+      },
+      {
+        "stop_id": "53503",
+        "stop_name": "Saint-Jean-Baptiste / De Montigny"
+      },
+      {
+        "stop_id": "53480",
+        "stop_name": "Saint-Jean-Baptiste / Ontario"
+      },
+      {
+        "stop_id": "53438",
+        "stop_name": "Saint-Jean-Baptiste / Forsyth"
+      },
+      {
+        "stop_id": "53427",
+        "stop_name": "Saint-Jean-Baptiste / Sherbrooke"
+      },
+      {
+        "stop_id": "61730",
+        "stop_name": "Saint-Jean-Baptiste / Industriel"
+      },
+      {
+        "stop_id": "53777",
+        "stop_name": "Saint-Jean-Baptiste / Urgel-Charbonneau"
+      },
+      {
+        "stop_id": "61733",
+        "stop_name": "Saint-Jean-Baptiste / Henri-Bourassa"
+      },
+      {
+        "stop_id": "54258",
+        "stop_name": "Henri-Bourassa / No 10905 (Institut  P.-Pinel)"
+      },
+      {
+        "stop_id": "54242",
+        "stop_name": "Armand-Chaput / No 11410"
+      },
+      {
+        "stop_id": "54243",
+        "stop_name": "Centre Rivière-des-Prairies (A.-Chaput/No 11900)"
+      },
+      {
+        "stop_id": "54260",
+        "stop_name": "Rolland-Jeanneau / 89e Avenue"
+      },
+      {
+        "stop_id": "53247",
+        "stop_name": "89e Avenue / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "62036",
+        "stop_name": "Maurice-Duplessis / 87e Avenue"
+      },
+      {
+        "stop_id": "61525",
+        "stop_name": "Gare Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "60316",
+        "stop_name": "Maurice-Duplessis / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "54284",
+        "stop_name": "Maurice-Duplessis / 70e Avenue"
+      },
+      {
+        "stop_id": "54270",
+        "stop_name": "Maurice-Duplessis / 62e Avenue"
+      },
+      {
+        "stop_id": "54397",
+        "stop_name": "Maurice-Duplessis / Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "54060",
+        "stop_name": "Maurice-Duplessis / 54e Avenue"
+      },
+      {
+        "stop_id": "54062",
+        "stop_name": "Maurice-Duplessis / Jean-Yves-Bigras"
+      },
+      {
+        "stop_id": "52379",
+        "stop_name": "Maurice-Duplessis / J.-J.-Joubert"
+      },
+      {
+        "stop_id": "52264",
+        "stop_name": "Maurice-Duplessis / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "60311",
+        "stop_name": "Rodolphe-Forget / Louis-Dessaulles"
+      },
+      {
+        "stop_id": "60312",
+        "stop_name": "Rodolphe-Forget / Perras"
+      },
+      {
+        "stop_id": "61885",
+        "stop_name": "Rodolphe-Forget / Fernand-Forest"
+      }
+    ]
+  }
+]

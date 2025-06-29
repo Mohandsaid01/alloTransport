@@ -1,0 +1,384 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "53793",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50301",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50299",
+        "stop_name": "Henri-Bourassa / Laverdure"
+      },
+      {
+        "stop_id": "62372",
+        "stop_name": "Henri-Bourassa / Saint-Laurent"
+      },
+      {
+        "stop_id": "62373",
+        "stop_name": "Henri-Bourassa / de l'Esplanade"
+      },
+      {
+        "stop_id": "50279",
+        "stop_name": "Henri-Bourassa / Tanguay"
+      },
+      {
+        "stop_id": "53727",
+        "stop_name": "SAAQ (Henri-Bourassa / No 750)"
+      },
+      {
+        "stop_id": "62420",
+        "stop_name": "du Bois-de-Boulogne / Henri-Bourassa"
+      },
+      {
+        "stop_id": "50255",
+        "stop_name": "du Bois-de-Boulogne / Marie-Rollet"
+      },
+      {
+        "stop_id": "50250",
+        "stop_name": "Dudemaine / Laforest"
+      },
+      {
+        "stop_id": "50247",
+        "stop_name": "Dudemaine / de l'Acadie"
+      },
+      {
+        "stop_id": "50244",
+        "stop_name": "Dudemaine / Pasteur"
+      },
+      {
+        "stop_id": "50240",
+        "stop_name": "Dudemaine / James-Morrice"
+      },
+      {
+        "stop_id": "50236",
+        "stop_name": "Dudemaine / De Poutrincourt"
+      },
+      {
+        "stop_id": "50228",
+        "stop_name": "Dudemaine / Élie-Blanchard"
+      },
+      {
+        "stop_id": "50222",
+        "stop_name": "Dudemaine / Guertin"
+      },
+      {
+        "stop_id": "50214",
+        "stop_name": "Dudemaine / O'Brien"
+      },
+      {
+        "stop_id": "50211",
+        "stop_name": "Dudemaine / Saint-Évariste"
+      },
+      {
+        "stop_id": "50207",
+        "stop_name": "Dudemaine / Robert-Giffard"
+      },
+      {
+        "stop_id": "50201",
+        "stop_name": "Dudemaine / Michel-Sarrazin"
+      },
+      {
+        "stop_id": "50194",
+        "stop_name": "Dudemaine / Grenet"
+      },
+      {
+        "stop_id": "50186",
+        "stop_name": "de Louisbourg / Grenet"
+      },
+      {
+        "stop_id": "55820",
+        "stop_name": "de Louisbourg / Laurentien"
+      },
+      {
+        "stop_id": "53795",
+        "stop_name": "Keller / Laurentien"
+      },
+      {
+        "stop_id": "55957",
+        "stop_name": "Keller / No 1947"
+      },
+      {
+        "stop_id": "55435",
+        "stop_name": "Keller / Somerset"
+      },
+      {
+        "stop_id": "55429",
+        "stop_name": "Keller / Carroll"
+      },
+      {
+        "stop_id": "55421",
+        "stop_name": "Keller / Jean-Bouillet"
+      },
+      {
+        "stop_id": "55413",
+        "stop_name": "Keller / de Beauséjour"
+      },
+      {
+        "stop_id": "55407",
+        "stop_name": "Keller / Toupin"
+      },
+      {
+        "stop_id": "55408",
+        "stop_name": "Toupin / Keller"
+      },
+      {
+        "stop_id": "55416",
+        "stop_name": "Toupin / Marcel"
+      },
+      {
+        "stop_id": "55424",
+        "stop_name": "Toupin / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55417",
+        "stop_name": "Henri-Bourassa / Vermandère"
+      },
+      {
+        "stop_id": "55411",
+        "stop_name": "Henri-Bourassa / Marette"
+      },
+      {
+        "stop_id": "55402",
+        "stop_name": "Henri-Bourassa / Sartelon"
+      },
+      {
+        "stop_id": "55392",
+        "stop_name": "Henri-Bourassa / Félix-Leclerc"
+      },
+      {
+        "stop_id": "55386",
+        "stop_name": "Guénette / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55776",
+        "stop_name": "Guénette / Cousens"
+      },
+      {
+        "stop_id": "55887",
+        "stop_name": "Centre de transport St-Laurent (Guénette / Cousens"
+      },
+      {
+        "stop_id": "60890",
+        "stop_name": "Guénette / Bois-Franc"
+      },
+      {
+        "stop_id": "60857",
+        "stop_name": "Guénette / Dobrin"
+      },
+      {
+        "stop_id": "60860",
+        "stop_name": "Guénette / No 2260"
+      },
+      {
+        "stop_id": "60861",
+        "stop_name": "Steinberg / No 4200"
+      },
+      {
+        "stop_id": "60891",
+        "stop_name": "Thimens / Bois-Franc"
+      },
+      {
+        "stop_id": "60504",
+        "stop_name": "Centre de transport St-Laurent (Guénette / Cousens"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "60504",
+        "stop_name": "Centre de transport St-Laurent (Guénette / Cousens"
+      },
+      {
+        "stop_id": "55883",
+        "stop_name": "Guénette / Bois-Franc"
+      },
+      {
+        "stop_id": "60856",
+        "stop_name": "Guénette / Dobrin"
+      },
+      {
+        "stop_id": "60858",
+        "stop_name": "Guénette / No 2260"
+      },
+      {
+        "stop_id": "60859",
+        "stop_name": "Steinberg / No 4200"
+      },
+      {
+        "stop_id": "55394",
+        "stop_name": "Thimens / Bois-Franc"
+      },
+      {
+        "stop_id": "55387",
+        "stop_name": "Thimens / Cousens"
+      },
+      {
+        "stop_id": "55910",
+        "stop_name": "Thimens / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55385",
+        "stop_name": "Henri-Bourassa / Guénette"
+      },
+      {
+        "stop_id": "55393",
+        "stop_name": "Henri-Bourassa / Félix-Leclerc"
+      },
+      {
+        "stop_id": "55403",
+        "stop_name": "Henri-Bourassa / Sartelon"
+      },
+      {
+        "stop_id": "55412",
+        "stop_name": "Henri-Bourassa / Marette"
+      },
+      {
+        "stop_id": "55418",
+        "stop_name": "Henri-Bourassa / Vermandère"
+      },
+      {
+        "stop_id": "55420",
+        "stop_name": "Toupin / Saint-Charles"
+      },
+      {
+        "stop_id": "55415",
+        "stop_name": "Toupin / Marcel"
+      },
+      {
+        "stop_id": "55793",
+        "stop_name": "Toupin / Marcel"
+      },
+      {
+        "stop_id": "55406",
+        "stop_name": "Toupin / Keller"
+      },
+      {
+        "stop_id": "55414",
+        "stop_name": "Keller / de Beauséjour"
+      },
+      {
+        "stop_id": "55422",
+        "stop_name": "Keller / Jean-Bouillet"
+      },
+      {
+        "stop_id": "55430",
+        "stop_name": "Keller / Carroll"
+      },
+      {
+        "stop_id": "55434",
+        "stop_name": "Keller / Somerset"
+      },
+      {
+        "stop_id": "55956",
+        "stop_name": "Keller / No 1947"
+      },
+      {
+        "stop_id": "53794",
+        "stop_name": "Keller / Laurentien"
+      },
+      {
+        "stop_id": "50182",
+        "stop_name": "de Louisbourg / Ranger"
+      },
+      {
+        "stop_id": "50185",
+        "stop_name": "de Louisbourg / Grenet"
+      },
+      {
+        "stop_id": "50193",
+        "stop_name": "Dudemaine / Grenet"
+      },
+      {
+        "stop_id": "50202",
+        "stop_name": "Dudemaine / Michel-Sarrazin"
+      },
+      {
+        "stop_id": "50208",
+        "stop_name": "Dudemaine / Robert-Giffard"
+      },
+      {
+        "stop_id": "50212",
+        "stop_name": "Dudemaine / Saint-Évariste"
+      },
+      {
+        "stop_id": "50216",
+        "stop_name": "Dudemaine / O'Brien"
+      },
+      {
+        "stop_id": "50223",
+        "stop_name": "Dudemaine / Guertin"
+      },
+      {
+        "stop_id": "50227",
+        "stop_name": "Dudemaine / Élie-Blanchard"
+      },
+      {
+        "stop_id": "50237",
+        "stop_name": "Dudemaine / De Poutrincourt"
+      },
+      {
+        "stop_id": "50241",
+        "stop_name": "Dudemaine / James-Morrice"
+      },
+      {
+        "stop_id": "50245",
+        "stop_name": "Dudemaine / Pasteur"
+      },
+      {
+        "stop_id": "50248",
+        "stop_name": "Dudemaine / de l'Acadie"
+      },
+      {
+        "stop_id": "54297",
+        "stop_name": "Dudemaine / Laforest"
+      },
+      {
+        "stop_id": "50256",
+        "stop_name": "du Bois-de-Boulogne / Marie-Rollet"
+      },
+      {
+        "stop_id": "50269",
+        "stop_name": "du Bois-de-Boulogne / Henri-Bourassa"
+      },
+      {
+        "stop_id": "50270",
+        "stop_name": "Collège de Bois-de-Boulogne"
+      },
+      {
+        "stop_id": "50278",
+        "stop_name": "SAAQ (Henri-Bourassa / Meilleur)"
+      },
+      {
+        "stop_id": "62419",
+        "stop_name": "Henri-Bourassa / Verville"
+      },
+      {
+        "stop_id": "62370",
+        "stop_name": "Henri-Bourassa / de l'Esplanade"
+      },
+      {
+        "stop_id": "50297",
+        "stop_name": "Henri-Bourassa / Saint-Laurent"
+      },
+      {
+        "stop_id": "62371",
+        "stop_name": "Henri-Bourassa / Laverdure"
+      },
+      {
+        "stop_id": "50303",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "54127",
+        "stop_name": "Station Henri-Bourassa"
+      }
+    ]
+  }
+]

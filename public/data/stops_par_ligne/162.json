@@ -1,0 +1,316 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "60247",
+        "stop_name": "Station Villa-Maria"
+      },
+      {
+        "stop_id": "51202",
+        "stop_name": "de Monkland / Girouard"
+      },
+      {
+        "stop_id": "51170",
+        "stop_name": "de Monkland / Marcil"
+      },
+      {
+        "stop_id": "51153",
+        "stop_name": "de Monkland / Harvard"
+      },
+      {
+        "stop_id": "51121",
+        "stop_name": "de Monkland / de Melrose"
+      },
+      {
+        "stop_id": "51091",
+        "stop_name": "de Monkland / Royal"
+      },
+      {
+        "stop_id": "51060",
+        "stop_name": "de Monkland / Hingston"
+      },
+      {
+        "stop_id": "51033",
+        "stop_name": "de Monkland / Grand Boulevard"
+      },
+      {
+        "stop_id": "51008",
+        "stop_name": "de Monkland / Madison"
+      },
+      {
+        "stop_id": "50988",
+        "stop_name": "de Monkland / Benny"
+      },
+      {
+        "stop_id": "50954",
+        "stop_name": "de Monkland / Cavendish"
+      },
+      {
+        "stop_id": "50929",
+        "stop_name": "de Monkland / Walkley"
+      },
+      {
+        "stop_id": "50887",
+        "stop_name": "de Monkland / Rosedale"
+      },
+      {
+        "stop_id": "54015",
+        "stop_name": "de Monkland / Coronation"
+      },
+      {
+        "stop_id": "53806",
+        "stop_name": "Université Concordia / Campus Loyola"
+      },
+      {
+        "stop_id": "50763",
+        "stop_name": "Sherbrooke / West Broadway"
+      },
+      {
+        "stop_id": "50747",
+        "stop_name": "Sherbrooke / Patricia"
+      },
+      {
+        "stop_id": "50723",
+        "stop_name": "Sherbrooke / Connaught"
+      },
+      {
+        "stop_id": "56442",
+        "stop_name": "Sherbrooke / Westminster"
+      },
+      {
+        "stop_id": "56440",
+        "stop_name": "Westminster / Curzon"
+      },
+      {
+        "stop_id": "56438",
+        "stop_name": "Westminster / Nelson"
+      },
+      {
+        "stop_id": "56436",
+        "stop_name": "Westminster / Parkside"
+      },
+      {
+        "stop_id": "56435",
+        "stop_name": "Westminster / Northview"
+      },
+      {
+        "stop_id": "56433",
+        "stop_name": "Westminster / Garden"
+      },
+      {
+        "stop_id": "56431",
+        "stop_name": "Westminster / Westover"
+      },
+      {
+        "stop_id": "56423",
+        "stop_name": "Westminster / Côte-Saint-Luc"
+      },
+      {
+        "stop_id": "56352",
+        "stop_name": "Westminster / Guelph"
+      },
+      {
+        "stop_id": "56363",
+        "stop_name": "Guelph / Léger"
+      },
+      {
+        "stop_id": "56372",
+        "stop_name": "Guelph / Melling"
+      },
+      {
+        "stop_id": "56377",
+        "stop_name": "Guelph / Jellicoe"
+      },
+      {
+        "stop_id": "56381",
+        "stop_name": "Guelph / Parkhaven"
+      },
+      {
+        "stop_id": "56384",
+        "stop_name": "Guelph / Einstein"
+      },
+      {
+        "stop_id": "56394",
+        "stop_name": "Heywood / Redwood"
+      },
+      {
+        "stop_id": "56397",
+        "stop_name": "Heywood / Sabin"
+      },
+      {
+        "stop_id": "56422",
+        "stop_name": "Heywood / No 5690"
+      },
+      {
+        "stop_id": "56428",
+        "stop_name": "Kildare / Rembrandt"
+      },
+      {
+        "stop_id": "56430",
+        "stop_name": "Kildare / Merrimac"
+      },
+      {
+        "stop_id": "56426",
+        "stop_name": "Kildare / Kildare"
+      },
+      {
+        "stop_id": "56429",
+        "stop_name": "Kildare / Merrimac"
+      },
+      {
+        "stop_id": "56389",
+        "stop_name": "Kildare / Cavendish"
+      },
+      {
+        "stop_id": "56425",
+        "stop_name": "Kildare / Cavendish"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "56425",
+        "stop_name": "Kildare / Cavendish"
+      },
+      {
+        "stop_id": "56382",
+        "stop_name": "Kildare / Kellert"
+      },
+      {
+        "stop_id": "56374",
+        "stop_name": "Kildare / Einstein"
+      },
+      {
+        "stop_id": "56368",
+        "stop_name": "Kildare / Caldwell"
+      },
+      {
+        "stop_id": "56367",
+        "stop_name": "Kildare / Parkhaven"
+      },
+      {
+        "stop_id": "56355",
+        "stop_name": "Kildare / Glenarden"
+      },
+      {
+        "stop_id": "56347",
+        "stop_name": "Kildare / Melling"
+      },
+      {
+        "stop_id": "56344",
+        "stop_name": "Kildare / McMurray"
+      },
+      {
+        "stop_id": "56339",
+        "stop_name": "Westminster / Kildare"
+      },
+      {
+        "stop_id": "56354",
+        "stop_name": "Westminster / Guelph"
+      },
+      {
+        "stop_id": "56387",
+        "stop_name": "Westminster / Côte-Saint-Luc"
+      },
+      {
+        "stop_id": "56432",
+        "stop_name": "Westminster / Westover"
+      },
+      {
+        "stop_id": "56434",
+        "stop_name": "Westminster / Radcliffe"
+      },
+      {
+        "stop_id": "56437",
+        "stop_name": "Westminster / Parkside"
+      },
+      {
+        "stop_id": "56439",
+        "stop_name": "Westminster / Nelson"
+      },
+      {
+        "stop_id": "56441",
+        "stop_name": "Westminster / Curzon"
+      },
+      {
+        "stop_id": "56443",
+        "stop_name": "Westminster / Milner"
+      },
+      {
+        "stop_id": "54143",
+        "stop_name": "Sherbrooke / Elmhurst"
+      },
+      {
+        "stop_id": "53792",
+        "stop_name": "Sherbrooke / Westmore"
+      },
+      {
+        "stop_id": "50765",
+        "stop_name": "Sherbrooke / West Broadway"
+      },
+      {
+        "stop_id": "50831",
+        "stop_name": "Université Concordia / Campus Loyola"
+      },
+      {
+        "stop_id": "50855",
+        "stop_name": "Sherbrooke / Coronation"
+      },
+      {
+        "stop_id": "50888",
+        "stop_name": "de Monkland / Rosedale"
+      },
+      {
+        "stop_id": "50930",
+        "stop_name": "de Monkland / Walkley"
+      },
+      {
+        "stop_id": "50956",
+        "stop_name": "de Monkland / Cavendish"
+      },
+      {
+        "stop_id": "50987",
+        "stop_name": "de Monkland / Benny"
+      },
+      {
+        "stop_id": "51009",
+        "stop_name": "de Monkland / Madison"
+      },
+      {
+        "stop_id": "51035",
+        "stop_name": "de Monkland / Grand Boulevard"
+      },
+      {
+        "stop_id": "51061",
+        "stop_name": "de Monkland / Hingston"
+      },
+      {
+        "stop_id": "51092",
+        "stop_name": "de Monkland / Royal"
+      },
+      {
+        "stop_id": "51122",
+        "stop_name": "de Monkland / de Melrose"
+      },
+      {
+        "stop_id": "51154",
+        "stop_name": "de Monkland / Harvard"
+      },
+      {
+        "stop_id": "51171",
+        "stop_name": "de Monkland / Marcil"
+      },
+      {
+        "stop_id": "51204",
+        "stop_name": "de Monkland / Girouard"
+      },
+      {
+        "stop_id": "51243",
+        "stop_name": "Station Villa-Maria (Décarie / de Monkland)"
+      }
+    ]
+  }
+]

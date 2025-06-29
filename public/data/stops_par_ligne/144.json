@@ -1,0 +1,180 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "52560",
+        "stop_name": "Station Sherbrooke (Édicule Ouest)"
+      },
+      {
+        "stop_id": "52411",
+        "stop_name": "des Pins / Drolet"
+      },
+      {
+        "stop_id": "62139",
+        "stop_name": "des Pins / de l'Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "52313",
+        "stop_name": "des Pins / Saint-Laurent"
+      },
+      {
+        "stop_id": "52281",
+        "stop_name": "des Pins / Saint-Urbain"
+      },
+      {
+        "stop_id": "52219",
+        "stop_name": "des Pins / du Parc (coin Nord-Est)"
+      },
+      {
+        "stop_id": "60682",
+        "stop_name": "des Pins / du Parc (coin Nord-Ouest)"
+      },
+      {
+        "stop_id": "52173",
+        "stop_name": "des Pins / Aylmer"
+      },
+      {
+        "stop_id": "52153",
+        "stop_name": "des Pins / University"
+      },
+      {
+        "stop_id": "52141",
+        "stop_name": "des Pins / du Docteur-Penfield"
+      },
+      {
+        "stop_id": "52105",
+        "stop_name": "des Pins / Peel"
+      },
+      {
+        "stop_id": "52051",
+        "stop_name": "des Pins / Redpath"
+      },
+      {
+        "stop_id": "52042",
+        "stop_name": "des Pins / No 1305"
+      },
+      {
+        "stop_id": "52013",
+        "stop_name": "des Pins / Steyning"
+      },
+      {
+        "stop_id": "53866",
+        "stop_name": "des Pins / No 1550"
+      },
+      {
+        "stop_id": "53867",
+        "stop_name": "des Pins / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "51924",
+        "stop_name": "Atwater / Saint-Sulpice"
+      },
+      {
+        "stop_id": "51894",
+        "stop_name": "Atwater / Picquet"
+      },
+      {
+        "stop_id": "54185",
+        "stop_name": "Atwater / Sherbrooke"
+      },
+      {
+        "stop_id": "52007",
+        "stop_name": "Atwater / De Maisonneuve"
+      },
+      {
+        "stop_id": "56301",
+        "stop_name": "Station Atwater"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "53786",
+        "stop_name": "Station Atwater (Atwater / Tupper)"
+      },
+      {
+        "stop_id": "51990",
+        "stop_name": "Atwater / Lincoln"
+      },
+      {
+        "stop_id": "51949",
+        "stop_name": "Atwater / Sherbrooke"
+      },
+      {
+        "stop_id": "51896",
+        "stop_name": "Atwater / Picquet"
+      },
+      {
+        "stop_id": "54137",
+        "stop_name": "Atwater / du Docteur-Penfield"
+      },
+      {
+        "stop_id": "53842",
+        "stop_name": "du Docteur-Penfield / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "52034",
+        "stop_name": "du Docteur-Penfield / Redpath"
+      },
+      {
+        "stop_id": "52102",
+        "stop_name": "du Docteur-Penfield / de la Montagne"
+      },
+      {
+        "stop_id": "52178",
+        "stop_name": "du Docteur-Penfield / Peel"
+      },
+      {
+        "stop_id": "53843",
+        "stop_name": "du Docteur-Penfield / Réservoir McTavish"
+      },
+      {
+        "stop_id": "52140",
+        "stop_name": "du Docteur-Penfield / des Pins"
+      },
+      {
+        "stop_id": "52154",
+        "stop_name": "des Pins / University"
+      },
+      {
+        "stop_id": "52174",
+        "stop_name": "des Pins / Aylmer"
+      },
+      {
+        "stop_id": "52218",
+        "stop_name": "des Pins / du Parc (coin Sud-Ouest)"
+      },
+      {
+        "stop_id": "60681",
+        "stop_name": "des Pins / du Parc (coin Sud-Est)"
+      },
+      {
+        "stop_id": "52283",
+        "stop_name": "des Pins / Basset"
+      },
+      {
+        "stop_id": "62218",
+        "stop_name": "des Pins / Saint-Laurent"
+      },
+      {
+        "stop_id": "52364",
+        "stop_name": "des Pins / de l'Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "62137",
+        "stop_name": "Saint-Denis / des Pins"
+      },
+      {
+        "stop_id": "52507",
+        "stop_name": "Cherrier / Berri"
+      },
+      {
+        "stop_id": "52560",
+        "stop_name": "Station Sherbrooke (Édicule Ouest)"
+      }
+    ]
+  }
+]

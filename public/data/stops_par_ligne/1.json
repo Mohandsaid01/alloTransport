@@ -1,0 +1,228 @@
+[
+  {
+    "direction": "Station Honoré-Beaugrand",
+    "arrets": [
+      {
+        "stop_id": "43",
+        "stop_name": "Station Angrignon"
+      },
+      {
+        "stop_id": "42",
+        "stop_name": "Station Monk"
+      },
+      {
+        "stop_id": "41",
+        "stop_name": "Station Jolicoeur"
+      },
+      {
+        "stop_id": "40",
+        "stop_name": "Station Verdun"
+      },
+      {
+        "stop_id": "39",
+        "stop_name": "Station De l'Église"
+      },
+      {
+        "stop_id": "38",
+        "stop_name": "Station LaSalle"
+      },
+      {
+        "stop_id": "37",
+        "stop_name": "Station Charlevoix"
+      },
+      {
+        "stop_id": "36",
+        "stop_name": "Station Lionel-Groulx"
+      },
+      {
+        "stop_id": "35",
+        "stop_name": "Station Atwater"
+      },
+      {
+        "stop_id": "34",
+        "stop_name": "Station Guy-Concordia"
+      },
+      {
+        "stop_id": "33",
+        "stop_name": "Station Peel"
+      },
+      {
+        "stop_id": "32",
+        "stop_name": "Station McGill"
+      },
+      {
+        "stop_id": "31",
+        "stop_name": "Station Place-des-Arts"
+      },
+      {
+        "stop_id": "30",
+        "stop_name": "Station Saint-Laurent"
+      },
+      {
+        "stop_id": "9999111",
+        "stop_name": "Station Berri-UQAM"
+      },
+      {
+        "stop_id": "29",
+        "stop_name": "Station Beaudry"
+      },
+      {
+        "stop_id": "28",
+        "stop_name": "Station Papineau"
+      },
+      {
+        "stop_id": "27",
+        "stop_name": "Station Frontenac"
+      },
+      {
+        "stop_id": "26",
+        "stop_name": "Station Préfontaine"
+      },
+      {
+        "stop_id": "25",
+        "stop_name": "Station Joliette"
+      },
+      {
+        "stop_id": "24",
+        "stop_name": "Station Pie-IX"
+      },
+      {
+        "stop_id": "23",
+        "stop_name": "Station Viau"
+      },
+      {
+        "stop_id": "22",
+        "stop_name": "Station Assomption"
+      },
+      {
+        "stop_id": "21",
+        "stop_name": "Station Cadillac"
+      },
+      {
+        "stop_id": "20",
+        "stop_name": "Station Langelier"
+      },
+      {
+        "stop_id": "19",
+        "stop_name": "Station Radisson"
+      },
+      {
+        "stop_id": "18",
+        "stop_name": "Station Honoré-Beaugrand"
+      }
+    ]
+  },
+  {
+    "direction": "Station Angrignon",
+    "arrets": [
+      {
+        "stop_id": "18",
+        "stop_name": "Station Honoré-Beaugrand"
+      },
+      {
+        "stop_id": "19",
+        "stop_name": "Station Radisson"
+      },
+      {
+        "stop_id": "20",
+        "stop_name": "Station Langelier"
+      },
+      {
+        "stop_id": "21",
+        "stop_name": "Station Cadillac"
+      },
+      {
+        "stop_id": "22",
+        "stop_name": "Station Assomption"
+      },
+      {
+        "stop_id": "23",
+        "stop_name": "Station Viau"
+      },
+      {
+        "stop_id": "24",
+        "stop_name": "Station Pie-IX"
+      },
+      {
+        "stop_id": "25",
+        "stop_name": "Station Joliette"
+      },
+      {
+        "stop_id": "26",
+        "stop_name": "Station Préfontaine"
+      },
+      {
+        "stop_id": "27",
+        "stop_name": "Station Frontenac"
+      },
+      {
+        "stop_id": "28",
+        "stop_name": "Station Papineau"
+      },
+      {
+        "stop_id": "29",
+        "stop_name": "Station Beaudry"
+      },
+      {
+        "stop_id": "9999111",
+        "stop_name": "Station Berri-UQAM"
+      },
+      {
+        "stop_id": "30",
+        "stop_name": "Station Saint-Laurent"
+      },
+      {
+        "stop_id": "31",
+        "stop_name": "Station Place-des-Arts"
+      },
+      {
+        "stop_id": "32",
+        "stop_name": "Station McGill"
+      },
+      {
+        "stop_id": "33",
+        "stop_name": "Station Peel"
+      },
+      {
+        "stop_id": "34",
+        "stop_name": "Station Guy-Concordia"
+      },
+      {
+        "stop_id": "35",
+        "stop_name": "Station Atwater"
+      },
+      {
+        "stop_id": "36",
+        "stop_name": "Station Lionel-Groulx"
+      },
+      {
+        "stop_id": "37",
+        "stop_name": "Station Charlevoix"
+      },
+      {
+        "stop_id": "38",
+        "stop_name": "Station LaSalle"
+      },
+      {
+        "stop_id": "39",
+        "stop_name": "Station De l'Église"
+      },
+      {
+        "stop_id": "40",
+        "stop_name": "Station Verdun"
+      },
+      {
+        "stop_id": "41",
+        "stop_name": "Station Jolicoeur"
+      },
+      {
+        "stop_id": "42",
+        "stop_name": "Station Monk"
+      },
+      {
+        "stop_id": "43",
+        "stop_name": "Station Angrignon"
+      }
+    ]
+  }
+]

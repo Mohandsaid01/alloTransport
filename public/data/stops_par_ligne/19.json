@@ -1,0 +1,132 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "50379",
+        "stop_name": "de Louvain / de l'Acadie"
+      },
+      {
+        "stop_id": "50426",
+        "stop_name": "Chabanel / de l'Acadie"
+      },
+      {
+        "stop_id": "50448",
+        "stop_name": "Gare Chabanel"
+      },
+      {
+        "stop_id": "54349",
+        "stop_name": "Chabanel / Jeanne-Mance"
+      },
+      {
+        "stop_id": "54352",
+        "stop_name": "de l'Esplanade / Chabanel"
+      },
+      {
+        "stop_id": "54353",
+        "stop_name": "de l'Esplanade / de Louvain"
+      },
+      {
+        "stop_id": "50456",
+        "stop_name": "de Louvain / Saint-Laurent"
+      },
+      {
+        "stop_id": "50519",
+        "stop_name": "Saint-Laurent / Chabanel"
+      },
+      {
+        "stop_id": "50564",
+        "stop_name": "Saint-Laurent / Legendre"
+      },
+      {
+        "stop_id": "50620",
+        "stop_name": "Saint-Laurent / De Beauharnois"
+      },
+      {
+        "stop_id": "50671",
+        "stop_name": "Crémazie / Saint-Laurent"
+      },
+      {
+        "stop_id": "50720",
+        "stop_name": "Crémazie / Casgrain"
+      },
+      {
+        "stop_id": "50734",
+        "stop_name": "Crémazie / Henri-Julien"
+      },
+      {
+        "stop_id": "50769",
+        "stop_name": "Station Crémazie Sud (Crémazie / Berri)"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "50794",
+        "stop_name": "Station Crémazie Nord (Crémazie / Lajeunesse)"
+      },
+      {
+        "stop_id": "53947",
+        "stop_name": "Crémazie / De Gaspé"
+      },
+      {
+        "stop_id": "50669",
+        "stop_name": "Crémazie / Saint-Laurent"
+      },
+      {
+        "stop_id": "50619",
+        "stop_name": "Saint-Laurent / De Beauharnois"
+      },
+      {
+        "stop_id": "50562",
+        "stop_name": "Saint-Laurent / Legendre"
+      },
+      {
+        "stop_id": "50518",
+        "stop_name": "Saint-Laurent / Chabanel"
+      },
+      {
+        "stop_id": "50458",
+        "stop_name": "de Louvain / No 7"
+      },
+      {
+        "stop_id": "54347",
+        "stop_name": "de l'Esplanade / No 9449"
+      },
+      {
+        "stop_id": "54344",
+        "stop_name": "de l'Esplanade / No 9350"
+      },
+      {
+        "stop_id": "54348",
+        "stop_name": "Chabanel / Jeanne-Mance"
+      },
+      {
+        "stop_id": "50450",
+        "stop_name": "Gare Chabanel"
+      },
+      {
+        "stop_id": "54359",
+        "stop_name": "Chabanel / du Marché-Central"
+      },
+      {
+        "stop_id": "61021",
+        "stop_name": "Chabanel / Charles-De La Tour"
+      },
+      {
+        "stop_id": "50361",
+        "stop_name": "Charles-De La Tour / de Louvain"
+      },
+      {
+        "stop_id": "50379",
+        "stop_name": "de Louvain / de l'Acadie"
+      },
+      {
+        "stop_id": "50426",
+        "stop_name": "Chabanel / de l'Acadie"
+      }
+    ]
+  }
+]

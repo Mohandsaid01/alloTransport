@@ -1,0 +1,152 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "53757",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "55109",
+        "stop_name": "Henri-Bourassa / Bellevois"
+      },
+      {
+        "stop_id": "55147",
+        "stop_name": "Henri-Bourassa / Sainte-Gertrude"
+      },
+      {
+        "stop_id": "55175",
+        "stop_name": "Henri-Bourassa / Racette"
+      },
+      {
+        "stop_id": "55191",
+        "stop_name": "Henri-Bourassa / Alfred"
+      },
+      {
+        "stop_id": "55200",
+        "stop_name": "Henri-Bourassa / Salk"
+      },
+      {
+        "stop_id": "55214",
+        "stop_name": "Henri-Bourassa / Sainte-Colette"
+      },
+      {
+        "stop_id": "55257",
+        "stop_name": "Henri-Bourassa / Lacordaire"
+      },
+      {
+        "stop_id": "55278",
+        "stop_name": "Henri-Bourassa / Désy"
+      },
+      {
+        "stop_id": "55295",
+        "stop_name": "Rolland / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55319",
+        "stop_name": "Rolland / Dijon"
+      },
+      {
+        "stop_id": "55321",
+        "stop_name": "Rolland / Marie-Victorin"
+      },
+      {
+        "stop_id": "55264",
+        "stop_name": "Rolland / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "55238",
+        "stop_name": "Rolland / Arthur-Chevrier"
+      },
+      {
+        "stop_id": "55212",
+        "stop_name": "Rolland / Dagenais"
+      },
+      {
+        "stop_id": "55310",
+        "stop_name": "Dagenais / Langelier"
+      },
+      {
+        "stop_id": "55329",
+        "stop_name": "Léger / Langelier"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "55329",
+        "stop_name": "Léger / Langelier"
+      },
+      {
+        "stop_id": "55223",
+        "stop_name": "Léger / Chartrand"
+      },
+      {
+        "stop_id": "55213",
+        "stop_name": "Rolland / Dagenais"
+      },
+      {
+        "stop_id": "55239",
+        "stop_name": "Rolland / Arthur-Chevrier"
+      },
+      {
+        "stop_id": "55262",
+        "stop_name": "Rolland / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "55323",
+        "stop_name": "Rolland / Matte"
+      },
+      {
+        "stop_id": "55322",
+        "stop_name": "Rolland / Marie-Victorin"
+      },
+      {
+        "stop_id": "55320",
+        "stop_name": "Rolland / Dijon"
+      },
+      {
+        "stop_id": "55293",
+        "stop_name": "Rolland / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55277",
+        "stop_name": "Henri-Bourassa / Désy"
+      },
+      {
+        "stop_id": "55255",
+        "stop_name": "Henri-Bourassa / Lacordaire"
+      },
+      {
+        "stop_id": "55222",
+        "stop_name": "Henri-Bourassa / Jean-Meunier"
+      },
+      {
+        "stop_id": "55199",
+        "stop_name": "Henri-Bourassa / Salk"
+      },
+      {
+        "stop_id": "55190",
+        "stop_name": "Henri-Bourassa / Alfred"
+      },
+      {
+        "stop_id": "55174",
+        "stop_name": "Henri-Bourassa / Racette"
+      },
+      {
+        "stop_id": "55145",
+        "stop_name": "Henri-Bourassa / Sainte-Gertrude"
+      },
+      {
+        "stop_id": "55115",
+        "stop_name": "Henri-Bourassa / L'Archevêque"
+      },
+      {
+        "stop_id": "54127",
+        "stop_name": "Station Henri-Bourassa"
+      }
+    ]
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "53753",
+        "stop_name": "Station Viau"
+      },
+      {
+        "stop_id": "53117",
+        "stop_name": "Pierre-De Coubertin / Viau"
+      },
+      {
+        "stop_id": "61588",
+        "stop_name": "Viau / Hochelaga"
+      },
+      {
+        "stop_id": "61589",
+        "stop_name": "Viau / de Rouen"
+      },
+      {
+        "stop_id": "61590",
+        "stop_name": "Viau / Ontario"
+      },
+      {
+        "stop_id": "61591",
+        "stop_name": "Viau / La Fontaine"
+      },
+      {
+        "stop_id": "61592",
+        "stop_name": "Viau / Adam"
+      },
+      {
+        "stop_id": "61593",
+        "stop_name": "Viau / Sainte-Catherine"
+      },
+      {
+        "stop_id": "53324",
+        "stop_name": "Sainte-Catherine / Leclaire"
+      },
+      {
+        "stop_id": "53309",
+        "stop_name": "Sainte-Catherine / Aird"
+      },
+      {
+        "stop_id": "53298",
+        "stop_name": "Sainte-Catherine / William-David"
+      },
+      {
+        "stop_id": "53285",
+        "stop_name": "Sainte-Catherine / Letourneux"
+      },
+      {
+        "stop_id": "53269",
+        "stop_name": "Sainte-Catherine / Pie-IX"
+      },
+      {
+        "stop_id": "53243",
+        "stop_name": "Sainte-Catherine / Bourbonnière"
+      },
+      {
+        "stop_id": "53235",
+        "stop_name": "Sainte-Catherine / Nicolet"
+      },
+      {
+        "stop_id": "53226",
+        "stop_name": "Sainte-Catherine / Joliette"
+      },
+      {
+        "stop_id": "53211",
+        "stop_name": "Sainte-Catherine / Davidson"
+      },
+      {
+        "stop_id": "53192",
+        "stop_name": "Sainte-Catherine / Dézéry"
+      },
+      {
+        "stop_id": "53180",
+        "stop_name": "Sainte-Catherine / Moreau"
+      },
+      {
+        "stop_id": "53171",
+        "stop_name": "Sainte-Catherine / Alphonse-D.-Roy"
+      },
+      {
+        "stop_id": "54003",
+        "stop_name": "Sainte-Catherine / Frontenac"
+      },
+      {
+        "stop_id": "53104",
+        "stop_name": "De Maisonneuve / D'Iberville"
+      },
+      {
+        "stop_id": "53090",
+        "stop_name": "De Maisonneuve / Dufresne"
+      },
+      {
+        "stop_id": "53074",
+        "stop_name": "De Maisonneuve / Fullum"
+      },
+      {
+        "stop_id": "53062",
+        "stop_name": "De Maisonneuve / Parthenais"
+      },
+      {
+        "stop_id": "53046",
+        "stop_name": "De Maisonneuve / De Lorimier"
+      },
+      {
+        "stop_id": "54188",
+        "stop_name": "Station Papineau (Dorion / Sainte-Catherine)"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54188",
+        "stop_name": "Station Papineau (Dorion / Sainte-Catherine)"
+      },
+      {
+        "stop_id": "53065",
+        "stop_name": "Sainte-Catherine / De Lorimier"
+      },
+      {
+        "stop_id": "53079",
+        "stop_name": "Sainte-Catherine / Parthenais"
+      },
+      {
+        "stop_id": "53094",
+        "stop_name": "Sainte-Catherine / Fullum"
+      },
+      {
+        "stop_id": "53110",
+        "stop_name": "Sainte-Catherine / Dufresne"
+      },
+      {
+        "stop_id": "53119",
+        "stop_name": "Sainte-Catherine / D'Iberville"
+      },
+      {
+        "stop_id": "53137",
+        "stop_name": "Sainte-Catherine / du Havre"
+      },
+      {
+        "stop_id": "53172",
+        "stop_name": "Sainte-Catherine / Alphonse-D.-Roy"
+      },
+      {
+        "stop_id": "53181",
+        "stop_name": "Sainte-Catherine / Moreau"
+      },
+      {
+        "stop_id": "53193",
+        "stop_name": "Sainte-Catherine / Dézéry"
+      },
+      {
+        "stop_id": "53213",
+        "stop_name": "Sainte-Catherine / Davidson"
+      },
+      {
+        "stop_id": "53227",
+        "stop_name": "Sainte-Catherine / Aylwin"
+      },
+      {
+        "stop_id": "53236",
+        "stop_name": "Sainte-Catherine / Nicolet"
+      },
+      {
+        "stop_id": "53244",
+        "stop_name": "Sainte-Catherine / Bourbonnière"
+      },
+      {
+        "stop_id": "53259",
+        "stop_name": "Sainte-Catherine / Jeanne-d'Arc"
+      },
+      {
+        "stop_id": "53271",
+        "stop_name": "Sainte-Catherine / Pie-IX"
+      },
+      {
+        "stop_id": "53286",
+        "stop_name": "Sainte-Catherine / Letourneux"
+      },
+      {
+        "stop_id": "53299",
+        "stop_name": "Sainte-Catherine / William-David"
+      },
+      {
+        "stop_id": "53310",
+        "stop_name": "Sainte-Catherine / Aird"
+      },
+      {
+        "stop_id": "53325",
+        "stop_name": "Sainte-Catherine / Leclaire"
+      },
+      {
+        "stop_id": "53331",
+        "stop_name": "Sainte-Catherine / Saint-Clément"
+      },
+      {
+        "stop_id": "53343",
+        "stop_name": "Sainte-Catherine / Vimont"
+      },
+      {
+        "stop_id": "53354",
+        "stop_name": "Sainte-Catherine / Notre-Dame"
+      },
+      {
+        "stop_id": "53348",
+        "stop_name": "Notre-Dame / Viau"
+      },
+      {
+        "stop_id": "53333",
+        "stop_name": "Viau / Sainte-Catherine"
+      },
+      {
+        "stop_id": "53317",
+        "stop_name": "Viau / Adam"
+      },
+      {
+        "stop_id": "53295",
+        "stop_name": "Viau / La Fontaine"
+      },
+      {
+        "stop_id": "53274",
+        "stop_name": "Viau / Ontario"
+      },
+      {
+        "stop_id": "53223",
+        "stop_name": "Viau / de Rouen"
+      },
+      {
+        "stop_id": "53166",
+        "stop_name": "Viau / Hochelaga"
+      },
+      {
+        "stop_id": "53753",
+        "stop_name": "Station Viau"
+      }
+    ]
+  }
+]

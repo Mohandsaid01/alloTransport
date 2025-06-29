@@ -1,0 +1,469 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54039",
+        "stop_name": "Station Frontenac (Frontenac / Ontario)"
+      },
+      {
+        "stop_id": "52934",
+        "stop_name": "Frontenac / de Rouen"
+      },
+      {
+        "stop_id": "52857",
+        "stop_name": "Frontenac / Hochelaga"
+      },
+      {
+        "stop_id": "52788",
+        "stop_name": "Sherbrooke / Gascon"
+      },
+      {
+        "stop_id": "52812",
+        "stop_name": "Sherbrooke / Hogan"
+      },
+      {
+        "stop_id": "52854",
+        "stop_name": "Sherbrooke / De Léry"
+      },
+      {
+        "stop_id": "52876",
+        "stop_name": "Sherbrooke / Moreau"
+      },
+      {
+        "stop_id": "52900",
+        "stop_name": "Sherbrooke / Saint-Germain"
+      },
+      {
+        "stop_id": "52924",
+        "stop_name": "Sherbrooke / Davidson"
+      },
+      {
+        "stop_id": "52942",
+        "stop_name": "Sherbrooke / Aylwin"
+      },
+      {
+        "stop_id": "52949",
+        "stop_name": "Sherbrooke / De Chambly"
+      },
+      {
+        "stop_id": "52953",
+        "stop_name": "Collège de Maisonneuve (Sherbrooke/V.-Bourgeau)"
+      },
+      {
+        "stop_id": "52958",
+        "stop_name": "Sherbrooke / d'Orléans"
+      },
+      {
+        "stop_id": "52961",
+        "stop_name": "Sherbrooke / Pie-IX (coin Sud-Ouest)"
+      },
+      {
+        "stop_id": "52955",
+        "stop_name": "Sherbrooke / Pie-IX (coin Sud-Est)"
+      },
+      {
+        "stop_id": "52989",
+        "stop_name": "Sherbrooke / No 4750"
+      },
+      {
+        "stop_id": "52987",
+        "stop_name": "Sherbrooke / Viau"
+      },
+      {
+        "stop_id": "53008",
+        "stop_name": "Sherbrooke / No 5300"
+      },
+      {
+        "stop_id": "53042",
+        "stop_name": "Sherbrooke / de l'Assomption"
+      },
+      {
+        "stop_id": "53061",
+        "stop_name": "Sherbrooke / No 5600"
+      },
+      {
+        "stop_id": "53070",
+        "stop_name": "Sherbrooke / Dickson"
+      },
+      {
+        "stop_id": "53078",
+        "stop_name": "Sherbrooke / Lacordaire"
+      },
+      {
+        "stop_id": "61692",
+        "stop_name": "Station Cadillac (Sherbrooke / De Cadillac)"
+      },
+      {
+        "stop_id": "53111",
+        "stop_name": "Sherbrooke / No 6082"
+      },
+      {
+        "stop_id": "53121",
+        "stop_name": "Sherbrooke / de Carignan"
+      },
+      {
+        "stop_id": "53131",
+        "stop_name": "Sherbrooke / de Granby"
+      },
+      {
+        "stop_id": "53150",
+        "stop_name": "Station Langelier (Sherbrooke / Langelier)"
+      },
+      {
+        "stop_id": "53165",
+        "stop_name": "Sherbrooke / Desautels"
+      },
+      {
+        "stop_id": "53178",
+        "stop_name": "Sherbrooke / Haig"
+      },
+      {
+        "stop_id": "53186",
+        "stop_name": "Sherbrooke / Émile-Legrand"
+      },
+      {
+        "stop_id": "53198",
+        "stop_name": "Sherbrooke / Radisson"
+      },
+      {
+        "stop_id": "54080",
+        "stop_name": "Station Radisson (Sherbrooke / du Trianon)"
+      },
+      {
+        "stop_id": "53207",
+        "stop_name": "Sherbrooke / Place Versailles"
+      },
+      {
+        "stop_id": "53242",
+        "stop_name": "Sherbrooke / Lepailleur"
+      },
+      {
+        "stop_id": "53253",
+        "stop_name": "Station Honoré-Beaugrand"
+      },
+      {
+        "stop_id": "53279",
+        "stop_name": "Sherbrooke / Liébert"
+      },
+      {
+        "stop_id": "53289",
+        "stop_name": "Sherbrooke / Saint-Donat"
+      },
+      {
+        "stop_id": "53302",
+        "stop_name": "Sherbrooke / Baldwin"
+      },
+      {
+        "stop_id": "53316",
+        "stop_name": "Des Ormeaux / Sherbrooke"
+      },
+      {
+        "stop_id": "53338",
+        "stop_name": "Des Ormeaux / De Teck"
+      },
+      {
+        "stop_id": "53352",
+        "stop_name": "Des Ormeaux / de Marseille"
+      },
+      {
+        "stop_id": "53363",
+        "stop_name": "Des Ormeaux / Sainte-Claire"
+      },
+      {
+        "stop_id": "53373",
+        "stop_name": "Des Ormeaux / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "53387",
+        "stop_name": "Des Ormeaux / Hochelaga"
+      },
+      {
+        "stop_id": "53402",
+        "stop_name": "Des Ormeaux / Souligny"
+      },
+      {
+        "stop_id": "53429",
+        "stop_name": "Des Ormeaux / Tellier"
+      },
+      {
+        "stop_id": "53450",
+        "stop_name": "Des Ormeaux / Notre-Dame"
+      },
+      {
+        "stop_id": "61880",
+        "stop_name": "Lebrun / Bellerive"
+      },
+      {
+        "stop_id": "61881",
+        "stop_name": "Bellerive / Mercier"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "61881",
+        "stop_name": "Bellerive / Mercier"
+      },
+      {
+        "stop_id": "53463",
+        "stop_name": "Notre-Dame / Lebrun"
+      },
+      {
+        "stop_id": "53452",
+        "stop_name": "Des Ormeaux / Notre-Dame"
+      },
+      {
+        "stop_id": "53428",
+        "stop_name": "Des Ormeaux / Tellier"
+      },
+      {
+        "stop_id": "53407",
+        "stop_name": "Des Ormeaux / Dubuisson"
+      },
+      {
+        "stop_id": "53385",
+        "stop_name": "Des Ormeaux / Hochelaga"
+      },
+      {
+        "stop_id": "53372",
+        "stop_name": "Des Ormeaux / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "53362",
+        "stop_name": "Des Ormeaux / Sainte-Claire"
+      },
+      {
+        "stop_id": "53351",
+        "stop_name": "Des Ormeaux / de Marseille"
+      },
+      {
+        "stop_id": "53337",
+        "stop_name": "Des Ormeaux / De Teck"
+      },
+      {
+        "stop_id": "53311",
+        "stop_name": "Des Ormeaux / Sherbrooke"
+      },
+      {
+        "stop_id": "53301",
+        "stop_name": "Sherbrooke / Baldwin"
+      },
+      {
+        "stop_id": "53287",
+        "stop_name": "Sherbrooke / Saint-Donat"
+      },
+      {
+        "stop_id": "53278",
+        "stop_name": "Sherbrooke / Liébert"
+      },
+      {
+        "stop_id": "53252",
+        "stop_name": "Station Honoré-Beaugrand"
+      },
+      {
+        "stop_id": "53241",
+        "stop_name": "Sherbrooke / Lepailleur"
+      },
+      {
+        "stop_id": "53206",
+        "stop_name": "Sherbrooke / du Trianon"
+      },
+      {
+        "stop_id": "53196",
+        "stop_name": "Station Radisson (Sherbrooke / Des Groseilliers)"
+      },
+      {
+        "stop_id": "53185",
+        "stop_name": "Sherbrooke / Émile-Legrand"
+      },
+      {
+        "stop_id": "53177",
+        "stop_name": "Sherbrooke / Haig"
+      },
+      {
+        "stop_id": "53164",
+        "stop_name": "Sherbrooke / Desautels"
+      },
+      {
+        "stop_id": "53149",
+        "stop_name": "Station Langelier (Sherbrooke / Langelier)"
+      },
+      {
+        "stop_id": "53130",
+        "stop_name": "Sherbrooke / de Granby"
+      },
+      {
+        "stop_id": "53120",
+        "stop_name": "Sherbrooke / de Carignan"
+      },
+      {
+        "stop_id": "53706",
+        "stop_name": "Pavillon Grace Dart (Sherbrooke / No 6082)"
+      },
+      {
+        "stop_id": "53099",
+        "stop_name": "Station Cadillac (Sherbrooke / De Cadillac)"
+      },
+      {
+        "stop_id": "53077",
+        "stop_name": "Sherbrooke / Lacordaire"
+      },
+      {
+        "stop_id": "53069",
+        "stop_name": "Sherbrooke / Dickson"
+      },
+      {
+        "stop_id": "53705",
+        "stop_name": "Sherbrooke / No 5600"
+      },
+      {
+        "stop_id": "53040",
+        "stop_name": "Sherbrooke / de l'Assomption"
+      },
+      {
+        "stop_id": "53726",
+        "stop_name": "Sherbrooke / No 5300"
+      },
+      {
+        "stop_id": "52985",
+        "stop_name": "Sherbrooke / Viau"
+      },
+      {
+        "stop_id": "53704",
+        "stop_name": "Sherbrooke / No 4751"
+      },
+      {
+        "stop_id": "52960",
+        "stop_name": "Sherbrooke / Pie-IX (coin Nord-Est)"
+      },
+      {
+        "stop_id": "52962",
+        "stop_name": "Sherbrooke/Pie-IX (coin Nord-Ouest)"
+      },
+      {
+        "stop_id": "52957",
+        "stop_name": "Sherbrooke / Bourbonnière"
+      },
+      {
+        "stop_id": "54164",
+        "stop_name": "Sherbrooke / Valois"
+      },
+      {
+        "stop_id": "52948",
+        "stop_name": "Sherbrooke / De Chambly"
+      },
+      {
+        "stop_id": "52941",
+        "stop_name": "Sherbrooke / Aylwin"
+      },
+      {
+        "stop_id": "52923",
+        "stop_name": "Sherbrooke / Davidson"
+      },
+      {
+        "stop_id": "52899",
+        "stop_name": "Sherbrooke / Saint-Germain"
+      },
+      {
+        "stop_id": "52875",
+        "stop_name": "Sherbrooke / Moreau"
+      },
+      {
+        "stop_id": "52836",
+        "stop_name": "Sherbrooke / De Léry"
+      },
+      {
+        "stop_id": "52811",
+        "stop_name": "Sherbrooke / Hogan"
+      },
+      {
+        "stop_id": "52789",
+        "stop_name": "Gascon / Sherbrooke"
+      },
+      {
+        "stop_id": "52864",
+        "stop_name": "du Havre / Hochelaga"
+      },
+      {
+        "stop_id": "52946",
+        "stop_name": "du Havre / de Rouen"
+      },
+      {
+        "stop_id": "54040",
+        "stop_name": "Station Frontenac (du Havre / Ontario)"
+      },
+      {
+        "stop_id": "53075",
+        "stop_name": "du Havre / La Fontaine"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest destination Station Honoré-Beaugrand",
+    "arrets": [
+      {
+        "stop_id": "61881",
+        "stop_name": "Bellerive / Mercier"
+      },
+      {
+        "stop_id": "53463",
+        "stop_name": "Notre-Dame / Lebrun"
+      },
+      {
+        "stop_id": "53452",
+        "stop_name": "Des Ormeaux / Notre-Dame"
+      },
+      {
+        "stop_id": "53428",
+        "stop_name": "Des Ormeaux / Tellier"
+      },
+      {
+        "stop_id": "53407",
+        "stop_name": "Des Ormeaux / Dubuisson"
+      },
+      {
+        "stop_id": "53385",
+        "stop_name": "Des Ormeaux / Hochelaga"
+      },
+      {
+        "stop_id": "53372",
+        "stop_name": "Des Ormeaux / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "53362",
+        "stop_name": "Des Ormeaux / Sainte-Claire"
+      },
+      {
+        "stop_id": "53351",
+        "stop_name": "Des Ormeaux / de Marseille"
+      },
+      {
+        "stop_id": "53337",
+        "stop_name": "Des Ormeaux / De Teck"
+      },
+      {
+        "stop_id": "53311",
+        "stop_name": "Des Ormeaux / Sherbrooke"
+      },
+      {
+        "stop_id": "53301",
+        "stop_name": "Sherbrooke / Baldwin"
+      },
+      {
+        "stop_id": "53287",
+        "stop_name": "Sherbrooke / Saint-Donat"
+      },
+      {
+        "stop_id": "53278",
+        "stop_name": "Sherbrooke / Liébert"
+      },
+      {
+        "stop_id": "53252",
+        "stop_name": "Station Honoré-Beaugrand"
+      }
+    ]
+  }
+]

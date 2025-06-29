@@ -1,0 +1,812 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "60315",
+        "stop_name": "58e Avenue / Gouin"
+      },
+      {
+        "stop_id": "60462",
+        "stop_name": "Rivière-des-Prairies / 3e Rue"
+      },
+      {
+        "stop_id": "61879",
+        "stop_name": "Rivière-des-Prairies / Perras"
+      },
+      {
+        "stop_id": "52471",
+        "stop_name": "Rivière-des-Prairies / 4e Rue"
+      },
+      {
+        "stop_id": "52567",
+        "stop_name": "Rivière-des-Prairies / 5e Rue"
+      },
+      {
+        "stop_id": "52656",
+        "stop_name": "Rivière-des-Prairies / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "52759",
+        "stop_name": "Rivière-des-Prairies / 7e Rue"
+      },
+      {
+        "stop_id": "52853",
+        "stop_name": "Rivière-des-Prairies / La Martinière"
+      },
+      {
+        "stop_id": "52908",
+        "stop_name": "Rivière-des-Prairies / Henri-Bourassa"
+      },
+      {
+        "stop_id": "54406",
+        "stop_name": "Henri-Bourassa / No 9850"
+      },
+      {
+        "stop_id": "54409",
+        "stop_name": "Henri-Bourassa / Marien"
+      },
+      {
+        "stop_id": "54505",
+        "stop_name": "Place Marien / Marien"
+      },
+      {
+        "stop_id": "54492",
+        "stop_name": "Place Marien / No 8802"
+      },
+      {
+        "stop_id": "54493",
+        "stop_name": "Place Marien / No 8600"
+      },
+      {
+        "stop_id": "54503",
+        "stop_name": "Place Marien/No 8500"
+      },
+      {
+        "stop_id": "54506",
+        "stop_name": "Place Marien / No 8381"
+      },
+      {
+        "stop_id": "54507",
+        "stop_name": "Place Marien / No 8201"
+      },
+      {
+        "stop_id": "54410",
+        "stop_name": "Marien / Métropolitain"
+      },
+      {
+        "stop_id": "60649",
+        "stop_name": "Marien / No 7000"
+      },
+      {
+        "stop_id": "60641",
+        "stop_name": "Marien / Sherbrooke"
+      },
+      {
+        "stop_id": "60544",
+        "stop_name": "Laurendeau / Forsyth"
+      },
+      {
+        "stop_id": "54497",
+        "stop_name": "Broadway / des Vétérans"
+      },
+      {
+        "stop_id": "54430",
+        "stop_name": "Broadway / de Montigny"
+      },
+      {
+        "stop_id": "54440",
+        "stop_name": "Broadway / Sainte-Catherine"
+      },
+      {
+        "stop_id": "54498",
+        "stop_name": "Broadway / Dorchester"
+      },
+      {
+        "stop_id": "54499",
+        "stop_name": "Broadway / Victoria"
+      },
+      {
+        "stop_id": "60597",
+        "stop_name": "Broadway / No 13"
+      },
+      {
+        "stop_id": "54466",
+        "stop_name": "Notre-Dame / Marien"
+      },
+      {
+        "stop_id": "53609",
+        "stop_name": "Notre-Dame / 1re Avenue"
+      },
+      {
+        "stop_id": "53625",
+        "stop_name": "Notre-Dame / 3e Avenue"
+      },
+      {
+        "stop_id": "53633",
+        "stop_name": "Notre-Dame / 6e Avenue"
+      },
+      {
+        "stop_id": "53639",
+        "stop_name": "Notre-Dame / 8e Avenue"
+      },
+      {
+        "stop_id": "60546",
+        "stop_name": "Saint-Jean-Baptiste / Notre-Dame"
+      },
+      {
+        "stop_id": "53622",
+        "stop_name": "Saint-Jean-Baptiste / Victoria"
+      },
+      {
+        "stop_id": "54132",
+        "stop_name": "Saint-Jean-Baptiste / No 850"
+      },
+      {
+        "stop_id": "53581",
+        "stop_name": "Saint-Jean-Baptiste / De La Gauchetière"
+      },
+      {
+        "stop_id": "53553",
+        "stop_name": "Saint-Jean-Baptiste / René-Lévesque"
+      },
+      {
+        "stop_id": "53730",
+        "stop_name": "Saint-Jean-Baptiste / Place Pointe-aux-Trembles"
+      },
+      {
+        "stop_id": "53503",
+        "stop_name": "Saint-Jean-Baptiste / De Montigny"
+      },
+      {
+        "stop_id": "53480",
+        "stop_name": "Saint-Jean-Baptiste / Ontario"
+      },
+      {
+        "stop_id": "53438",
+        "stop_name": "Saint-Jean-Baptiste / Forsyth"
+      },
+      {
+        "stop_id": "53427",
+        "stop_name": "Saint-Jean-Baptiste / Sherbrooke"
+      },
+      {
+        "stop_id": "53382",
+        "stop_name": "Industriel / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "53390",
+        "stop_name": "Industriel / Jean-Viel"
+      },
+      {
+        "stop_id": "53759",
+        "stop_name": "Industriel / Dollard-Desjardins"
+      },
+      {
+        "stop_id": "53687",
+        "stop_name": "Industriel / Jean-Sicard"
+      },
+      {
+        "stop_id": "53406",
+        "stop_name": "Industriel / du Tricentenaire"
+      },
+      {
+        "stop_id": "60605",
+        "stop_name": "Industriel / No 12755"
+      },
+      {
+        "stop_id": "53884",
+        "stop_name": "Industriel / Jean-Grou"
+      },
+      {
+        "stop_id": "53403",
+        "stop_name": "Cherrier / 32e Avenue"
+      },
+      {
+        "stop_id": "60606",
+        "stop_name": "32e Avenue / Prince-Arthur"
+      },
+      {
+        "stop_id": "60607",
+        "stop_name": "32e Avenue / No 3555"
+      },
+      {
+        "stop_id": "60608",
+        "stop_name": "32e Avenue / Sherbrooke"
+      },
+      {
+        "stop_id": "53713",
+        "stop_name": "Sherbrooke / No 13092"
+      },
+      {
+        "stop_id": "53469",
+        "stop_name": "Sherbrooke / Robert-Chevalier"
+      },
+      {
+        "stop_id": "53456",
+        "stop_name": "Sherbrooke / du Tricentenaire"
+      },
+      {
+        "stop_id": "53491",
+        "stop_name": "du Tricentenaire / Forsyth"
+      },
+      {
+        "stop_id": "53711",
+        "stop_name": "du Tricentenaire / No 1735"
+      },
+      {
+        "stop_id": "53540",
+        "stop_name": "du Tricentenaire / De Montigny"
+      },
+      {
+        "stop_id": "53547",
+        "stop_name": "du Tricentenaire / Joseph-d'Argent"
+      },
+      {
+        "stop_id": "53589",
+        "stop_name": "du Tricentenaire / René-Lévesque"
+      },
+      {
+        "stop_id": "53620",
+        "stop_name": "du Tricentenaire / Victoria"
+      },
+      {
+        "stop_id": "53665",
+        "stop_name": "du Tricentenaire / Notre-Dame"
+      },
+      {
+        "stop_id": "53659",
+        "stop_name": "Notre-Dame / 26e Avenue"
+      },
+      {
+        "stop_id": "53646",
+        "stop_name": "Notre-Dame / Place Saint-Georges"
+      },
+      {
+        "stop_id": "53630",
+        "stop_name": "Notre-Dame / 32e Avenue"
+      },
+      {
+        "stop_id": "53631",
+        "stop_name": "Notre-Dame / No 13280"
+      },
+      {
+        "stop_id": "53616",
+        "stop_name": "Notre-Dame / 36e Avenue"
+      },
+      {
+        "stop_id": "53606",
+        "stop_name": "Notre-Dame / 39e Avenue"
+      },
+      {
+        "stop_id": "53614",
+        "stop_name": "Notre-Dame / 41e Avenue"
+      },
+      {
+        "stop_id": "53603",
+        "stop_name": "Notre-Dame / 43e Avenue"
+      },
+      {
+        "stop_id": "53592",
+        "stop_name": "CLSC de l'Est-de-Montréal"
+      },
+      {
+        "stop_id": "60547",
+        "stop_name": "De La Rousselière / Victoria"
+      },
+      {
+        "stop_id": "53557",
+        "stop_name": "De La Rousselière / De Montigny"
+      },
+      {
+        "stop_id": "53520",
+        "stop_name": "De La Rousselière / Forsyth"
+      },
+      {
+        "stop_id": "60548",
+        "stop_name": "De La Rousselière / Sherbrooke"
+      },
+      {
+        "stop_id": "60596",
+        "stop_name": "De La Rousselière / No 3000"
+      },
+      {
+        "stop_id": "60549",
+        "stop_name": "De La Rousselière / Prince-Arthur"
+      },
+      {
+        "stop_id": "53718",
+        "stop_name": "Prince-Arthur / No 14135"
+      },
+      {
+        "stop_id": "53719",
+        "stop_name": "52e Avenue / Prince-Arthur"
+      },
+      {
+        "stop_id": "53513",
+        "stop_name": "Sherbrooke / 53e Avenue"
+      },
+      {
+        "stop_id": "61582",
+        "stop_name": "Gare Pointe-aux-Trembles"
+      },
+      {
+        "stop_id": "53526",
+        "stop_name": "Sherbrooke / Réal-Benoit"
+      },
+      {
+        "stop_id": "50119",
+        "stop_name": "Sherbrooke / Yves-Thériault"
+      },
+      {
+        "stop_id": "50120",
+        "stop_name": "Sherbrooke / Arthur-Généreux"
+      },
+      {
+        "stop_id": "53550",
+        "stop_name": "Cimetière des Trembles"
+      },
+      {
+        "stop_id": "59316",
+        "stop_name": "Sherbrooke / Damien-Gauthier"
+      },
+      {
+        "stop_id": "53570",
+        "stop_name": "Sherbrooke / Polyvalente Pointe-aux-Trembles"
+      },
+      {
+        "stop_id": "53565",
+        "stop_name": "Sherbrooke / No 15400"
+      },
+      {
+        "stop_id": "53574",
+        "stop_name": "Sherbrooke / 81e Avenue"
+      },
+      {
+        "stop_id": "53583",
+        "stop_name": "81e Avenue / Forsyth"
+      },
+      {
+        "stop_id": "53635",
+        "stop_name": "81e Avenue / Victoria"
+      },
+      {
+        "stop_id": "53643",
+        "stop_name": "81e Avenue / Notre-Dame"
+      },
+      {
+        "stop_id": "54379",
+        "stop_name": "Notre-Dame / 83e Avenue"
+      },
+      {
+        "stop_id": "53655",
+        "stop_name": "Notre-Dame / 86e Avenue"
+      },
+      {
+        "stop_id": "53846",
+        "stop_name": "Notre-Dame / Raoul-Jobin"
+      },
+      {
+        "stop_id": "53880",
+        "stop_name": "Sainte-Maria-Goretti / 93e Avenue"
+      },
+      {
+        "stop_id": "53671",
+        "stop_name": "Sainte-Maria-Goretti / 96e Avenue"
+      },
+      {
+        "stop_id": "53715",
+        "stop_name": "Sainte-Maria-Goretti / 100e Avenue"
+      },
+      {
+        "stop_id": "53736",
+        "stop_name": "100e Avenue / Bureau"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "53736",
+        "stop_name": "100e Avenue / Bureau"
+      },
+      {
+        "stop_id": "53716",
+        "stop_name": "Sainte-Maria-Goretti / 100e Avenue"
+      },
+      {
+        "stop_id": "53670",
+        "stop_name": "Sainte-Maria-Goretti / 96e Avenue"
+      },
+      {
+        "stop_id": "53879",
+        "stop_name": "Sainte-Maria-Goretti / 93e Avenue"
+      },
+      {
+        "stop_id": "53660",
+        "stop_name": "Sainte-Maria-Goretti / Terrasse Maria-Goretti"
+      },
+      {
+        "stop_id": "53654",
+        "stop_name": "Notre-Dame / Antoine-Chaudillon"
+      },
+      {
+        "stop_id": "54378",
+        "stop_name": "Notre-Dame / No 15657"
+      },
+      {
+        "stop_id": "53642",
+        "stop_name": "Notre-Dame / 81e Avenue"
+      },
+      {
+        "stop_id": "54384",
+        "stop_name": "81e Avenue / Victoria"
+      },
+      {
+        "stop_id": "54383",
+        "stop_name": "81e Avenue / Forsyth"
+      },
+      {
+        "stop_id": "61724",
+        "stop_name": "Sherbrooke / 81e Avenue"
+      },
+      {
+        "stop_id": "53737",
+        "stop_name": "Sherbrooke / No 15400"
+      },
+      {
+        "stop_id": "53733",
+        "stop_name": "École secondaire de la Pointe-aux-Trembles"
+      },
+      {
+        "stop_id": "59315",
+        "stop_name": "Sherbrooke / Damien-Gauthier"
+      },
+      {
+        "stop_id": "53732",
+        "stop_name": "Cimetière des Trembles"
+      },
+      {
+        "stop_id": "50121",
+        "stop_name": "Sherbrooke / Arthur-Généreux"
+      },
+      {
+        "stop_id": "53989",
+        "stop_name": "Sherbrooke / Yves-Thériault"
+      },
+      {
+        "stop_id": "53731",
+        "stop_name": "Sherbrooke / Réal-Benoit"
+      },
+      {
+        "stop_id": "61581",
+        "stop_name": "Gare Pointe-aux-Trembles"
+      },
+      {
+        "stop_id": "53512",
+        "stop_name": "Sherbrooke / 53e Avenue"
+      },
+      {
+        "stop_id": "53720",
+        "stop_name": "52e Avenue / Sherbrooke"
+      },
+      {
+        "stop_id": "53717",
+        "stop_name": "Prince-Arthur / No 14135"
+      },
+      {
+        "stop_id": "60579",
+        "stop_name": "Prince-Arthur / De La Rousselière"
+      },
+      {
+        "stop_id": "60598",
+        "stop_name": "De La Rousselière / No 3000"
+      },
+      {
+        "stop_id": "60542",
+        "stop_name": "De La Rousselière / Sherbrooke"
+      },
+      {
+        "stop_id": "60543",
+        "stop_name": "De La Rousselière / Forsyth"
+      },
+      {
+        "stop_id": "53559",
+        "stop_name": "De La Rousselière / De Montigny"
+      },
+      {
+        "stop_id": "53586",
+        "stop_name": "De La Rousselière / Victoria"
+      },
+      {
+        "stop_id": "53729",
+        "stop_name": "CLSC de l'Est-de-Montréal"
+      },
+      {
+        "stop_id": "53602",
+        "stop_name": "Notre-Dame / 43e Avenue"
+      },
+      {
+        "stop_id": "53604",
+        "stop_name": "Notre-Dame / 41e Avenue"
+      },
+      {
+        "stop_id": "53607",
+        "stop_name": "Notre-Dame / 39e Avenue"
+      },
+      {
+        "stop_id": "53615",
+        "stop_name": "Notre-Dame / 36e Avenue"
+      },
+      {
+        "stop_id": "53626",
+        "stop_name": "Notre-Dame / No 13295"
+      },
+      {
+        "stop_id": "53629",
+        "stop_name": "Notre-Dame / 32e Avenue"
+      },
+      {
+        "stop_id": "53645",
+        "stop_name": "Notre-Dame / Place Saint-Georges"
+      },
+      {
+        "stop_id": "53658",
+        "stop_name": "Notre-Dame / 26e Avenue"
+      },
+      {
+        "stop_id": "53668",
+        "stop_name": "Notre-Dame / 24e Avenue"
+      },
+      {
+        "stop_id": "53667",
+        "stop_name": "du Tricentenaire / Notre-Dame"
+      },
+      {
+        "stop_id": "53619",
+        "stop_name": "du Tricentenaire / Victoria"
+      },
+      {
+        "stop_id": "53588",
+        "stop_name": "du Tricentenaire / René-Lévesque"
+      },
+      {
+        "stop_id": "53710",
+        "stop_name": "du Tricentenaire / Joseph-d'Argent"
+      },
+      {
+        "stop_id": "53538",
+        "stop_name": "du Tricentenaire / De Montigny"
+      },
+      {
+        "stop_id": "53493",
+        "stop_name": "du Tricentenaire / No 1735"
+      },
+      {
+        "stop_id": "53490",
+        "stop_name": "du Tricentenaire / Forsyth"
+      },
+      {
+        "stop_id": "53455",
+        "stop_name": "du Tricentenaire / Sherbrooke"
+      },
+      {
+        "stop_id": "53470",
+        "stop_name": "Sherbrooke / Robert-Chevalier"
+      },
+      {
+        "stop_id": "53712",
+        "stop_name": "Sherbrooke / No 13092"
+      },
+      {
+        "stop_id": "60609",
+        "stop_name": "32e Avenue / Beaudry"
+      },
+      {
+        "stop_id": "60611",
+        "stop_name": "32e Avenue / Prince-Arthur"
+      },
+      {
+        "stop_id": "53404",
+        "stop_name": "Cherrier / 32e Avenue"
+      },
+      {
+        "stop_id": "53883",
+        "stop_name": "Jean-Grou / Industriel"
+      },
+      {
+        "stop_id": "60612",
+        "stop_name": "Industriel / No 12755"
+      },
+      {
+        "stop_id": "53405",
+        "stop_name": "Industriel / du Tricentenaire"
+      },
+      {
+        "stop_id": "54251",
+        "stop_name": "Industriel / Jean-Sicard"
+      },
+      {
+        "stop_id": "53885",
+        "stop_name": "Industriel / Dollard-Desjardins"
+      },
+      {
+        "stop_id": "53389",
+        "stop_name": "Industriel / Jean-Viel"
+      },
+      {
+        "stop_id": "53381",
+        "stop_name": "Industriel / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "53425",
+        "stop_name": "Saint-Jean-Baptiste / Sherbrooke"
+      },
+      {
+        "stop_id": "53481",
+        "stop_name": "Saint-Jean-Baptiste / Ontario"
+      },
+      {
+        "stop_id": "53504",
+        "stop_name": "Saint-Jean-Baptiste / De Montigny"
+      },
+      {
+        "stop_id": "53516",
+        "stop_name": "Saint-Jean-Baptiste / Place Pointe-aux-Trembles"
+      },
+      {
+        "stop_id": "53555",
+        "stop_name": "Saint-Jean-Baptiste / René-Lévesque"
+      },
+      {
+        "stop_id": "53582",
+        "stop_name": "Saint-Jean-Baptiste / De La Gauchetière"
+      },
+      {
+        "stop_id": "54131",
+        "stop_name": "Saint-Jean-Baptiste / No 850"
+      },
+      {
+        "stop_id": "53621",
+        "stop_name": "Saint-Jean-Baptiste / Victoria"
+      },
+      {
+        "stop_id": "53650",
+        "stop_name": "Saint-Jean-Baptiste / Notre-Dame"
+      },
+      {
+        "stop_id": "53638",
+        "stop_name": "Notre-Dame / 8e Avenue"
+      },
+      {
+        "stop_id": "53632",
+        "stop_name": "Notre-Dame / 6e Avenue"
+      },
+      {
+        "stop_id": "53624",
+        "stop_name": "Notre-Dame / 3e Avenue"
+      },
+      {
+        "stop_id": "53608",
+        "stop_name": "Notre-Dame / 1re Avenue"
+      },
+      {
+        "stop_id": "54464",
+        "stop_name": "Notre-Dame / Marien"
+      },
+      {
+        "stop_id": "54462",
+        "stop_name": "Notre-Dame / Broadway"
+      },
+      {
+        "stop_id": "60396",
+        "stop_name": "Broadway / Prince-Albert"
+      },
+      {
+        "stop_id": "54452",
+        "stop_name": "Broadway / De La Gauchetière"
+      },
+      {
+        "stop_id": "54446",
+        "stop_name": "Broadway / Dorchester"
+      },
+      {
+        "stop_id": "54438",
+        "stop_name": "Broadway / Sainte-Catherine"
+      },
+      {
+        "stop_id": "54429",
+        "stop_name": "Broadway / de Montigny"
+      },
+      {
+        "stop_id": "54424",
+        "stop_name": "Broadway / Ontario"
+      },
+      {
+        "stop_id": "60314",
+        "stop_name": "Broadway / Forsyth"
+      },
+      {
+        "stop_id": "60643",
+        "stop_name": "Sherbrooke / Laurendeau"
+      },
+      {
+        "stop_id": "60653",
+        "stop_name": "Marien / No 7000"
+      },
+      {
+        "stop_id": "54486",
+        "stop_name": "Marien / Métropolitain"
+      },
+      {
+        "stop_id": "54508",
+        "stop_name": "Place Marien / No 8201"
+      },
+      {
+        "stop_id": "54494",
+        "stop_name": "Place Marien / No 8381"
+      },
+      {
+        "stop_id": "62064",
+        "stop_name": "Place Marien / No 8400"
+      },
+      {
+        "stop_id": "54502",
+        "stop_name": "Place Marien / No 8581"
+      },
+      {
+        "stop_id": "54491",
+        "stop_name": "Place Marien / No 8801"
+      },
+      {
+        "stop_id": "54504",
+        "stop_name": "Place Marien Nord"
+      },
+      {
+        "stop_id": "54407",
+        "stop_name": "Marien / Henri-Bourassa"
+      },
+      {
+        "stop_id": "50122",
+        "stop_name": "Henri-Bourassa / No 9875"
+      },
+      {
+        "stop_id": "52910",
+        "stop_name": "Rivière-des-Prairies / Henri-Bourassa"
+      },
+      {
+        "stop_id": "52852",
+        "stop_name": "Rivière-des-Prairies / La Martinière"
+      },
+      {
+        "stop_id": "52758",
+        "stop_name": "Rivière-des-Prairies / 7e Rue"
+      },
+      {
+        "stop_id": "52654",
+        "stop_name": "Rivière-des-Prairies / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "52566",
+        "stop_name": "Rivière-des-Prairies / 5e Rue"
+      },
+      {
+        "stop_id": "52470",
+        "stop_name": "Rivière-des-Prairies / 4e Rue"
+      },
+      {
+        "stop_id": "60325",
+        "stop_name": "Rivière-des-Prairies / Perras"
+      },
+      {
+        "stop_id": "60802",
+        "stop_name": "Rivière-des-Prairies / 3e Rue"
+      },
+      {
+        "stop_id": "60315",
+        "stop_name": "58e Avenue / Gouin"
+      }
+    ]
+  }
+]

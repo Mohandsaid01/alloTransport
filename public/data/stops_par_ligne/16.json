@@ -1,0 +1,296 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "51095",
+        "stop_name": "Station Parc (Ogilvy / Hutchison)"
+      },
+      {
+        "stop_id": "51126",
+        "stop_name": "Querbes / Jean-Talon"
+      },
+      {
+        "stop_id": "51113",
+        "stop_name": "Jean-Talon / Bloomfield"
+      },
+      {
+        "stop_id": "51084",
+        "stop_name": "Jean-Talon / Wiseman"
+      },
+      {
+        "stop_id": "51063",
+        "stop_name": "Jean-Talon / de l'Acadie"
+      },
+      {
+        "stop_id": "56123",
+        "stop_name": "Graham / Markham"
+      },
+      {
+        "stop_id": "56096",
+        "stop_name": "Graham / Rockland"
+      },
+      {
+        "stop_id": "56092",
+        "stop_name": "Graham / Trenton"
+      },
+      {
+        "stop_id": "56087",
+        "stop_name": "Graham / Simcoe"
+      },
+      {
+        "stop_id": "56084",
+        "stop_name": "Graham / Dunrae"
+      },
+      {
+        "stop_id": "56132",
+        "stop_name": "Graham / Regent"
+      },
+      {
+        "stop_id": "56065",
+        "stop_name": "Graham / Dunkirk"
+      },
+      {
+        "stop_id": "56061",
+        "stop_name": "Graham / Lombard"
+      },
+      {
+        "stop_id": "56054",
+        "stop_name": "Graham / Kindersley"
+      },
+      {
+        "stop_id": "56046",
+        "stop_name": "Graham / Kenaston"
+      },
+      {
+        "stop_id": "56039",
+        "stop_name": "Graham / Hanover"
+      },
+      {
+        "stop_id": "56035",
+        "stop_name": "Graham / Saint-Clare"
+      },
+      {
+        "stop_id": "56031",
+        "stop_name": "Graham / Glengarry"
+      },
+      {
+        "stop_id": "56028",
+        "stop_name": "Glengarry / Lucerne"
+      },
+      {
+        "stop_id": "56024",
+        "stop_name": "Lucerne / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "55756",
+        "stop_name": "Sainte-Croix / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "55746",
+        "stop_name": "Sainte-Croix / Dion"
+      },
+      {
+        "stop_id": "55739",
+        "stop_name": "Sainte-Croix / Hodge"
+      },
+      {
+        "stop_id": "55724",
+        "stop_name": "Sainte-Croix / du Collège"
+      },
+      {
+        "stop_id": "55700",
+        "stop_name": "de l'Église / Sainte-Croix"
+      },
+      {
+        "stop_id": "55690",
+        "stop_name": "de l'Église / Saint-Germain"
+      },
+      {
+        "stop_id": "55676",
+        "stop_name": "de l'Église / Décarie"
+      },
+      {
+        "stop_id": "55665",
+        "stop_name": "de l'Église / Cardinal"
+      },
+      {
+        "stop_id": "55653",
+        "stop_name": "de l'Église / Buchanan"
+      },
+      {
+        "stop_id": "55630",
+        "stop_name": "de l'Église / Marcel-Laurin"
+      },
+      {
+        "stop_id": "55619",
+        "stop_name": "de l'Église / Saint-Aubin"
+      },
+      {
+        "stop_id": "55606",
+        "stop_name": "de l'Église / Gratton"
+      },
+      {
+        "stop_id": "55592",
+        "stop_name": "de l'Église / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55572",
+        "stop_name": "Decelles / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55545",
+        "stop_name": "Decelles / Abbott"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "55545",
+        "stop_name": "Decelles / Abbott"
+      },
+      {
+        "stop_id": "55568",
+        "stop_name": "Abbott / Paton"
+      },
+      {
+        "stop_id": "55584",
+        "stop_name": "Brunet / Stevens"
+      },
+      {
+        "stop_id": "55605",
+        "stop_name": "Beaudet / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55591",
+        "stop_name": "Alexis-Nihon / de l'Église"
+      },
+      {
+        "stop_id": "55607",
+        "stop_name": "de l'Église / Gratton"
+      },
+      {
+        "stop_id": "55620",
+        "stop_name": "de l'Église / Saint-Aubin"
+      },
+      {
+        "stop_id": "55631",
+        "stop_name": "de l'Église / Marcel-Laurin"
+      },
+      {
+        "stop_id": "55632",
+        "stop_name": "de l'Église / Lindsay"
+      },
+      {
+        "stop_id": "55654",
+        "stop_name": "de l'Église / Buchanan"
+      },
+      {
+        "stop_id": "55666",
+        "stop_name": "de l'Église / Cardinal"
+      },
+      {
+        "stop_id": "55678",
+        "stop_name": "de l'Église / Décarie"
+      },
+      {
+        "stop_id": "55699",
+        "stop_name": "de l'Église / Sainte-Croix"
+      },
+      {
+        "stop_id": "55725",
+        "stop_name": "Sainte-Croix / du Collège"
+      },
+      {
+        "stop_id": "55741",
+        "stop_name": "Sainte-Croix / Hodge"
+      },
+      {
+        "stop_id": "55747",
+        "stop_name": "Sainte-Croix / Dion"
+      },
+      {
+        "stop_id": "55755",
+        "stop_name": "Sainte-Croix / Saint-Philippe"
+      },
+      {
+        "stop_id": "55760",
+        "stop_name": "Lucerne / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "56030",
+        "stop_name": "Glengarry / Lucerne"
+      },
+      {
+        "stop_id": "56032",
+        "stop_name": "Glengarry / Graham"
+      },
+      {
+        "stop_id": "56036",
+        "stop_name": "Graham / Saint-Clare"
+      },
+      {
+        "stop_id": "56040",
+        "stop_name": "Graham / Mitchell"
+      },
+      {
+        "stop_id": "56047",
+        "stop_name": "Graham / Kenaston"
+      },
+      {
+        "stop_id": "56055",
+        "stop_name": "Graham / Kindersley"
+      },
+      {
+        "stop_id": "56134",
+        "stop_name": "Graham / Lombard"
+      },
+      {
+        "stop_id": "56072",
+        "stop_name": "Laird / Dunkirk"
+      },
+      {
+        "stop_id": "56133",
+        "stop_name": "Graham / Regent"
+      },
+      {
+        "stop_id": "56085",
+        "stop_name": "Graham / Dunrae"
+      },
+      {
+        "stop_id": "56088",
+        "stop_name": "Graham / Lockhart"
+      },
+      {
+        "stop_id": "56094",
+        "stop_name": "Clyde / Brookfield"
+      },
+      {
+        "stop_id": "56122",
+        "stop_name": "Dresden / Rockland"
+      },
+      {
+        "stop_id": "56095",
+        "stop_name": "Graham / Rockland"
+      },
+      {
+        "stop_id": "56100",
+        "stop_name": "Graham / Markham"
+      },
+      {
+        "stop_id": "51065",
+        "stop_name": "de l'Acadie / Jean-Talon"
+      },
+      {
+        "stop_id": "51057",
+        "stop_name": "Ogilvy / Bloomfield"
+      },
+      {
+        "stop_id": "51095",
+        "stop_name": "Station Parc (Ogilvy / Hutchison)"
+      }
+    ]
+  }
+]

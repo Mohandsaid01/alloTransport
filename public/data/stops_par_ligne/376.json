@@ -1,0 +1,388 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "58095",
+        "stop_name": "de Pierrefonds / Saint-Charles"
+      },
+      {
+        "stop_id": "58096",
+        "stop_name": "de Pierrefonds / Saint-Charles"
+      },
+      {
+        "stop_id": "58263",
+        "stop_name": "de Pierrefonds / Forbes"
+      },
+      {
+        "stop_id": "58075",
+        "stop_name": "de Pierrefonds / Richelieu"
+      },
+      {
+        "stop_id": "58264",
+        "stop_name": "de Pierrefonds / Sainte-Anne"
+      },
+      {
+        "stop_id": "58308",
+        "stop_name": "de Pierrefonds / No 15760"
+      },
+      {
+        "stop_id": "58119",
+        "stop_name": "de Pierrefonds / Paiement"
+      },
+      {
+        "stop_id": "58266",
+        "stop_name": "de Pierrefonds / Jacques-Bizard"
+      },
+      {
+        "stop_id": "58269",
+        "stop_name": "de Pierrefonds / Saint-Pierre"
+      },
+      {
+        "stop_id": "58236",
+        "stop_name": "de Pierrefonds / Esther-Blondin"
+      },
+      {
+        "stop_id": "58245",
+        "stop_name": "de Pierrefonds / Harry-Worth"
+      },
+      {
+        "stop_id": "58290",
+        "stop_name": "de Pierrefonds / Harry-Worth"
+      },
+      {
+        "stop_id": "58136",
+        "stop_name": "de Pierrefonds / Saint-Jean"
+      },
+      {
+        "stop_id": "60536",
+        "stop_name": "Saint-Jean / Harry-Worth"
+      },
+      {
+        "stop_id": "57997",
+        "stop_name": "Saint-Jean / Jolicoeur"
+      },
+      {
+        "stop_id": "57851",
+        "stop_name": "Saint-Jean / Harris"
+      },
+      {
+        "stop_id": "57853",
+        "stop_name": "Saint-Jean / Shakespeare"
+      },
+      {
+        "stop_id": "57855",
+        "stop_name": "Saint-Jean / Westminster"
+      },
+      {
+        "stop_id": "61132",
+        "stop_name": "de Salaberry / Saint-Jean"
+      },
+      {
+        "stop_id": "61133",
+        "stop_name": "de Salaberry / Blue Haven"
+      },
+      {
+        "stop_id": "61134",
+        "stop_name": "de Salaberry / Frontenac"
+      },
+      {
+        "stop_id": "61135",
+        "stop_name": "de Salaberry / Tecumseh"
+      },
+      {
+        "stop_id": "57899",
+        "stop_name": "De Salaberry / D'Iberville"
+      },
+      {
+        "stop_id": "57903",
+        "stop_name": "de Salaberry / Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "57941",
+        "stop_name": "de Salaberry / Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "61136",
+        "stop_name": "de Salaberry / Madrid"
+      },
+      {
+        "stop_id": "61137",
+        "stop_name": "de Salaberry / des Sources"
+      },
+      {
+        "stop_id": "57945",
+        "stop_name": "des Sources / Brunswick"
+      },
+      {
+        "stop_id": "57494",
+        "stop_name": "Transcanadienne / No 2052"
+      },
+      {
+        "stop_id": "57372",
+        "stop_name": "Transcanadienne / André"
+      },
+      {
+        "stop_id": "57495",
+        "stop_name": "Transcanadienne / No 1600"
+      },
+      {
+        "stop_id": "57386",
+        "stop_name": "Transcanadienne / No 1400"
+      },
+      {
+        "stop_id": "57496",
+        "stop_name": "Transcanadienne / No 1300"
+      },
+      {
+        "stop_id": "55792",
+        "stop_name": "Transcanadienne / Abrams"
+      },
+      {
+        "stop_id": "55366",
+        "stop_name": "Transcanadienne / Halpern"
+      },
+      {
+        "stop_id": "55343",
+        "stop_name": "Transcanadienne Sud / No 9300"
+      },
+      {
+        "stop_id": "55889",
+        "stop_name": "Transcanadienne / No 8150"
+      },
+      {
+        "stop_id": "55452",
+        "stop_name": "Transcanadienne / McArthur"
+      },
+      {
+        "stop_id": "55469",
+        "stop_name": "Transcanadienne / Locke"
+      },
+      {
+        "stop_id": "56120",
+        "stop_name": "Côte-de-Liesse / No 5430"
+      },
+      {
+        "stop_id": "50508",
+        "stop_name": "Station Namur (Décarie / Jean-Talon)"
+      },
+      {
+        "stop_id": "56297",
+        "stop_name": "Station Atwater (Atwater / Sainte-Catherine)"
+      },
+      {
+        "stop_id": "56308",
+        "stop_name": "Station Atwater (Tupper / Atwater)"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "56308",
+        "stop_name": "Station Atwater (Tupper / Atwater)"
+      },
+      {
+        "stop_id": "54262",
+        "stop_name": "Station Namur (Décarie / Jean-Talon)"
+      },
+      {
+        "stop_id": "55356",
+        "stop_name": "Côte-de-Liesse Nord / No 5415"
+      },
+      {
+        "stop_id": "55843",
+        "stop_name": "Côte-de-Liesse / No 5805"
+      },
+      {
+        "stop_id": "55558",
+        "stop_name": "Transcanadienne / No 7101"
+      },
+      {
+        "stop_id": "55473",
+        "stop_name": "Transcanadienne / Bégin"
+      },
+      {
+        "stop_id": "55789",
+        "stop_name": "Transcanadienne / Pomba"
+      },
+      {
+        "stop_id": "55928",
+        "stop_name": "Transcanadienne / No 9379"
+      },
+      {
+        "stop_id": "55365",
+        "stop_name": "Transcanadienne / Halpern"
+      },
+      {
+        "stop_id": "55958",
+        "stop_name": "Transcanadienne / No 9775"
+      },
+      {
+        "stop_id": "57533",
+        "stop_name": "Transcanadienne / No 1255"
+      },
+      {
+        "stop_id": "57387",
+        "stop_name": "Transcanadienne / Sunnybrooke"
+      },
+      {
+        "stop_id": "57492",
+        "stop_name": "Transcanadienne / No 1675"
+      },
+      {
+        "stop_id": "57546",
+        "stop_name": "Transcanadienne / No 1865"
+      },
+      {
+        "stop_id": "57371",
+        "stop_name": "Transcanadienne / Deacon"
+      },
+      {
+        "stop_id": "57947",
+        "stop_name": "des Sources / Brunswick"
+      },
+      {
+        "stop_id": "61131",
+        "stop_name": "de Salaberry / Barcelone"
+      },
+      {
+        "stop_id": "57907",
+        "stop_name": "de Salaberry / No 12001"
+      },
+      {
+        "stop_id": "57904",
+        "stop_name": "de Salaberry / Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "57897",
+        "stop_name": "de Salaberry / Montevista"
+      },
+      {
+        "stop_id": "61127",
+        "stop_name": "de Salaberry / Tecumseh"
+      },
+      {
+        "stop_id": "61128",
+        "stop_name": "de Salaberry / Frontenac"
+      },
+      {
+        "stop_id": "61129",
+        "stop_name": "de Salaberry / Blue Haven"
+      },
+      {
+        "stop_id": "61130",
+        "stop_name": "de Salaberry / Hurteau"
+      },
+      {
+        "stop_id": "57854",
+        "stop_name": "Saint-Jean / Lake"
+      },
+      {
+        "stop_id": "57852",
+        "stop_name": "Saint-Jean / Roger-Pilon"
+      },
+      {
+        "stop_id": "57994",
+        "stop_name": "Saint-Jean / Ernest"
+      },
+      {
+        "stop_id": "58147",
+        "stop_name": "Saint-Jean / Anselme-Lavigne"
+      },
+      {
+        "stop_id": "60537",
+        "stop_name": "Saint-Jean / Harry-Worth"
+      },
+      {
+        "stop_id": "58137",
+        "stop_name": "de Pierrefonds / Saint-Jean"
+      },
+      {
+        "stop_id": "58244",
+        "stop_name": "de Pierrefonds / Harry-Worth"
+      },
+      {
+        "stop_id": "58237",
+        "stop_name": "de Pierrefonds / Esther-Blondin"
+      },
+      {
+        "stop_id": "58268",
+        "stop_name": "de Pierrefonds / Saint-Pierre"
+      },
+      {
+        "stop_id": "58124",
+        "stop_name": "de Pierrefonds / Jacques-Bizard"
+      },
+      {
+        "stop_id": "58118",
+        "stop_name": "de Pierrefonds / Paiement"
+      },
+      {
+        "stop_id": "58299",
+        "stop_name": "de Pierrefonds / No 15729"
+      },
+      {
+        "stop_id": "58103",
+        "stop_name": "de Pierrefonds / Sainte-Anne"
+      },
+      {
+        "stop_id": "58069",
+        "stop_name": "de Pierrefonds / Richelieu"
+      },
+      {
+        "stop_id": "58262",
+        "stop_name": "de Pierrefonds / Forbes"
+      },
+      {
+        "stop_id": "58093",
+        "stop_name": "de Pierrefonds / Saint-Charles"
+      },
+      {
+        "stop_id": "58090",
+        "stop_name": "de Pierrefonds / Louis-Fréchette"
+      },
+      {
+        "stop_id": "58089",
+        "stop_name": "de Pierrefonds / Nanterre"
+      },
+      {
+        "stop_id": "58240",
+        "stop_name": "de Pierrefonds / des Cageux"
+      },
+      {
+        "stop_id": "58249",
+        "stop_name": "des Cageux / Gouin"
+      },
+      {
+        "stop_id": "58087",
+        "stop_name": "Gouin / Coursol"
+      },
+      {
+        "stop_id": "58296",
+        "stop_name": "du Château-Pierrefonds / Oka"
+      },
+      {
+        "stop_id": "58239",
+        "stop_name": "de Pierrefonds / Prével"
+      },
+      {
+        "stop_id": "58241",
+        "stop_name": "de Pierrefonds / des Cageux"
+      },
+      {
+        "stop_id": "58083",
+        "stop_name": "de Pierrefonds / Nanterre"
+      },
+      {
+        "stop_id": "58261",
+        "stop_name": "de Pierrefonds / Louis-Fréchette"
+      },
+      {
+        "stop_id": "58095",
+        "stop_name": "de Pierrefonds / Saint-Charles"
+      }
+    ]
+  }
+]

@@ -1,0 +1,348 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "55921",
+        "stop_name": "Station Du Collège (Ouimet / Saint-Louis)"
+      },
+      {
+        "stop_id": "55701",
+        "stop_name": "Saint-Louis / Crevier"
+      },
+      {
+        "stop_id": "55691",
+        "stop_name": "Saint-Louis / Marcel-Laurin"
+      },
+      {
+        "stop_id": "55679",
+        "stop_name": "Saint-Louis / Tait"
+      },
+      {
+        "stop_id": "55669",
+        "stop_name": "Saint-Louis / Gratton"
+      },
+      {
+        "stop_id": "55645",
+        "stop_name": "Saint-Louis / Vincent"
+      },
+      {
+        "stop_id": "55674",
+        "stop_name": "Alexis-Nihon / Ward"
+      },
+      {
+        "stop_id": "55843",
+        "stop_name": "Côte-de-Liesse / No 5805"
+      },
+      {
+        "stop_id": "55656",
+        "stop_name": "Transcanadienne / Ward"
+      },
+      {
+        "stop_id": "55579",
+        "stop_name": "Transcanadienne / No 6363"
+      },
+      {
+        "stop_id": "55573",
+        "stop_name": "Transcanadienne / Dr.-Frederik-Philips"
+      },
+      {
+        "stop_id": "55543",
+        "stop_name": "Griffith / Migneron"
+      },
+      {
+        "stop_id": "55511",
+        "stop_name": "Griffith / Locke"
+      },
+      {
+        "stop_id": "55494",
+        "stop_name": "Griffith / McArthur"
+      },
+      {
+        "stop_id": "55484",
+        "stop_name": "McArthur / No 555"
+      },
+      {
+        "stop_id": "55455",
+        "stop_name": "McArthur / Seré"
+      },
+      {
+        "stop_id": "55447",
+        "stop_name": "Seré / McCaffrey"
+      },
+      {
+        "stop_id": "55444",
+        "stop_name": "McCaffrey / No 815"
+      },
+      {
+        "stop_id": "55345",
+        "stop_name": "McCaffrey / Gougeon"
+      },
+      {
+        "stop_id": "55436",
+        "stop_name": "McCaffrey / Montée de Liesse"
+      },
+      {
+        "stop_id": "55810",
+        "stop_name": "Côte-Vertu / Montée de Liesse"
+      },
+      {
+        "stop_id": "55351",
+        "stop_name": "Montée de Liesse / No 1235"
+      },
+      {
+        "stop_id": "55409",
+        "stop_name": "Saint-François / Saint-Amour"
+      },
+      {
+        "stop_id": "55813",
+        "stop_name": "Saint-François / No 5400"
+      },
+      {
+        "stop_id": "55862",
+        "stop_name": "Saint-François / Donahue"
+      },
+      {
+        "stop_id": "55374",
+        "stop_name": "Saint-François / Vanden-Abeele"
+      },
+      {
+        "stop_id": "55877",
+        "stop_name": "Saint-François / Halpern"
+      },
+      {
+        "stop_id": "55814",
+        "stop_name": "Halpern / No 2200"
+      },
+      {
+        "stop_id": "55879",
+        "stop_name": "Halpern / Vanden-Abeele"
+      },
+      {
+        "stop_id": "55783",
+        "stop_name": "Halpern / Abrams"
+      },
+      {
+        "stop_id": "55362",
+        "stop_name": "Halpern / Bessette"
+      },
+      {
+        "stop_id": "55818",
+        "stop_name": "Bessette / Sabourin"
+      },
+      {
+        "stop_id": "55809",
+        "stop_name": "Sabourin / De Miniac"
+      },
+      {
+        "stop_id": "55367",
+        "stop_name": "De Miniac / Bessette"
+      },
+      {
+        "stop_id": "55938",
+        "stop_name": "De Miniac / Diab"
+      },
+      {
+        "stop_id": "56007",
+        "stop_name": "De Miniac / No 3167"
+      },
+      {
+        "stop_id": "56005",
+        "stop_name": "Cypihot / No 5789"
+      },
+      {
+        "stop_id": "56004",
+        "stop_name": "Cypihot / Douglas-B.-Floreani"
+      },
+      {
+        "stop_id": "55999",
+        "stop_name": "Douglas-B.-Floreani / Kieran"
+      },
+      {
+        "stop_id": "60581",
+        "stop_name": "Douglas-B.-Floreani / No 3425"
+      },
+      {
+        "stop_id": "56001",
+        "stop_name": "Douglas-B.-Floreani / Grass Valley"
+      },
+      {
+        "stop_id": "56008",
+        "stop_name": "Douglas-B.-Floreani / L'Oréal"
+      },
+      {
+        "stop_id": "55998",
+        "stop_name": "Douglas-B.-Floreani / Grass Valley"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "55998",
+        "stop_name": "Douglas-B.-Floreani / Grass Valley"
+      },
+      {
+        "stop_id": "56000",
+        "stop_name": "Douglas-B.-Floreani / Kieran"
+      },
+      {
+        "stop_id": "56002",
+        "stop_name": "Douglas-B.-Floreani / Etingin"
+      },
+      {
+        "stop_id": "56003",
+        "stop_name": "Cypihot / No 5859"
+      },
+      {
+        "stop_id": "56006",
+        "stop_name": "Cypihot / De Miniac"
+      },
+      {
+        "stop_id": "55360",
+        "stop_name": "De Miniac / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55939",
+        "stop_name": "De Miniac / Diab"
+      },
+      {
+        "stop_id": "55370",
+        "stop_name": "De Miniac / Sabourin"
+      },
+      {
+        "stop_id": "55363",
+        "stop_name": "Bessette / No 5825"
+      },
+      {
+        "stop_id": "55784",
+        "stop_name": "Halpern / Abrams"
+      },
+      {
+        "stop_id": "55880",
+        "stop_name": "Halpern / Vanden-Abeele"
+      },
+      {
+        "stop_id": "55348",
+        "stop_name": "Halpern / No 2200"
+      },
+      {
+        "stop_id": "55878",
+        "stop_name": "Halpern / Saint-François"
+      },
+      {
+        "stop_id": "55375",
+        "stop_name": "Saint-François / Vanden-Abeele"
+      },
+      {
+        "stop_id": "55863",
+        "stop_name": "Saint-François / Donahue"
+      },
+      {
+        "stop_id": "55342",
+        "stop_name": "Saint-François / No 5400"
+      },
+      {
+        "stop_id": "55410",
+        "stop_name": "Saint-François / Saint-Amour"
+      },
+      {
+        "stop_id": "55812",
+        "stop_name": "Montée de Liesse / No 1235"
+      },
+      {
+        "stop_id": "55431",
+        "stop_name": "Montée de Liesse / Côte-Vertu"
+      },
+      {
+        "stop_id": "55811",
+        "stop_name": "Côte-Vertu / Montée de Liesse"
+      },
+      {
+        "stop_id": "55438",
+        "stop_name": "McCaffrey / Montée de Liesse"
+      },
+      {
+        "stop_id": "55850",
+        "stop_name": "McCaffrey / Gougeon"
+      },
+      {
+        "stop_id": "55347",
+        "stop_name": "McCaffrey / No 815"
+      },
+      {
+        "stop_id": "55448",
+        "stop_name": "Seré / McCaffrey"
+      },
+      {
+        "stop_id": "55456",
+        "stop_name": "Seré / McArthur"
+      },
+      {
+        "stop_id": "55861",
+        "stop_name": "McArthur / No 350"
+      },
+      {
+        "stop_id": "55495",
+        "stop_name": "Griffith / McArthur"
+      },
+      {
+        "stop_id": "55513",
+        "stop_name": "Griffith / Locke"
+      },
+      {
+        "stop_id": "55544",
+        "stop_name": "Griffith / Migneron"
+      },
+      {
+        "stop_id": "55553",
+        "stop_name": "Cavendish / Griffith"
+      },
+      {
+        "stop_id": "55600",
+        "stop_name": "Cavendish / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "55621",
+        "stop_name": "Dalton / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "56110",
+        "stop_name": "Passerelle Isabey-Darnley (Côte-de-Liesse/Isabey)"
+      },
+      {
+        "stop_id": "56139",
+        "stop_name": "Côte-de-Liesse / No 5750"
+      },
+      {
+        "stop_id": "55937",
+        "stop_name": "Transcanadienne / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55671",
+        "stop_name": "Alexis-Nihon / Ward"
+      },
+      {
+        "stop_id": "55644",
+        "stop_name": "Saint-Louis / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55670",
+        "stop_name": "Saint-Louis / Gratton"
+      },
+      {
+        "stop_id": "55680",
+        "stop_name": "Saint-Louis / Tait"
+      },
+      {
+        "stop_id": "55702",
+        "stop_name": "Saint-Louis / Crevier"
+      },
+      {
+        "stop_id": "55921",
+        "stop_name": "Station Du Collège (Ouimet / Saint-Louis)"
+      }
+    ]
+  }
+]

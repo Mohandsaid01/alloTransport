@@ -1,0 +1,246 @@
+[
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "53083",
+        "stop_name": "Station Assomption (de l'Assomption / Chauveau)"
+      },
+      {
+        "stop_id": "53039",
+        "stop_name": "de l'Assomption / Sherbrooke"
+      },
+      {
+        "stop_id": "53043",
+        "stop_name": "de l'Assomption / Marguerite-de-Lajemmerais"
+      },
+      {
+        "stop_id": "61679",
+        "stop_name": "de l'Assomption / No 5105"
+      },
+      {
+        "stop_id": "52862",
+        "stop_name": "de l'Assomption / des Saules (Polyclinique)"
+      },
+      {
+        "stop_id": "52784",
+        "stop_name": "de l'Assomption / des Sapins (Hôp. M.-Rosemont)"
+      },
+      {
+        "stop_id": "52691",
+        "stop_name": "de l'Assomption / Rosemont"
+      },
+      {
+        "stop_id": "52641",
+        "stop_name": "de l'Assomption / de Bellechasse"
+      },
+      {
+        "stop_id": "52512",
+        "stop_name": "de l'Assomption / Beaubien"
+      },
+      {
+        "stop_id": "52385",
+        "stop_name": "de l'Assomption / Saint-Zotique"
+      },
+      {
+        "stop_id": "52253",
+        "stop_name": "de l'Assomption / Bélanger"
+      },
+      {
+        "stop_id": "54983",
+        "stop_name": "de l'Assomption / des Becquets"
+      },
+      {
+        "stop_id": "54964",
+        "stop_name": "de l'Assomption / Jean-Talon"
+      },
+      {
+        "stop_id": "54952",
+        "stop_name": "des Angevins / de Lisieux"
+      }
+    ]
+  },
+  {
+    "direction": "Nord destination Hôpital Maisonneuve-Rosemont",
+    "arrets": [
+      {
+        "stop_id": "53083",
+        "stop_name": "Station Assomption (de l'Assomption / Chauveau)"
+      },
+      {
+        "stop_id": "53039",
+        "stop_name": "de l'Assomption / Sherbrooke"
+      },
+      {
+        "stop_id": "53043",
+        "stop_name": "de l'Assomption / Marguerite-de-Lajemmerais"
+      },
+      {
+        "stop_id": "61679",
+        "stop_name": "de l'Assomption / No 5105"
+      },
+      {
+        "stop_id": "52862",
+        "stop_name": "de l'Assomption / des Saules (Polyclinique)"
+      },
+      {
+        "stop_id": "52784",
+        "stop_name": "de l'Assomption / des Sapins (Hôp. M.-Rosemont)"
+      }
+    ]
+  },
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "54952",
+        "stop_name": "des Angevins / de Lisieux"
+      },
+      {
+        "stop_id": "54960",
+        "stop_name": "Lisieux / Jean-Talon"
+      },
+      {
+        "stop_id": "54967",
+        "stop_name": "de l'Assomption / Jean-Talon"
+      },
+      {
+        "stop_id": "54984",
+        "stop_name": "de l'Assomption / des Becquets"
+      },
+      {
+        "stop_id": "52255",
+        "stop_name": "de l'Assomption / Bélanger"
+      },
+      {
+        "stop_id": "52386",
+        "stop_name": "de l'Assomption / Saint-Zotique"
+      },
+      {
+        "stop_id": "52514",
+        "stop_name": "de l'Assomption / Beaubien"
+      },
+      {
+        "stop_id": "52642",
+        "stop_name": "de l'Assomption / de Bellechasse"
+      },
+      {
+        "stop_id": "52693",
+        "stop_name": "de l'Assomption / Rosemont"
+      },
+      {
+        "stop_id": "52695",
+        "stop_name": "de l'Assomption / No 5780"
+      },
+      {
+        "stop_id": "52785",
+        "stop_name": "de l'Assomption / des Sapins (Hôp. M.-Rosemont)"
+      },
+      {
+        "stop_id": "52863",
+        "stop_name": "de l'Assomption / des Saules (Polyclinique)"
+      },
+      {
+        "stop_id": "61680",
+        "stop_name": "de l'Assomption / No 5150"
+      },
+      {
+        "stop_id": "53041",
+        "stop_name": "de l'Assomption / Sherbrooke"
+      },
+      {
+        "stop_id": "53081",
+        "stop_name": "Chauveau / de l'Assomption"
+      },
+      {
+        "stop_id": "54288",
+        "stop_name": "Chauveau / Dickson"
+      },
+      {
+        "stop_id": "53139",
+        "stop_name": "Dickson / de Marseille"
+      },
+      {
+        "stop_id": "53875",
+        "stop_name": "de l'Assomption / de Marseille"
+      },
+      {
+        "stop_id": "53083",
+        "stop_name": "Station Assomption (de l'Assomption / Chauveau)"
+      },
+      {
+        "stop_id": "60604",
+        "stop_name": "Antonio-Dagenais / Lespinay"
+      },
+      {
+        "stop_id": "54970",
+        "stop_name": "Lacordaire / Jean-Talon"
+      }
+    ]
+  },
+  {
+    "direction": "Nord destination Antonio-Dagenais / Lespinay",
+    "arrets": [
+      {
+        "stop_id": "53083",
+        "stop_name": "Station Assomption (de l'Assomption / Chauveau)"
+      },
+      {
+        "stop_id": "53039",
+        "stop_name": "de l'Assomption / Sherbrooke"
+      },
+      {
+        "stop_id": "53043",
+        "stop_name": "de l'Assomption / Marguerite-de-Lajemmerais"
+      },
+      {
+        "stop_id": "61679",
+        "stop_name": "de l'Assomption / No 5105"
+      },
+      {
+        "stop_id": "52862",
+        "stop_name": "de l'Assomption / des Saules (Polyclinique)"
+      },
+      {
+        "stop_id": "52784",
+        "stop_name": "de l'Assomption / des Sapins (Hôp. M.-Rosemont)"
+      },
+      {
+        "stop_id": "52691",
+        "stop_name": "de l'Assomption / Rosemont"
+      },
+      {
+        "stop_id": "52641",
+        "stop_name": "de l'Assomption / de Bellechasse"
+      },
+      {
+        "stop_id": "52512",
+        "stop_name": "de l'Assomption / Beaubien"
+      },
+      {
+        "stop_id": "52385",
+        "stop_name": "de l'Assomption / Saint-Zotique"
+      },
+      {
+        "stop_id": "52253",
+        "stop_name": "de l'Assomption / Bélanger"
+      },
+      {
+        "stop_id": "54983",
+        "stop_name": "de l'Assomption / des Becquets"
+      },
+      {
+        "stop_id": "54964",
+        "stop_name": "de l'Assomption / Jean-Talon"
+      },
+      {
+        "stop_id": "60588",
+        "stop_name": "Lacordaire / du Mans"
+      },
+      {
+        "stop_id": "60604",
+        "stop_name": "Antonio-Dagenais / Lespinay"
+      }
+    ]
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "52595",
+        "stop_name": "Laurier / Pie-IX"
+      },
+      {
+        "stop_id": "54098",
+        "stop_name": "Pie-IX / Saint-Joseph"
+      },
+      {
+        "stop_id": "52643",
+        "stop_name": "Saint-Joseph / Bourbonnière"
+      },
+      {
+        "stop_id": "53749",
+        "stop_name": "Saint-Joseph / No 3600"
+      },
+      {
+        "stop_id": "54099",
+        "stop_name": "Saint-Joseph / 13e Avenue"
+      },
+      {
+        "stop_id": "52521",
+        "stop_name": "Saint-Joseph / Saint-Michel"
+      },
+      {
+        "stop_id": "52480",
+        "stop_name": "Saint-Joseph / 9e Avenue"
+      },
+      {
+        "stop_id": "52448",
+        "stop_name": "Saint-Joseph / 6e Avenue"
+      },
+      {
+        "stop_id": "52420",
+        "stop_name": "Saint-Joseph / 3e Avenue"
+      },
+      {
+        "stop_id": "61697",
+        "stop_name": "Saint-Joseph / Molson"
+      },
+      {
+        "stop_id": "52344",
+        "stop_name": "Saint-Joseph / D'Iberville"
+      },
+      {
+        "stop_id": "54266",
+        "stop_name": "Saint-Joseph / Messier"
+      },
+      {
+        "stop_id": "52258",
+        "stop_name": "Saint-Joseph / Parthenais"
+      },
+      {
+        "stop_id": "52221",
+        "stop_name": "Saint-Joseph / De Lorimier"
+      },
+      {
+        "stop_id": "52179",
+        "stop_name": "Saint-Joseph / Chabot"
+      },
+      {
+        "stop_id": "52143",
+        "stop_name": "Saint-Joseph / Papineau"
+      },
+      {
+        "stop_id": "52111",
+        "stop_name": "Saint-Joseph / Fabre"
+      },
+      {
+        "stop_id": "52080",
+        "stop_name": "Saint-Joseph / De Lanaudière"
+      },
+      {
+        "stop_id": "52040",
+        "stop_name": "Saint-Joseph / De La Roche"
+      },
+      {
+        "stop_id": "52017",
+        "stop_name": "Saint-Joseph / Christophe-Colomb"
+      },
+      {
+        "stop_id": "52001",
+        "stop_name": "Saint-Joseph / de Mentana"
+      },
+      {
+        "stop_id": "60366",
+        "stop_name": "Station Laurier (Berri / Saint-Joseph)"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "51973",
+        "stop_name": "Station Laurier Sud (Berri / Gilford)"
+      },
+      {
+        "stop_id": "52002",
+        "stop_name": "Saint-Joseph / de Mentana"
+      },
+      {
+        "stop_id": "52019",
+        "stop_name": "Saint-Joseph / Christophe-Colomb"
+      },
+      {
+        "stop_id": "52041",
+        "stop_name": "Saint-Joseph / De La Roche"
+      },
+      {
+        "stop_id": "52081",
+        "stop_name": "Saint-Joseph / De Lanaudière"
+      },
+      {
+        "stop_id": "52112",
+        "stop_name": "Saint-Joseph / Fabre"
+      },
+      {
+        "stop_id": "52145",
+        "stop_name": "Saint-Joseph / Papineau"
+      },
+      {
+        "stop_id": "52180",
+        "stop_name": "Saint-Joseph / Chabot"
+      },
+      {
+        "stop_id": "52223",
+        "stop_name": "Saint-Joseph / De Lorimier"
+      },
+      {
+        "stop_id": "52257",
+        "stop_name": "Saint-Joseph / Parthenais"
+      },
+      {
+        "stop_id": "52295",
+        "stop_name": "Saint-Joseph / Fullum"
+      },
+      {
+        "stop_id": "52346",
+        "stop_name": "Saint-Joseph / D'Iberville"
+      },
+      {
+        "stop_id": "53765",
+        "stop_name": "Saint-Joseph / Molson"
+      },
+      {
+        "stop_id": "52421",
+        "stop_name": "Saint-Joseph / 3e Avenue"
+      },
+      {
+        "stop_id": "52449",
+        "stop_name": "Saint-Joseph / 6e Avenue"
+      },
+      {
+        "stop_id": "52481",
+        "stop_name": "Saint-Joseph / Henri-Valade"
+      },
+      {
+        "stop_id": "52523",
+        "stop_name": "Saint-Joseph / Saint-Michel"
+      },
+      {
+        "stop_id": "52568",
+        "stop_name": "Saint-Joseph / No 3444"
+      },
+      {
+        "stop_id": "50106",
+        "stop_name": "Saint-Joseph / No 3500"
+      },
+      {
+        "stop_id": "52644",
+        "stop_name": "Saint-Joseph / Bourbonnière"
+      },
+      {
+        "stop_id": "54097",
+        "stop_name": "Charlemagne / Saint-Joseph"
+      },
+      {
+        "stop_id": "52595",
+        "stop_name": "Laurier / Pie-IX"
+      }
+    ]
+  }
+]

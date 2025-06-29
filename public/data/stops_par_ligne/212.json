@@ -1,0 +1,124 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "58592",
+        "stop_name": "des Anciens-Combattants / de l'Hôpital Sainte-Anne"
+      },
+      {
+        "stop_id": "61121",
+        "stop_name": "du Souvenir / du Boulevard (Hôpital Ste-Anne)"
+      },
+      {
+        "stop_id": "58563",
+        "stop_name": "Sainte-Anne / Garden City"
+      },
+      {
+        "stop_id": "58559",
+        "stop_name": "Michaud / Garden City"
+      },
+      {
+        "stop_id": "58582",
+        "stop_name": "Gare Sainte-Anne-de-Bellevue"
+      },
+      {
+        "stop_id": "58558",
+        "stop_name": "Sainte-Anne / Saint-Charles"
+      },
+      {
+        "stop_id": "58556",
+        "stop_name": "Sainte-Anne / de l'Église"
+      },
+      {
+        "stop_id": "58593",
+        "stop_name": "Sainte-Anne / Autoroute 20"
+      },
+      {
+        "stop_id": "60698",
+        "stop_name": "du Collège / Christie"
+      },
+      {
+        "stop_id": "60704",
+        "stop_name": "Bibliothèque Sainte-Anne-de-Bellevue"
+      },
+      {
+        "stop_id": "58565",
+        "stop_name": "Sainte-Anne / Lalonde"
+      },
+      {
+        "stop_id": "58583",
+        "stop_name": "Sainte-Anne / Perrault"
+      },
+      {
+        "stop_id": "58567",
+        "stop_name": "Lakeshore / Maple"
+      },
+      {
+        "stop_id": "58566",
+        "stop_name": "Lakeshore / Glenaladale"
+      },
+      {
+        "stop_id": "58570",
+        "stop_name": "Lakeshore / Macdonald"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "58570",
+        "stop_name": "Lakeshore / Macdonald"
+      },
+      {
+        "stop_id": "61725",
+        "stop_name": "Sainte-Anne / Perrault"
+      },
+      {
+        "stop_id": "61396",
+        "stop_name": "Sainte-Anne / Sainte-Marie"
+      },
+      {
+        "stop_id": "58576",
+        "stop_name": "Sainte-Anne / Lalonde"
+      },
+      {
+        "stop_id": "58561",
+        "stop_name": "Sainte-Anne / Christie"
+      },
+      {
+        "stop_id": "58594",
+        "stop_name": "Sainte-Anne / Autoroute 20"
+      },
+      {
+        "stop_id": "58555",
+        "stop_name": "Sainte-Anne / Marguerite-Bourgeoys"
+      },
+      {
+        "stop_id": "58557",
+        "stop_name": "Sainte-Anne / Saint-Charles"
+      },
+      {
+        "stop_id": "58584",
+        "stop_name": "du Pacifique / de l'Église"
+      },
+      {
+        "stop_id": "58564",
+        "stop_name": "Gare Sainte-Anne-de-Bellevue (Garden City / Pacifi"
+      },
+      {
+        "stop_id": "60198",
+        "stop_name": "Michaud / Sainte-Anne"
+      },
+      {
+        "stop_id": "58562",
+        "stop_name": "Sainte-Anne / Garden City"
+      },
+      {
+        "stop_id": "58592",
+        "stop_name": "des Anciens-Combattants / de l'Hôpital Sainte-Anne"
+      }
+    ]
+  }
+]

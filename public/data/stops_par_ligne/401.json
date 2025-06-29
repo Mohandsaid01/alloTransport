@@ -1,0 +1,450 @@
+[
+  {
+    "direction": "Nord via Château-Pierrefonds",
+    "arrets": [
+      {
+        "stop_id": "58485",
+        "stop_name": "Gare Beaconsfield"
+      },
+      {
+        "stop_id": "58467",
+        "stop_name": "Saint-Charles / Sherbrooke"
+      },
+      {
+        "stop_id": "58461",
+        "stop_name": "Saint-Charles / Creswell"
+      },
+      {
+        "stop_id": "58390",
+        "stop_name": "Saint-Charles / No 2755"
+      },
+      {
+        "stop_id": "58354",
+        "stop_name": "Saint-Charles / Kirkland"
+      },
+      {
+        "stop_id": "58351",
+        "stop_name": "Saint-Charles / Hymus"
+      },
+      {
+        "stop_id": "58379",
+        "stop_name": "Saint-Charles / Sainte-Marie"
+      },
+      {
+        "stop_id": "58346",
+        "stop_name": "Brunswick / Valérie"
+      },
+      {
+        "stop_id": "58344",
+        "stop_name": "Brunswick / Shannon"
+      },
+      {
+        "stop_id": "58342",
+        "stop_name": "Brunswick / Henri-Daoust"
+      },
+      {
+        "stop_id": "58380",
+        "stop_name": "Henri-Daoust / Dragon"
+      },
+      {
+        "stop_id": "58100",
+        "stop_name": "Henri-Daoust / Antoine-Faucon"
+      },
+      {
+        "stop_id": "58225",
+        "stop_name": "Antoine-Faucon / Grilli"
+      },
+      {
+        "stop_id": "58223",
+        "stop_name": "Antoine-Faucon / des Cageux"
+      },
+      {
+        "stop_id": "58227",
+        "stop_name": "Antoine-Faucon / du Château-Pierrefonds"
+      },
+      {
+        "stop_id": "58229",
+        "stop_name": "du Château-Pierrefonds / Meloche"
+      },
+      {
+        "stop_id": "58231",
+        "stop_name": "du Château-Pierrefonds / Rousson"
+      },
+      {
+        "stop_id": "58260",
+        "stop_name": "du Château-Pierrefonds / Joseph-Wilson"
+      },
+      {
+        "stop_id": "58297",
+        "stop_name": "du Château-Pierrefonds / Oka"
+      },
+      {
+        "stop_id": "58285",
+        "stop_name": "Gouin / de Baubigny"
+      },
+      {
+        "stop_id": "58088",
+        "stop_name": "Gouin / Coursol"
+      },
+      {
+        "stop_id": "58250",
+        "stop_name": "des Cageux / Gouin"
+      },
+      {
+        "stop_id": "58242",
+        "stop_name": "des Cageux / de Pierrefonds"
+      },
+      {
+        "stop_id": "58083",
+        "stop_name": "de Pierrefonds / Nanterre"
+      },
+      {
+        "stop_id": "58261",
+        "stop_name": "de Pierrefonds / Louis-Fréchette"
+      },
+      {
+        "stop_id": "58095",
+        "stop_name": "de Pierrefonds / Saint-Charles"
+      },
+      {
+        "stop_id": "58096",
+        "stop_name": "de Pierrefonds / Saint-Charles"
+      },
+      {
+        "stop_id": "58263",
+        "stop_name": "de Pierrefonds / Forbes"
+      },
+      {
+        "stop_id": "58264",
+        "stop_name": "de Pierrefonds / Sainte-Anne"
+      },
+      {
+        "stop_id": "58120",
+        "stop_name": "Paiement / de Pierrefonds"
+      },
+      {
+        "stop_id": "58081",
+        "stop_name": "Cégep Gérald-Godin"
+      }
+    ]
+  },
+  {
+    "direction": "Sud via St-Charles",
+    "arrets": [
+      {
+        "stop_id": "58081",
+        "stop_name": "Cégep Gérald-Godin"
+      },
+      {
+        "stop_id": "58070",
+        "stop_name": "Gouin / Saint-Joseph"
+      },
+      {
+        "stop_id": "58074",
+        "stop_name": "Gouin / de la Caserne"
+      },
+      {
+        "stop_id": "58099",
+        "stop_name": "Gouin / Sainte-Anne"
+      },
+      {
+        "stop_id": "58104",
+        "stop_name": "Sainte-Anne / de Pierrefonds"
+      },
+      {
+        "stop_id": "58262",
+        "stop_name": "de Pierrefonds / Forbes"
+      },
+      {
+        "stop_id": "58098",
+        "stop_name": "Saint-Charles / Claude"
+      },
+      {
+        "stop_id": "58102",
+        "stop_name": "Saint-Charles / Saint-Denis"
+      },
+      {
+        "stop_id": "58107",
+        "stop_name": "Saint-Charles / Maher"
+      },
+      {
+        "stop_id": "58111",
+        "stop_name": "Saint-Charles / Antoine-Faucon"
+      },
+      {
+        "stop_id": "58105",
+        "stop_name": "Antoine-Faucon / Biroleau"
+      },
+      {
+        "stop_id": "58222",
+        "stop_name": "Henri-Daoust / Antoine-Faucon"
+      },
+      {
+        "stop_id": "58341",
+        "stop_name": "Henri-Daoust / Harmony"
+      },
+      {
+        "stop_id": "58343",
+        "stop_name": "Brunswick / Henri-Daoust"
+      },
+      {
+        "stop_id": "58345",
+        "stop_name": "Brunswick / Shannon"
+      },
+      {
+        "stop_id": "58348",
+        "stop_name": "Brunswick / Saint-Charles"
+      },
+      {
+        "stop_id": "58350",
+        "stop_name": "Saint-Charles / Sainte-Marie"
+      },
+      {
+        "stop_id": "58352",
+        "stop_name": "Saint-Charles / Hymus"
+      },
+      {
+        "stop_id": "58355",
+        "stop_name": "Saint-Charles / Kirkland"
+      },
+      {
+        "stop_id": "58391",
+        "stop_name": "Saint-Charles / No 2768"
+      },
+      {
+        "stop_id": "58462",
+        "stop_name": "Saint-Charles / Creswell"
+      },
+      {
+        "stop_id": "58466",
+        "stop_name": "Saint-Charles / Sherbrooke"
+      },
+      {
+        "stop_id": "58485",
+        "stop_name": "Gare Beaconsfield"
+      }
+    ]
+  },
+  {
+    "direction": "Sud via Château-Pierrefonds",
+    "arrets": [
+      {
+        "stop_id": "58081",
+        "stop_name": "Cégep Gérald-Godin"
+      },
+      {
+        "stop_id": "58070",
+        "stop_name": "Gouin / Saint-Joseph"
+      },
+      {
+        "stop_id": "58074",
+        "stop_name": "Gouin / de la Caserne"
+      },
+      {
+        "stop_id": "58099",
+        "stop_name": "Gouin / Sainte-Anne"
+      },
+      {
+        "stop_id": "58104",
+        "stop_name": "Sainte-Anne / de Pierrefonds"
+      },
+      {
+        "stop_id": "58262",
+        "stop_name": "de Pierrefonds / Forbes"
+      },
+      {
+        "stop_id": "58093",
+        "stop_name": "de Pierrefonds / Saint-Charles"
+      },
+      {
+        "stop_id": "58090",
+        "stop_name": "de Pierrefonds / Louis-Fréchette"
+      },
+      {
+        "stop_id": "58089",
+        "stop_name": "de Pierrefonds / Nanterre"
+      },
+      {
+        "stop_id": "58240",
+        "stop_name": "de Pierrefonds / des Cageux"
+      },
+      {
+        "stop_id": "58249",
+        "stop_name": "des Cageux / Gouin"
+      },
+      {
+        "stop_id": "58087",
+        "stop_name": "Gouin / Coursol"
+      },
+      {
+        "stop_id": "58286",
+        "stop_name": "Usine de filtration de Pierrefonds"
+      },
+      {
+        "stop_id": "58298",
+        "stop_name": "du Château-Pierrefonds / Oka"
+      },
+      {
+        "stop_id": "58259",
+        "stop_name": "du Château-Pierrefonds / du Manoir"
+      },
+      {
+        "stop_id": "58233",
+        "stop_name": "du Château-Pierrefonds / de Pierrefonds"
+      },
+      {
+        "stop_id": "58230",
+        "stop_name": "du Château-Pierrefonds / Meloche"
+      },
+      {
+        "stop_id": "58228",
+        "stop_name": "du Château-Pierrefonds / Antoine-Faucon"
+      },
+      {
+        "stop_id": "58224",
+        "stop_name": "Antoine-Faucon / des Cageux"
+      },
+      {
+        "stop_id": "58226",
+        "stop_name": "Antoine-Faucon / Grilli"
+      },
+      {
+        "stop_id": "58221",
+        "stop_name": "Antoine-Faucon / Henri-Daoust"
+      },
+      {
+        "stop_id": "58341",
+        "stop_name": "Henri-Daoust / Harmony"
+      },
+      {
+        "stop_id": "58343",
+        "stop_name": "Brunswick / Henri-Daoust"
+      },
+      {
+        "stop_id": "58345",
+        "stop_name": "Brunswick / Shannon"
+      },
+      {
+        "stop_id": "58348",
+        "stop_name": "Brunswick / Saint-Charles"
+      },
+      {
+        "stop_id": "58350",
+        "stop_name": "Saint-Charles / Sainte-Marie"
+      },
+      {
+        "stop_id": "58352",
+        "stop_name": "Saint-Charles / Hymus"
+      },
+      {
+        "stop_id": "58355",
+        "stop_name": "Saint-Charles / Kirkland"
+      },
+      {
+        "stop_id": "58391",
+        "stop_name": "Saint-Charles / No 2768"
+      },
+      {
+        "stop_id": "58462",
+        "stop_name": "Saint-Charles / Creswell"
+      },
+      {
+        "stop_id": "58466",
+        "stop_name": "Saint-Charles / Sherbrooke"
+      },
+      {
+        "stop_id": "58485",
+        "stop_name": "Gare Beaconsfield"
+      }
+    ]
+  },
+  {
+    "direction": "Nord via St-Charles",
+    "arrets": [
+      {
+        "stop_id": "58485",
+        "stop_name": "Gare Beaconsfield"
+      },
+      {
+        "stop_id": "58467",
+        "stop_name": "Saint-Charles / Sherbrooke"
+      },
+      {
+        "stop_id": "58461",
+        "stop_name": "Saint-Charles / Creswell"
+      },
+      {
+        "stop_id": "58390",
+        "stop_name": "Saint-Charles / No 2755"
+      },
+      {
+        "stop_id": "58354",
+        "stop_name": "Saint-Charles / Kirkland"
+      },
+      {
+        "stop_id": "58351",
+        "stop_name": "Saint-Charles / Hymus"
+      },
+      {
+        "stop_id": "58379",
+        "stop_name": "Saint-Charles / Sainte-Marie"
+      },
+      {
+        "stop_id": "58346",
+        "stop_name": "Brunswick / Valérie"
+      },
+      {
+        "stop_id": "58344",
+        "stop_name": "Brunswick / Shannon"
+      },
+      {
+        "stop_id": "58342",
+        "stop_name": "Brunswick / Henri-Daoust"
+      },
+      {
+        "stop_id": "58380",
+        "stop_name": "Henri-Daoust / Dragon"
+      },
+      {
+        "stop_id": "58100",
+        "stop_name": "Henri-Daoust / Antoine-Faucon"
+      },
+      {
+        "stop_id": "58106",
+        "stop_name": "Antoine-Faucon / Biroleau"
+      },
+      {
+        "stop_id": "58112",
+        "stop_name": "Antoine-Faucon / Saint-Charles"
+      },
+      {
+        "stop_id": "58108",
+        "stop_name": "Saint-Charles / Oakwood"
+      },
+      {
+        "stop_id": "58101",
+        "stop_name": "Saint-Charles / Duval"
+      },
+      {
+        "stop_id": "58096",
+        "stop_name": "de Pierrefonds / Saint-Charles"
+      },
+      {
+        "stop_id": "58263",
+        "stop_name": "de Pierrefonds / Forbes"
+      },
+      {
+        "stop_id": "58264",
+        "stop_name": "de Pierrefonds / Sainte-Anne"
+      },
+      {
+        "stop_id": "58120",
+        "stop_name": "Paiement / de Pierrefonds"
+      },
+      {
+        "stop_id": "58081",
+        "stop_name": "Cégep Gérald-Godin"
+      }
+    ]
+  }
+]

@@ -1,0 +1,517 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54114",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50301",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50299",
+        "stop_name": "Henri-Bourassa / Laverdure"
+      },
+      {
+        "stop_id": "62372",
+        "stop_name": "Henri-Bourassa / Saint-Laurent"
+      },
+      {
+        "stop_id": "62373",
+        "stop_name": "Henri-Bourassa / de l'Esplanade"
+      },
+      {
+        "stop_id": "50279",
+        "stop_name": "Henri-Bourassa / Tanguay"
+      },
+      {
+        "stop_id": "53727",
+        "stop_name": "SAAQ (Henri-Bourassa / No 750)"
+      },
+      {
+        "stop_id": "62374",
+        "stop_name": "Henri-Bourassa / du Bois-de-Boulogne"
+      },
+      {
+        "stop_id": "50264",
+        "stop_name": "Henri-Bourassa / Marcelin-Wilson"
+      },
+      {
+        "stop_id": "50260",
+        "stop_name": "Henri-Bourassa / de l'Acadie"
+      },
+      {
+        "stop_id": "55648",
+        "stop_name": "Jules-Poitras / Crépeau"
+      },
+      {
+        "stop_id": "55660",
+        "stop_name": "Jules-Poitras / Deguire"
+      },
+      {
+        "stop_id": "55815",
+        "stop_name": "Jules-Poitras / No 1385"
+      },
+      {
+        "stop_id": "55716",
+        "stop_name": "Jules-Poitras / Thompson"
+      },
+      {
+        "stop_id": "55729",
+        "stop_name": "Jules-Poitras / Côte-Vertu"
+      },
+      {
+        "stop_id": "55718",
+        "stop_name": "Côte-Vertu / Muir"
+      },
+      {
+        "stop_id": "55707",
+        "stop_name": "Côte-Vertu / Champigny"
+      },
+      {
+        "stop_id": "55696",
+        "stop_name": "Côte-Vertu / Barré"
+      },
+      {
+        "stop_id": "55689",
+        "stop_name": "Côte-Vertu / Dutrisac"
+      },
+      {
+        "stop_id": "55661",
+        "stop_name": "Côte-Vertu / Sainte-Croix"
+      },
+      {
+        "stop_id": "55649",
+        "stop_name": "Côte-Vertu / Saint-Germain"
+      },
+      {
+        "stop_id": "55945",
+        "stop_name": "Station Côte-Vertu (Côte-Vertu / Décarie)"
+      },
+      {
+        "stop_id": "55803",
+        "stop_name": "Côte-Vertu / Crevier"
+      },
+      {
+        "stop_id": "55594",
+        "stop_name": "Côte-Vertu / Leduc"
+      },
+      {
+        "stop_id": "55597",
+        "stop_name": "Côte-Vertu / Tait"
+      },
+      {
+        "stop_id": "55580",
+        "stop_name": "Côte-Vertu / Marlatt"
+      },
+      {
+        "stop_id": "55554",
+        "stop_name": "Côte-Vertu / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55522",
+        "stop_name": "Alexis-Nihon / Lucien-Thimens"
+      },
+      {
+        "stop_id": "55500",
+        "stop_name": "Thimens / Varin"
+      },
+      {
+        "stop_id": "61280",
+        "stop_name": "École Saint-Laurent"
+      },
+      {
+        "stop_id": "60853",
+        "stop_name": "Thimens / Samson"
+      },
+      {
+        "stop_id": "55797",
+        "stop_name": "Bibliothèque du Boisé (Thimens / Todd)"
+      },
+      {
+        "stop_id": "55453",
+        "stop_name": "Thimens / Cavendish"
+      },
+      {
+        "stop_id": "55816",
+        "stop_name": "Cavendish / No 12000"
+      },
+      {
+        "stop_id": "61625",
+        "stop_name": "Boucle Thimens"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "55817",
+        "stop_name": "Thimens / No 3075"
+      },
+      {
+        "stop_id": "55454",
+        "stop_name": "Thimens / Cavendish"
+      },
+      {
+        "stop_id": "55798",
+        "stop_name": "Bibliothèque du Boisé (Thimens / Todd)"
+      },
+      {
+        "stop_id": "60855",
+        "stop_name": "Thimens / No 2600"
+      },
+      {
+        "stop_id": "55885",
+        "stop_name": "École Saint-Laurent"
+      },
+      {
+        "stop_id": "55501",
+        "stop_name": "Thimens / Varin"
+      },
+      {
+        "stop_id": "55927",
+        "stop_name": "Thimens / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55529",
+        "stop_name": "Alexis-Nihon / Hufford"
+      },
+      {
+        "stop_id": "55935",
+        "stop_name": "Alexis-Nihon / Bourgoin"
+      },
+      {
+        "stop_id": "55581",
+        "stop_name": "Côte-Vertu / Marlatt"
+      },
+      {
+        "stop_id": "55596",
+        "stop_name": "Côte-Vertu / Marcel-Laurin"
+      },
+      {
+        "stop_id": "55604",
+        "stop_name": "Côte-Vertu / Leduc"
+      },
+      {
+        "stop_id": "55624",
+        "stop_name": "Côte-Vertu / Cardinal"
+      },
+      {
+        "stop_id": "55901",
+        "stop_name": "Station Côte-Vertu (Côte-Vertu / Décarie)"
+      },
+      {
+        "stop_id": "55650",
+        "stop_name": "Côte-Vertu / Saint-Germain"
+      },
+      {
+        "stop_id": "55662",
+        "stop_name": "Côte-Vertu / Sainte-Croix"
+      },
+      {
+        "stop_id": "55688",
+        "stop_name": "Côte-Vertu / Dutrisac"
+      },
+      {
+        "stop_id": "55712",
+        "stop_name": "Côte-Vertu / Montpellier"
+      },
+      {
+        "stop_id": "55720",
+        "stop_name": "Côte-Vertu / Muir"
+      },
+      {
+        "stop_id": "55731",
+        "stop_name": "Jules-Poitras / Côte-Vertu"
+      },
+      {
+        "stop_id": "55715",
+        "stop_name": "Jules-Poitras / Thompson"
+      },
+      {
+        "stop_id": "55695",
+        "stop_name": "Jules-Poitras / No 1385"
+      },
+      {
+        "stop_id": "55659",
+        "stop_name": "Jules-Poitras / Deguire"
+      },
+      {
+        "stop_id": "55647",
+        "stop_name": "Jules-Poitras / Crépeau"
+      },
+      {
+        "stop_id": "50262",
+        "stop_name": "Henri-Bourassa / de l'Acadie"
+      },
+      {
+        "stop_id": "50263",
+        "stop_name": "Henri-Bourassa / de l'Acadie"
+      },
+      {
+        "stop_id": "62369",
+        "stop_name": "Henri-Bourassa / Marcelin-Wilson"
+      },
+      {
+        "stop_id": "50270",
+        "stop_name": "Collège de Bois-de-Boulogne"
+      },
+      {
+        "stop_id": "50278",
+        "stop_name": "SAAQ (Henri-Bourassa / Meilleur)"
+      },
+      {
+        "stop_id": "62419",
+        "stop_name": "Henri-Bourassa / Verville"
+      },
+      {
+        "stop_id": "62370",
+        "stop_name": "Henri-Bourassa / de l'Esplanade"
+      },
+      {
+        "stop_id": "50297",
+        "stop_name": "Henri-Bourassa / Saint-Laurent"
+      },
+      {
+        "stop_id": "62371",
+        "stop_name": "Henri-Bourassa / Laverdure"
+      },
+      {
+        "stop_id": "50303",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "54127",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "61624",
+        "stop_name": "de Louisbourg / Ranger"
+      },
+      {
+        "stop_id": "61629",
+        "stop_name": "Gare Bois-Franc (Laurentien / No 11800)"
+      },
+      {
+        "stop_id": "55451",
+        "stop_name": "Henri-Bourassa / Marcel-Laurin"
+      },
+      {
+        "stop_id": "55353",
+        "stop_name": "Henri-Bourassa / No 5265"
+      },
+      {
+        "stop_id": "55442",
+        "stop_name": "Henri-Bourassa / Wilfrid-Reid"
+      },
+      {
+        "stop_id": "55805",
+        "stop_name": "Henri-Bourassa / No 5555"
+      },
+      {
+        "stop_id": "55427",
+        "stop_name": "Henri-Bourassa / Duchesne"
+      },
+      {
+        "stop_id": "61630",
+        "stop_name": "Cavendish / des Outardes"
+      },
+      {
+        "stop_id": "61631",
+        "stop_name": "Cavendish / Ernest-Hemingway"
+      },
+      {
+        "stop_id": "61632",
+        "stop_name": "Cavendish / Poirier"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest destination Gare Bois-Franc",
+    "arrets": [
+      {
+        "stop_id": "54114",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50301",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50299",
+        "stop_name": "Henri-Bourassa / Laverdure"
+      },
+      {
+        "stop_id": "62372",
+        "stop_name": "Henri-Bourassa / Saint-Laurent"
+      },
+      {
+        "stop_id": "62373",
+        "stop_name": "Henri-Bourassa / de l'Esplanade"
+      },
+      {
+        "stop_id": "50279",
+        "stop_name": "Henri-Bourassa / Tanguay"
+      },
+      {
+        "stop_id": "53727",
+        "stop_name": "SAAQ (Henri-Bourassa / No 750)"
+      },
+      {
+        "stop_id": "62374",
+        "stop_name": "Henri-Bourassa / du Bois-de-Boulogne"
+      },
+      {
+        "stop_id": "50264",
+        "stop_name": "Henri-Bourassa / Marcelin-Wilson"
+      },
+      {
+        "stop_id": "50260",
+        "stop_name": "Henri-Bourassa / de l'Acadie"
+      },
+      {
+        "stop_id": "55648",
+        "stop_name": "Jules-Poitras / Crépeau"
+      },
+      {
+        "stop_id": "55660",
+        "stop_name": "Jules-Poitras / Deguire"
+      },
+      {
+        "stop_id": "55815",
+        "stop_name": "Jules-Poitras / No 1385"
+      },
+      {
+        "stop_id": "55716",
+        "stop_name": "Jules-Poitras / Thompson"
+      },
+      {
+        "stop_id": "55729",
+        "stop_name": "Jules-Poitras / Côte-Vertu"
+      },
+      {
+        "stop_id": "55718",
+        "stop_name": "Côte-Vertu / Muir"
+      },
+      {
+        "stop_id": "55707",
+        "stop_name": "Côte-Vertu / Champigny"
+      },
+      {
+        "stop_id": "55696",
+        "stop_name": "Côte-Vertu / Barré"
+      },
+      {
+        "stop_id": "55689",
+        "stop_name": "Côte-Vertu / Dutrisac"
+      },
+      {
+        "stop_id": "55661",
+        "stop_name": "Côte-Vertu / Sainte-Croix"
+      },
+      {
+        "stop_id": "55649",
+        "stop_name": "Côte-Vertu / Saint-Germain"
+      },
+      {
+        "stop_id": "55945",
+        "stop_name": "Station Côte-Vertu (Côte-Vertu / Décarie)"
+      },
+      {
+        "stop_id": "55803",
+        "stop_name": "Côte-Vertu / Crevier"
+      },
+      {
+        "stop_id": "55594",
+        "stop_name": "Côte-Vertu / Leduc"
+      },
+      {
+        "stop_id": "55597",
+        "stop_name": "Côte-Vertu / Tait"
+      },
+      {
+        "stop_id": "55580",
+        "stop_name": "Côte-Vertu / Marlatt"
+      },
+      {
+        "stop_id": "55554",
+        "stop_name": "Côte-Vertu / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55522",
+        "stop_name": "Alexis-Nihon / Lucien-Thimens"
+      },
+      {
+        "stop_id": "55500",
+        "stop_name": "Thimens / Varin"
+      },
+      {
+        "stop_id": "61280",
+        "stop_name": "École Saint-Laurent"
+      },
+      {
+        "stop_id": "60853",
+        "stop_name": "Thimens / Samson"
+      },
+      {
+        "stop_id": "55797",
+        "stop_name": "Bibliothèque du Boisé (Thimens / Todd)"
+      },
+      {
+        "stop_id": "55453",
+        "stop_name": "Thimens / Cavendish"
+      },
+      {
+        "stop_id": "55816",
+        "stop_name": "Cavendish / No 12000"
+      },
+      {
+        "stop_id": "61625",
+        "stop_name": "Boucle Thimens"
+      },
+      {
+        "stop_id": "61633",
+        "stop_name": "Cavendish / Poirier"
+      },
+      {
+        "stop_id": "61634",
+        "stop_name": "Cavendish / Ernest-Hemingway"
+      },
+      {
+        "stop_id": "61635",
+        "stop_name": "Cavendish / des Outardes"
+      },
+      {
+        "stop_id": "55428",
+        "stop_name": "Henri-Bourassa / Duchesne"
+      },
+      {
+        "stop_id": "55804",
+        "stop_name": "Henri-Bourassa / No 5700"
+      },
+      {
+        "stop_id": "61727",
+        "stop_name": "Henri-Bourassa / No 5600"
+      },
+      {
+        "stop_id": "55806",
+        "stop_name": "Henri-Bourassa / Wilfrid-Reid"
+      },
+      {
+        "stop_id": "55808",
+        "stop_name": "Henri-Bourassa / No 5265"
+      },
+      {
+        "stop_id": "50191",
+        "stop_name": "Gare Bois-Franc (Grenet / Ranger)"
+      },
+      {
+        "stop_id": "61624",
+        "stop_name": "de Louisbourg / Ranger"
+      }
+    ]
+  }
+]

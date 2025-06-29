@@ -1,0 +1,148 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "61329",
+        "stop_name": "Station Lionel-Groulx / Saint-Jacques"
+      },
+      {
+        "stop_id": "57539",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "57422",
+        "stop_name": "Gare Pine Beach"
+      },
+      {
+        "stop_id": "57790",
+        "stop_name": "Gare Pointe-Claire"
+      },
+      {
+        "stop_id": "57811",
+        "stop_name": "Autoroute 20 Ouest / Saint-Jean"
+      },
+      {
+        "stop_id": "57824",
+        "stop_name": "Autoroute 20 / Cartier"
+      },
+      {
+        "stop_id": "58481",
+        "stop_name": "Gare Beaconsfield (Saint-Charles / Amherst)"
+      },
+      {
+        "stop_id": "58493",
+        "stop_name": "Gare Beaconsfield"
+      },
+      {
+        "stop_id": "62142",
+        "stop_name": "Gare Beaurepaire"
+      },
+      {
+        "stop_id": "58526",
+        "stop_name": "Gare Baie-D'Urfé"
+      },
+      {
+        "stop_id": "58522",
+        "stop_name": "Morgan / Surrey"
+      },
+      {
+        "stop_id": "58525",
+        "stop_name": "Morgan / Victoria"
+      },
+      {
+        "stop_id": "58521",
+        "stop_name": "Morgan / Westchester"
+      },
+      {
+        "stop_id": "58503",
+        "stop_name": "Morgan / Lakeshore"
+      },
+      {
+        "stop_id": "58520",
+        "stop_name": "Lakeshore / No 20551"
+      },
+      {
+        "stop_id": "58499",
+        "stop_name": "Lakeshore / Churchill"
+      },
+      {
+        "stop_id": "58517",
+        "stop_name": "Lakeshore / No 20713"
+      },
+      {
+        "stop_id": "58496",
+        "stop_name": "Lakeshore / Saint-Andrew's"
+      },
+      {
+        "stop_id": "58516",
+        "stop_name": "Lakeshore / No 20846"
+      },
+      {
+        "stop_id": "58591",
+        "stop_name": "Lakeshore / Macdonald"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "58591",
+        "stop_name": "Lakeshore / Macdonald"
+      },
+      {
+        "stop_id": "58568",
+        "stop_name": "Maple / Lakeshore"
+      },
+      {
+        "stop_id": "58554",
+        "stop_name": "Maple / Autoroute 20"
+      },
+      {
+        "stop_id": "58524",
+        "stop_name": "Gare Baie-D'Urfé"
+      },
+      {
+        "stop_id": "58489",
+        "stop_name": "Gare Beaurepaire (sortie 45 / Woodland)"
+      },
+      {
+        "stop_id": "58484",
+        "stop_name": "Gare Beaconsfield"
+      },
+      {
+        "stop_id": "58482",
+        "stop_name": "Gare Beaconsfield"
+      },
+      {
+        "stop_id": "57825",
+        "stop_name": "Autoroute 20 / Cartier"
+      },
+      {
+        "stop_id": "57772",
+        "stop_name": "Autoroute 20 / Saint-Jean"
+      },
+      {
+        "stop_id": "57789",
+        "stop_name": "Gare Pointe-Claire"
+      },
+      {
+        "stop_id": "57423",
+        "stop_name": "Herron / Pine Beach"
+      },
+      {
+        "stop_id": "57510",
+        "stop_name": "Herron / Centre Commercial Rond Point"
+      },
+      {
+        "stop_id": "57538",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "61329",
+        "stop_name": "Station Lionel-Groulx / Saint-Jacques"
+      }
+    ]
+  }
+]

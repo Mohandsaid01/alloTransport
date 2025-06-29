@@ -1,0 +1,284 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "61338",
+        "stop_name": "Station Lionel-Groulx"
+      },
+      {
+        "stop_id": "57539",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "57522",
+        "stop_name": "Dorval / No 353"
+      },
+      {
+        "stop_id": "57458",
+        "stop_name": "Carson / Les Jardins Dorval"
+      },
+      {
+        "stop_id": "57454",
+        "stop_name": "Carson / Lepage"
+      },
+      {
+        "stop_id": "57448",
+        "stop_name": "Carson / Roy"
+      },
+      {
+        "stop_id": "57444",
+        "stop_name": "Fénelon / Dumont"
+      },
+      {
+        "stop_id": "57422",
+        "stop_name": "Gare Pine Beach"
+      },
+      {
+        "stop_id": "57790",
+        "stop_name": "Gare Pointe-Claire"
+      },
+      {
+        "stop_id": "57769",
+        "stop_name": "Cartier / Salisbury"
+      },
+      {
+        "stop_id": "57771",
+        "stop_name": "Cartier / de Val-Soleil"
+      },
+      {
+        "stop_id": "57635",
+        "stop_name": "Cartier / No 117"
+      },
+      {
+        "stop_id": "57642",
+        "stop_name": "Cartier / Lanthier"
+      },
+      {
+        "stop_id": "57641",
+        "stop_name": "de Lourdes / Bord-du-Lac"
+      },
+      {
+        "stop_id": "57802",
+        "stop_name": "Bord-du-Lac / Sainte-Anne"
+      },
+      {
+        "stop_id": "57631",
+        "stop_name": "Bord-du-Lac / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "57618",
+        "stop_name": "Bord-du-Lac / Pointe-Claire"
+      },
+      {
+        "stop_id": "58479",
+        "stop_name": "Lakeshore / Beaconsfield"
+      },
+      {
+        "stop_id": "58490",
+        "stop_name": "Beaconsfield / Hyde Park"
+      },
+      {
+        "stop_id": "58476",
+        "stop_name": "Beaconsfield / Claude"
+      },
+      {
+        "stop_id": "58474",
+        "stop_name": "Saint-Charles / Beaconsfield"
+      },
+      {
+        "stop_id": "58481",
+        "stop_name": "Gare Beaconsfield (Saint-Charles / Amherst)"
+      },
+      {
+        "stop_id": "58458",
+        "stop_name": "Sherbrooke / Castle"
+      },
+      {
+        "stop_id": "58452",
+        "stop_name": "Sherbrooke / Allancroft"
+      },
+      {
+        "stop_id": "58448",
+        "stop_name": "Sherbrooke / Forest"
+      },
+      {
+        "stop_id": "58444",
+        "stop_name": "Sherbrooke / Westcroft"
+      },
+      {
+        "stop_id": "58438",
+        "stop_name": "Sherbrooke / Fleet"
+      },
+      {
+        "stop_id": "58434",
+        "stop_name": "Sherbrooke / Robin"
+      },
+      {
+        "stop_id": "58430",
+        "stop_name": "Sherbrooke / Montrose"
+      },
+      {
+        "stop_id": "58487",
+        "stop_name": "Montrose / Sainte-Marie"
+      },
+      {
+        "stop_id": "58339",
+        "stop_name": "Sainte-Marie / Saint-Tropez"
+      },
+      {
+        "stop_id": "58401",
+        "stop_name": "Jean-Yves / Transcanadienne"
+      },
+      {
+        "stop_id": "58400",
+        "stop_name": "Jean-Yves / Cinéma"
+      },
+      {
+        "stop_id": "58337",
+        "stop_name": "Sainte-Marie / Meaney"
+      },
+      {
+        "stop_id": "61250",
+        "stop_name": "de l'Anse-à-l'Orme / Timberlea-Trail"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "61250",
+        "stop_name": "de l'Anse-à-l'Orme / Timberlea-Trail"
+      },
+      {
+        "stop_id": "58336",
+        "stop_name": "Sainte-Marie / Meaney"
+      },
+      {
+        "stop_id": "58340",
+        "stop_name": "Sainte-Marie / Saint-Tropez"
+      },
+      {
+        "stop_id": "58433",
+        "stop_name": "Montrose / Arlington"
+      },
+      {
+        "stop_id": "60255",
+        "stop_name": "Montrose / Windermere"
+      },
+      {
+        "stop_id": "60256",
+        "stop_name": "Sherbrooke / Robin"
+      },
+      {
+        "stop_id": "58439",
+        "stop_name": "Sherbrooke / Fleet"
+      },
+      {
+        "stop_id": "58445",
+        "stop_name": "Sherbrooke / Westcroft"
+      },
+      {
+        "stop_id": "58449",
+        "stop_name": "Sherbrooke / Hollis"
+      },
+      {
+        "stop_id": "58453",
+        "stop_name": "Sherbrooke / Allancroft"
+      },
+      {
+        "stop_id": "58459",
+        "stop_name": "Sherbrooke / Castle"
+      },
+      {
+        "stop_id": "58482",
+        "stop_name": "Gare Beaconsfield"
+      },
+      {
+        "stop_id": "58471",
+        "stop_name": "Saint-Charles / Prairie"
+      },
+      {
+        "stop_id": "58477",
+        "stop_name": "Beaconsfield / Claude"
+      },
+      {
+        "stop_id": "58478",
+        "stop_name": "Beaconsfield / Hyde Park"
+      },
+      {
+        "stop_id": "58480",
+        "stop_name": "Beaconsfield / Lakeshore"
+      },
+      {
+        "stop_id": "57619",
+        "stop_name": "Bord-du-Lac / Pointe-Claire"
+      },
+      {
+        "stop_id": "57632",
+        "stop_name": "Bord-du-Lac / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "57803",
+        "stop_name": "Bord-du-Lac / Sainte-Anne"
+      },
+      {
+        "stop_id": "57643",
+        "stop_name": "Lanthier / Cartier"
+      },
+      {
+        "stop_id": "57785",
+        "stop_name": "Cartier / No 117"
+      },
+      {
+        "stop_id": "57770",
+        "stop_name": "Cartier / de Val-Soleil"
+      },
+      {
+        "stop_id": "57601",
+        "stop_name": "Cartier / Autoroute 20"
+      },
+      {
+        "stop_id": "57789",
+        "stop_name": "Gare Pointe-Claire"
+      },
+      {
+        "stop_id": "57423",
+        "stop_name": "Herron / Pine Beach"
+      },
+      {
+        "stop_id": "57519",
+        "stop_name": "Herron / No 1268"
+      },
+      {
+        "stop_id": "57518",
+        "stop_name": "Dumont / Fénelon"
+      },
+      {
+        "stop_id": "57453",
+        "stop_name": "Carson / Roy"
+      },
+      {
+        "stop_id": "57455",
+        "stop_name": "Carson / Lepage"
+      },
+      {
+        "stop_id": "57499",
+        "stop_name": "Carson / Les Jardins Dorval"
+      },
+      {
+        "stop_id": "57491",
+        "stop_name": "Dorval / No 352"
+      },
+      {
+        "stop_id": "57538",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "61339",
+        "stop_name": "Station Lionel-Groulx"
+      }
+    ]
+  }
+]

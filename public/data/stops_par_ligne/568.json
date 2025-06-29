@@ -1,0 +1,28 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "62199",
+        "stop_name": "De La Gauchetière / Robert-Bourassa"
+      },
+      {
+        "stop_id": "62202",
+        "stop_name": "Station REM Île-des-Soeurs"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "62202",
+        "stop_name": "Station REM Île-des-Soeurs"
+      },
+      {
+        "stop_id": "62199",
+        "stop_name": "De La Gauchetière / Robert-Bourassa"
+      }
+    ]
+  }
+]

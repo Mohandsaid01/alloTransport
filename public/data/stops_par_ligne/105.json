@@ -1,0 +1,164 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "53797",
+        "stop_name": "Station Vendôme"
+      },
+      {
+        "stop_id": "51460",
+        "stop_name": "Décarie / Sherbrooke"
+      },
+      {
+        "stop_id": "51396",
+        "stop_name": "Sherbrooke / Girouard"
+      },
+      {
+        "stop_id": "51344",
+        "stop_name": "Sherbrooke / Oxford"
+      },
+      {
+        "stop_id": "51313",
+        "stop_name": "Sherbrooke / Wilson"
+      },
+      {
+        "stop_id": "51259",
+        "stop_name": "Sherbrooke / Royal"
+      },
+      {
+        "stop_id": "51211",
+        "stop_name": "Sherbrooke / Hingston"
+      },
+      {
+        "stop_id": "51162",
+        "stop_name": "Sherbrooke / Grand Boulevard"
+      },
+      {
+        "stop_id": "51134",
+        "stop_name": "Sherbrooke / Madison"
+      },
+      {
+        "stop_id": "51077",
+        "stop_name": "Sherbrooke / Benny"
+      },
+      {
+        "stop_id": "51027",
+        "stop_name": "Sherbrooke / Cavendish"
+      },
+      {
+        "stop_id": "50991",
+        "stop_name": "Sherbrooke / Walkley"
+      },
+      {
+        "stop_id": "50945",
+        "stop_name": "Sherbrooke / King-Edward"
+      },
+      {
+        "stop_id": "50899",
+        "stop_name": "Sherbrooke / Mariette"
+      },
+      {
+        "stop_id": "50854",
+        "stop_name": "Sherbrooke / Coronation"
+      },
+      {
+        "stop_id": "53806",
+        "stop_name": "Université Concordia / Campus Loyola"
+      },
+      {
+        "stop_id": "50763",
+        "stop_name": "Sherbrooke / West Broadway"
+      },
+      {
+        "stop_id": "50747",
+        "stop_name": "Sherbrooke / Patricia"
+      },
+      {
+        "stop_id": "50741",
+        "stop_name": "Gare Montréal-Ouest (Elmhurst / Sherbrooke)"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "50741",
+        "stop_name": "Gare Montréal-Ouest (Elmhurst / Sherbrooke)"
+      },
+      {
+        "stop_id": "53792",
+        "stop_name": "Sherbrooke / Westmore"
+      },
+      {
+        "stop_id": "50765",
+        "stop_name": "Sherbrooke / West Broadway"
+      },
+      {
+        "stop_id": "50831",
+        "stop_name": "Université Concordia / Campus Loyola"
+      },
+      {
+        "stop_id": "50855",
+        "stop_name": "Sherbrooke / Coronation"
+      },
+      {
+        "stop_id": "50900",
+        "stop_name": "Sherbrooke / Mariette"
+      },
+      {
+        "stop_id": "50946",
+        "stop_name": "Sherbrooke / King-Edward"
+      },
+      {
+        "stop_id": "50992",
+        "stop_name": "Sherbrooke / Walkley"
+      },
+      {
+        "stop_id": "51029",
+        "stop_name": "Sherbrooke / Cavendish"
+      },
+      {
+        "stop_id": "51078",
+        "stop_name": "Sherbrooke / Benny"
+      },
+      {
+        "stop_id": "51135",
+        "stop_name": "Sherbrooke / Madison"
+      },
+      {
+        "stop_id": "51163",
+        "stop_name": "Sherbrooke / Grand Boulevard"
+      },
+      {
+        "stop_id": "51212",
+        "stop_name": "Sherbrooke / Hingston"
+      },
+      {
+        "stop_id": "51268",
+        "stop_name": "Sherbrooke / de Clifton"
+      },
+      {
+        "stop_id": "51314",
+        "stop_name": "Sherbrooke / Wilson"
+      },
+      {
+        "stop_id": "51345",
+        "stop_name": "Sherbrooke / Oxford"
+      },
+      {
+        "stop_id": "51399",
+        "stop_name": "Sherbrooke / Girouard"
+      },
+      {
+        "stop_id": "51463",
+        "stop_name": "Sherbrooke / Décarie"
+      },
+      {
+        "stop_id": "53936",
+        "stop_name": "Station Vendôme"
+      }
+    ]
+  }
+]

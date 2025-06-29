@@ -1,0 +1,324 @@
+[
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "57072",
+        "stop_name": "George / Albert-Couture"
+      },
+      {
+        "stop_id": "56977",
+        "stop_name": "George / Gagné"
+      },
+      {
+        "stop_id": "56980",
+        "stop_name": "George / Bishop-Power"
+      },
+      {
+        "stop_id": "62332",
+        "stop_name": "Bishop-Power / Centrale"
+      },
+      {
+        "stop_id": "57028",
+        "stop_name": "Bishop-Power / No 220"
+      },
+      {
+        "stop_id": "57015",
+        "stop_name": "Édouard / 8e Avenue"
+      },
+      {
+        "stop_id": "57017",
+        "stop_name": "Édouard / 5e Avenue"
+      },
+      {
+        "stop_id": "57073",
+        "stop_name": "Édouard / 3e Avenue"
+      },
+      {
+        "stop_id": "57020",
+        "stop_name": "Édouard / Alepin"
+      },
+      {
+        "stop_id": "62351",
+        "stop_name": "Édouard / Lacharité"
+      },
+      {
+        "stop_id": "62262",
+        "stop_name": "Lacharité / Centrale"
+      },
+      {
+        "stop_id": "57009",
+        "stop_name": "Champlain / Centrale"
+      },
+      {
+        "stop_id": "56498",
+        "stop_name": "Champlain / Parkdale"
+      },
+      {
+        "stop_id": "56500",
+        "stop_name": "Champlain / Crawford"
+      },
+      {
+        "stop_id": "56501",
+        "stop_name": "Champlain / No 7100"
+      },
+      {
+        "stop_id": "56502",
+        "stop_name": "Champlain / No 7070"
+      },
+      {
+        "stop_id": "62352",
+        "stop_name": "Champlain / Stephens"
+      },
+      {
+        "stop_id": "51785",
+        "stop_name": "des Trinitaires / D'Aragon"
+      },
+      {
+        "stop_id": "51687",
+        "stop_name": "des Trinitaires / Jogues"
+      },
+      {
+        "stop_id": "51611",
+        "stop_name": "des Trinitaires / Lamont"
+      },
+      {
+        "stop_id": "61263",
+        "stop_name": "Station Angrignon"
+      },
+      {
+        "stop_id": "57060",
+        "stop_name": "Newman / Angrignon"
+      },
+      {
+        "stop_id": "56950",
+        "stop_name": "Newman / Guy-Bouchard"
+      },
+      {
+        "stop_id": "56943",
+        "stop_name": "Newman / Senkus"
+      },
+      {
+        "stop_id": "57046",
+        "stop_name": "Newman / No 7214"
+      },
+      {
+        "stop_id": "56918",
+        "stop_name": "Newman / Léger"
+      },
+      {
+        "stop_id": "56899",
+        "stop_name": "Newman / Lapierre"
+      },
+      {
+        "stop_id": "62334",
+        "stop_name": "Lapierre / Dufresne"
+      },
+      {
+        "stop_id": "62335",
+        "stop_name": "Lapierre / Cordner"
+      },
+      {
+        "stop_id": "57033",
+        "stop_name": "Lapierre / Cordner"
+      },
+      {
+        "stop_id": "56830",
+        "stop_name": "Lapierre / Saint-Patrick"
+      },
+      {
+        "stop_id": "57090",
+        "stop_name": "Centre de transport LaSalle (St-Patrick / No 7770)"
+      },
+      {
+        "stop_id": "60458",
+        "stop_name": "Elmslie / No 7900"
+      },
+      {
+        "stop_id": "60300",
+        "stop_name": "Elmslie / No 8301"
+      },
+      {
+        "stop_id": "56797",
+        "stop_name": "Dollard / Saint-Patrick"
+      },
+      {
+        "stop_id": "56471",
+        "stop_name": "Saint-Pierre / Notre-Dame"
+      },
+      {
+        "stop_id": "56470",
+        "stop_name": "Saint-Jacques / No 345"
+      },
+      {
+        "stop_id": "56461",
+        "stop_name": "Saint-Jacques / Richardson"
+      },
+      {
+        "stop_id": "60685",
+        "stop_name": "des Érables / Richardson"
+      },
+      {
+        "stop_id": "62385",
+        "stop_name": "Richardson / Saint-Jacques"
+      }
+    ]
+  },
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "62385",
+        "stop_name": "Richardson / Saint-Jacques"
+      },
+      {
+        "stop_id": "57302",
+        "stop_name": "Saint-Jacques / Jolicoeur"
+      },
+      {
+        "stop_id": "56475",
+        "stop_name": "Saint-Pierre / Notre-Dame"
+      },
+      {
+        "stop_id": "57100",
+        "stop_name": "Dollard / No 850"
+      },
+      {
+        "stop_id": "60299",
+        "stop_name": "Elmslie / No 8301"
+      },
+      {
+        "stop_id": "60457",
+        "stop_name": "Elmslie / No 7851"
+      },
+      {
+        "stop_id": "57089",
+        "stop_name": "Centre de transport LaSalle (St-Patrick / No 7770)"
+      },
+      {
+        "stop_id": "57034",
+        "stop_name": "Lapierre / Cordner"
+      },
+      {
+        "stop_id": "62330",
+        "stop_name": "Lapierre / Dufresne"
+      },
+      {
+        "stop_id": "62331",
+        "stop_name": "Lapierre / Juliette"
+      },
+      {
+        "stop_id": "56726",
+        "stop_name": "Newman / No 7475"
+      },
+      {
+        "stop_id": "56920",
+        "stop_name": "Newman / Léger"
+      },
+      {
+        "stop_id": "56938",
+        "stop_name": "Newman / No 7214"
+      },
+      {
+        "stop_id": "56945",
+        "stop_name": "Newman / Senkus"
+      },
+      {
+        "stop_id": "56951",
+        "stop_name": "Newman / Guy-Bouchard"
+      },
+      {
+        "stop_id": "56960",
+        "stop_name": "Newman / Angrignon"
+      },
+      {
+        "stop_id": "60633",
+        "stop_name": "Angrignon / Tours Angrignon"
+      },
+      {
+        "stop_id": "62350",
+        "stop_name": "Station Angrignon"
+      },
+      {
+        "stop_id": "51688",
+        "stop_name": "des Trinitaires / Jogues"
+      },
+      {
+        "stop_id": "51762",
+        "stop_name": "des Trinitaires / Dumas"
+      },
+      {
+        "stop_id": "56508",
+        "stop_name": "Champlain / Stephens"
+      },
+      {
+        "stop_id": "56668",
+        "stop_name": "Champlain / No 7070"
+      },
+      {
+        "stop_id": "56667",
+        "stop_name": "Champlain / No 7100"
+      },
+      {
+        "stop_id": "56499",
+        "stop_name": "Champlain / Crawford"
+      },
+      {
+        "stop_id": "56497",
+        "stop_name": "Champlain / Fayolle"
+      },
+      {
+        "stop_id": "57008",
+        "stop_name": "Champlain / Centrale"
+      },
+      {
+        "stop_id": "62260",
+        "stop_name": "Lacharité / Centrale"
+      },
+      {
+        "stop_id": "57103",
+        "stop_name": "Lacharité / Bannon"
+      },
+      {
+        "stop_id": "57023",
+        "stop_name": "Édouard / Alepin"
+      },
+      {
+        "stop_id": "57018",
+        "stop_name": "Édouard / 2e Avenue"
+      },
+      {
+        "stop_id": "57016",
+        "stop_name": "Édouard / 5e Avenue"
+      },
+      {
+        "stop_id": "57014",
+        "stop_name": "Édouard / 8e Avenue"
+      },
+      {
+        "stop_id": "57044",
+        "stop_name": "Bishop-Power / No 220"
+      },
+      {
+        "stop_id": "57004",
+        "stop_name": "Bishop-Power / No 506"
+      },
+      {
+        "stop_id": "56979",
+        "stop_name": "Bishop-Power / George"
+      },
+      {
+        "stop_id": "57095",
+        "stop_name": "Champlain / Bishop-Power"
+      },
+      {
+        "stop_id": "62291",
+        "stop_name": "Champlain / Gagné"
+      },
+      {
+        "stop_id": "57072",
+        "stop_name": "George / Albert-Couture"
+      }
+    ]
+  }
+]

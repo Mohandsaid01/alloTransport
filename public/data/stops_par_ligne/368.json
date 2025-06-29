@@ -1,0 +1,728 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54038",
+        "stop_name": "Station Frontenac (Frontenac / Ontario)"
+      },
+      {
+        "stop_id": "52934",
+        "stop_name": "Frontenac / de Rouen"
+      },
+      {
+        "stop_id": "52857",
+        "stop_name": "Frontenac / Hochelaga"
+      },
+      {
+        "stop_id": "52770",
+        "stop_name": "Frontenac / Sherbrooke"
+      },
+      {
+        "stop_id": "52712",
+        "stop_name": "Frontenac / Rachel"
+      },
+      {
+        "stop_id": "52616",
+        "stop_name": "Frontenac / Hogan"
+      },
+      {
+        "stop_id": "52504",
+        "stop_name": "du Mont-Royal / Frontenac"
+      },
+      {
+        "stop_id": "52453",
+        "stop_name": "du Mont-Royal / Fullum"
+      },
+      {
+        "stop_id": "52417",
+        "stop_name": "du Mont-Royal / Parthenais"
+      },
+      {
+        "stop_id": "52381",
+        "stop_name": "du Mont-Royal / De Lorimier"
+      },
+      {
+        "stop_id": "52351",
+        "stop_name": "du Mont-Royal / Chabot"
+      },
+      {
+        "stop_id": "52306",
+        "stop_name": "du Mont-Royal / Papineau"
+      },
+      {
+        "stop_id": "52273",
+        "stop_name": "du Mont-Royal / Fabre"
+      },
+      {
+        "stop_id": "52232",
+        "stop_name": "du Mont-Royal / De Lanaudière"
+      },
+      {
+        "stop_id": "52184",
+        "stop_name": "du Mont-Royal / De La Roche"
+      },
+      {
+        "stop_id": "52160",
+        "stop_name": "du Mont-Royal / Christophe-Colomb"
+      },
+      {
+        "stop_id": "52137",
+        "stop_name": "du Mont-Royal / de Mentana"
+      },
+      {
+        "stop_id": "52100",
+        "stop_name": "du Mont-Royal / Saint-Hubert"
+      },
+      {
+        "stop_id": "52055",
+        "stop_name": "du Mont-Royal / Saint-Denis"
+      },
+      {
+        "stop_id": "52035",
+        "stop_name": "du Mont-Royal / Henri-Julien"
+      },
+      {
+        "stop_id": "52005",
+        "stop_name": "du Mont-Royal / De Bullion"
+      },
+      {
+        "stop_id": "51972",
+        "stop_name": "du Mont-Royal / Saint-Laurent"
+      },
+      {
+        "stop_id": "51937",
+        "stop_name": "du Mont-Royal / Saint-Urbain"
+      },
+      {
+        "stop_id": "51881",
+        "stop_name": "du Mont-Royal / du Parc"
+      },
+      {
+        "stop_id": "51798",
+        "stop_name": "du Parc / Villeneuve"
+      },
+      {
+        "stop_id": "51750",
+        "stop_name": "du Parc / Saint-Joseph"
+      },
+      {
+        "stop_id": "51709",
+        "stop_name": "du Parc / Laurier"
+      },
+      {
+        "stop_id": "51671",
+        "stop_name": "du Parc / Fairmount"
+      },
+      {
+        "stop_id": "51576",
+        "stop_name": "du Parc / Saint-Viateur"
+      },
+      {
+        "stop_id": "51475",
+        "stop_name": "Bernard / Durocher"
+      },
+      {
+        "stop_id": "56202",
+        "stop_name": "Bernard / Bloomfield"
+      },
+      {
+        "stop_id": "56197",
+        "stop_name": "Bernard / Outremont"
+      },
+      {
+        "stop_id": "56192",
+        "stop_name": "Outremont / Lajoie"
+      },
+      {
+        "stop_id": "56180",
+        "stop_name": "Outremont / Van Horne"
+      },
+      {
+        "stop_id": "56172",
+        "stop_name": "Van Horne / McEachran"
+      },
+      {
+        "stop_id": "56179",
+        "stop_name": "Rockland / Lajoie"
+      },
+      {
+        "stop_id": "56183",
+        "stop_name": "Rockland / Bernard"
+      },
+      {
+        "stop_id": "56195",
+        "stop_name": "Rockland / Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "56187",
+        "stop_name": "de la Côte-Sainte-Catherine / Claude-Champagne"
+      },
+      {
+        "stop_id": "56178",
+        "stop_name": "Vincent-D'Indy / Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "51387",
+        "stop_name": "Station Édouard-Montpetit"
+      },
+      {
+        "stop_id": "50114",
+        "stop_name": "Édouard-Montpetit / No 2141"
+      },
+      {
+        "stop_id": "51318",
+        "stop_name": "Édouard-Montpetit / de Stirling"
+      },
+      {
+        "stop_id": "51286",
+        "stop_name": "Édouard-Montpetit / Woodbury"
+      },
+      {
+        "stop_id": "53878",
+        "stop_name": "Station Université-de-Montréal"
+      },
+      {
+        "stop_id": "51247",
+        "stop_name": "Édouard-Montpetit / Louis-Colin"
+      },
+      {
+        "stop_id": "51213",
+        "stop_name": "Édouard-Montpetit / McKenna"
+      },
+      {
+        "stop_id": "51168",
+        "stop_name": "Édouard-Montpetit / Decelles"
+      },
+      {
+        "stop_id": "51230",
+        "stop_name": "Decelles / Jean-Brillant"
+      },
+      {
+        "stop_id": "51278",
+        "stop_name": "Decelles / Queen-Mary"
+      },
+      {
+        "stop_id": "51252",
+        "stop_name": "Queen-Mary / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "51254",
+        "stop_name": "Queen-Mary / Queen-Mary"
+      },
+      {
+        "stop_id": "53678",
+        "stop_name": "Queen-Mary / Frère-André (Oratoire St-Joseph)"
+      },
+      {
+        "stop_id": "51176",
+        "stop_name": "Queen-Mary / Cedar Crescent"
+      },
+      {
+        "stop_id": "51145",
+        "stop_name": "Queen-Mary / Roslyn"
+      },
+      {
+        "stop_id": "51117",
+        "stop_name": "Queen-Mary / Victoria"
+      },
+      {
+        "stop_id": "51058",
+        "stop_name": "Victoria / Jean-Brillant"
+      },
+      {
+        "stop_id": "51013",
+        "stop_name": "Victoria / Lacombe"
+      },
+      {
+        "stop_id": "50971",
+        "stop_name": "Victoria / Saint-Kevin"
+      },
+      {
+        "stop_id": "50923",
+        "stop_name": "Station Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "50874",
+        "stop_name": "Victoria / De La Peltrie"
+      },
+      {
+        "stop_id": "50817",
+        "stop_name": "Station Plamondon (Victoria / Van Horne)"
+      },
+      {
+        "stop_id": "50736",
+        "stop_name": "Station Plamondon (Victoria / Plamondon)"
+      },
+      {
+        "stop_id": "50690",
+        "stop_name": "Victoria / Bouchette"
+      },
+      {
+        "stop_id": "50654",
+        "stop_name": "Victoria / Mackenzie"
+      },
+      {
+        "stop_id": "50587",
+        "stop_name": "Jean-Talon / No 4855"
+      },
+      {
+        "stop_id": "53892",
+        "stop_name": "Jean-Talon / No 5005"
+      },
+      {
+        "stop_id": "50531",
+        "stop_name": "Jean-Talon / Mountain Sights"
+      },
+      {
+        "stop_id": "50507",
+        "stop_name": "Station Namur (Jean-Talon / Décarie)"
+      },
+      {
+        "stop_id": "50475",
+        "stop_name": "Décarie / Paré"
+      },
+      {
+        "stop_id": "50435",
+        "stop_name": "Décarie / Ferrier"
+      },
+      {
+        "stop_id": "50410",
+        "stop_name": "Décarie / de la Savane"
+      },
+      {
+        "stop_id": "50377",
+        "stop_name": "Station De la Savane (Décarie / de Sorel)"
+      },
+      {
+        "stop_id": "56023",
+        "stop_name": "Décarie / Duncan"
+      },
+      {
+        "stop_id": "56140",
+        "stop_name": "Côte-de-Liesse / Décarie"
+      },
+      {
+        "stop_id": "55756",
+        "stop_name": "Sainte-Croix / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "55746",
+        "stop_name": "Sainte-Croix / Dion"
+      },
+      {
+        "stop_id": "55739",
+        "stop_name": "Sainte-Croix / Hodge"
+      },
+      {
+        "stop_id": "55724",
+        "stop_name": "Sainte-Croix / du Collège"
+      },
+      {
+        "stop_id": "55697",
+        "stop_name": "Sainte-Croix / de l'Église"
+      },
+      {
+        "stop_id": "55684",
+        "stop_name": "Sainte-Croix / Decelles"
+      },
+      {
+        "stop_id": "55649",
+        "stop_name": "Côte-Vertu / Saint-Germain"
+      },
+      {
+        "stop_id": "55890",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "51713",
+        "stop_name": "Laurier / du Parc"
+      },
+      {
+        "stop_id": "56210",
+        "stop_name": "Laurier / De L'Épée"
+      },
+      {
+        "stop_id": "56206",
+        "stop_name": "Côte-Sainte-Catherine / Outremont"
+      },
+      {
+        "stop_id": "56204",
+        "stop_name": "Côte-Sainte-Catherine / Stuart"
+      },
+      {
+        "stop_id": "56200",
+        "stop_name": "Côte-Sainte-Catherine / Les Hautvilliers"
+      },
+      {
+        "stop_id": "56194",
+        "stop_name": "Côte-Sainte-Catherine / Rockland"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "55890",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "55650",
+        "stop_name": "Côte-Vertu / Saint-Germain"
+      },
+      {
+        "stop_id": "55664",
+        "stop_name": "Sainte-Croix / Côte-Vertu"
+      },
+      {
+        "stop_id": "55685",
+        "stop_name": "Sainte-Croix / Decelles"
+      },
+      {
+        "stop_id": "55698",
+        "stop_name": "Sainte-Croix / de l'Église"
+      },
+      {
+        "stop_id": "55725",
+        "stop_name": "Sainte-Croix / du Collège"
+      },
+      {
+        "stop_id": "55741",
+        "stop_name": "Sainte-Croix / Hodge"
+      },
+      {
+        "stop_id": "55747",
+        "stop_name": "Sainte-Croix / Dion"
+      },
+      {
+        "stop_id": "55755",
+        "stop_name": "Sainte-Croix / Saint-Philippe"
+      },
+      {
+        "stop_id": "56116",
+        "stop_name": "Décarie / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "56105",
+        "stop_name": "Décarie / No 8400"
+      },
+      {
+        "stop_id": "50398",
+        "stop_name": "Décarie / Royalmount"
+      },
+      {
+        "stop_id": "50436",
+        "stop_name": "Décarie / Ferrier"
+      },
+      {
+        "stop_id": "50477",
+        "stop_name": "Décarie / Paré"
+      },
+      {
+        "stop_id": "50509",
+        "stop_name": "Jean-Talon / Mountain Sights"
+      },
+      {
+        "stop_id": "53776",
+        "stop_name": "Jean-Talon / No 5000"
+      },
+      {
+        "stop_id": "50583",
+        "stop_name": "Jean-Talon / Victoria"
+      },
+      {
+        "stop_id": "50655",
+        "stop_name": "Victoria / Mackenzie"
+      },
+      {
+        "stop_id": "50691",
+        "stop_name": "Victoria / Bouchette"
+      },
+      {
+        "stop_id": "50737",
+        "stop_name": "Station Plamondon (Victoria / Plamondon)"
+      },
+      {
+        "stop_id": "50818",
+        "stop_name": "Station Plamondon (Victoria / Van Horne)"
+      },
+      {
+        "stop_id": "50875",
+        "stop_name": "Victoria / De La Peltrie"
+      },
+      {
+        "stop_id": "50925",
+        "stop_name": "Station Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "50972",
+        "stop_name": "Victoria / Saint-Kevin"
+      },
+      {
+        "stop_id": "51014",
+        "stop_name": "Victoria / Lacombe"
+      },
+      {
+        "stop_id": "51059",
+        "stop_name": "Victoria / Jean-Brillant"
+      },
+      {
+        "stop_id": "51118",
+        "stop_name": "Victoria / Queen-Mary"
+      },
+      {
+        "stop_id": "51146",
+        "stop_name": "Queen-Mary / Roslyn"
+      },
+      {
+        "stop_id": "51175",
+        "stop_name": "Queen-Mary / Cedar Crescent"
+      },
+      {
+        "stop_id": "53677",
+        "stop_name": "Queen-Mary / du Frère-André (Oratoire St-Joseph)"
+      },
+      {
+        "stop_id": "51267",
+        "stop_name": "Queen-Mary / Gatineau"
+      },
+      {
+        "stop_id": "51229",
+        "stop_name": "Decelles / Jean-Brillant"
+      },
+      {
+        "stop_id": "51167",
+        "stop_name": "Decelles / Édouard-Montpetit"
+      },
+      {
+        "stop_id": "51214",
+        "stop_name": "Édouard-Montpetit / McKenna"
+      },
+      {
+        "stop_id": "51248",
+        "stop_name": "Édouard-Montpetit / Louis-Colin"
+      },
+      {
+        "stop_id": "53877",
+        "stop_name": "Station Université-de-Montréal"
+      },
+      {
+        "stop_id": "51287",
+        "stop_name": "Édouard-Montpetit / Woodbury"
+      },
+      {
+        "stop_id": "51319",
+        "stop_name": "Édouard-Montpetit / de Stirling"
+      },
+      {
+        "stop_id": "51388",
+        "stop_name": "Station Édouard-Montpetit"
+      },
+      {
+        "stop_id": "56184",
+        "stop_name": "Vincent-d'Indy / Willowdale"
+      },
+      {
+        "stop_id": "56175",
+        "stop_name": "Vincent-D'Indy / Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "56188",
+        "stop_name": "Côte-Sainte-Catherine / Dunlop"
+      },
+      {
+        "stop_id": "56196",
+        "stop_name": "de la Côte-Sainte-Catherine / Courcelette"
+      },
+      {
+        "stop_id": "56201",
+        "stop_name": "McEachran / Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "56189",
+        "stop_name": "McEachran / Bernard"
+      },
+      {
+        "stop_id": "56182",
+        "stop_name": "McEachran / Lajoie"
+      },
+      {
+        "stop_id": "56171",
+        "stop_name": "McEachran / Van Horne"
+      },
+      {
+        "stop_id": "61991",
+        "stop_name": "Station Outremont (Van Horne / Stuart)"
+      },
+      {
+        "stop_id": "61990",
+        "stop_name": "Station Outremont (Van Horne / Outremont)"
+      },
+      {
+        "stop_id": "56193",
+        "stop_name": "Outremont / Lajoie"
+      },
+      {
+        "stop_id": "56198",
+        "stop_name": "Outremont / Bernard"
+      },
+      {
+        "stop_id": "56203",
+        "stop_name": "Bernard / De L'Épée"
+      },
+      {
+        "stop_id": "51476",
+        "stop_name": "Bernard / Durocher"
+      },
+      {
+        "stop_id": "51504",
+        "stop_name": "Bernard / du Parc"
+      },
+      {
+        "stop_id": "51578",
+        "stop_name": "du Parc / Saint-Viateur"
+      },
+      {
+        "stop_id": "51673",
+        "stop_name": "du Parc / Fairmount"
+      },
+      {
+        "stop_id": "51711",
+        "stop_name": "du Parc / Laurier"
+      },
+      {
+        "stop_id": "51751",
+        "stop_name": "du Parc / Saint-Joseph"
+      },
+      {
+        "stop_id": "51799",
+        "stop_name": "du Parc / Villeneuve"
+      },
+      {
+        "stop_id": "51882",
+        "stop_name": "du Parc / du Mont-Royal"
+      },
+      {
+        "stop_id": "51884",
+        "stop_name": "du Mont-Royal / Jeanne-Mance"
+      },
+      {
+        "stop_id": "51939",
+        "stop_name": "du Mont-Royal / Saint-Urbain"
+      },
+      {
+        "stop_id": "51966",
+        "stop_name": "du Mont-Royal / Saint-Laurent"
+      },
+      {
+        "stop_id": "52006",
+        "stop_name": "du Mont-Royal / De Bullion"
+      },
+      {
+        "stop_id": "52036",
+        "stop_name": "du Mont-Royal / Henri-Julien"
+      },
+      {
+        "stop_id": "52057",
+        "stop_name": "du Mont-Royal / Saint-Denis"
+      },
+      {
+        "stop_id": "52084",
+        "stop_name": "Station Mont-Royal (du Mont-Royal / Berri)"
+      },
+      {
+        "stop_id": "52138",
+        "stop_name": "du Mont-Royal / de Mentana"
+      },
+      {
+        "stop_id": "52162",
+        "stop_name": "du Mont-Royal / Christophe-Colomb"
+      },
+      {
+        "stop_id": "52185",
+        "stop_name": "du Mont-Royal / De La Roche"
+      },
+      {
+        "stop_id": "52230",
+        "stop_name": "du Mont-Royal / De Lanaudière"
+      },
+      {
+        "stop_id": "52274",
+        "stop_name": "du Mont-Royal / Fabre"
+      },
+      {
+        "stop_id": "52308",
+        "stop_name": "du Mont-Royal / Papineau"
+      },
+      {
+        "stop_id": "52352",
+        "stop_name": "du Mont-Royal / Chabot"
+      },
+      {
+        "stop_id": "52383",
+        "stop_name": "du Mont-Royal / De Lorimier"
+      },
+      {
+        "stop_id": "52418",
+        "stop_name": "du Mont-Royal / Parthenais"
+      },
+      {
+        "stop_id": "52468",
+        "stop_name": "du Mont-Royal / Fullum"
+      },
+      {
+        "stop_id": "52524",
+        "stop_name": "du Mont-Royal / D'Iberville"
+      },
+      {
+        "stop_id": "52586",
+        "stop_name": "D'Iberville / Marie-Anne"
+      },
+      {
+        "stop_id": "52687",
+        "stop_name": "D'Iberville / Rachel"
+      },
+      {
+        "stop_id": "52764",
+        "stop_name": "D'Iberville / Sherbrooke"
+      },
+      {
+        "stop_id": "53016",
+        "stop_name": "Station Frontenac (du Havre / Ontario)"
+      },
+      {
+        "stop_id": "53075",
+        "stop_name": "du Havre / La Fontaine"
+      },
+      {
+        "stop_id": "54038",
+        "stop_name": "Station Frontenac (Frontenac / Ontario)"
+      },
+      {
+        "stop_id": "56199",
+        "stop_name": "Côte-Sainte-Catherine / Pagnuelo"
+      },
+      {
+        "stop_id": "56205",
+        "stop_name": "Côte-Sainte-Catherine / Stuart"
+      },
+      {
+        "stop_id": "56207",
+        "stop_name": "Côte-Sainte-Catherine / Outremont"
+      },
+      {
+        "stop_id": "56209",
+        "stop_name": "Côte-Sainte-Catherine / Laurier"
+      },
+      {
+        "stop_id": "56211",
+        "stop_name": "Laurier / Querbes"
+      },
+      {
+        "stop_id": "51712",
+        "stop_name": "Laurier / du Parc"
+      }
+    ]
+  }
+]

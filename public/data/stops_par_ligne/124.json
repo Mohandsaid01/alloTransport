@@ -1,0 +1,352 @@
+[
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "54104",
+        "stop_name": "Station Vendôme"
+      },
+      {
+        "stop_id": "56307",
+        "stop_name": "Claremont / Burton"
+      },
+      {
+        "stop_id": "56254",
+        "stop_name": "Claremont / Sherbrooke"
+      },
+      {
+        "stop_id": "56243",
+        "stop_name": "Claremont / Windsor"
+      },
+      {
+        "stop_id": "56237",
+        "stop_name": "Claremont / Côte-Saint-Antoine"
+      },
+      {
+        "stop_id": "56232",
+        "stop_name": "Westmount / Claremont"
+      },
+      {
+        "stop_id": "56235",
+        "stop_name": "Westmount / Victoria"
+      },
+      {
+        "stop_id": "56242",
+        "stop_name": "Westmount / Roslyn"
+      },
+      {
+        "stop_id": "56246",
+        "stop_name": "Lansdowne / Westmount"
+      },
+      {
+        "stop_id": "56229",
+        "stop_name": "The Boulevard / Lansdowne"
+      },
+      {
+        "stop_id": "56226",
+        "stop_name": "The Boulevard / Grosvenor"
+      },
+      {
+        "stop_id": "56223",
+        "stop_name": "Sunnyside / Victoria"
+      },
+      {
+        "stop_id": "53808",
+        "stop_name": "Victoria / No 4685"
+      },
+      {
+        "stop_id": "53810",
+        "stop_name": "Victoria / No 4811"
+      },
+      {
+        "stop_id": "51194",
+        "stop_name": "Victoria / Mira"
+      },
+      {
+        "stop_id": "51116",
+        "stop_name": "Victoria / Queen-Mary"
+      },
+      {
+        "stop_id": "51120",
+        "stop_name": "Victoria / Dornal"
+      },
+      {
+        "stop_id": "51058",
+        "stop_name": "Victoria / Jean-Brillant"
+      },
+      {
+        "stop_id": "51013",
+        "stop_name": "Victoria / Lacombe"
+      },
+      {
+        "stop_id": "50971",
+        "stop_name": "Victoria / Saint-Kevin"
+      },
+      {
+        "stop_id": "50923",
+        "stop_name": "Station Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "50874",
+        "stop_name": "Victoria / De La Peltrie"
+      },
+      {
+        "stop_id": "50817",
+        "stop_name": "Station Plamondon (Victoria / Van Horne)"
+      },
+      {
+        "stop_id": "50736",
+        "stop_name": "Station Plamondon (Victoria / Plamondon)"
+      },
+      {
+        "stop_id": "50690",
+        "stop_name": "Victoria / Bouchette"
+      },
+      {
+        "stop_id": "50654",
+        "stop_name": "Victoria / Mackenzie"
+      },
+      {
+        "stop_id": "50580",
+        "stop_name": "Victoria / Jean-Talon"
+      },
+      {
+        "stop_id": "54144",
+        "stop_name": "Victoria / de la Savane"
+      },
+      {
+        "stop_id": "50547",
+        "stop_name": "de la Savane / Kindersley"
+      },
+      {
+        "stop_id": "50533",
+        "stop_name": "Kindersley / Ostell-Crescent"
+      },
+      {
+        "stop_id": "56041",
+        "stop_name": "Lucerne / Lazard"
+      },
+      {
+        "stop_id": "56037",
+        "stop_name": "Lucerne / Powell"
+      },
+      {
+        "stop_id": "56033",
+        "stop_name": "Lucerne / Algonquin"
+      },
+      {
+        "stop_id": "56027",
+        "stop_name": "Lucerne / Glengarry"
+      },
+      {
+        "stop_id": "56024",
+        "stop_name": "Lucerne / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "55756",
+        "stop_name": "Sainte-Croix / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "55746",
+        "stop_name": "Sainte-Croix / Dion"
+      },
+      {
+        "stop_id": "55739",
+        "stop_name": "Sainte-Croix / Hodge"
+      },
+      {
+        "stop_id": "55745",
+        "stop_name": "Hodge / Hébert"
+      },
+      {
+        "stop_id": "55751",
+        "stop_name": "Hodge / Laperrière"
+      },
+      {
+        "stop_id": "55754",
+        "stop_name": "Hodge / Houde"
+      },
+      {
+        "stop_id": "55895",
+        "stop_name": "Hodge / Harris"
+      },
+      {
+        "stop_id": "55759",
+        "stop_name": "Hodge / Montpellier"
+      },
+      {
+        "stop_id": "61371",
+        "stop_name": "Stinson / Montpellier"
+      }
+    ]
+  },
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "61371",
+        "stop_name": "Stinson / Montpellier"
+      },
+      {
+        "stop_id": "55762",
+        "stop_name": "Stinson / Hodge"
+      },
+      {
+        "stop_id": "55758",
+        "stop_name": "Hodge / Montpellier"
+      },
+      {
+        "stop_id": "55753",
+        "stop_name": "Hodge / Houde"
+      },
+      {
+        "stop_id": "55750",
+        "stop_name": "Hodge / Laperrière"
+      },
+      {
+        "stop_id": "55744",
+        "stop_name": "Hodge / Hébert"
+      },
+      {
+        "stop_id": "55740",
+        "stop_name": "Hodge / Sainte-Croix"
+      },
+      {
+        "stop_id": "55747",
+        "stop_name": "Sainte-Croix / Dion"
+      },
+      {
+        "stop_id": "55755",
+        "stop_name": "Sainte-Croix / Saint-Philippe"
+      },
+      {
+        "stop_id": "56029",
+        "stop_name": "Lucerne / Glengarry"
+      },
+      {
+        "stop_id": "56034",
+        "stop_name": "Lucerne / Algonquin"
+      },
+      {
+        "stop_id": "56038",
+        "stop_name": "Lucerne / Powell"
+      },
+      {
+        "stop_id": "56128",
+        "stop_name": "Lucerne / Kindersley"
+      },
+      {
+        "stop_id": "50534",
+        "stop_name": "Kindersley / Ostell-Crescent"
+      },
+      {
+        "stop_id": "50548",
+        "stop_name": "Kindersley / de la Savane"
+      },
+      {
+        "stop_id": "50560",
+        "stop_name": "de la Savane / Victoria"
+      },
+      {
+        "stop_id": "61187",
+        "stop_name": "Victoria / No 7361"
+      },
+      {
+        "stop_id": "50582",
+        "stop_name": "Victoria / Jean-Talon"
+      },
+      {
+        "stop_id": "50655",
+        "stop_name": "Victoria / Mackenzie"
+      },
+      {
+        "stop_id": "50691",
+        "stop_name": "Victoria / Bouchette"
+      },
+      {
+        "stop_id": "50737",
+        "stop_name": "Station Plamondon (Victoria / Plamondon)"
+      },
+      {
+        "stop_id": "50818",
+        "stop_name": "Station Plamondon (Victoria / Van Horne)"
+      },
+      {
+        "stop_id": "50875",
+        "stop_name": "Victoria / De La Peltrie"
+      },
+      {
+        "stop_id": "50925",
+        "stop_name": "Station Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "50972",
+        "stop_name": "Victoria / Saint-Kevin"
+      },
+      {
+        "stop_id": "51014",
+        "stop_name": "Victoria / Lacombe"
+      },
+      {
+        "stop_id": "51059",
+        "stop_name": "Victoria / Jean-Brillant"
+      },
+      {
+        "stop_id": "51118",
+        "stop_name": "Victoria / Queen-Mary"
+      },
+      {
+        "stop_id": "51195",
+        "stop_name": "Victoria / Mira"
+      },
+      {
+        "stop_id": "53809",
+        "stop_name": "Victoria / No 4826"
+      },
+      {
+        "stop_id": "53807",
+        "stop_name": "Victoria / No 4701"
+      },
+      {
+        "stop_id": "56225",
+        "stop_name": "Victoria / The Boulevard"
+      },
+      {
+        "stop_id": "56227",
+        "stop_name": "The Boulevard / Grosvenor"
+      },
+      {
+        "stop_id": "56230",
+        "stop_name": "The Boulevard / Lansdowne"
+      },
+      {
+        "stop_id": "56245",
+        "stop_name": "Lansdowne / Westmount"
+      },
+      {
+        "stop_id": "56239",
+        "stop_name": "Westmount / Grosvenor"
+      },
+      {
+        "stop_id": "56231",
+        "stop_name": "Collège Marianopolis (Westmount / NDG)"
+      },
+      {
+        "stop_id": "56236",
+        "stop_name": "Claremont / Côte-Saint-Antoine"
+      },
+      {
+        "stop_id": "56244",
+        "stop_name": "Claremont / Windsor"
+      },
+      {
+        "stop_id": "56249",
+        "stop_name": "Claremont / Sherbrooke"
+      },
+      {
+        "stop_id": "54104",
+        "stop_name": "Station Vendôme"
+      }
+    ]
+  }
+]

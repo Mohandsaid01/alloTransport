@@ -1,0 +1,416 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "57815",
+        "stop_name": "Terminus Fairview"
+      },
+      {
+        "stop_id": "57628",
+        "stop_name": "Brunswick / Revcon"
+      },
+      {
+        "stop_id": "57640",
+        "stop_name": "Brunswick / Selkirk"
+      },
+      {
+        "stop_id": "57645",
+        "stop_name": "Brunswick / Ellingham"
+      },
+      {
+        "stop_id": "57775",
+        "stop_name": "Brunswick / No 195"
+      },
+      {
+        "stop_id": "57776",
+        "stop_name": "Brunswick / Hewitt"
+      },
+      {
+        "stop_id": "57902",
+        "stop_name": "Brunswick / Tecumseh"
+      },
+      {
+        "stop_id": "57995",
+        "stop_name": "Brunswick / Montrose"
+      },
+      {
+        "stop_id": "57914",
+        "stop_name": "Brunswick / Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "57922",
+        "stop_name": "Brunswick / Bancroft"
+      },
+      {
+        "stop_id": "57935",
+        "stop_name": "Brunswick / No 64"
+      },
+      {
+        "stop_id": "57936",
+        "stop_name": "Brunswick / Bovis"
+      },
+      {
+        "stop_id": "57946",
+        "stop_name": "Brunswick / des Sources"
+      },
+      {
+        "stop_id": "57952",
+        "stop_name": "Brunswick / Davignon"
+      },
+      {
+        "stop_id": "57957",
+        "stop_name": "Brunswick / Deacon"
+      },
+      {
+        "stop_id": "57532",
+        "stop_name": "Saint-Régis / Deacon"
+      },
+      {
+        "stop_id": "57975",
+        "stop_name": "Saint-Régis / No 2000"
+      },
+      {
+        "stop_id": "57376",
+        "stop_name": "Saint-Régis / Séville"
+      },
+      {
+        "stop_id": "57563",
+        "stop_name": "Saint-Régis / No 1604"
+      },
+      {
+        "stop_id": "57384",
+        "stop_name": "Saint-Régis / Sunnybrooke"
+      },
+      {
+        "stop_id": "57405",
+        "stop_name": "Saint-Régis / Chemin McDonald"
+      },
+      {
+        "stop_id": "57520",
+        "stop_name": "Saint-Régis / No 1055"
+      },
+      {
+        "stop_id": "55781",
+        "stop_name": "Henri-Bourassa / Douglas-B.-Floreani"
+      },
+      {
+        "stop_id": "55358",
+        "stop_name": "Henri-Bourassa / Halpern"
+      },
+      {
+        "stop_id": "55361",
+        "stop_name": "Henri-Bourassa / De Miniac"
+      },
+      {
+        "stop_id": "55369",
+        "stop_name": "Henri-Bourassa / Valiquette"
+      },
+      {
+        "stop_id": "55371",
+        "stop_name": "Brabant-Marineau / De Baene"
+      },
+      {
+        "stop_id": "55378",
+        "stop_name": "Brabant-Marineau / Botham"
+      },
+      {
+        "stop_id": "55869",
+        "stop_name": "Cousens / No 4600"
+      },
+      {
+        "stop_id": "55774",
+        "stop_name": "Cousens / Thimens"
+      },
+      {
+        "stop_id": "55396",
+        "stop_name": "Bois-Franc / Thimens"
+      },
+      {
+        "stop_id": "55884",
+        "stop_name": "Guénette / Bois-Franc"
+      },
+      {
+        "stop_id": "55838",
+        "stop_name": "Centre de transport St-Laurent (Guénette / Cousens"
+      },
+      {
+        "stop_id": "55775",
+        "stop_name": "Guénette / Cousens"
+      },
+      {
+        "stop_id": "55888",
+        "stop_name": "Guénette / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55393",
+        "stop_name": "Henri-Bourassa / Félix-Leclerc"
+      },
+      {
+        "stop_id": "55403",
+        "stop_name": "Henri-Bourassa / Sartelon"
+      },
+      {
+        "stop_id": "55412",
+        "stop_name": "Henri-Bourassa / Marette"
+      },
+      {
+        "stop_id": "55418",
+        "stop_name": "Henri-Bourassa / Vermandère"
+      },
+      {
+        "stop_id": "55425",
+        "stop_name": "Henri-Bourassa / Cavendish"
+      },
+      {
+        "stop_id": "55428",
+        "stop_name": "Henri-Bourassa / Duchesne"
+      },
+      {
+        "stop_id": "55804",
+        "stop_name": "Henri-Bourassa / No 5700"
+      },
+      {
+        "stop_id": "61727",
+        "stop_name": "Henri-Bourassa / No 5600"
+      },
+      {
+        "stop_id": "55806",
+        "stop_name": "Henri-Bourassa / Wilfrid-Reid"
+      },
+      {
+        "stop_id": "55808",
+        "stop_name": "Henri-Bourassa / No 5265"
+      },
+      {
+        "stop_id": "55450",
+        "stop_name": "Henri-Bourassa / Marcel-Laurin"
+      },
+      {
+        "stop_id": "55497",
+        "stop_name": "Marcel-Laurin / Poirier"
+      },
+      {
+        "stop_id": "61249",
+        "stop_name": "Marcel-Laurin / No 1515"
+      },
+      {
+        "stop_id": "55595",
+        "stop_name": "Marcel-Laurin / Côte-Vertu"
+      },
+      {
+        "stop_id": "60288",
+        "stop_name": "Station Côte-Vertu"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "60383",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "55594",
+        "stop_name": "Côte-Vertu / Leduc"
+      },
+      {
+        "stop_id": "55961",
+        "stop_name": "Marcel-Laurin / Lucien-Thimens"
+      },
+      {
+        "stop_id": "61248",
+        "stop_name": "Marcel-Laurin / No 1515"
+      },
+      {
+        "stop_id": "55496",
+        "stop_name": "Marcel-Laurin / Poirier"
+      },
+      {
+        "stop_id": "55909",
+        "stop_name": "Marcel-Laurin / Galeries Saint-Laurent"
+      },
+      {
+        "stop_id": "55451",
+        "stop_name": "Henri-Bourassa / Marcel-Laurin"
+      },
+      {
+        "stop_id": "55353",
+        "stop_name": "Henri-Bourassa / No 5265"
+      },
+      {
+        "stop_id": "55442",
+        "stop_name": "Henri-Bourassa / Wilfrid-Reid"
+      },
+      {
+        "stop_id": "55805",
+        "stop_name": "Henri-Bourassa / No 5555"
+      },
+      {
+        "stop_id": "55427",
+        "stop_name": "Henri-Bourassa / Duchesne"
+      },
+      {
+        "stop_id": "55423",
+        "stop_name": "Henri-Bourassa / Toupin"
+      },
+      {
+        "stop_id": "55417",
+        "stop_name": "Henri-Bourassa / Vermandère"
+      },
+      {
+        "stop_id": "55411",
+        "stop_name": "Henri-Bourassa / Marette"
+      },
+      {
+        "stop_id": "55402",
+        "stop_name": "Henri-Bourassa / Sartelon"
+      },
+      {
+        "stop_id": "55392",
+        "stop_name": "Henri-Bourassa / Félix-Leclerc"
+      },
+      {
+        "stop_id": "55386",
+        "stop_name": "Guénette / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55776",
+        "stop_name": "Guénette / Cousens"
+      },
+      {
+        "stop_id": "55887",
+        "stop_name": "Centre de transport St-Laurent (Guénette / Cousens"
+      },
+      {
+        "stop_id": "55883",
+        "stop_name": "Guénette / Bois-Franc"
+      },
+      {
+        "stop_id": "55395",
+        "stop_name": "Bois-Franc / Thimens"
+      },
+      {
+        "stop_id": "55389",
+        "stop_name": "Cousens / Thimens"
+      },
+      {
+        "stop_id": "55837",
+        "stop_name": "Cousens / No 4600"
+      },
+      {
+        "stop_id": "55377",
+        "stop_name": "Brabant-Marineau / Botham"
+      },
+      {
+        "stop_id": "55372",
+        "stop_name": "Brabant-Marineau / De Baene"
+      },
+      {
+        "stop_id": "55368",
+        "stop_name": "Henri-Bourassa / Valiquette"
+      },
+      {
+        "stop_id": "55359",
+        "stop_name": "Henri-Bourassa / De Miniac"
+      },
+      {
+        "stop_id": "55357",
+        "stop_name": "Henri-Bourassa / Halpern"
+      },
+      {
+        "stop_id": "55782",
+        "stop_name": "Hymus / Douglas-B.-Floreani"
+      },
+      {
+        "stop_id": "57533",
+        "stop_name": "Transcanadienne / No 1255"
+      },
+      {
+        "stop_id": "57567",
+        "stop_name": "Sunnybrooke / Transcanadienne"
+      },
+      {
+        "stop_id": "57521",
+        "stop_name": "Saint-Régis / Sunnybrooke"
+      },
+      {
+        "stop_id": "57564",
+        "stop_name": "Saint-Régis / No 1611"
+      },
+      {
+        "stop_id": "57990",
+        "stop_name": "Saint-Régis / Séville"
+      },
+      {
+        "stop_id": "57991",
+        "stop_name": "Saint-Régis / No 2000"
+      },
+      {
+        "stop_id": "57992",
+        "stop_name": "Saint-Régis / Deacon"
+      },
+      {
+        "stop_id": "57955",
+        "stop_name": "Deacon / Brunswick"
+      },
+      {
+        "stop_id": "57951",
+        "stop_name": "Brunswick / Davignon"
+      },
+      {
+        "stop_id": "57944",
+        "stop_name": "Brunswick / des Sources"
+      },
+      {
+        "stop_id": "57938",
+        "stop_name": "Brunswick / du Marché"
+      },
+      {
+        "stop_id": "57937",
+        "stop_name": "Brunswick / No 64"
+      },
+      {
+        "stop_id": "57921",
+        "stop_name": "Brunswick / Lake"
+      },
+      {
+        "stop_id": "57917",
+        "stop_name": "Brunswick / Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "57996",
+        "stop_name": "Brunswick / Montrose"
+      },
+      {
+        "stop_id": "57900",
+        "stop_name": "Brunswick / Tecumseh"
+      },
+      {
+        "stop_id": "57777",
+        "stop_name": "Brunswick / Hewitt"
+      },
+      {
+        "stop_id": "57654",
+        "stop_name": "Brunswick / No 195"
+      },
+      {
+        "stop_id": "57644",
+        "stop_name": "Brunswick / Ellingham"
+      },
+      {
+        "stop_id": "57639",
+        "stop_name": "Brunswick / Selkirk"
+      },
+      {
+        "stop_id": "57627",
+        "stop_name": "Brunswick / Revcon"
+      },
+      {
+        "stop_id": "57815",
+        "stop_name": "Terminus Fairview"
+      }
+    ]
+  }
+]

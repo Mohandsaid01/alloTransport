@@ -1,0 +1,132 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "57584",
+        "stop_name": "Air Canada"
+      },
+      {
+        "stop_id": "57585",
+        "stop_name": "Air Canada / Côte-Vertu"
+      },
+      {
+        "stop_id": "57594",
+        "stop_name": "Côte-Vertu / Air Canada"
+      },
+      {
+        "stop_id": "57595",
+        "stop_name": "Côte-Vertu / No 7373"
+      },
+      {
+        "stop_id": "57586",
+        "stop_name": "Côte-Vertu / Stationnement Bombardier"
+      },
+      {
+        "stop_id": "57587",
+        "stop_name": "Côte-Vertu / Centre de Formation"
+      },
+      {
+        "stop_id": "59931",
+        "stop_name": "Bombardier"
+      },
+      {
+        "stop_id": "57588",
+        "stop_name": "Côte-Vertu / Bombardier"
+      },
+      {
+        "stop_id": "57583",
+        "stop_name": "Côte-Vertu / Percival-Reid"
+      },
+      {
+        "stop_id": "57590",
+        "stop_name": "Côte-Vertu / Pitfield"
+      },
+      {
+        "stop_id": "55831",
+        "stop_name": "Côte-Vertu / Saint-Amour"
+      },
+      {
+        "stop_id": "55811",
+        "stop_name": "Côte-Vertu / Montée de Liesse"
+      },
+      {
+        "stop_id": "55446",
+        "stop_name": "Côte-Vertu / Bégin"
+      },
+      {
+        "stop_id": "55778",
+        "stop_name": "Côte-Vertu / No 3695"
+      },
+      {
+        "stop_id": "55466",
+        "stop_name": "Côte-Vertu / Beaulac"
+      },
+      {
+        "stop_id": "55487",
+        "stop_name": "Côte-Vertu / Cavendish"
+      },
+      {
+        "stop_id": "60289",
+        "stop_name": "Station Côte-Vertu"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "60289",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "55486",
+        "stop_name": "Côte-Vertu / Cavendish"
+      },
+      {
+        "stop_id": "55488",
+        "stop_name": "Côte-Vertu / Cavendish"
+      },
+      {
+        "stop_id": "55464",
+        "stop_name": "Côte-Vertu / Beaulac"
+      },
+      {
+        "stop_id": "55355",
+        "stop_name": "Côte-Vertu / No 3695"
+      },
+      {
+        "stop_id": "55785",
+        "stop_name": "Côte-Vertu / No 4045"
+      },
+      {
+        "stop_id": "62204",
+        "stop_name": "de la Côte-Vertu / No 4625"
+      },
+      {
+        "stop_id": "55830",
+        "stop_name": "Côte-Vertu / Saint-Amour"
+      },
+      {
+        "stop_id": "57591",
+        "stop_name": "Côte-Vertu / Pitfield"
+      },
+      {
+        "stop_id": "57582",
+        "stop_name": "Côte-Vertu / Percival-Reid"
+      },
+      {
+        "stop_id": "57589",
+        "stop_name": "Côte-Vertu / Bombardier"
+      },
+      {
+        "stop_id": "57543",
+        "stop_name": "Bombardier (Côte-Vertu / No 500)"
+      },
+      {
+        "stop_id": "57584",
+        "stop_name": "Air Canada"
+      }
+    ]
+  }
+]

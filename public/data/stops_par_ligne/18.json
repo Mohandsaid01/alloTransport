@@ -1,0 +1,424 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "53275",
+        "stop_name": "Station Honoré-Beaugrand / Terminus Sud"
+      },
+      {
+        "stop_id": "53303",
+        "stop_name": "Louis-Hippolyte-La Fontaine / Curatteau"
+      },
+      {
+        "stop_id": "50109",
+        "stop_name": "Louis-Hippolyte-La Fontaine / Fonteneau"
+      },
+      {
+        "stop_id": "53849",
+        "stop_name": "Louis-H.-La Fontaine / Chénier"
+      },
+      {
+        "stop_id": "54694",
+        "stop_name": "Val d'Anjou / Place Val d'Anjou"
+      },
+      {
+        "stop_id": "54633",
+        "stop_name": "du Val d'Anjou / Beaubien"
+      },
+      {
+        "stop_id": "54625",
+        "stop_name": "Beaubien / des Roseraies"
+      },
+      {
+        "stop_id": "54616",
+        "stop_name": "Beaubien / des Galeries-d'Anjou"
+      },
+      {
+        "stop_id": "52839",
+        "stop_name": "Beaubien / Pierre-Gadois"
+      },
+      {
+        "stop_id": "52794",
+        "stop_name": "Beaubien / François-Boivin"
+      },
+      {
+        "stop_id": "52749",
+        "stop_name": "Beaubien / Langelier"
+      },
+      {
+        "stop_id": "52721",
+        "stop_name": "Beaubien / De Repentigny"
+      },
+      {
+        "stop_id": "52672",
+        "stop_name": "Beaubien / Albani"
+      },
+      {
+        "stop_id": "53752",
+        "stop_name": "Beaubien / Place Beaubien"
+      },
+      {
+        "stop_id": "52601",
+        "stop_name": "Beaubien / Lacordaire"
+      },
+      {
+        "stop_id": "52575",
+        "stop_name": "Beaubien / de Pontoise"
+      },
+      {
+        "stop_id": "52538",
+        "stop_name": "Beaubien / Châtelain"
+      },
+      {
+        "stop_id": "52513",
+        "stop_name": "Beaubien / de l'Assomption"
+      },
+      {
+        "stop_id": "54129",
+        "stop_name": "Beaubien / 42e Avenue"
+      },
+      {
+        "stop_id": "52396",
+        "stop_name": "Beaubien / 39e Avenue"
+      },
+      {
+        "stop_id": "52358",
+        "stop_name": "Beaubien / Viau"
+      },
+      {
+        "stop_id": "52332",
+        "stop_name": "Beaubien / 35e Avenue"
+      },
+      {
+        "stop_id": "52300",
+        "stop_name": "Beaubien / 33e Avenue"
+      },
+      {
+        "stop_id": "52262",
+        "stop_name": "Beaubien / 31e Avenue"
+      },
+      {
+        "stop_id": "52215",
+        "stop_name": "Beaubien / 29e Avenue"
+      },
+      {
+        "stop_id": "52168",
+        "stop_name": "Beaubien / 25e Avenue"
+      },
+      {
+        "stop_id": "52127",
+        "stop_name": "Beaubien / Pie-IX"
+      },
+      {
+        "stop_id": "60635",
+        "stop_name": "Beaubien / 20e Avenue"
+      },
+      {
+        "stop_id": "52074",
+        "stop_name": "Beaubien / 19e Avenue"
+      },
+      {
+        "stop_id": "52020",
+        "stop_name": "Cégep de Rosemont (Beaubien / 16e Avenue)"
+      },
+      {
+        "stop_id": "51982",
+        "stop_name": "Beaubien / 13e Avenue"
+      },
+      {
+        "stop_id": "51944",
+        "stop_name": "Beaubien / Saint-Michel"
+      },
+      {
+        "stop_id": "51914",
+        "stop_name": "Beaubien / 9e Avenue"
+      },
+      {
+        "stop_id": "51868",
+        "stop_name": "Beaubien / 6e Avenue"
+      },
+      {
+        "stop_id": "51835",
+        "stop_name": "Beaubien / 1re Avenue"
+      },
+      {
+        "stop_id": "51803",
+        "stop_name": "Beaubien / D'Iberville"
+      },
+      {
+        "stop_id": "61826",
+        "stop_name": "Beaubien / des Écores"
+      },
+      {
+        "stop_id": "51739",
+        "stop_name": "Beaubien / De Lorimier"
+      },
+      {
+        "stop_id": "51694",
+        "stop_name": "Beaubien / Chabot"
+      },
+      {
+        "stop_id": "51677",
+        "stop_name": "Beaubien / Papineau"
+      },
+      {
+        "stop_id": "51654",
+        "stop_name": "Beaubien / Fabre"
+      },
+      {
+        "stop_id": "51628",
+        "stop_name": "Beaubien / De Lanaudière"
+      },
+      {
+        "stop_id": "53850",
+        "stop_name": "Beaubien / De Normanville"
+      },
+      {
+        "stop_id": "51584",
+        "stop_name": "Beaubien / Christophe-Colomb"
+      },
+      {
+        "stop_id": "51550",
+        "stop_name": "Beaubien / Saint-Hubert"
+      },
+      {
+        "stop_id": "51522",
+        "stop_name": "Station Beaubien"
+      },
+      {
+        "stop_id": "51509",
+        "stop_name": "Beaubien / Saint-Denis"
+      },
+      {
+        "stop_id": "51481",
+        "stop_name": "Beaubien / Alma"
+      },
+      {
+        "stop_id": "51441",
+        "stop_name": "Beaubien / Saint-Laurent"
+      },
+      {
+        "stop_id": "54398",
+        "stop_name": "Saint-Laurent / Saint-Zotique"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54398",
+        "stop_name": "Saint-Laurent / Saint-Zotique"
+      },
+      {
+        "stop_id": "51377",
+        "stop_name": "Saint-Dominique / Saint-Zotique"
+      },
+      {
+        "stop_id": "51445",
+        "stop_name": "Saint-Dominique / Beaubien"
+      },
+      {
+        "stop_id": "51482",
+        "stop_name": "Beaubien / Alma"
+      },
+      {
+        "stop_id": "51511",
+        "stop_name": "Beaubien / Saint-Denis"
+      },
+      {
+        "stop_id": "53851",
+        "stop_name": "Station Beaubien"
+      },
+      {
+        "stop_id": "51551",
+        "stop_name": "Beaubien / Saint-Hubert"
+      },
+      {
+        "stop_id": "51586",
+        "stop_name": "Beaubien / Christophe-Colomb"
+      },
+      {
+        "stop_id": "51598",
+        "stop_name": "Beaubien / De Normanville"
+      },
+      {
+        "stop_id": "51629",
+        "stop_name": "Beaubien / De Lanaudière"
+      },
+      {
+        "stop_id": "51655",
+        "stop_name": "Beaubien / Fabre"
+      },
+      {
+        "stop_id": "51679",
+        "stop_name": "Beaubien / Papineau"
+      },
+      {
+        "stop_id": "51695",
+        "stop_name": "Beaubien / Chabot"
+      },
+      {
+        "stop_id": "51741",
+        "stop_name": "Beaubien / De Lorimier"
+      },
+      {
+        "stop_id": "51781",
+        "stop_name": "Beaubien / des Écores"
+      },
+      {
+        "stop_id": "51805",
+        "stop_name": "Beaubien / D'Iberville"
+      },
+      {
+        "stop_id": "54136",
+        "stop_name": "Beaubien / 1re Avenue"
+      },
+      {
+        "stop_id": "51869",
+        "stop_name": "Beaubien / 6e Avenue"
+      },
+      {
+        "stop_id": "51915",
+        "stop_name": "Beaubien / 9e Avenue"
+      },
+      {
+        "stop_id": "51946",
+        "stop_name": "Beaubien / Saint-Michel"
+      },
+      {
+        "stop_id": "51983",
+        "stop_name": "Beaubien / 13e Avenue"
+      },
+      {
+        "stop_id": "52021",
+        "stop_name": "Cégep de Rosemont (Beaubien / 16e Avenue)"
+      },
+      {
+        "stop_id": "52075",
+        "stop_name": "Beaubien / 19e Avenue"
+      },
+      {
+        "stop_id": "60634",
+        "stop_name": "Beaubien / 20e Avenue"
+      },
+      {
+        "stop_id": "52129",
+        "stop_name": "Beaubien / Pie-IX"
+      },
+      {
+        "stop_id": "52186",
+        "stop_name": "Beaubien / 26e Avenue"
+      },
+      {
+        "stop_id": "52231",
+        "stop_name": "Beaubien / 29e Avenue"
+      },
+      {
+        "stop_id": "52263",
+        "stop_name": "Beaubien / 31e Avenue"
+      },
+      {
+        "stop_id": "52301",
+        "stop_name": "Beaubien / 33e Avenue"
+      },
+      {
+        "stop_id": "52333",
+        "stop_name": "Beaubien / 35e Avenue"
+      },
+      {
+        "stop_id": "52360",
+        "stop_name": "Beaubien / Viau"
+      },
+      {
+        "stop_id": "52414",
+        "stop_name": "Beaubien / 40e Avenue"
+      },
+      {
+        "stop_id": "52445",
+        "stop_name": "Beaubien / 42e Avenue"
+      },
+      {
+        "stop_id": "52515",
+        "stop_name": "Beaubien / de l'Assomption"
+      },
+      {
+        "stop_id": "52539",
+        "stop_name": "Beaubien / Châtelain"
+      },
+      {
+        "stop_id": "52576",
+        "stop_name": "Beaubien / de Pontoise"
+      },
+      {
+        "stop_id": "52603",
+        "stop_name": "Beaubien / Lacordaire"
+      },
+      {
+        "stop_id": "53751",
+        "stop_name": "Beaubien / Place Beaubien"
+      },
+      {
+        "stop_id": "52673",
+        "stop_name": "Beaubien / Albani"
+      },
+      {
+        "stop_id": "52704",
+        "stop_name": "Beaubien / de Carignan"
+      },
+      {
+        "stop_id": "52751",
+        "stop_name": "Beaubien / Langelier"
+      },
+      {
+        "stop_id": "52795",
+        "stop_name": "Beaubien / François-Boivin"
+      },
+      {
+        "stop_id": "52840",
+        "stop_name": "Beaubien / Pierre-Gadois"
+      },
+      {
+        "stop_id": "54618",
+        "stop_name": "Beaubien / des Galeries-d'Anjou"
+      },
+      {
+        "stop_id": "54626",
+        "stop_name": "Beaubien / des Roseraies"
+      },
+      {
+        "stop_id": "54638",
+        "stop_name": "du Val d'Anjou / de la Nantaise"
+      },
+      {
+        "stop_id": "54693",
+        "stop_name": "Val d'Anjou / Place Val d'Anjou"
+      },
+      {
+        "stop_id": "54511",
+        "stop_name": "des Roseraies / Louis-H.-La Fontaine"
+      },
+      {
+        "stop_id": "54656",
+        "stop_name": "Louis-Hippolyte-La Fontaine / de la Malicorne"
+      },
+      {
+        "stop_id": "54207",
+        "stop_name": "Louis-Hippolyte-La Fontaine / Pierre-Corneille"
+      },
+      {
+        "stop_id": "50101",
+        "stop_name": "Louis-Hippolyte-La Fontaine / Curatteau"
+      },
+      {
+        "stop_id": "53242",
+        "stop_name": "Sherbrooke / Lepailleur"
+      },
+      {
+        "stop_id": "53253",
+        "stop_name": "Station Honoré-Beaugrand"
+      }
+    ]
+  }
+]

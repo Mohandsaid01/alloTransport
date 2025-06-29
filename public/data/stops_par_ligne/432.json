@@ -1,0 +1,414 @@
+[
+  {
+    "direction": "Sud via Henri-Bourassa / A-25",
+    "arrets": [
+      {
+        "stop_id": "54063",
+        "stop_name": "Perras / Armand-Bombardier"
+      },
+      {
+        "stop_id": "51810",
+        "stop_name": "Armand-Bombardier / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "51877",
+        "stop_name": "Armand-Bombardier / Blaise-Pascal"
+      },
+      {
+        "stop_id": "52025",
+        "stop_name": "Armand-Bombardier / Henri-Bourassa"
+      },
+      {
+        "stop_id": "51931",
+        "stop_name": "Henri-Bourassa / Marco-Polo"
+      },
+      {
+        "stop_id": "51847",
+        "stop_name": "Henri-Bourassa / L.-J.- Forget"
+      },
+      {
+        "stop_id": "51783",
+        "stop_name": "Henri-Bourassa / Marc-Aurèle-Fortin"
+      },
+      {
+        "stop_id": "53739",
+        "stop_name": "Henri-Bourassa / Nicolas-Josselin"
+      },
+      {
+        "stop_id": "54746",
+        "stop_name": "Renaude-Lapointe / No 11300"
+      },
+      {
+        "stop_id": "54680",
+        "stop_name": "Renaude-Lapointe / Minicut"
+      },
+      {
+        "stop_id": "54691",
+        "stop_name": "Renaude-Lapointe / No 10291"
+      },
+      {
+        "stop_id": "54678",
+        "stop_name": "Renaude-Lapointe / Béclard"
+      },
+      {
+        "stop_id": "53196",
+        "stop_name": "Station Radisson (Sherbrooke / Des Groseilliers)"
+      },
+      {
+        "stop_id": "53103",
+        "stop_name": "Station Cadillac (Sherbrooke / De Cadillac)"
+      }
+    ]
+  },
+  {
+    "direction": "Nord via Lacordaire / Perras",
+    "arrets": [
+      {
+        "stop_id": "53103",
+        "stop_name": "Station Cadillac (Sherbrooke / De Cadillac)"
+      },
+      {
+        "stop_id": "52775",
+        "stop_name": "Dickson / Rosemont"
+      },
+      {
+        "stop_id": "55021",
+        "stop_name": "Lacordaire / Métropolitain"
+      },
+      {
+        "stop_id": "54905",
+        "stop_name": "Lacordaire / Jarry"
+      },
+      {
+        "stop_id": "54870",
+        "stop_name": "Lacordaire / Robert"
+      },
+      {
+        "stop_id": "54850",
+        "stop_name": "Lacordaire / Lafourcade"
+      },
+      {
+        "stop_id": "54832",
+        "stop_name": "Lacordaire / Lavoisier"
+      },
+      {
+        "stop_id": "54814",
+        "stop_name": "Lacordaire / Honoré-Mercier"
+      },
+      {
+        "stop_id": "54794",
+        "stop_name": "Lacordaire / Couture"
+      },
+      {
+        "stop_id": "54771",
+        "stop_name": "Lacordaire / des Grandes-Prairies"
+      },
+      {
+        "stop_id": "61547",
+        "stop_name": "Gare Saint-Léonard-Montréal-Nord"
+      },
+      {
+        "stop_id": "55280",
+        "stop_name": "Lacordaire / de Charleroi"
+      },
+      {
+        "stop_id": "55269",
+        "stop_name": "Lacordaire / d'Amos"
+      },
+      {
+        "stop_id": "55245",
+        "stop_name": "CLSC de Montréal-Nord"
+      },
+      {
+        "stop_id": "55221",
+        "stop_name": "Lacordaire / Crevier"
+      },
+      {
+        "stop_id": "55209",
+        "stop_name": "Lacordaire / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "55186",
+        "stop_name": "Lacordaire / Arthur-Chevrier"
+      },
+      {
+        "stop_id": "55170",
+        "stop_name": "Léger / Lacordaire"
+      },
+      {
+        "stop_id": "55193",
+        "stop_name": "Léger / Fortin"
+      },
+      {
+        "stop_id": "55208",
+        "stop_name": "Léger / Rolland"
+      },
+      {
+        "stop_id": "55224",
+        "stop_name": "Léger / Chartrand"
+      },
+      {
+        "stop_id": "55235",
+        "stop_name": "Léger / Allard"
+      },
+      {
+        "stop_id": "55259",
+        "stop_name": "Léger / Albert-Hudon"
+      },
+      {
+        "stop_id": "54139",
+        "stop_name": "Perras / Ozias-Leduc (Hôpital Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "54053",
+        "stop_name": "Perras / 6e Avenue"
+      },
+      {
+        "stop_id": "51422",
+        "stop_name": "Perras / Gilbert-Barbier"
+      },
+      {
+        "stop_id": "51443",
+        "stop_name": "Perras / Marc-Aurèle-Fortin"
+      },
+      {
+        "stop_id": "51488",
+        "stop_name": "Perras / Fernand-Gauthier"
+      },
+      {
+        "stop_id": "51543",
+        "stop_name": "Perras / Élie-Beauregard"
+      },
+      {
+        "stop_id": "51590",
+        "stop_name": "Perras / Salomon-Marion"
+      },
+      {
+        "stop_id": "54063",
+        "stop_name": "Perras / Armand-Bombardier"
+      },
+      {
+        "stop_id": "60735",
+        "stop_name": "Clément-Ader / André-Ampère"
+      },
+      {
+        "stop_id": "51622",
+        "stop_name": "Perras / Armand-Bombardier"
+      },
+      {
+        "stop_id": "52339",
+        "stop_name": "Lacordaire / Bélanger"
+      },
+      {
+        "stop_id": "54987",
+        "stop_name": "Lacordaire / Bourdaloue"
+      },
+      {
+        "stop_id": "54939",
+        "stop_name": "Lacordaire / Paimpol"
+      }
+    ]
+  },
+  {
+    "direction": "Nord via A-25 / Henri-Bourassa",
+    "arrets": [
+      {
+        "stop_id": "53102",
+        "stop_name": "Station Cadillac (Sherbrooke / Duquesne)"
+      },
+      {
+        "stop_id": "54080",
+        "stop_name": "Station Radisson (Sherbrooke / du Trianon)"
+      },
+      {
+        "stop_id": "54679",
+        "stop_name": "Renaude-Lapointe / Béclard"
+      },
+      {
+        "stop_id": "54690",
+        "stop_name": "Renaude-Lapointe / No 10291"
+      },
+      {
+        "stop_id": "54681",
+        "stop_name": "Renaude-Lapointe / Minicut"
+      },
+      {
+        "stop_id": "54745",
+        "stop_name": "Renaude-Lapointe / No 11300"
+      },
+      {
+        "stop_id": "53738",
+        "stop_name": "Henri-Bourassa / Colbert"
+      },
+      {
+        "stop_id": "51784",
+        "stop_name": "Henri-Bourassa / Marc-Aurèle-Fortin"
+      },
+      {
+        "stop_id": "54514",
+        "stop_name": "Henri-Bourassa / L.-J.- Forget"
+      },
+      {
+        "stop_id": "51932",
+        "stop_name": "Henri-Bourassa / Marco-Polo"
+      },
+      {
+        "stop_id": "52026",
+        "stop_name": "Armand-Bombardier / Henri-Bourassa"
+      },
+      {
+        "stop_id": "51878",
+        "stop_name": "Armand-Bombardier / Blaise-Pascal"
+      },
+      {
+        "stop_id": "61888",
+        "stop_name": "Armand-Bombardier / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "51622",
+        "stop_name": "Perras / Armand-Bombardier"
+      }
+    ]
+  },
+  {
+    "direction": "Sud via  Perras / Lacordaire",
+    "arrets": [
+      {
+        "stop_id": "51622",
+        "stop_name": "Perras / Armand-Bombardier"
+      },
+      {
+        "stop_id": "51589",
+        "stop_name": "Perras / Salomon-Marion"
+      },
+      {
+        "stop_id": "51542",
+        "stop_name": "Perras / Élie-Beauregard"
+      },
+      {
+        "stop_id": "54154",
+        "stop_name": "Perras / Fernand-Gauthier"
+      },
+      {
+        "stop_id": "51442",
+        "stop_name": "Perras / Marc-Aurèle-Fortin"
+      },
+      {
+        "stop_id": "62129",
+        "stop_name": "Perras / Gilbert-Barbier"
+      },
+      {
+        "stop_id": "54054",
+        "stop_name": "Perras / 6e Avenue"
+      },
+      {
+        "stop_id": "54155",
+        "stop_name": "Perras / 4e Avenue"
+      },
+      {
+        "stop_id": "51283",
+        "stop_name": "Perras / Ozias-Leduc (Hôpital Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "55260",
+        "stop_name": "Léger / Albert-Hudon"
+      },
+      {
+        "stop_id": "55233",
+        "stop_name": "Léger / Langelier"
+      },
+      {
+        "stop_id": "55223",
+        "stop_name": "Léger / Chartrand"
+      },
+      {
+        "stop_id": "55207",
+        "stop_name": "Léger / Rolland"
+      },
+      {
+        "stop_id": "55192",
+        "stop_name": "Léger / Fortin"
+      },
+      {
+        "stop_id": "55171",
+        "stop_name": "Lacordaire / Léger"
+      },
+      {
+        "stop_id": "55187",
+        "stop_name": "Lacordaire / Arthur-Chevrier"
+      },
+      {
+        "stop_id": "55210",
+        "stop_name": "Lacordaire / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "55230",
+        "stop_name": "Lacordaire / des Iris"
+      },
+      {
+        "stop_id": "55256",
+        "stop_name": "Lacordaire / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55279",
+        "stop_name": "Lacordaire / de Charleroi"
+      },
+      {
+        "stop_id": "61546",
+        "stop_name": "Gare Saint-Léonard-Montréal-Nord"
+      },
+      {
+        "stop_id": "54773",
+        "stop_name": "Lacordaire / des Grandes-Prairies"
+      },
+      {
+        "stop_id": "54796",
+        "stop_name": "Lacordaire / Couture"
+      },
+      {
+        "stop_id": "54815",
+        "stop_name": "Lacordaire / Honoré-Mercier"
+      },
+      {
+        "stop_id": "54834",
+        "stop_name": "Lacordaire / Lavoisier"
+      },
+      {
+        "stop_id": "54851",
+        "stop_name": "Lacordaire / Lafourcade"
+      },
+      {
+        "stop_id": "54872",
+        "stop_name": "Lacordaire / Robert"
+      },
+      {
+        "stop_id": "54903",
+        "stop_name": "Lacordaire / Jarry"
+      },
+      {
+        "stop_id": "54920",
+        "stop_name": "Lacordaire / Métropolitain"
+      },
+      {
+        "stop_id": "52777",
+        "stop_name": "Lacordaire / Rosemont"
+      },
+      {
+        "stop_id": "53102",
+        "stop_name": "Station Cadillac (Sherbrooke / Duquesne)"
+      },
+      {
+        "stop_id": "54940",
+        "stop_name": "Lacordaire / Paimpol"
+      },
+      {
+        "stop_id": "54988",
+        "stop_name": "Lacordaire / Bourdaloue"
+      },
+      {
+        "stop_id": "52341",
+        "stop_name": "Lacordaire / Bélanger"
+      }
+    ]
+  }
+]

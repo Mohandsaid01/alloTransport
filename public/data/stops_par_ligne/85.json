@@ -1,0 +1,492 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "62115",
+        "stop_name": "du Golf / Métropolitain"
+      },
+      {
+        "stop_id": "60469",
+        "stop_name": "des Sciences / du Golf"
+      },
+      {
+        "stop_id": "60470",
+        "stop_name": "des Sciences / de l'Innovation"
+      },
+      {
+        "stop_id": "60223",
+        "stop_name": "des Sciences / Ray-Lawson"
+      },
+      {
+        "stop_id": "62116",
+        "stop_name": "de Châteauneuf / Baldwin"
+      },
+      {
+        "stop_id": "54623",
+        "stop_name": "de Châteauneuf / Des Ormeaux"
+      },
+      {
+        "stop_id": "54639",
+        "stop_name": "de Châteauneuf / Rondeau"
+      },
+      {
+        "stop_id": "54724",
+        "stop_name": "Rondeau / Georges"
+      },
+      {
+        "stop_id": "54735",
+        "stop_name": "Rondeau / De La Vérendrye"
+      },
+      {
+        "stop_id": "54738",
+        "stop_name": "Rhéaume / Chaumont"
+      },
+      {
+        "stop_id": "54740",
+        "stop_name": "Chaumont / Guy"
+      },
+      {
+        "stop_id": "59343",
+        "stop_name": "Chaumont / Des Ormeaux"
+      },
+      {
+        "stop_id": "62121",
+        "stop_name": "Roi-René / Chaumont"
+      },
+      {
+        "stop_id": "54645",
+        "stop_name": "Wilfrid-Pelletier / Roi-René"
+      },
+      {
+        "stop_id": "54637",
+        "stop_name": "Wilfrid-Pelletier / de la Loire"
+      },
+      {
+        "stop_id": "54632",
+        "stop_name": "Wilfrid-Pelletier / Joseph-Renaud"
+      },
+      {
+        "stop_id": "54628",
+        "stop_name": "Goncourt / Wilfrid-Pelletier"
+      },
+      {
+        "stop_id": "62340",
+        "stop_name": "Goncourt / Dalkeith"
+      },
+      {
+        "stop_id": "54699",
+        "stop_name": "Goncourt / Yves-Prévost"
+      },
+      {
+        "stop_id": "54660",
+        "stop_name": "du Bois-de-Coulonge / du Curé-Clermont"
+      },
+      {
+        "stop_id": "54664",
+        "stop_name": "du Bois-de-Coulonge / Chénier"
+      },
+      {
+        "stop_id": "53996",
+        "stop_name": "Chénier / Honoré-Beaugrand"
+      },
+      {
+        "stop_id": "53995",
+        "stop_name": "Honoré-Beaugrand / Fonteneau"
+      },
+      {
+        "stop_id": "53756",
+        "stop_name": "Station Honoré-Beaugrand / Terminus Nord"
+      },
+      {
+        "stop_id": "53307",
+        "stop_name": "Honoré-Beaugrand / de Marseille"
+      },
+      {
+        "stop_id": "53336",
+        "stop_name": "Honoré-Beaugrand / Sainte-Claire"
+      },
+      {
+        "stop_id": "53347",
+        "stop_name": "Honoré-Beaugrand / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "53360",
+        "stop_name": "Honoré-Beaugrand / Hochelaga"
+      },
+      {
+        "stop_id": "53355",
+        "stop_name": "Hochelaga / Curatteau"
+      },
+      {
+        "stop_id": "53980",
+        "stop_name": "Hochelaga / No 7401 (Hôpital L.-H.-La Fontaine)"
+      },
+      {
+        "stop_id": "54326",
+        "stop_name": "Hochelaga / Centre Fernand-Seguin"
+      },
+      {
+        "stop_id": "53328",
+        "stop_name": "Hochelaga / Beauclerk"
+      },
+      {
+        "stop_id": "53318",
+        "stop_name": "Hochelaga / Haig"
+      },
+      {
+        "stop_id": "53304",
+        "stop_name": "Hochelaga / Desautels"
+      },
+      {
+        "stop_id": "53297",
+        "stop_name": "Hochelaga / de Granby"
+      },
+      {
+        "stop_id": "54002",
+        "stop_name": "Hochelaga / Garnison Montréal"
+      },
+      {
+        "stop_id": "53981",
+        "stop_name": "Polyvalente Édouard-Montpetit"
+      },
+      {
+        "stop_id": "53255",
+        "stop_name": "Hochelaga / De Cadillac"
+      },
+      {
+        "stop_id": "53239",
+        "stop_name": "Hochelaga / Louis-Veuillot"
+      },
+      {
+        "stop_id": "53228",
+        "stop_name": "Hochelaga / Dickson"
+      },
+      {
+        "stop_id": "53202",
+        "stop_name": "Hochelaga / de l'Assomption"
+      },
+      {
+        "stop_id": "53982",
+        "stop_name": "Hochelaga / Vimont"
+      },
+      {
+        "stop_id": "53167",
+        "stop_name": "Hochelaga / Viau"
+      },
+      {
+        "stop_id": "53162",
+        "stop_name": "Hochelaga / Saint-Clément"
+      },
+      {
+        "stop_id": "53147",
+        "stop_name": "Hochelaga / Leclaire"
+      },
+      {
+        "stop_id": "53128",
+        "stop_name": "Hochelaga / Aird"
+      },
+      {
+        "stop_id": "53106",
+        "stop_name": "Hochelaga / Letourneux"
+      },
+      {
+        "stop_id": "53086",
+        "stop_name": "Hochelaga / Pie-IX"
+      },
+      {
+        "stop_id": "53071",
+        "stop_name": "Hochelaga / d'Orléans"
+      },
+      {
+        "stop_id": "53052",
+        "stop_name": "Hochelaga / Nicolet"
+      },
+      {
+        "stop_id": "53038",
+        "stop_name": "Station Joliette (Hochelaga / Aylwin)"
+      },
+      {
+        "stop_id": "53011",
+        "stop_name": "Hochelaga / Davidson"
+      },
+      {
+        "stop_id": "52999",
+        "stop_name": "Hochelaga / Saint-Germain"
+      },
+      {
+        "stop_id": "52966",
+        "stop_name": "Station Préfontaine (Édicule Nord)"
+      },
+      {
+        "stop_id": "52917",
+        "stop_name": "Hochelaga / Wurtele"
+      },
+      {
+        "stop_id": "52888",
+        "stop_name": "Hochelaga / Hogan"
+      },
+      {
+        "stop_id": "52864",
+        "stop_name": "du Havre / Hochelaga"
+      },
+      {
+        "stop_id": "52946",
+        "stop_name": "du Havre / de Rouen"
+      },
+      {
+        "stop_id": "54040",
+        "stop_name": "Station Frontenac (du Havre / Ontario)"
+      },
+      {
+        "stop_id": "53075",
+        "stop_name": "du Havre / La Fontaine"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "53014",
+        "stop_name": "Station Frontenac (Frontenac / Ontario)"
+      },
+      {
+        "stop_id": "52934",
+        "stop_name": "Frontenac / de Rouen"
+      },
+      {
+        "stop_id": "52877",
+        "stop_name": "Hochelaga / Gascon"
+      },
+      {
+        "stop_id": "52889",
+        "stop_name": "Hochelaga / Hogan"
+      },
+      {
+        "stop_id": "53750",
+        "stop_name": "Hochelaga / Florian"
+      },
+      {
+        "stop_id": "52967",
+        "stop_name": "Station Préfontaine (Édicule Sud)"
+      },
+      {
+        "stop_id": "53000",
+        "stop_name": "Hochelaga / Saint-Germain"
+      },
+      {
+        "stop_id": "53012",
+        "stop_name": "Hochelaga / Davidson"
+      },
+      {
+        "stop_id": "53037",
+        "stop_name": "Station Joliette (Hochelaga / Joliette)"
+      },
+      {
+        "stop_id": "53054",
+        "stop_name": "Hochelaga / Nicolet"
+      },
+      {
+        "stop_id": "53072",
+        "stop_name": "Hochelaga / d'Orléans"
+      },
+      {
+        "stop_id": "53088",
+        "stop_name": "Hochelaga / Pie-IX"
+      },
+      {
+        "stop_id": "53107",
+        "stop_name": "Hochelaga / Letourneux"
+      },
+      {
+        "stop_id": "53129",
+        "stop_name": "Hochelaga / Aird"
+      },
+      {
+        "stop_id": "53148",
+        "stop_name": "Hochelaga / Leclaire"
+      },
+      {
+        "stop_id": "53161",
+        "stop_name": "Hochelaga / Saint-Clément"
+      },
+      {
+        "stop_id": "53168",
+        "stop_name": "Hochelaga / Viau"
+      },
+      {
+        "stop_id": "53195",
+        "stop_name": "Hochelaga / Vimont"
+      },
+      {
+        "stop_id": "53204",
+        "stop_name": "Hochelaga / de l'Assomption"
+      },
+      {
+        "stop_id": "53232",
+        "stop_name": "Hochelaga / Monsabré"
+      },
+      {
+        "stop_id": "53240",
+        "stop_name": "Hochelaga / Louis-Veuillot"
+      },
+      {
+        "stop_id": "53257",
+        "stop_name": "Hochelaga / De Cadillac"
+      },
+      {
+        "stop_id": "53273",
+        "stop_name": "Polyvalente Édouard-Montpetit"
+      },
+      {
+        "stop_id": "53300",
+        "stop_name": "Hochelaga / Langelier"
+      },
+      {
+        "stop_id": "53305",
+        "stop_name": "Hochelaga / Desautels"
+      },
+      {
+        "stop_id": "53320",
+        "stop_name": "Hochelaga / Haig"
+      },
+      {
+        "stop_id": "53329",
+        "stop_name": "Hochelaga / Beauclerk"
+      },
+      {
+        "stop_id": "53979",
+        "stop_name": "Hochelaga / No 7401 (Hôpital L.-H.-La Fontaine)"
+      },
+      {
+        "stop_id": "61793",
+        "stop_name": "Hochelaga / Lepailleur"
+      },
+      {
+        "stop_id": "53361",
+        "stop_name": "Honoré-Beaugrand / Hochelaga"
+      },
+      {
+        "stop_id": "53346",
+        "stop_name": "Honoré-Beaugrand / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "53335",
+        "stop_name": "Honoré-Beaugrand / Sainte-Claire"
+      },
+      {
+        "stop_id": "53306",
+        "stop_name": "Honoré-Beaugrand / de Marseille"
+      },
+      {
+        "stop_id": "53293",
+        "stop_name": "Honoré-Beaugrand / Roux"
+      },
+      {
+        "stop_id": "53251",
+        "stop_name": "Station Honoré-Beaugrand"
+      },
+      {
+        "stop_id": "53755",
+        "stop_name": "Station Honoré-Beaugrand / Terminus Nord"
+      },
+      {
+        "stop_id": "53994",
+        "stop_name": "Honoré-Beaugrand / Fonteneau"
+      },
+      {
+        "stop_id": "61030",
+        "stop_name": "Chénier / Honoré-Beaugrand"
+      },
+      {
+        "stop_id": "54663",
+        "stop_name": "Chénier / du Bois-de-Coulonge"
+      },
+      {
+        "stop_id": "54698",
+        "stop_name": "du Bois-de-Coulonge / Yves-Prévost"
+      },
+      {
+        "stop_id": "54655",
+        "stop_name": "Goncourt / de la Seine"
+      },
+      {
+        "stop_id": "62341",
+        "stop_name": "Goncourt / Dalkeith"
+      },
+      {
+        "stop_id": "54627",
+        "stop_name": "Goncourt / Wilfrid-Pelletier"
+      },
+      {
+        "stop_id": "54631",
+        "stop_name": "Wilfrid-Pelletier / Joseph-Renaud"
+      },
+      {
+        "stop_id": "54636",
+        "stop_name": "Wilfrid-Pelletier / de la Loire"
+      },
+      {
+        "stop_id": "54644",
+        "stop_name": "Wilfrid-Pelletier / Roi-René"
+      },
+      {
+        "stop_id": "54742",
+        "stop_name": "Yves-Prévost / Azilda"
+      },
+      {
+        "stop_id": "54659",
+        "stop_name": "Des Ormeaux / Chaumont"
+      },
+      {
+        "stop_id": "54737",
+        "stop_name": "De La Vérendrye / Rondeau"
+      },
+      {
+        "stop_id": "54723",
+        "stop_name": "Rondeau / Yvette-Naubert"
+      },
+      {
+        "stop_id": "54720",
+        "stop_name": "Rondeau / de Châteauneuf"
+      },
+      {
+        "stop_id": "54622",
+        "stop_name": "de Châteauneuf / Des Ormeaux"
+      },
+      {
+        "stop_id": "54613",
+        "stop_name": "de Châteauneuf / Roi-René"
+      },
+      {
+        "stop_id": "60205",
+        "stop_name": "des Sciences / Ray-Lawson"
+      },
+      {
+        "stop_id": "60492",
+        "stop_name": "des Sciences / de l'Innovation"
+      },
+      {
+        "stop_id": "60493",
+        "stop_name": "des Sciences / du Golf"
+      },
+      {
+        "stop_id": "60494",
+        "stop_name": "des Sciences / No 9500"
+      },
+      {
+        "stop_id": "62114",
+        "stop_name": "des Sciences / des Bâtisseurs"
+      },
+      {
+        "stop_id": "60465",
+        "stop_name": "des Bâtisseurs / Métropolitain"
+      },
+      {
+        "stop_id": "62115",
+        "stop_name": "du Golf / Métropolitain"
+      }
+    ]
+  }
+]

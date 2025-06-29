@@ -1,0 +1,332 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "61690",
+        "stop_name": "Gare Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "53225",
+        "stop_name": "87e Avenue / 6e Rue"
+      },
+      {
+        "stop_id": "53208",
+        "stop_name": "87e Avenue / No 12125"
+      },
+      {
+        "stop_id": "53187",
+        "stop_name": "87e Avenue / No 12295"
+      },
+      {
+        "stop_id": "53156",
+        "stop_name": "87e Avenue / 4e Rue"
+      },
+      {
+        "stop_id": "53134",
+        "stop_name": "Perras / 87e Avenue"
+      },
+      {
+        "stop_id": "53091",
+        "stop_name": "Perras / No 10950"
+      },
+      {
+        "stop_id": "53025",
+        "stop_name": "Perras / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "52927",
+        "stop_name": "Perras / Voltaire"
+      },
+      {
+        "stop_id": "52825",
+        "stop_name": "Perras / Primat-Paré"
+      },
+      {
+        "stop_id": "52726",
+        "stop_name": "Perras / 70e Avenue"
+      },
+      {
+        "stop_id": "52557",
+        "stop_name": "Perras / 64e Avenue"
+      },
+      {
+        "stop_id": "52518",
+        "stop_name": "Perras / 62e Avenue"
+      },
+      {
+        "stop_id": "52428",
+        "stop_name": "Perras / Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "52375",
+        "stop_name": "Perras / 57e Avenue"
+      },
+      {
+        "stop_id": "52302",
+        "stop_name": "Perras / 54e Avenue"
+      },
+      {
+        "stop_id": "53683",
+        "stop_name": "Perras / 51e Avenue"
+      },
+      {
+        "stop_id": "52124",
+        "stop_name": "Perras / René-Masson"
+      },
+      {
+        "stop_id": "54151",
+        "stop_name": "Perras / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "54049",
+        "stop_name": "Perras / Pierre-Baillargeon"
+      },
+      {
+        "stop_id": "51889",
+        "stop_name": "Perras / Rita-Levi-Montalcini"
+      },
+      {
+        "stop_id": "51806",
+        "stop_name": "Perras / Alfred-Nobel"
+      },
+      {
+        "stop_id": "51719",
+        "stop_name": "Perras / 27e Avenue"
+      },
+      {
+        "stop_id": "53694",
+        "stop_name": "Perras / 25e Avenue"
+      },
+      {
+        "stop_id": "54000",
+        "stop_name": "Armand-Bombardier / Perras"
+      },
+      {
+        "stop_id": "51670",
+        "stop_name": "Armand-Bombardier / Philippe-Lebon"
+      },
+      {
+        "stop_id": "51723",
+        "stop_name": "Armand-Bombardier / André-Ampère"
+      },
+      {
+        "stop_id": "51767",
+        "stop_name": "Armand-Bombardier / Jean-Vincent"
+      },
+      {
+        "stop_id": "51810",
+        "stop_name": "Armand-Bombardier / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "51877",
+        "stop_name": "Armand-Bombardier / Blaise-Pascal"
+      },
+      {
+        "stop_id": "52027",
+        "stop_name": "Ray-Lawson / Henri-Bourassa"
+      },
+      {
+        "stop_id": "54539",
+        "stop_name": "Ray-Lawson / 6e Croissant"
+      },
+      {
+        "stop_id": "54545",
+        "stop_name": "Ray-Lawson / 5e Croissant"
+      },
+      {
+        "stop_id": "54555",
+        "stop_name": "Ray-Lawson / Jules-Léger"
+      },
+      {
+        "stop_id": "54568",
+        "stop_name": "Ray-Lawson / Ernest-Cormier"
+      },
+      {
+        "stop_id": "54587",
+        "stop_name": "Ray-Lawson / Grenache"
+      },
+      {
+        "stop_id": "54716",
+        "stop_name": "Ray-Lawson / Place Upton"
+      },
+      {
+        "stop_id": "54597",
+        "stop_name": "Ray-Lawson / Jarry"
+      },
+      {
+        "stop_id": "54620",
+        "stop_name": "Roi-René / de Châteauneuf"
+      },
+      {
+        "stop_id": "53196",
+        "stop_name": "Station Radisson (Sherbrooke / Des Groseilliers)"
+      },
+      {
+        "stop_id": "59312",
+        "stop_name": "Station Radisson"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "59312",
+        "stop_name": "Station Radisson"
+      },
+      {
+        "stop_id": "54596",
+        "stop_name": "Ray-Lawson / Jarry"
+      },
+      {
+        "stop_id": "54715",
+        "stop_name": "Ray-Lawson / Upton"
+      },
+      {
+        "stop_id": "54586",
+        "stop_name": "Ray-Lawson / Grenache"
+      },
+      {
+        "stop_id": "54567",
+        "stop_name": "Ray-Lawson / Ernest-Cormier"
+      },
+      {
+        "stop_id": "54554",
+        "stop_name": "Ray-Lawson / Jules-Léger"
+      },
+      {
+        "stop_id": "54544",
+        "stop_name": "Ray-Lawson / 5e Croissant"
+      },
+      {
+        "stop_id": "54538",
+        "stop_name": "Ray-Lawson / 6e Croissant"
+      },
+      {
+        "stop_id": "52026",
+        "stop_name": "Armand-Bombardier / Henri-Bourassa"
+      },
+      {
+        "stop_id": "51878",
+        "stop_name": "Armand-Bombardier / Blaise-Pascal"
+      },
+      {
+        "stop_id": "61888",
+        "stop_name": "Armand-Bombardier / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "51766",
+        "stop_name": "Armand-Bombardier / Jean-Vincent"
+      },
+      {
+        "stop_id": "51722",
+        "stop_name": "Armand-Bombardier / André-Ampère"
+      },
+      {
+        "stop_id": "51669",
+        "stop_name": "Armand-Bombardier / Philippe-Lebon"
+      },
+      {
+        "stop_id": "51619",
+        "stop_name": "Armand-Bombardier / Perras"
+      },
+      {
+        "stop_id": "51691",
+        "stop_name": "Perras / 25e Avenue"
+      },
+      {
+        "stop_id": "51720",
+        "stop_name": "Perras / 27e Avenue"
+      },
+      {
+        "stop_id": "51807",
+        "stop_name": "Perras / Alfred-Nobel"
+      },
+      {
+        "stop_id": "51890",
+        "stop_name": "Perras / Rita-Levi-Montalcini"
+      },
+      {
+        "stop_id": "54050",
+        "stop_name": "Perras / Pierre-Baillargeon"
+      },
+      {
+        "stop_id": "54152",
+        "stop_name": "Perras / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "52125",
+        "stop_name": "Perras / René-Masson"
+      },
+      {
+        "stop_id": "53684",
+        "stop_name": "Perras / 49e Avenue"
+      },
+      {
+        "stop_id": "52303",
+        "stop_name": "Perras / 54e Avenue"
+      },
+      {
+        "stop_id": "54073",
+        "stop_name": "Perras / 57e Avenue"
+      },
+      {
+        "stop_id": "52429",
+        "stop_name": "Perras / Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "52519",
+        "stop_name": "Perras / 62e Avenue"
+      },
+      {
+        "stop_id": "52558",
+        "stop_name": "Perras / Marien"
+      },
+      {
+        "stop_id": "52727",
+        "stop_name": "Perras / 70e Avenue"
+      },
+      {
+        "stop_id": "52824",
+        "stop_name": "Perras / Primat-Paré"
+      },
+      {
+        "stop_id": "52932",
+        "stop_name": "Perras / Voltaire"
+      },
+      {
+        "stop_id": "53026",
+        "stop_name": "Perras / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "60395",
+        "stop_name": "Perras / No 10955"
+      },
+      {
+        "stop_id": "60516",
+        "stop_name": "87e Avenue / Perras"
+      },
+      {
+        "stop_id": "60517",
+        "stop_name": "87e Avenue / 4e Rue"
+      },
+      {
+        "stop_id": "60518",
+        "stop_name": "87e Avenue / No 12300"
+      },
+      {
+        "stop_id": "60519",
+        "stop_name": "87e Avenue / No 12123"
+      },
+      {
+        "stop_id": "53224",
+        "stop_name": "87e Avenue / 6e Rue"
+      },
+      {
+        "stop_id": "61606",
+        "stop_name": "Gare Rivière-des-Prairies"
+      }
+    ]
+  }
+]

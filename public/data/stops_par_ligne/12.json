@@ -1,0 +1,268 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "61564",
+        "stop_name": "Station De l'Église"
+      },
+      {
+        "stop_id": "56611",
+        "stop_name": "de l'Église / Gertrude"
+      },
+      {
+        "stop_id": "56630",
+        "stop_name": "Station De l'Église (Galt / Wellington)"
+      },
+      {
+        "stop_id": "56648",
+        "stop_name": "Galt / LaSalle"
+      },
+      {
+        "stop_id": "61566",
+        "stop_name": "Gaétan-Laberge / de l'Église"
+      },
+      {
+        "stop_id": "61567",
+        "stop_name": "Hôpital de Verdun (Gaétan-Laberge / Hickson)"
+      },
+      {
+        "stop_id": "61568",
+        "stop_name": "Stade Ronald-Piché (Gaétan-Laberge / No 3750)"
+      },
+      {
+        "stop_id": "61569",
+        "stop_name": "Gaétan-Laberge / Rhéaume"
+      },
+      {
+        "stop_id": "61570",
+        "stop_name": "Gaétan-Laberge / Gilberte-Dubé"
+      },
+      {
+        "stop_id": "60747",
+        "stop_name": "Campus Bell"
+      },
+      {
+        "stop_id": "62134",
+        "stop_name": "Station REM Île-des-Soeurs"
+      },
+      {
+        "stop_id": "61671",
+        "stop_name": "René-Lévesque / Levert"
+      },
+      {
+        "stop_id": "61672",
+        "stop_name": "du Commerce / Levert"
+      },
+      {
+        "stop_id": "62133",
+        "stop_name": "du Commerce / Cité de l'Île"
+      },
+      {
+        "stop_id": "61674",
+        "stop_name": "du Commerce / No 40"
+      },
+      {
+        "stop_id": "56670",
+        "stop_name": "du Golf / No 210"
+      },
+      {
+        "stop_id": "56672",
+        "stop_name": "du Golf / No 500"
+      },
+      {
+        "stop_id": "56674",
+        "stop_name": "du Golf / William-Paul"
+      },
+      {
+        "stop_id": "56676",
+        "stop_name": "du Golf / No 800"
+      },
+      {
+        "stop_id": "56678",
+        "stop_name": "du Golf / No 1050"
+      },
+      {
+        "stop_id": "56680",
+        "stop_name": "du Golf / No 1061"
+      },
+      {
+        "stop_id": "56495",
+        "stop_name": "Marguerite-Bourgeoys / du Club-Marin"
+      },
+      {
+        "stop_id": "56699",
+        "stop_name": "Marguerite-Bourgeoys / de la Forêt"
+      },
+      {
+        "stop_id": "56720",
+        "stop_name": "Marguerite-Bourgeoys / de l'Île-des-Soeurs"
+      },
+      {
+        "stop_id": "56655",
+        "stop_name": "de l'Île-des-Soeurs / Abélard"
+      },
+      {
+        "stop_id": "56700",
+        "stop_name": "de l'Île-des-Soeurs / Berlioz"
+      },
+      {
+        "stop_id": "56660",
+        "stop_name": "de l'Île-des-Soeurs / Elgar"
+      },
+      {
+        "stop_id": "56653",
+        "stop_name": "de l'Île-des-Soeurs / De Gaspé"
+      },
+      {
+        "stop_id": "60400",
+        "stop_name": "de l'Île-des-Soeurs / Hall"
+      },
+      {
+        "stop_id": "60696",
+        "stop_name": "de la Pointe-Sud / de l'Orée-du-Bois"
+      },
+      {
+        "stop_id": "60697",
+        "stop_name": "de la Pointe-Sud / des Parulines"
+      },
+      {
+        "stop_id": "60699",
+        "stop_name": "de la Pointe-Sud / No 250"
+      },
+      {
+        "stop_id": "62130",
+        "stop_name": "de la Pointe-Sud / André-Prévost"
+      },
+      {
+        "stop_id": "62163",
+        "stop_name": "André-Prévost / Serge-Garant"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "62163",
+        "stop_name": "André-Prévost / Serge-Garant"
+      },
+      {
+        "stop_id": "62074",
+        "stop_name": "André-Prévost / Claude-Vivier"
+      },
+      {
+        "stop_id": "62205",
+        "stop_name": "de la Pointe-Sud / Symphonia"
+      },
+      {
+        "stop_id": "60693",
+        "stop_name": "de la Pointe-Sud / des Parulines"
+      },
+      {
+        "stop_id": "60694",
+        "stop_name": "de la Pointe-Sud / des Sommets"
+      },
+      {
+        "stop_id": "56654",
+        "stop_name": "de l'Île-des-Soeurs / De Gaspé"
+      },
+      {
+        "stop_id": "56656",
+        "stop_name": "de l'Île-des-Soeurs / François"
+      },
+      {
+        "stop_id": "56663",
+        "stop_name": "de l'Île-des-Soeurs / Darwin"
+      },
+      {
+        "stop_id": "56661",
+        "stop_name": "de l'Île-des-Soeurs / Berlioz"
+      },
+      {
+        "stop_id": "56721",
+        "stop_name": "Marguerite-Bourgeoys / des Passereaux"
+      },
+      {
+        "stop_id": "56698",
+        "stop_name": "Marguerite-Bourgeoys / Marie-Le Ber"
+      },
+      {
+        "stop_id": "56681",
+        "stop_name": "Marguerite-Bourgeoys / du Club-Marin"
+      },
+      {
+        "stop_id": "56679",
+        "stop_name": "du Golf / No 1160"
+      },
+      {
+        "stop_id": "56677",
+        "stop_name": "du Golf / No 1050"
+      },
+      {
+        "stop_id": "56675",
+        "stop_name": "du Golf / No 800"
+      },
+      {
+        "stop_id": "56673",
+        "stop_name": "du Golf / William-Paul"
+      },
+      {
+        "stop_id": "56671",
+        "stop_name": "du Golf / des Camélias"
+      },
+      {
+        "stop_id": "56652",
+        "stop_name": "du Golf / No 201"
+      },
+      {
+        "stop_id": "60196",
+        "stop_name": "Place du Commerce / Provigo"
+      },
+      {
+        "stop_id": "56683",
+        "stop_name": "Place du Commerce / Centre Le Village"
+      },
+      {
+        "stop_id": "56496",
+        "stop_name": "Place du Commerce / Cité de l'Île"
+      },
+      {
+        "stop_id": "56702",
+        "stop_name": "René-Lévesque / Levert"
+      },
+      {
+        "stop_id": "62080",
+        "stop_name": "Station REM Île-des-Soeurs"
+      },
+      {
+        "stop_id": "60748",
+        "stop_name": "Campus Bell (de la Pointe-Nord / J.-Le Ber)"
+      },
+      {
+        "stop_id": "61562",
+        "stop_name": "Gaétan-Laberge / Gilberte-Dubé"
+      },
+      {
+        "stop_id": "61563",
+        "stop_name": "Gaétan-Laberge / Rhéaume"
+      },
+      {
+        "stop_id": "61571",
+        "stop_name": "Stade Ronald-Piché (Gaétan-Laberge / No 3750)"
+      },
+      {
+        "stop_id": "61572",
+        "stop_name": "Hôpital de Verdun (Gaétan-Laberge / Hickson)"
+      },
+      {
+        "stop_id": "56645",
+        "stop_name": "de l'Église / LaSalle"
+      },
+      {
+        "stop_id": "61564",
+        "stop_name": "Station De l'Église"
+      }
+    ]
+  }
+]

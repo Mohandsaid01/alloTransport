@@ -1,0 +1,432 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "57356",
+        "stop_name": "Esther-Blondin / No 745 (École Dalbé-Viau)"
+      },
+      {
+        "stop_id": "57222",
+        "stop_name": "Esther-Blondin / Provost"
+      },
+      {
+        "stop_id": "57231",
+        "stop_name": "Provost / 16e Avenue"
+      },
+      {
+        "stop_id": "57237",
+        "stop_name": "Provost / 12e Avenue"
+      },
+      {
+        "stop_id": "57244",
+        "stop_name": "Provost / 10e Avenue"
+      },
+      {
+        "stop_id": "57256",
+        "stop_name": "Provost / 7e Avenue"
+      },
+      {
+        "stop_id": "57265",
+        "stop_name": "Provost / 5e Avenue"
+      },
+      {
+        "stop_id": "57267",
+        "stop_name": "Provost / 3e Avenue"
+      },
+      {
+        "stop_id": "57271",
+        "stop_name": "Provost / 1re Avenue"
+      },
+      {
+        "stop_id": "57276",
+        "stop_name": "1re Avenue / Saint-Antoine"
+      },
+      {
+        "stop_id": "57273",
+        "stop_name": "1re Avenue / Victoria"
+      },
+      {
+        "stop_id": "57278",
+        "stop_name": "William-MacDonald / George-V"
+      },
+      {
+        "stop_id": "57280",
+        "stop_name": "George-V / Saint-Joseph"
+      },
+      {
+        "stop_id": "57301",
+        "stop_name": "Saint-Joseph / George-V"
+      },
+      {
+        "stop_id": "57307",
+        "stop_name": "Saint-Joseph / No 160"
+      },
+      {
+        "stop_id": "57310",
+        "stop_name": "Saint-Joseph / No 130"
+      },
+      {
+        "stop_id": "61647",
+        "stop_name": "Gare du Canal (Saint-Joseph / Victoria)"
+      },
+      {
+        "stop_id": "57333",
+        "stop_name": "Saint-Joseph / No 56"
+      },
+      {
+        "stop_id": "57303",
+        "stop_name": "Saint-Joseph / No 31"
+      },
+      {
+        "stop_id": "57304",
+        "stop_name": "Saint-Joseph / Notre-Dame"
+      },
+      {
+        "stop_id": "60685",
+        "stop_name": "des Érables / Richardson"
+      },
+      {
+        "stop_id": "56458",
+        "stop_name": "des Érables / Saint-Pierre"
+      },
+      {
+        "stop_id": "62071",
+        "stop_name": "Saint-Jacques / du Chalet"
+      },
+      {
+        "stop_id": "56479",
+        "stop_name": "Saint-Jacques / Duranceau"
+      },
+      {
+        "stop_id": "56487",
+        "stop_name": "Saint-Jacques / No 92"
+      },
+      {
+        "stop_id": "56444",
+        "stop_name": "Avon / Ronald"
+      },
+      {
+        "stop_id": "56448",
+        "stop_name": "Avon / Brynmor"
+      },
+      {
+        "stop_id": "50851",
+        "stop_name": "Saint-Jacques / Elmhurst"
+      },
+      {
+        "stop_id": "50919",
+        "stop_name": "Saint-Jacques / West Broadway"
+      },
+      {
+        "stop_id": "53938",
+        "stop_name": "Saint-Jacques / Saint-Jacques"
+      },
+      {
+        "stop_id": "54194",
+        "stop_name": "Sainte-Anne-de-Bellevue / Saint-Jacques"
+      },
+      {
+        "stop_id": "51099",
+        "stop_name": "Saint-Jacques / No 6910"
+      },
+      {
+        "stop_id": "50103",
+        "stop_name": "Saint-Jacques / No 6710"
+      },
+      {
+        "stop_id": "50102",
+        "stop_name": "Saint-Jacques / No 6640"
+      },
+      {
+        "stop_id": "51152",
+        "stop_name": "Saint-Jacques / Cavendish"
+      },
+      {
+        "stop_id": "51404",
+        "stop_name": "Saint-Jacques / No 6360"
+      },
+      {
+        "stop_id": "51273",
+        "stop_name": "Saint-Jacques / Madison"
+      },
+      {
+        "stop_id": "53815",
+        "stop_name": "Saint-Jacques / Upper-Lachine"
+      },
+      {
+        "stop_id": "51379",
+        "stop_name": "Upper-Lachine / de Clifton"
+      },
+      {
+        "stop_id": "51410",
+        "stop_name": "Upper-Lachine / de Melrose"
+      },
+      {
+        "stop_id": "51447",
+        "stop_name": "Upper-Lachine / Oxford"
+      },
+      {
+        "stop_id": "51490",
+        "stop_name": "Upper-Lachine / Girouard"
+      },
+      {
+        "stop_id": "53935",
+        "stop_name": "Station Vendôme"
+      },
+      {
+        "stop_id": "51594",
+        "stop_name": "De Maisonneuve / Bulmer"
+      },
+      {
+        "stop_id": "56272",
+        "stop_name": "Sainte-Catherine / Victoria"
+      },
+      {
+        "stop_id": "56275",
+        "stop_name": "Sainte-Catherine / Béthune"
+      },
+      {
+        "stop_id": "56282",
+        "stop_name": "Sainte-Catherine / Irvine"
+      },
+      {
+        "stop_id": "56284",
+        "stop_name": "Sainte-Catherine / Metcalfe"
+      },
+      {
+        "stop_id": "56287",
+        "stop_name": "Sainte-Catherine / Hillside Lane"
+      },
+      {
+        "stop_id": "56291",
+        "stop_name": "Sainte-Catherine / Dorchester"
+      },
+      {
+        "stop_id": "56294",
+        "stop_name": "Sainte-Catherine / Greene"
+      },
+      {
+        "stop_id": "56295",
+        "stop_name": "Sainte-Catherine / Gladstone"
+      },
+      {
+        "stop_id": "56300",
+        "stop_name": "Sainte-Catherine / Atwater"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "60238",
+        "stop_name": "Station Atwater (Tupper / Atwater)"
+      },
+      {
+        "stop_id": "56302",
+        "stop_name": "Place Alexis-Nihon (Ste-Catherine/No 4026)"
+      },
+      {
+        "stop_id": "56296",
+        "stop_name": "Sainte-Catherine / Wood"
+      },
+      {
+        "stop_id": "56293",
+        "stop_name": "Sainte-Catherine / Greene"
+      },
+      {
+        "stop_id": "56292",
+        "stop_name": "Sainte-Catherine / Clarke"
+      },
+      {
+        "stop_id": "56288",
+        "stop_name": "Sainte-Catherine / Redfern"
+      },
+      {
+        "stop_id": "56283",
+        "stop_name": "Sainte-Catherine / Metcalfe"
+      },
+      {
+        "stop_id": "56280",
+        "stop_name": "Sainte-Catherine / Park"
+      },
+      {
+        "stop_id": "56276",
+        "stop_name": "Sainte-Catherine / Lansdowne"
+      },
+      {
+        "stop_id": "56270",
+        "stop_name": "Sainte-Catherine / Victoria"
+      },
+      {
+        "stop_id": "53764",
+        "stop_name": "Station Vendôme"
+      },
+      {
+        "stop_id": "51516",
+        "stop_name": "Upper-Lachine / Girouard"
+      },
+      {
+        "stop_id": "61603",
+        "stop_name": "Upper-Lachine / Oxford"
+      },
+      {
+        "stop_id": "61594",
+        "stop_name": "Upper-Lachine / Harvard"
+      },
+      {
+        "stop_id": "51409",
+        "stop_name": "Upper-Lachine / de Melrose"
+      },
+      {
+        "stop_id": "51378",
+        "stop_name": "Upper-Lachine / de Clifton"
+      },
+      {
+        "stop_id": "53814",
+        "stop_name": "Saint-Jacques / Beaconsfield"
+      },
+      {
+        "stop_id": "51272",
+        "stop_name": "Saint-Jacques / Madison"
+      },
+      {
+        "stop_id": "51405",
+        "stop_name": "Saint-Jacques / No 6340"
+      },
+      {
+        "stop_id": "51151",
+        "stop_name": "Saint-Jacques / Cavendish"
+      },
+      {
+        "stop_id": "53933",
+        "stop_name": "Saint-Jacques / No 6665"
+      },
+      {
+        "stop_id": "53932",
+        "stop_name": "Saint-Jacques / No 6705"
+      },
+      {
+        "stop_id": "53934",
+        "stop_name": "Saint-Jacques / No 6945"
+      },
+      {
+        "stop_id": "53937",
+        "stop_name": "Saint-Jacques / Helen-Rochester"
+      },
+      {
+        "stop_id": "50918",
+        "stop_name": "Saint-Jacques / West Broadway"
+      },
+      {
+        "stop_id": "50849",
+        "stop_name": "Saint-Jacques / Elmhurst"
+      },
+      {
+        "stop_id": "56447",
+        "stop_name": "Avon / Westminster"
+      },
+      {
+        "stop_id": "56445",
+        "stop_name": "Avon / Milton"
+      },
+      {
+        "stop_id": "56478",
+        "stop_name": "Saint-Jacques / Ouellette"
+      },
+      {
+        "stop_id": "62070",
+        "stop_name": "Saint-Jacques / du Chalet"
+      },
+      {
+        "stop_id": "56459",
+        "stop_name": "des Érables / Rolland"
+      },
+      {
+        "stop_id": "56457",
+        "stop_name": "des Érables / Richardson"
+      },
+      {
+        "stop_id": "56462",
+        "stop_name": "Richardson / Saint-Jacques"
+      },
+      {
+        "stop_id": "57305",
+        "stop_name": "Saint-Joseph / No 23"
+      },
+      {
+        "stop_id": "57281",
+        "stop_name": "Saint-Joseph / No 56"
+      },
+      {
+        "stop_id": "61648",
+        "stop_name": "Gare du Canal (Saint-Joseph / Victoria)"
+      },
+      {
+        "stop_id": "57309",
+        "stop_name": "Saint-Joseph / No 130"
+      },
+      {
+        "stop_id": "57308",
+        "stop_name": "Saint-Joseph / No 160"
+      },
+      {
+        "stop_id": "57279",
+        "stop_name": "Saint-Joseph / George-V"
+      },
+      {
+        "stop_id": "57277",
+        "stop_name": "George-V / William-Macdonald"
+      },
+      {
+        "stop_id": "57272",
+        "stop_name": "Victoria / 1re Avenue"
+      },
+      {
+        "stop_id": "57275",
+        "stop_name": "1re Avenue / Saint-Antoine"
+      },
+      {
+        "stop_id": "57270",
+        "stop_name": "1re Avenue / Provost"
+      },
+      {
+        "stop_id": "57266",
+        "stop_name": "Provost / 3e Avenue"
+      },
+      {
+        "stop_id": "57264",
+        "stop_name": "Provost / 5e Avenue"
+      },
+      {
+        "stop_id": "57255",
+        "stop_name": "Provost / 7e Avenue"
+      },
+      {
+        "stop_id": "57243",
+        "stop_name": "Provost / 10e Avenue"
+      },
+      {
+        "stop_id": "57240",
+        "stop_name": "Sherbrooke / 11e Avenue"
+      },
+      {
+        "stop_id": "57234",
+        "stop_name": "Sherbrooke / 14e Avenue"
+      },
+      {
+        "stop_id": "57233",
+        "stop_name": "Duff Court / Roy"
+      },
+      {
+        "stop_id": "60425",
+        "stop_name": "Esther-Blondin / Duff Court"
+      },
+      {
+        "stop_id": "57356",
+        "stop_name": "Esther-Blondin / No 745 (École Dalbé-Viau)"
+      }
+    ]
+  }
+]

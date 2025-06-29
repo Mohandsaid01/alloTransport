@@ -1,0 +1,216 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "60662",
+        "stop_name": "Clanranald / Isabella"
+      },
+      {
+        "stop_id": "54208",
+        "stop_name": "Clanranald / Dupuis"
+      },
+      {
+        "stop_id": "50832",
+        "stop_name": "Earnscliffe / Dupuis"
+      },
+      {
+        "stop_id": "50917",
+        "stop_name": "Earnscliffe / Isabella"
+      },
+      {
+        "stop_id": "50985",
+        "stop_name": "Earnscliffe / Queen-Mary"
+      },
+      {
+        "stop_id": "51038",
+        "stop_name": "Earnscliffe / Snowdon"
+      },
+      {
+        "stop_id": "51137",
+        "stop_name": "de Terrebonne / Earnscliffe"
+      },
+      {
+        "stop_id": "51129",
+        "stop_name": "Girouard / Guillaume-Couture"
+      },
+      {
+        "stop_id": "51203",
+        "stop_name": "Girouard / de Monkland"
+      },
+      {
+        "stop_id": "51236",
+        "stop_name": "Girouard / Duquette"
+      },
+      {
+        "stop_id": "51292",
+        "stop_name": "Girouard / Notre-Dame-de-Grâce"
+      },
+      {
+        "stop_id": "51333",
+        "stop_name": "Girouard / Côte-Saint-Antoine"
+      },
+      {
+        "stop_id": "51397",
+        "stop_name": "Girouard / Sherbrooke"
+      },
+      {
+        "stop_id": "51399",
+        "stop_name": "Sherbrooke / Girouard"
+      },
+      {
+        "stop_id": "51463",
+        "stop_name": "Sherbrooke / Décarie"
+      },
+      {
+        "stop_id": "51496",
+        "stop_name": "Sherbrooke / de Vendôme"
+      },
+      {
+        "stop_id": "56253",
+        "stop_name": "Sherbrooke / Claremont"
+      },
+      {
+        "stop_id": "56257",
+        "stop_name": "Sherbrooke / Victoria"
+      },
+      {
+        "stop_id": "56271",
+        "stop_name": "Victoria / Sainte-Catherine"
+      },
+      {
+        "stop_id": "56275",
+        "stop_name": "Sainte-Catherine / Béthune"
+      },
+      {
+        "stop_id": "56282",
+        "stop_name": "Sainte-Catherine / Irvine"
+      },
+      {
+        "stop_id": "56284",
+        "stop_name": "Sainte-Catherine / Metcalfe"
+      },
+      {
+        "stop_id": "56287",
+        "stop_name": "Sainte-Catherine / Hillside Lane"
+      },
+      {
+        "stop_id": "56291",
+        "stop_name": "Sainte-Catherine / Dorchester"
+      },
+      {
+        "stop_id": "56294",
+        "stop_name": "Sainte-Catherine / Greene"
+      },
+      {
+        "stop_id": "56295",
+        "stop_name": "Sainte-Catherine / Gladstone"
+      },
+      {
+        "stop_id": "56300",
+        "stop_name": "Sainte-Catherine / Atwater"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "60238",
+        "stop_name": "Station Atwater (Tupper / Atwater)"
+      },
+      {
+        "stop_id": "56302",
+        "stop_name": "Place Alexis-Nihon (Ste-Catherine/No 4026)"
+      },
+      {
+        "stop_id": "56296",
+        "stop_name": "Sainte-Catherine / Wood"
+      },
+      {
+        "stop_id": "56293",
+        "stop_name": "Sainte-Catherine / Greene"
+      },
+      {
+        "stop_id": "56292",
+        "stop_name": "Sainte-Catherine / Clarke"
+      },
+      {
+        "stop_id": "56288",
+        "stop_name": "Sainte-Catherine / Redfern"
+      },
+      {
+        "stop_id": "56283",
+        "stop_name": "Sainte-Catherine / Metcalfe"
+      },
+      {
+        "stop_id": "56280",
+        "stop_name": "Sainte-Catherine / Park"
+      },
+      {
+        "stop_id": "56276",
+        "stop_name": "Sainte-Catherine / Lansdowne"
+      },
+      {
+        "stop_id": "56270",
+        "stop_name": "Sainte-Catherine / Victoria"
+      },
+      {
+        "stop_id": "56261",
+        "stop_name": "Victoria / No 339"
+      },
+      {
+        "stop_id": "56251",
+        "stop_name": "Sherbrooke / Claremont"
+      },
+      {
+        "stop_id": "51495",
+        "stop_name": "Sherbrooke / de Vendôme"
+      },
+      {
+        "stop_id": "51461",
+        "stop_name": "Sherbrooke / Décarie"
+      },
+      {
+        "stop_id": "51396",
+        "stop_name": "Sherbrooke / Girouard"
+      },
+      {
+        "stop_id": "51334",
+        "stop_name": "Girouard / Côte-Saint-Antoine"
+      },
+      {
+        "stop_id": "51291",
+        "stop_name": "Girouard / Notre-Dame-de-Grâce"
+      },
+      {
+        "stop_id": "51235",
+        "stop_name": "Girouard / Duquette"
+      },
+      {
+        "stop_id": "51201",
+        "stop_name": "Girouard / de Monkland"
+      },
+      {
+        "stop_id": "51128",
+        "stop_name": "Girouard / de Terrebonne"
+      },
+      {
+        "stop_id": "51072",
+        "stop_name": "Clanranald / Côte-Saint-Luc"
+      },
+      {
+        "stop_id": "51024",
+        "stop_name": "Clanranald / Snowdon"
+      },
+      {
+        "stop_id": "50965",
+        "stop_name": "Clanranald / Queen-Mary"
+      },
+      {
+        "stop_id": "60662",
+        "stop_name": "Clanranald / Isabella"
+      }
+    ]
+  }
+]

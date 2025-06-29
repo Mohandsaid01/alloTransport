@@ -1,0 +1,220 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "61666",
+        "stop_name": "Station Snowdon (Queen-Mary / Circle)"
+      },
+      {
+        "stop_id": "51086",
+        "stop_name": "Queen-Mary / Lemieux"
+      },
+      {
+        "stop_id": "51119",
+        "stop_name": "Queen-Mary / Victoria"
+      },
+      {
+        "stop_id": "51146",
+        "stop_name": "Queen-Mary / Roslyn"
+      },
+      {
+        "stop_id": "51175",
+        "stop_name": "Queen-Mary / Cedar Crescent"
+      },
+      {
+        "stop_id": "53677",
+        "stop_name": "Queen-Mary / du Frère-André (Oratoire St-Joseph)"
+      },
+      {
+        "stop_id": "51267",
+        "stop_name": "Queen-Mary / Gatineau"
+      },
+      {
+        "stop_id": "51279",
+        "stop_name": "Place du 6-décembre-1989 (Queen-Mary / Decelles)"
+      },
+      {
+        "stop_id": "51391",
+        "stop_name": "de la Côte-des-Neiges / No 4858"
+      },
+      {
+        "stop_id": "51427",
+        "stop_name": "de la Côte-des-Neiges / Ridgewood"
+      },
+      {
+        "stop_id": "51487",
+        "stop_name": "de la Côte-des-Neiges / Forest Hill"
+      },
+      {
+        "stop_id": "51544",
+        "stop_name": "Remembrance / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "53992",
+        "stop_name": "Lac aux Castors (Remembrance / No 2000)"
+      },
+      {
+        "stop_id": "54351",
+        "stop_name": "Remembrance / Cavalerie du SPVM"
+      },
+      {
+        "stop_id": "61755",
+        "stop_name": "Camillien-Houde / Remembrance"
+      },
+      {
+        "stop_id": "53747",
+        "stop_name": "Belvédère Camillien-Houde"
+      },
+      {
+        "stop_id": "61663",
+        "stop_name": "Côte-Sainte-Catherine / du Mont-Royal"
+      },
+      {
+        "stop_id": "56215",
+        "stop_name": "Côte-Sainte-Catherine / McNider"
+      },
+      {
+        "stop_id": "56212",
+        "stop_name": "Côte-Sainte-Catherine / Saint-Joseph"
+      },
+      {
+        "stop_id": "61664",
+        "stop_name": "Saint-Joseph / du Parc"
+      },
+      {
+        "stop_id": "51829",
+        "stop_name": "Saint-Joseph / Saint-Laurent"
+      },
+      {
+        "stop_id": "51856",
+        "stop_name": "Saint-Joseph / De Bullion"
+      },
+      {
+        "stop_id": "51921",
+        "stop_name": "Saint-Joseph / Saint-Denis"
+      },
+      {
+        "stop_id": "61719",
+        "stop_name": "Station Laurier (Saint-Joseph / Rivard)"
+      },
+      {
+        "stop_id": "52002",
+        "stop_name": "Saint-Joseph / de Mentana"
+      },
+      {
+        "stop_id": "52019",
+        "stop_name": "Saint-Joseph / Christophe-Colomb"
+      },
+      {
+        "stop_id": "61665",
+        "stop_name": "Station Mont-Royal (Berri / du Mont-Royal)"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "61665",
+        "stop_name": "Station Mont-Royal (Berri / du Mont-Royal)"
+      },
+      {
+        "stop_id": "52017",
+        "stop_name": "Saint-Joseph / Christophe-Colomb"
+      },
+      {
+        "stop_id": "52001",
+        "stop_name": "Saint-Joseph / de Mentana"
+      },
+      {
+        "stop_id": "51919",
+        "stop_name": "Saint-Joseph / Saint-Denis"
+      },
+      {
+        "stop_id": "51855",
+        "stop_name": "Saint-Joseph / De Bullion"
+      },
+      {
+        "stop_id": "51828",
+        "stop_name": "Saint-Joseph / Saint-Laurent"
+      },
+      {
+        "stop_id": "61667",
+        "stop_name": "Saint-Joseph / Jeanne-Mance"
+      },
+      {
+        "stop_id": "56214",
+        "stop_name": "Côte-Sainte-Catherine / McNider"
+      },
+      {
+        "stop_id": "56217",
+        "stop_name": "Côte-Sainte-Catherine / du Mont-Royal"
+      },
+      {
+        "stop_id": "53748",
+        "stop_name": "Belvédère Camillien-Houde"
+      },
+      {
+        "stop_id": "53745",
+        "stop_name": "Remembrance / du Chalet (Belvédère Kondiaronk)"
+      },
+      {
+        "stop_id": "53838",
+        "stop_name": "Remembrance / Cavalerie du SPVM"
+      },
+      {
+        "stop_id": "54133",
+        "stop_name": "Lac aux Castors"
+      },
+      {
+        "stop_id": "62144",
+        "stop_name": "Remembrance / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "51486",
+        "stop_name": "de la Côte-des-Neiges / Forest Hill"
+      },
+      {
+        "stop_id": "51426",
+        "stop_name": "de la Côte-des-Neiges / Ridgewood"
+      },
+      {
+        "stop_id": "51290",
+        "stop_name": "Decelles / Troie"
+      },
+      {
+        "stop_id": "51252",
+        "stop_name": "Queen-Mary / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "51254",
+        "stop_name": "Queen-Mary / Queen-Mary"
+      },
+      {
+        "stop_id": "53678",
+        "stop_name": "Queen-Mary / Frère-André (Oratoire St-Joseph)"
+      },
+      {
+        "stop_id": "51176",
+        "stop_name": "Queen-Mary / Cedar Crescent"
+      },
+      {
+        "stop_id": "51145",
+        "stop_name": "Queen-Mary / Roslyn"
+      },
+      {
+        "stop_id": "51117",
+        "stop_name": "Queen-Mary / Victoria"
+      },
+      {
+        "stop_id": "51081",
+        "stop_name": "Queen-Mary / Ponsard"
+      },
+      {
+        "stop_id": "51050",
+        "stop_name": "Station Snowdon (Queen-Mary / de Westbury)"
+      }
+    ]
+  }
+]

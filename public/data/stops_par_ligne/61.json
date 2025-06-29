@@ -1,0 +1,497 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "57097",
+        "stop_name": "Gagné / George"
+      },
+      {
+        "stop_id": "56978",
+        "stop_name": "Gagné / Lévis-Sauvé"
+      },
+      {
+        "stop_id": "56987",
+        "stop_name": "Centrale / Duranceau"
+      },
+      {
+        "stop_id": "56997",
+        "stop_name": "Centrale / 12e Avenue"
+      },
+      {
+        "stop_id": "57006",
+        "stop_name": "Centrale / Bishop-Power"
+      },
+      {
+        "stop_id": "57028",
+        "stop_name": "Bishop-Power / No 220"
+      },
+      {
+        "stop_id": "57015",
+        "stop_name": "Édouard / 8e Avenue"
+      },
+      {
+        "stop_id": "57017",
+        "stop_name": "Édouard / 5e Avenue"
+      },
+      {
+        "stop_id": "57073",
+        "stop_name": "Édouard / 3e Avenue"
+      },
+      {
+        "stop_id": "57020",
+        "stop_name": "Édouard / Alepin"
+      },
+      {
+        "stop_id": "57025",
+        "stop_name": "Lacharité / Ouimet"
+      },
+      {
+        "stop_id": "56504",
+        "stop_name": "Ouimet / Fayolle"
+      },
+      {
+        "stop_id": "56506",
+        "stop_name": "Ouimet / Clémenceau"
+      },
+      {
+        "stop_id": "56510",
+        "stop_name": "Ouimet / Crawford"
+      },
+      {
+        "stop_id": "56514",
+        "stop_name": "Crawford / Churchill"
+      },
+      {
+        "stop_id": "56525",
+        "stop_name": "Crawford / LaSalle"
+      },
+      {
+        "stop_id": "56701",
+        "stop_name": "LaSalle / No 7105"
+      },
+      {
+        "stop_id": "57063",
+        "stop_name": "LaSalle / No 6875"
+      },
+      {
+        "stop_id": "56536",
+        "stop_name": "LaSalle / Bannantyne"
+      },
+      {
+        "stop_id": "56566",
+        "stop_name": "LaSalle / Valiquette"
+      },
+      {
+        "stop_id": "56694",
+        "stop_name": "LaSalle / Godin"
+      },
+      {
+        "stop_id": "56610",
+        "stop_name": "LaSalle / Richard"
+      },
+      {
+        "stop_id": "56617",
+        "stop_name": "LaSalle / Beatty"
+      },
+      {
+        "stop_id": "56669",
+        "stop_name": "Wellington / Argyle"
+      },
+      {
+        "stop_id": "56619",
+        "stop_name": "Wellington / Desmarchais"
+      },
+      {
+        "stop_id": "56621",
+        "stop_name": "Wellington / 4e Avenue"
+      },
+      {
+        "stop_id": "56627",
+        "stop_name": "Wellington / 1re Avenue"
+      },
+      {
+        "stop_id": "56631",
+        "stop_name": "Station De l'Église (Wellington / Galt)"
+      },
+      {
+        "stop_id": "56636",
+        "stop_name": "Wellington / de l'Église"
+      },
+      {
+        "stop_id": "56638",
+        "stop_name": "Wellington / Hickson"
+      },
+      {
+        "stop_id": "62242",
+        "stop_name": "Wellington / Regina"
+      },
+      {
+        "stop_id": "56623",
+        "stop_name": "LaSalle / de Rushbrooke"
+      },
+      {
+        "stop_id": "56708",
+        "stop_name": "LaSalle / Caisse"
+      },
+      {
+        "stop_id": "62243",
+        "stop_name": "LaSalle / Henri-Duhamel"
+      },
+      {
+        "stop_id": "56607",
+        "stop_name": "LaSalle / Gibbons"
+      },
+      {
+        "stop_id": "52505",
+        "stop_name": "D'Argenson / Grand Trunk"
+      },
+      {
+        "stop_id": "52460",
+        "stop_name": "D'Argenson / du Centre"
+      },
+      {
+        "stop_id": "52547",
+        "stop_name": "Station Charlevoix (Centre / Charlevoix)"
+      },
+      {
+        "stop_id": "52624",
+        "stop_name": "du Centre / Ropery"
+      },
+      {
+        "stop_id": "52717",
+        "stop_name": "du Centre / Island"
+      },
+      {
+        "stop_id": "62165",
+        "stop_name": "du Centre / Shearer"
+      },
+      {
+        "stop_id": "53676",
+        "stop_name": "du Centre / de la Sucrerie"
+      },
+      {
+        "stop_id": "54103",
+        "stop_name": "du Centre / Wellington"
+      },
+      {
+        "stop_id": "52926",
+        "stop_name": "Wellington / Bridge"
+      },
+      {
+        "stop_id": "52913",
+        "stop_name": "Wellington / Young"
+      },
+      {
+        "stop_id": "62053",
+        "stop_name": "Peel / Ottawa"
+      },
+      {
+        "stop_id": "52743",
+        "stop_name": "École de technologie supérieure (Peel / Notre-Dame"
+      },
+      {
+        "stop_id": "52659",
+        "stop_name": "Peel / Saint-Jacques"
+      },
+      {
+        "stop_id": "52617",
+        "stop_name": "Peel / Saint-Antoine"
+      },
+      {
+        "stop_id": "62338",
+        "stop_name": "Peel / des Canadiens-de-Montréal"
+      },
+      {
+        "stop_id": "52482",
+        "stop_name": "Place du Canada (Peel / René-Lévesque)"
+      },
+      {
+        "stop_id": "52397",
+        "stop_name": "Peel / Sainte-Catherine"
+      },
+      {
+        "stop_id": "60713",
+        "stop_name": "Metcalfe / du Square Dorchester"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "60713",
+        "stop_name": "Metcalfe / du Square Dorchester"
+      },
+      {
+        "stop_id": "60714",
+        "stop_name": "de la Cathédrale / De La Gauchetière"
+      },
+      {
+        "stop_id": "52661",
+        "stop_name": "Peel / Saint-Jacques"
+      },
+      {
+        "stop_id": "52744",
+        "stop_name": "École de technologie supérieure (Peel / Notre-Dame"
+      },
+      {
+        "stop_id": "53871",
+        "stop_name": "Peel / Ottawa"
+      },
+      {
+        "stop_id": "52920",
+        "stop_name": "Peel / Wellington"
+      },
+      {
+        "stop_id": "52898",
+        "stop_name": "Wellington / Murray"
+      },
+      {
+        "stop_id": "52925",
+        "stop_name": "Wellington / Bridge"
+      },
+      {
+        "stop_id": "53870",
+        "stop_name": "du Centre / De Condé"
+      },
+      {
+        "stop_id": "52829",
+        "stop_name": "du Centre / de la Sucrerie"
+      },
+      {
+        "stop_id": "52796",
+        "stop_name": "du Centre / Shearer"
+      },
+      {
+        "stop_id": "52716",
+        "stop_name": "du Centre / Island"
+      },
+      {
+        "stop_id": "52623",
+        "stop_name": "du Centre / Ropery"
+      },
+      {
+        "stop_id": "53699",
+        "stop_name": "Station Charlevoix (Charlevoix / de Châteauguay)"
+      },
+      {
+        "stop_id": "53868",
+        "stop_name": "d'Argenson / Voie ferrée"
+      },
+      {
+        "stop_id": "56606",
+        "stop_name": "LaSalle / Gibbons"
+      },
+      {
+        "stop_id": "56608",
+        "stop_name": "LaSalle / Henri-Duhamel"
+      },
+      {
+        "stop_id": "56709",
+        "stop_name": "LaSalle / Caisse"
+      },
+      {
+        "stop_id": "56717",
+        "stop_name": "LaSalle / Strathmore"
+      },
+      {
+        "stop_id": "56637",
+        "stop_name": "Wellington / Hickson"
+      },
+      {
+        "stop_id": "56635",
+        "stop_name": "Wellington / de l'Église"
+      },
+      {
+        "stop_id": "56632",
+        "stop_name": "Station De l'Église (Wellington / Galt)"
+      },
+      {
+        "stop_id": "56626",
+        "stop_name": "Wellington / 1re Avenue"
+      },
+      {
+        "stop_id": "56620",
+        "stop_name": "Wellington / 4e Avenue"
+      },
+      {
+        "stop_id": "56618",
+        "stop_name": "Wellington / Desmarchais"
+      },
+      {
+        "stop_id": "56613",
+        "stop_name": "Wellington / Woodland"
+      },
+      {
+        "stop_id": "56616",
+        "stop_name": "Wellington / Beatty"
+      },
+      {
+        "stop_id": "56609",
+        "stop_name": "LaSalle / Richard"
+      },
+      {
+        "stop_id": "56704",
+        "stop_name": "LaSalle / Riverview"
+      },
+      {
+        "stop_id": "56565",
+        "stop_name": "LaSalle / Valiquette"
+      },
+      {
+        "stop_id": "56535",
+        "stop_name": "LaSalle / Bannantyne"
+      },
+      {
+        "stop_id": "56696",
+        "stop_name": "LaSalle / No 6875"
+      },
+      {
+        "stop_id": "56532",
+        "stop_name": "LaSalle / No 7105"
+      },
+      {
+        "stop_id": "56524",
+        "stop_name": "LaSalle / Crawford"
+      },
+      {
+        "stop_id": "56515",
+        "stop_name": "Crawford / Churchill"
+      },
+      {
+        "stop_id": "56509",
+        "stop_name": "Crawford / Ouimet"
+      },
+      {
+        "stop_id": "56505",
+        "stop_name": "Ouimet / Clémenceau"
+      },
+      {
+        "stop_id": "56503",
+        "stop_name": "Ouimet / Fayolle"
+      },
+      {
+        "stop_id": "57024",
+        "stop_name": "Ouimet / Lacharité"
+      },
+      {
+        "stop_id": "57023",
+        "stop_name": "Édouard / Alepin"
+      },
+      {
+        "stop_id": "57018",
+        "stop_name": "Édouard / 2e Avenue"
+      },
+      {
+        "stop_id": "57016",
+        "stop_name": "Édouard / 5e Avenue"
+      },
+      {
+        "stop_id": "57014",
+        "stop_name": "Édouard / 8e Avenue"
+      },
+      {
+        "stop_id": "57044",
+        "stop_name": "Bishop-Power / No 220"
+      },
+      {
+        "stop_id": "56996",
+        "stop_name": "Centrale / 12e Avenue"
+      },
+      {
+        "stop_id": "56988",
+        "stop_name": "Centrale / Cyrenne"
+      },
+      {
+        "stop_id": "56984",
+        "stop_name": "Centrale / Blais"
+      },
+      {
+        "stop_id": "57026",
+        "stop_name": "Raymond / Mongeau"
+      },
+      {
+        "stop_id": "56961",
+        "stop_name": "Raymond / Lévis-Sauvé"
+      },
+      {
+        "stop_id": "62366",
+        "stop_name": "Raymond / George"
+      },
+      {
+        "stop_id": "57097",
+        "stop_name": "Gagné / George"
+      },
+      {
+        "stop_id": "52397",
+        "stop_name": "Peel / Sainte-Catherine"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest destination Station Charlevoix",
+    "arrets": [
+      {
+        "stop_id": "60713",
+        "stop_name": "Metcalfe / du Square Dorchester"
+      },
+      {
+        "stop_id": "60714",
+        "stop_name": "de la Cathédrale / De La Gauchetière"
+      },
+      {
+        "stop_id": "52661",
+        "stop_name": "Peel / Saint-Jacques"
+      },
+      {
+        "stop_id": "52744",
+        "stop_name": "École de technologie supérieure (Peel / Notre-Dame"
+      },
+      {
+        "stop_id": "53871",
+        "stop_name": "Peel / Ottawa"
+      },
+      {
+        "stop_id": "52920",
+        "stop_name": "Peel / Wellington"
+      },
+      {
+        "stop_id": "52898",
+        "stop_name": "Wellington / Murray"
+      },
+      {
+        "stop_id": "52925",
+        "stop_name": "Wellington / Bridge"
+      },
+      {
+        "stop_id": "53870",
+        "stop_name": "du Centre / De Condé"
+      },
+      {
+        "stop_id": "52829",
+        "stop_name": "du Centre / de la Sucrerie"
+      },
+      {
+        "stop_id": "52796",
+        "stop_name": "du Centre / Shearer"
+      },
+      {
+        "stop_id": "52716",
+        "stop_name": "du Centre / Island"
+      },
+      {
+        "stop_id": "52623",
+        "stop_name": "du Centre / Ropery"
+      },
+      {
+        "stop_id": "53699",
+        "stop_name": "Station Charlevoix (Charlevoix / de Châteauguay)"
+      },
+      {
+        "stop_id": "52397",
+        "stop_name": "Peel / Sainte-Catherine"
+      }
+    ]
+  }
+]

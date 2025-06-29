@@ -1,0 +1,196 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "51660",
+        "stop_name": "Station Rosemont"
+      },
+      {
+        "stop_id": "51685",
+        "stop_name": "Rosemont / Saint-Hubert"
+      },
+      {
+        "stop_id": "51728",
+        "stop_name": "Rosemont / Christophe-Colomb"
+      },
+      {
+        "stop_id": "51755",
+        "stop_name": "Rosemont / De Normanville"
+      },
+      {
+        "stop_id": "61579",
+        "stop_name": "Rosemont / Chambord"
+      },
+      {
+        "stop_id": "51788",
+        "stop_name": "Rosemont / Garnier"
+      },
+      {
+        "stop_id": "51822",
+        "stop_name": "Rosemont / Papineau"
+      },
+      {
+        "stop_id": "51844",
+        "stop_name": "Rosemont / Chabot"
+      },
+      {
+        "stop_id": "51861",
+        "stop_name": "Rosemont / De Lorimier"
+      },
+      {
+        "stop_id": "51903",
+        "stop_name": "Rosemont / des Écores"
+      },
+      {
+        "stop_id": "51958",
+        "stop_name": "Rosemont / D'Iberville"
+      },
+      {
+        "stop_id": "52038",
+        "stop_name": "D'Iberville / Holt"
+      },
+      {
+        "stop_id": "52099",
+        "stop_name": "D'Iberville / Dandurand"
+      },
+      {
+        "stop_id": "52214",
+        "stop_name": "Masson / Molson"
+      },
+      {
+        "stop_id": "62124",
+        "stop_name": "Molson / Pierre-Falardeau"
+      },
+      {
+        "stop_id": "61097",
+        "stop_name": "Molson / Saint-Joseph"
+      },
+      {
+        "stop_id": "61098",
+        "stop_name": "Molson / No 4801"
+      },
+      {
+        "stop_id": "61122",
+        "stop_name": "Molson / William-Tremblay"
+      },
+      {
+        "stop_id": "61617",
+        "stop_name": "William-Tremblay / André-Laurendeau"
+      },
+      {
+        "stop_id": "61176",
+        "stop_name": "André-Laurendeau / Rachel"
+      },
+      {
+        "stop_id": "52769",
+        "stop_name": "Rachel / Dézéry"
+      },
+      {
+        "stop_id": "61618",
+        "stop_name": "Sherbrooke / Préfontaine"
+      },
+      {
+        "stop_id": "61619",
+        "stop_name": "Station Préfontaine (Édicule Sud)"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "61619",
+        "stop_name": "Station Préfontaine (Édicule Sud)"
+      },
+      {
+        "stop_id": "61620",
+        "stop_name": "Hochelaga / Dézéry"
+      },
+      {
+        "stop_id": "61621",
+        "stop_name": "Saint-Germain / Sherbrooke"
+      },
+      {
+        "stop_id": "52768",
+        "stop_name": "Rachel / Midway"
+      },
+      {
+        "stop_id": "60629",
+        "stop_name": "André-Laurendeau / Rachel"
+      },
+      {
+        "stop_id": "60630",
+        "stop_name": "William-Tremblay / André-Laurendeau"
+      },
+      {
+        "stop_id": "60631",
+        "stop_name": "William-Tremblay / Molson"
+      },
+      {
+        "stop_id": "61095",
+        "stop_name": "Molson / No 4803"
+      },
+      {
+        "stop_id": "61096",
+        "stop_name": "Molson / Saint-Joseph"
+      },
+      {
+        "stop_id": "62125",
+        "stop_name": "Molson / Pierre-Falardeau"
+      },
+      {
+        "stop_id": "52188",
+        "stop_name": "Masson / D'Iberville"
+      },
+      {
+        "stop_id": "52098",
+        "stop_name": "D'Iberville / Dandurand"
+      },
+      {
+        "stop_id": "52037",
+        "stop_name": "D'Iberville / Holt"
+      },
+      {
+        "stop_id": "51902",
+        "stop_name": "Rosemont / des Écores"
+      },
+      {
+        "stop_id": "51859",
+        "stop_name": "Rosemont / De Lorimier"
+      },
+      {
+        "stop_id": "51843",
+        "stop_name": "Rosemont / Chabot"
+      },
+      {
+        "stop_id": "51820",
+        "stop_name": "Rosemont / Papineau"
+      },
+      {
+        "stop_id": "61315",
+        "stop_name": "Rosemont / Marquette"
+      },
+      {
+        "stop_id": "51787",
+        "stop_name": "Rosemont / Garnier"
+      },
+      {
+        "stop_id": "51754",
+        "stop_name": "Rosemont / De Normanville"
+      },
+      {
+        "stop_id": "51726",
+        "stop_name": "Rosemont / Christophe-Colomb"
+      },
+      {
+        "stop_id": "51684",
+        "stop_name": "Rosemont / Saint-Hubert"
+      },
+      {
+        "stop_id": "61653",
+        "stop_name": "Station Rosemont"
+      }
+    ]
+  }
+]

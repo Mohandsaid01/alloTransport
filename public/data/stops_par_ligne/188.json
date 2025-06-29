@@ -1,0 +1,618 @@
+[
+  {
+    "direction": "Est via Lavoisier",
+    "arrets": [
+      {
+        "stop_id": "61113",
+        "stop_name": "Station Saint-Michel (Édicule Est)"
+      },
+      {
+        "stop_id": "51663",
+        "stop_name": "Jean-Talon / 13e Avenue"
+      },
+      {
+        "stop_id": "51693",
+        "stop_name": "Jean-Talon / 15e Avenue"
+      },
+      {
+        "stop_id": "51707",
+        "stop_name": "Jean-Talon / 17e Avenue"
+      },
+      {
+        "stop_id": "61977",
+        "stop_name": "Jean-Talon / 18e Avenue"
+      },
+      {
+        "stop_id": "51913",
+        "stop_name": "Bélanger / Pie-IX"
+      },
+      {
+        "stop_id": "51941",
+        "stop_name": "Bélanger / 24e Avenue"
+      },
+      {
+        "stop_id": "51968",
+        "stop_name": "Bélanger / 26e Avenue"
+      },
+      {
+        "stop_id": "51999",
+        "stop_name": "Bélanger / 28e Avenue"
+      },
+      {
+        "stop_id": "52016",
+        "stop_name": "Bélanger / 30e Avenue"
+      },
+      {
+        "stop_id": "52064",
+        "stop_name": "Bélanger / 33e Avenue"
+      },
+      {
+        "stop_id": "52092",
+        "stop_name": "Bélanger / 35e Avenue"
+      },
+      {
+        "stop_id": "54931",
+        "stop_name": "Viau / Burel"
+      },
+      {
+        "stop_id": "54918",
+        "stop_name": "Viau / Viterbe"
+      },
+      {
+        "stop_id": "55009",
+        "stop_name": "Viau / Métropolitain"
+      },
+      {
+        "stop_id": "54864",
+        "stop_name": "Viau / Jarry"
+      },
+      {
+        "stop_id": "54846",
+        "stop_name": "Viau / Jean-Rivard"
+      },
+      {
+        "stop_id": "54828",
+        "stop_name": "Viau / D'Artagnan"
+      },
+      {
+        "stop_id": "54826",
+        "stop_name": "Viau / Jean-Nicolet"
+      },
+      {
+        "stop_id": "54817",
+        "stop_name": "Viau / Robert"
+      },
+      {
+        "stop_id": "54807",
+        "stop_name": "Viau / Valéry"
+      },
+      {
+        "stop_id": "54789",
+        "stop_name": "Viau / Lavoisier"
+      },
+      {
+        "stop_id": "54798",
+        "stop_name": "Lavoisier / Daillon"
+      },
+      {
+        "stop_id": "54821",
+        "stop_name": "Lavoisier / Dujarié"
+      },
+      {
+        "stop_id": "54835",
+        "stop_name": "Lavoisier / Lacordaire"
+      },
+      {
+        "stop_id": "54849",
+        "stop_name": "Lavoisier / Belcourt"
+      },
+      {
+        "stop_id": "54853",
+        "stop_name": "Lavoisier / Honoré-Mercier"
+      },
+      {
+        "stop_id": "54859",
+        "stop_name": "Lavoisier / Le Royer"
+      },
+      {
+        "stop_id": "54863",
+        "stop_name": "Lavoisier / Picasso"
+      },
+      {
+        "stop_id": "54880",
+        "stop_name": "Langelier / Lacoursière"
+      },
+      {
+        "stop_id": "54889",
+        "stop_name": "Bombardier / Langelier"
+      },
+      {
+        "stop_id": "54900",
+        "stop_name": "Bombardier / No 6630"
+      },
+      {
+        "stop_id": "54909",
+        "stop_name": "Pascal-Gagnon / No 8775"
+      },
+      {
+        "stop_id": "54876",
+        "stop_name": "Pascal-Gagnon / Lavaltrie"
+      },
+      {
+        "stop_id": "54869",
+        "stop_name": "Couture / Pascal-Gagnon"
+      },
+      {
+        "stop_id": "54839",
+        "stop_name": "Couture / Langelier"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest via Couture",
+    "arrets": [
+      {
+        "stop_id": "54839",
+        "stop_name": "Couture / Langelier"
+      },
+      {
+        "stop_id": "54824",
+        "stop_name": "Couture / Le Royer"
+      },
+      {
+        "stop_id": "54809",
+        "stop_name": "Couture / du Prado"
+      },
+      {
+        "stop_id": "54801",
+        "stop_name": "Couture / Périnault"
+      },
+      {
+        "stop_id": "54795",
+        "stop_name": "Couture / Lacordaire"
+      },
+      {
+        "stop_id": "54790",
+        "stop_name": "Couture / Puyseaux"
+      },
+      {
+        "stop_id": "54782",
+        "stop_name": "Couture / Salvaye"
+      },
+      {
+        "stop_id": "54768",
+        "stop_name": "Couture / François-1er"
+      },
+      {
+        "stop_id": "54765",
+        "stop_name": "Couture / Long-Sault"
+      },
+      {
+        "stop_id": "54755",
+        "stop_name": "des Grandes-Prairies / Viau"
+      },
+      {
+        "stop_id": "55012",
+        "stop_name": "des Grandes-Prairies / No 4840"
+      },
+      {
+        "stop_id": "54753",
+        "stop_name": "Lionel-Groulx / Louis-Roy"
+      },
+      {
+        "stop_id": "54758",
+        "stop_name": "Lionel-Groulx / Couture"
+      },
+      {
+        "stop_id": "54761",
+        "stop_name": "Lionel-Groulx / Gaspésie"
+      },
+      {
+        "stop_id": "54770",
+        "stop_name": "Lionel-Groulx / Maritain"
+      },
+      {
+        "stop_id": "54781",
+        "stop_name": "Lavoisier / Lionel-Groulx"
+      },
+      {
+        "stop_id": "54779",
+        "stop_name": "Lavoisier / Primot"
+      },
+      {
+        "stop_id": "54788",
+        "stop_name": "Lavoisier / Viau"
+      },
+      {
+        "stop_id": "54808",
+        "stop_name": "Viau / Valéry"
+      },
+      {
+        "stop_id": "54819",
+        "stop_name": "Viau / Robert"
+      },
+      {
+        "stop_id": "54827",
+        "stop_name": "Viau / Jean-Nicolet"
+      },
+      {
+        "stop_id": "54829",
+        "stop_name": "Viau / D'Artagnan"
+      },
+      {
+        "stop_id": "54847",
+        "stop_name": "Viau / Jean-Rivard"
+      },
+      {
+        "stop_id": "54866",
+        "stop_name": "Viau / Jarry"
+      },
+      {
+        "stop_id": "55010",
+        "stop_name": "Viau / Métropolitain"
+      },
+      {
+        "stop_id": "54919",
+        "stop_name": "Viau / Viterbe"
+      },
+      {
+        "stop_id": "54932",
+        "stop_name": "Viau / Millet"
+      },
+      {
+        "stop_id": "52091",
+        "stop_name": "Bélanger / 35e Avenue"
+      },
+      {
+        "stop_id": "52063",
+        "stop_name": "Bélanger / 33e Avenue"
+      },
+      {
+        "stop_id": "52030",
+        "stop_name": "Bélanger / 31e Avenue"
+      },
+      {
+        "stop_id": "61942",
+        "stop_name": "Provencher / Jean-Talon"
+      },
+      {
+        "stop_id": "61943",
+        "stop_name": "Buies / Gênes"
+      },
+      {
+        "stop_id": "61981",
+        "stop_name": "Everett / Pie-IX"
+      },
+      {
+        "stop_id": "61931",
+        "stop_name": "19e Avenue / Jean-Talon"
+      },
+      {
+        "stop_id": "51706",
+        "stop_name": "Jean-Talon / 17e Avenue"
+      },
+      {
+        "stop_id": "51692",
+        "stop_name": "Jean-Talon / 15e Avenue"
+      },
+      {
+        "stop_id": "51662",
+        "stop_name": "Jean-Talon / 13e Avenue"
+      },
+      {
+        "stop_id": "51631",
+        "stop_name": "Jean-Talon / Saint-Michel"
+      },
+      {
+        "stop_id": "54294",
+        "stop_name": "Station Saint-Michel (Saint-Michel / Shaughnessy)"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest via Lavoisier",
+    "arrets": [
+      {
+        "stop_id": "54838",
+        "stop_name": "Couture / Picasso"
+      },
+      {
+        "stop_id": "54868",
+        "stop_name": "Couture / Pascal-Gagnon"
+      },
+      {
+        "stop_id": "54877",
+        "stop_name": "Pascal-Gagnon / Lavaltrie"
+      },
+      {
+        "stop_id": "54907",
+        "stop_name": "Pascal-Gagnon / Bombardier"
+      },
+      {
+        "stop_id": "54899",
+        "stop_name": "Bombardier / No 6630"
+      },
+      {
+        "stop_id": "54887",
+        "stop_name": "Bombardier / Langelier"
+      },
+      {
+        "stop_id": "54881",
+        "stop_name": "Langelier / Lacoursière"
+      },
+      {
+        "stop_id": "54860",
+        "stop_name": "Lavoisier / Picasso"
+      },
+      {
+        "stop_id": "54858",
+        "stop_name": "Lavoisier / Le Royer"
+      },
+      {
+        "stop_id": "54852",
+        "stop_name": "Lavoisier / Honoré-Mercier"
+      },
+      {
+        "stop_id": "54848",
+        "stop_name": "Lavoisier / Belcourt"
+      },
+      {
+        "stop_id": "54833",
+        "stop_name": "Lavoisier / Lacordaire"
+      },
+      {
+        "stop_id": "55023",
+        "stop_name": "Lavoisier / J.-M.-Lefebvre"
+      },
+      {
+        "stop_id": "54786",
+        "stop_name": "Viau / Lavoisier"
+      },
+      {
+        "stop_id": "54808",
+        "stop_name": "Viau / Valéry"
+      },
+      {
+        "stop_id": "54819",
+        "stop_name": "Viau / Robert"
+      },
+      {
+        "stop_id": "54827",
+        "stop_name": "Viau / Jean-Nicolet"
+      },
+      {
+        "stop_id": "54829",
+        "stop_name": "Viau / D'Artagnan"
+      },
+      {
+        "stop_id": "54847",
+        "stop_name": "Viau / Jean-Rivard"
+      },
+      {
+        "stop_id": "54866",
+        "stop_name": "Viau / Jarry"
+      },
+      {
+        "stop_id": "55010",
+        "stop_name": "Viau / Métropolitain"
+      },
+      {
+        "stop_id": "54919",
+        "stop_name": "Viau / Viterbe"
+      },
+      {
+        "stop_id": "54932",
+        "stop_name": "Viau / Millet"
+      },
+      {
+        "stop_id": "52091",
+        "stop_name": "Bélanger / 35e Avenue"
+      },
+      {
+        "stop_id": "52063",
+        "stop_name": "Bélanger / 33e Avenue"
+      },
+      {
+        "stop_id": "52030",
+        "stop_name": "Bélanger / 31e Avenue"
+      },
+      {
+        "stop_id": "61942",
+        "stop_name": "Provencher / Jean-Talon"
+      },
+      {
+        "stop_id": "61943",
+        "stop_name": "Buies / Gênes"
+      },
+      {
+        "stop_id": "61981",
+        "stop_name": "Everett / Pie-IX"
+      },
+      {
+        "stop_id": "61931",
+        "stop_name": "19e Avenue / Jean-Talon"
+      },
+      {
+        "stop_id": "51706",
+        "stop_name": "Jean-Talon / 17e Avenue"
+      },
+      {
+        "stop_id": "51692",
+        "stop_name": "Jean-Talon / 15e Avenue"
+      },
+      {
+        "stop_id": "51662",
+        "stop_name": "Jean-Talon / 13e Avenue"
+      },
+      {
+        "stop_id": "51631",
+        "stop_name": "Jean-Talon / Saint-Michel"
+      },
+      {
+        "stop_id": "54294",
+        "stop_name": "Station Saint-Michel (Saint-Michel / Shaughnessy)"
+      }
+    ]
+  },
+  {
+    "direction": "Est via Couture",
+    "arrets": [
+      {
+        "stop_id": "61113",
+        "stop_name": "Station Saint-Michel (Édicule Est)"
+      },
+      {
+        "stop_id": "51663",
+        "stop_name": "Jean-Talon / 13e Avenue"
+      },
+      {
+        "stop_id": "51693",
+        "stop_name": "Jean-Talon / 15e Avenue"
+      },
+      {
+        "stop_id": "51707",
+        "stop_name": "Jean-Talon / 17e Avenue"
+      },
+      {
+        "stop_id": "61977",
+        "stop_name": "Jean-Talon / 18e Avenue"
+      },
+      {
+        "stop_id": "51913",
+        "stop_name": "Bélanger / Pie-IX"
+      },
+      {
+        "stop_id": "51941",
+        "stop_name": "Bélanger / 24e Avenue"
+      },
+      {
+        "stop_id": "51968",
+        "stop_name": "Bélanger / 26e Avenue"
+      },
+      {
+        "stop_id": "51999",
+        "stop_name": "Bélanger / 28e Avenue"
+      },
+      {
+        "stop_id": "52016",
+        "stop_name": "Bélanger / 30e Avenue"
+      },
+      {
+        "stop_id": "52064",
+        "stop_name": "Bélanger / 33e Avenue"
+      },
+      {
+        "stop_id": "52092",
+        "stop_name": "Bélanger / 35e Avenue"
+      },
+      {
+        "stop_id": "54931",
+        "stop_name": "Viau / Burel"
+      },
+      {
+        "stop_id": "54918",
+        "stop_name": "Viau / Viterbe"
+      },
+      {
+        "stop_id": "55009",
+        "stop_name": "Viau / Métropolitain"
+      },
+      {
+        "stop_id": "54864",
+        "stop_name": "Viau / Jarry"
+      },
+      {
+        "stop_id": "54846",
+        "stop_name": "Viau / Jean-Rivard"
+      },
+      {
+        "stop_id": "54828",
+        "stop_name": "Viau / D'Artagnan"
+      },
+      {
+        "stop_id": "54826",
+        "stop_name": "Viau / Jean-Nicolet"
+      },
+      {
+        "stop_id": "54817",
+        "stop_name": "Viau / Robert"
+      },
+      {
+        "stop_id": "54807",
+        "stop_name": "Viau / Valéry"
+      },
+      {
+        "stop_id": "54784",
+        "stop_name": "Lavoisier / Provence"
+      },
+      {
+        "stop_id": "54778",
+        "stop_name": "Lavoisier / Primot"
+      },
+      {
+        "stop_id": "54780",
+        "stop_name": "Lavoisier / Lionel-Groulx"
+      },
+      {
+        "stop_id": "54769",
+        "stop_name": "Lionel-Groulx / Goya"
+      },
+      {
+        "stop_id": "54762",
+        "stop_name": "Lionel-Groulx / Gaspésie"
+      },
+      {
+        "stop_id": "54756",
+        "stop_name": "Lionel-Groulx / Couture"
+      },
+      {
+        "stop_id": "54752",
+        "stop_name": "Lionel-Groulx / des Grandes-Prairies"
+      },
+      {
+        "stop_id": "54749",
+        "stop_name": "des Grandes-Prairies / No 4840"
+      },
+      {
+        "stop_id": "54754",
+        "stop_name": "des Grandes-Prairies / Viau"
+      },
+      {
+        "stop_id": "54766",
+        "stop_name": "Couture / Long-Sault"
+      },
+      {
+        "stop_id": "54777",
+        "stop_name": "Couture / Grasset"
+      },
+      {
+        "stop_id": "54783",
+        "stop_name": "Couture / Salvaye"
+      },
+      {
+        "stop_id": "54791",
+        "stop_name": "Couture / Puyseaux"
+      },
+      {
+        "stop_id": "54797",
+        "stop_name": "Couture / Lacordaire"
+      },
+      {
+        "stop_id": "54802",
+        "stop_name": "Couture / Périnault"
+      },
+      {
+        "stop_id": "54811",
+        "stop_name": "Couture / du Prado"
+      },
+      {
+        "stop_id": "54825",
+        "stop_name": "Couture / Le Royer"
+      },
+      {
+        "stop_id": "54838",
+        "stop_name": "Couture / Picasso"
+      }
+    ]
+  }
+]

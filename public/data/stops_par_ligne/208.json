@@ -1,0 +1,424 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "57809",
+        "stop_name": "Terminus Fairview"
+      },
+      {
+        "stop_id": "57628",
+        "stop_name": "Brunswick / Revcon"
+      },
+      {
+        "stop_id": "57640",
+        "stop_name": "Brunswick / Selkirk"
+      },
+      {
+        "stop_id": "57645",
+        "stop_name": "Brunswick / Ellingham"
+      },
+      {
+        "stop_id": "57775",
+        "stop_name": "Brunswick / No 195"
+      },
+      {
+        "stop_id": "57776",
+        "stop_name": "Brunswick / Hewitt"
+      },
+      {
+        "stop_id": "57985",
+        "stop_name": "Tecumseh / Brunswick"
+      },
+      {
+        "stop_id": "57672",
+        "stop_name": "Tecumseh / Labrosse"
+      },
+      {
+        "stop_id": "57892",
+        "stop_name": "Tecumseh / Thornhill"
+      },
+      {
+        "stop_id": "57890",
+        "stop_name": "Tecumseh / de Salaberry"
+      },
+      {
+        "stop_id": "57899",
+        "stop_name": "De Salaberry / D'Iberville"
+      },
+      {
+        "stop_id": "57903",
+        "stop_name": "de Salaberry / Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "57941",
+        "stop_name": "de Salaberry / Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "57919",
+        "stop_name": "Lake / de Salaberry"
+      },
+      {
+        "stop_id": "57908",
+        "stop_name": "Lake / Hyman"
+      },
+      {
+        "stop_id": "57916",
+        "stop_name": "Hyman / Lisbonne"
+      },
+      {
+        "stop_id": "57925",
+        "stop_name": "Hyman / des Sources"
+      },
+      {
+        "stop_id": "57933",
+        "stop_name": "de Salaberry / Davignon"
+      },
+      {
+        "stop_id": "57943",
+        "stop_name": "Davignon / de Salaberry"
+      },
+      {
+        "stop_id": "57949",
+        "stop_name": "Davignon / Fountain"
+      },
+      {
+        "stop_id": "57984",
+        "stop_name": "Davignon / Thornton"
+      },
+      {
+        "stop_id": "57952",
+        "stop_name": "Brunswick / Davignon"
+      },
+      {
+        "stop_id": "57958",
+        "stop_name": "Brunswick / Deacon"
+      },
+      {
+        "stop_id": "57972",
+        "stop_name": "Brunswick / Spring Garden"
+      },
+      {
+        "stop_id": "57970",
+        "stop_name": "Spring Garden / Fabre"
+      },
+      {
+        "stop_id": "57966",
+        "stop_name": "Spring Garden / Stonecrest"
+      },
+      {
+        "stop_id": "57963",
+        "stop_name": "Spring Garden / Kingsley"
+      },
+      {
+        "stop_id": "57961",
+        "stop_name": "Spring Garden / Hyman"
+      },
+      {
+        "stop_id": "60445",
+        "stop_name": "Hyman / Sunnybrooke"
+      },
+      {
+        "stop_id": "60416",
+        "stop_name": "Hyman / Woodside"
+      },
+      {
+        "stop_id": "60418",
+        "stop_name": "Hyman / Cérès"
+      },
+      {
+        "stop_id": "60636",
+        "stop_name": "Cérès / Cloverdale"
+      },
+      {
+        "stop_id": "60419",
+        "stop_name": "Gare Sunnybrooke"
+      },
+      {
+        "stop_id": "60420",
+        "stop_name": "Cérès / Sunnybrooke"
+      },
+      {
+        "stop_id": "57967",
+        "stop_name": "Spring Garden / Andras"
+      },
+      {
+        "stop_id": "57959",
+        "stop_name": "Spring Garden / Sunshine"
+      },
+      {
+        "stop_id": "57950",
+        "stop_name": "Sunshine / Iroquois"
+      },
+      {
+        "stop_id": "57939",
+        "stop_name": "Sunshine / Forest"
+      },
+      {
+        "stop_id": "57934",
+        "stop_name": "Sunshine / de la Madeleine"
+      },
+      {
+        "stop_id": "57927",
+        "stop_name": "Sunshine / Sunnydale"
+      },
+      {
+        "stop_id": "57911",
+        "stop_name": "Sunnydale / des Sources"
+      },
+      {
+        "stop_id": "57905",
+        "stop_name": "des Sources / Roger-Pilon"
+      },
+      {
+        "stop_id": "58000",
+        "stop_name": "des Sources / 14e Rue"
+      },
+      {
+        "stop_id": "57999",
+        "stop_name": "des Sources / 9e Rue"
+      },
+      {
+        "stop_id": "57893",
+        "stop_name": "des Sources / Anselme-Lavigne"
+      },
+      {
+        "stop_id": "58205",
+        "stop_name": "des Sources / Ross"
+      },
+      {
+        "stop_id": "58198",
+        "stop_name": "des Sources / de Pierrefonds"
+      },
+      {
+        "stop_id": "58202",
+        "stop_name": "de Pierrefonds / Gouin"
+      },
+      {
+        "stop_id": "58013",
+        "stop_name": "Gouin / 6e Avenue"
+      },
+      {
+        "stop_id": "58208",
+        "stop_name": "Gare Roxboro-Pierrefonds"
+      },
+      {
+        "stop_id": "61984",
+        "stop_name": "Gare Roxboro-Pierrefonds"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "61984",
+        "stop_name": "Gare Roxboro-Pierrefonds"
+      },
+      {
+        "stop_id": "58024",
+        "stop_name": "Gouin / 5e Avenue"
+      },
+      {
+        "stop_id": "58020",
+        "stop_name": "Gouin / 8e Avenue"
+      },
+      {
+        "stop_id": "58203",
+        "stop_name": "Gouin / de Pierrefonds"
+      },
+      {
+        "stop_id": "58196",
+        "stop_name": "des Sources / Gouin"
+      },
+      {
+        "stop_id": "58201",
+        "stop_name": "des Sources / de Pierrefonds"
+      },
+      {
+        "stop_id": "58206",
+        "stop_name": "des Sources / Ross"
+      },
+      {
+        "stop_id": "57894",
+        "stop_name": "des Sources / Anselme-Lavigne"
+      },
+      {
+        "stop_id": "57898",
+        "stop_name": "des Sources / Belcourt"
+      },
+      {
+        "stop_id": "58001",
+        "stop_name": "des Sources / 14e Rue"
+      },
+      {
+        "stop_id": "57906",
+        "stop_name": "des Sources / Roger-Pilon"
+      },
+      {
+        "stop_id": "57913",
+        "stop_name": "Sunnydale / Glenmore"
+      },
+      {
+        "stop_id": "57928",
+        "stop_name": "Sunnydale / Sunshine"
+      },
+      {
+        "stop_id": "57929",
+        "stop_name": "Sunshine / Cadman"
+      },
+      {
+        "stop_id": "57940",
+        "stop_name": "Sunshine / Forest"
+      },
+      {
+        "stop_id": "57954",
+        "stop_name": "Sunshine / Burke"
+      },
+      {
+        "stop_id": "57960",
+        "stop_name": "Spring Garden / Sunshine"
+      },
+      {
+        "stop_id": "57968",
+        "stop_name": "Spring Garden / Andras"
+      },
+      {
+        "stop_id": "60421",
+        "stop_name": "Sunnybrooke / Cérès"
+      },
+      {
+        "stop_id": "60422",
+        "stop_name": "Gare Sunnybrooke"
+      },
+      {
+        "stop_id": "60637",
+        "stop_name": "Cérès / Hyman"
+      },
+      {
+        "stop_id": "60423",
+        "stop_name": "Hyman / Cérès"
+      },
+      {
+        "stop_id": "60424",
+        "stop_name": "Hyman / Woodside"
+      },
+      {
+        "stop_id": "57976",
+        "stop_name": "Hyman / Sunnybrooke"
+      },
+      {
+        "stop_id": "57964",
+        "stop_name": "Hyman / Maisonneuve"
+      },
+      {
+        "stop_id": "57962",
+        "stop_name": "Spring Garden / Kingsley"
+      },
+      {
+        "stop_id": "57965",
+        "stop_name": "Spring Garden / Stonecrest"
+      },
+      {
+        "stop_id": "57969",
+        "stop_name": "Spring Garden / Fabre"
+      },
+      {
+        "stop_id": "57971",
+        "stop_name": "Spring Garden / Brunswick"
+      },
+      {
+        "stop_id": "57956",
+        "stop_name": "Brunswick / Deacon"
+      },
+      {
+        "stop_id": "57951",
+        "stop_name": "Brunswick / Davignon"
+      },
+      {
+        "stop_id": "57983",
+        "stop_name": "Davignon / Thornton"
+      },
+      {
+        "stop_id": "57948",
+        "stop_name": "Davignon / Fountain"
+      },
+      {
+        "stop_id": "57942",
+        "stop_name": "Davignon / de Salaberry"
+      },
+      {
+        "stop_id": "57931",
+        "stop_name": "de Salaberry / Norgrove"
+      },
+      {
+        "stop_id": "57926",
+        "stop_name": "Hyman / des Sources"
+      },
+      {
+        "stop_id": "57915",
+        "stop_name": "Hyman / Arménia"
+      },
+      {
+        "stop_id": "57909",
+        "stop_name": "Lake / Hyman"
+      },
+      {
+        "stop_id": "57918",
+        "stop_name": "Lake / de Salaberry"
+      },
+      {
+        "stop_id": "57907",
+        "stop_name": "de Salaberry / No 12001"
+      },
+      {
+        "stop_id": "57904",
+        "stop_name": "de Salaberry / Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "57897",
+        "stop_name": "de Salaberry / Montevista"
+      },
+      {
+        "stop_id": "57982",
+        "stop_name": "Tecumseh / de Salaberry"
+      },
+      {
+        "stop_id": "57891",
+        "stop_name": "Tecumseh / Thornhill"
+      },
+      {
+        "stop_id": "57669",
+        "stop_name": "Tecumseh / Labrosse"
+      },
+      {
+        "stop_id": "57901",
+        "stop_name": "Tecumseh / Brunswick"
+      },
+      {
+        "stop_id": "57777",
+        "stop_name": "Brunswick / Hewitt"
+      },
+      {
+        "stop_id": "57654",
+        "stop_name": "Brunswick / No 195"
+      },
+      {
+        "stop_id": "57644",
+        "stop_name": "Brunswick / Ellingham"
+      },
+      {
+        "stop_id": "57639",
+        "stop_name": "Brunswick / Selkirk"
+      },
+      {
+        "stop_id": "57627",
+        "stop_name": "Brunswick / Revcon"
+      },
+      {
+        "stop_id": "57809",
+        "stop_name": "Terminus Fairview"
+      }
+    ]
+  }
+]

@@ -1,0 +1,786 @@
+[
+  {
+    "direction": "Ouest via Gouin / Ozias-Leduc",
+    "arrets": [
+      {
+        "stop_id": "61605",
+        "stop_name": "Gare Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "60316",
+        "stop_name": "Maurice-Duplessis / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "54284",
+        "stop_name": "Maurice-Duplessis / 70e Avenue"
+      },
+      {
+        "stop_id": "54270",
+        "stop_name": "Maurice-Duplessis / 62e Avenue"
+      },
+      {
+        "stop_id": "54397",
+        "stop_name": "Maurice-Duplessis / Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "54060",
+        "stop_name": "Maurice-Duplessis / 54e Avenue"
+      },
+      {
+        "stop_id": "54062",
+        "stop_name": "Maurice-Duplessis / Jean-Yves-Bigras"
+      },
+      {
+        "stop_id": "52379",
+        "stop_name": "Maurice-Duplessis / J.-J.-Joubert"
+      },
+      {
+        "stop_id": "52264",
+        "stop_name": "Maurice-Duplessis / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "60311",
+        "stop_name": "Rodolphe-Forget / Louis-Dessaulles"
+      },
+      {
+        "stop_id": "60336",
+        "stop_name": "Rodolphe-Forget / Perras"
+      },
+      {
+        "stop_id": "54049",
+        "stop_name": "Perras / Pierre-Baillargeon"
+      },
+      {
+        "stop_id": "51889",
+        "stop_name": "Perras / Rita-Levi-Montalcini"
+      },
+      {
+        "stop_id": "51806",
+        "stop_name": "Perras / Alfred-Nobel"
+      },
+      {
+        "stop_id": "51719",
+        "stop_name": "Perras / 27e Avenue"
+      },
+      {
+        "stop_id": "53694",
+        "stop_name": "Perras / 25e Avenue"
+      },
+      {
+        "stop_id": "51620",
+        "stop_name": "Perras / Armand-Bombardier"
+      },
+      {
+        "stop_id": "51589",
+        "stop_name": "Perras / Salomon-Marion"
+      },
+      {
+        "stop_id": "51542",
+        "stop_name": "Perras / Élie-Beauregard"
+      },
+      {
+        "stop_id": "54154",
+        "stop_name": "Perras / Fernand-Gauthier"
+      },
+      {
+        "stop_id": "51442",
+        "stop_name": "Perras / Marc-Aurèle-Fortin"
+      },
+      {
+        "stop_id": "62129",
+        "stop_name": "Perras / Gilbert-Barbier"
+      },
+      {
+        "stop_id": "54054",
+        "stop_name": "Perras / 6e Avenue"
+      },
+      {
+        "stop_id": "54155",
+        "stop_name": "Perras / 4e Avenue"
+      },
+      {
+        "stop_id": "51283",
+        "stop_name": "Perras / Ozias-Leduc (Hôpital Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "51219",
+        "stop_name": "Ozias-Leduc / Gouin"
+      },
+      {
+        "stop_id": "61115",
+        "stop_name": "Gouin / No 7015"
+      },
+      {
+        "stop_id": "55314",
+        "stop_name": "Gouin / No 6885"
+      },
+      {
+        "stop_id": "55313",
+        "stop_name": "Gouin / No 6755"
+      },
+      {
+        "stop_id": "55237",
+        "stop_name": "Léger / Langelier"
+      },
+      {
+        "stop_id": "55223",
+        "stop_name": "Léger / Chartrand"
+      },
+      {
+        "stop_id": "55207",
+        "stop_name": "Léger / Rolland"
+      },
+      {
+        "stop_id": "55192",
+        "stop_name": "Léger / Fortin"
+      },
+      {
+        "stop_id": "55182",
+        "stop_name": "Léger / Hector-Lamarre"
+      },
+      {
+        "stop_id": "55167",
+        "stop_name": "Léger / Lacordaire"
+      },
+      {
+        "stop_id": "55155",
+        "stop_name": "Léger / Lanthier"
+      },
+      {
+        "stop_id": "55140",
+        "stop_name": "Léger / Sainte-Colette"
+      },
+      {
+        "stop_id": "55129",
+        "stop_name": "Léger / Salk"
+      },
+      {
+        "stop_id": "55116",
+        "stop_name": "Léger / Brunet"
+      },
+      {
+        "stop_id": "55106",
+        "stop_name": "Léger / Sainte-Gertrude"
+      },
+      {
+        "stop_id": "55097",
+        "stop_name": "Léger / L'Archevêque"
+      },
+      {
+        "stop_id": "55089",
+        "stop_name": "Léger / Drapeau"
+      },
+      {
+        "stop_id": "55080",
+        "stop_name": "Léger / Armand-Lavergne"
+      },
+      {
+        "stop_id": "55064",
+        "stop_name": "Henri-Bourassa / Pie-IX"
+      },
+      {
+        "stop_id": "55052",
+        "stop_name": "Henri-Bourassa / London"
+      },
+      {
+        "stop_id": "55043",
+        "stop_name": "Henri-Bourassa / Saint-Vital"
+      },
+      {
+        "stop_id": "50513",
+        "stop_name": "Henri-Bourassa / Saint-Michel"
+      },
+      {
+        "stop_id": "50413",
+        "stop_name": "Henri-Bourassa / De Saint-Firmin"
+      },
+      {
+        "stop_id": "50350",
+        "stop_name": "Henri-Bourassa / Christophe-Colomb"
+      },
+      {
+        "stop_id": "54127",
+        "stop_name": "Station Henri-Bourassa"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "50313",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50351",
+        "stop_name": "Henri-Bourassa / Christophe-Colomb"
+      },
+      {
+        "stop_id": "50409",
+        "stop_name": "Henri-Bourassa / Séguin"
+      },
+      {
+        "stop_id": "50515",
+        "stop_name": "Henri-Bourassa / Saint-Michel"
+      },
+      {
+        "stop_id": "55045",
+        "stop_name": "Henri-Bourassa / Saint-Vital"
+      },
+      {
+        "stop_id": "61542",
+        "stop_name": "Henri-Bourassa / Pie-IX"
+      },
+      {
+        "stop_id": "55073",
+        "stop_name": "Henri-Bourassa / Pelletier"
+      },
+      {
+        "stop_id": "55098",
+        "stop_name": "Léger / L'Archevêque"
+      },
+      {
+        "stop_id": "55108",
+        "stop_name": "Léger / Sainte-Gertrude"
+      },
+      {
+        "stop_id": "55117",
+        "stop_name": "Léger / Brunet"
+      },
+      {
+        "stop_id": "55130",
+        "stop_name": "Léger / Salk"
+      },
+      {
+        "stop_id": "55141",
+        "stop_name": "Léger / Sainte-Colette"
+      },
+      {
+        "stop_id": "55156",
+        "stop_name": "Léger / Lanthier"
+      },
+      {
+        "stop_id": "55169",
+        "stop_name": "Léger / Lacordaire"
+      },
+      {
+        "stop_id": "55183",
+        "stop_name": "Léger / Désy"
+      },
+      {
+        "stop_id": "55193",
+        "stop_name": "Léger / Fortin"
+      },
+      {
+        "stop_id": "55208",
+        "stop_name": "Léger / Rolland"
+      },
+      {
+        "stop_id": "55224",
+        "stop_name": "Léger / Chartrand"
+      },
+      {
+        "stop_id": "55235",
+        "stop_name": "Léger / Allard"
+      },
+      {
+        "stop_id": "55259",
+        "stop_name": "Léger / Albert-Hudon"
+      },
+      {
+        "stop_id": "54139",
+        "stop_name": "Perras / Ozias-Leduc (Hôpital Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "54053",
+        "stop_name": "Perras / 6e Avenue"
+      },
+      {
+        "stop_id": "51422",
+        "stop_name": "Perras / Gilbert-Barbier"
+      },
+      {
+        "stop_id": "51443",
+        "stop_name": "Perras / Marc-Aurèle-Fortin"
+      },
+      {
+        "stop_id": "51488",
+        "stop_name": "Perras / Fernand-Gauthier"
+      },
+      {
+        "stop_id": "51543",
+        "stop_name": "Perras / Élie-Beauregard"
+      },
+      {
+        "stop_id": "51590",
+        "stop_name": "Perras / Salomon-Marion"
+      },
+      {
+        "stop_id": "51621",
+        "stop_name": "Perras / Armand-Bombardier"
+      },
+      {
+        "stop_id": "51691",
+        "stop_name": "Perras / 25e Avenue"
+      },
+      {
+        "stop_id": "51720",
+        "stop_name": "Perras / 27e Avenue"
+      },
+      {
+        "stop_id": "51807",
+        "stop_name": "Perras / Alfred-Nobel"
+      },
+      {
+        "stop_id": "51890",
+        "stop_name": "Perras / Rita-Levi-Montalcini"
+      },
+      {
+        "stop_id": "54050",
+        "stop_name": "Perras / Pierre-Baillargeon"
+      },
+      {
+        "stop_id": "54152",
+        "stop_name": "Perras / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "60305",
+        "stop_name": "Rodolphe-Forget / Louis-Dessaulles"
+      },
+      {
+        "stop_id": "60306",
+        "stop_name": "Rodolphe-Forget / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "52378",
+        "stop_name": "Maurice-Duplessis / J.-J.-Joubert"
+      },
+      {
+        "stop_id": "53977",
+        "stop_name": "Maurice-Duplessis / Jean-Yves-Bigras"
+      },
+      {
+        "stop_id": "54061",
+        "stop_name": "Maurice-Duplessis / 54e Avenue"
+      },
+      {
+        "stop_id": "52655",
+        "stop_name": "Maurice-Duplessis / Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "54271",
+        "stop_name": "Maurice-Duplessis / 63e Avenue"
+      },
+      {
+        "stop_id": "61201",
+        "stop_name": "Maurice-Duplessis / No 10000"
+      },
+      {
+        "stop_id": "61742",
+        "stop_name": "Maurice-Duplessis / Olivier-Lejeune"
+      },
+      {
+        "stop_id": "61638",
+        "stop_name": "Maurice-Duplessis / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "61606",
+        "stop_name": "Gare Rivière-des-Prairies"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "61605",
+        "stop_name": "Gare Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "60316",
+        "stop_name": "Maurice-Duplessis / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "54284",
+        "stop_name": "Maurice-Duplessis / 70e Avenue"
+      },
+      {
+        "stop_id": "54270",
+        "stop_name": "Maurice-Duplessis / 62e Avenue"
+      },
+      {
+        "stop_id": "54397",
+        "stop_name": "Maurice-Duplessis / Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "54060",
+        "stop_name": "Maurice-Duplessis / 54e Avenue"
+      },
+      {
+        "stop_id": "54062",
+        "stop_name": "Maurice-Duplessis / Jean-Yves-Bigras"
+      },
+      {
+        "stop_id": "52379",
+        "stop_name": "Maurice-Duplessis / J.-J.-Joubert"
+      },
+      {
+        "stop_id": "52264",
+        "stop_name": "Maurice-Duplessis / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "60311",
+        "stop_name": "Rodolphe-Forget / Louis-Dessaulles"
+      },
+      {
+        "stop_id": "60336",
+        "stop_name": "Rodolphe-Forget / Perras"
+      },
+      {
+        "stop_id": "54049",
+        "stop_name": "Perras / Pierre-Baillargeon"
+      },
+      {
+        "stop_id": "51889",
+        "stop_name": "Perras / Rita-Levi-Montalcini"
+      },
+      {
+        "stop_id": "51806",
+        "stop_name": "Perras / Alfred-Nobel"
+      },
+      {
+        "stop_id": "51719",
+        "stop_name": "Perras / 27e Avenue"
+      },
+      {
+        "stop_id": "53694",
+        "stop_name": "Perras / 25e Avenue"
+      },
+      {
+        "stop_id": "51620",
+        "stop_name": "Perras / Armand-Bombardier"
+      },
+      {
+        "stop_id": "51589",
+        "stop_name": "Perras / Salomon-Marion"
+      },
+      {
+        "stop_id": "51542",
+        "stop_name": "Perras / Élie-Beauregard"
+      },
+      {
+        "stop_id": "54154",
+        "stop_name": "Perras / Fernand-Gauthier"
+      },
+      {
+        "stop_id": "51442",
+        "stop_name": "Perras / Marc-Aurèle-Fortin"
+      },
+      {
+        "stop_id": "62129",
+        "stop_name": "Perras / Gilbert-Barbier"
+      },
+      {
+        "stop_id": "54054",
+        "stop_name": "Perras / 6e Avenue"
+      },
+      {
+        "stop_id": "54155",
+        "stop_name": "Perras / 4e Avenue"
+      },
+      {
+        "stop_id": "51283",
+        "stop_name": "Perras / Ozias-Leduc (Hôpital Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "55260",
+        "stop_name": "Léger / Albert-Hudon"
+      },
+      {
+        "stop_id": "55237",
+        "stop_name": "Léger / Langelier"
+      },
+      {
+        "stop_id": "55223",
+        "stop_name": "Léger / Chartrand"
+      },
+      {
+        "stop_id": "55207",
+        "stop_name": "Léger / Rolland"
+      },
+      {
+        "stop_id": "55192",
+        "stop_name": "Léger / Fortin"
+      },
+      {
+        "stop_id": "55182",
+        "stop_name": "Léger / Hector-Lamarre"
+      },
+      {
+        "stop_id": "55167",
+        "stop_name": "Léger / Lacordaire"
+      },
+      {
+        "stop_id": "55155",
+        "stop_name": "Léger / Lanthier"
+      },
+      {
+        "stop_id": "55140",
+        "stop_name": "Léger / Sainte-Colette"
+      },
+      {
+        "stop_id": "55129",
+        "stop_name": "Léger / Salk"
+      },
+      {
+        "stop_id": "55116",
+        "stop_name": "Léger / Brunet"
+      },
+      {
+        "stop_id": "55106",
+        "stop_name": "Léger / Sainte-Gertrude"
+      },
+      {
+        "stop_id": "55097",
+        "stop_name": "Léger / L'Archevêque"
+      },
+      {
+        "stop_id": "55089",
+        "stop_name": "Léger / Drapeau"
+      },
+      {
+        "stop_id": "55080",
+        "stop_name": "Léger / Armand-Lavergne"
+      },
+      {
+        "stop_id": "55064",
+        "stop_name": "Henri-Bourassa / Pie-IX"
+      },
+      {
+        "stop_id": "55052",
+        "stop_name": "Henri-Bourassa / London"
+      },
+      {
+        "stop_id": "55043",
+        "stop_name": "Henri-Bourassa / Saint-Vital"
+      },
+      {
+        "stop_id": "50513",
+        "stop_name": "Henri-Bourassa / Saint-Michel"
+      },
+      {
+        "stop_id": "50413",
+        "stop_name": "Henri-Bourassa / De Saint-Firmin"
+      },
+      {
+        "stop_id": "50350",
+        "stop_name": "Henri-Bourassa / Christophe-Colomb"
+      },
+      {
+        "stop_id": "54127",
+        "stop_name": "Station Henri-Bourassa"
+      }
+    ]
+  },
+  {
+    "direction": "Est via Gouin / Ozias-Leduc",
+    "arrets": [
+      {
+        "stop_id": "50313",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50351",
+        "stop_name": "Henri-Bourassa / Christophe-Colomb"
+      },
+      {
+        "stop_id": "50409",
+        "stop_name": "Henri-Bourassa / Séguin"
+      },
+      {
+        "stop_id": "50515",
+        "stop_name": "Henri-Bourassa / Saint-Michel"
+      },
+      {
+        "stop_id": "55045",
+        "stop_name": "Henri-Bourassa / Saint-Vital"
+      },
+      {
+        "stop_id": "61542",
+        "stop_name": "Henri-Bourassa / Pie-IX"
+      },
+      {
+        "stop_id": "55073",
+        "stop_name": "Henri-Bourassa / Pelletier"
+      },
+      {
+        "stop_id": "55098",
+        "stop_name": "Léger / L'Archevêque"
+      },
+      {
+        "stop_id": "55108",
+        "stop_name": "Léger / Sainte-Gertrude"
+      },
+      {
+        "stop_id": "55117",
+        "stop_name": "Léger / Brunet"
+      },
+      {
+        "stop_id": "55130",
+        "stop_name": "Léger / Salk"
+      },
+      {
+        "stop_id": "55141",
+        "stop_name": "Léger / Sainte-Colette"
+      },
+      {
+        "stop_id": "55156",
+        "stop_name": "Léger / Lanthier"
+      },
+      {
+        "stop_id": "55169",
+        "stop_name": "Léger / Lacordaire"
+      },
+      {
+        "stop_id": "55183",
+        "stop_name": "Léger / Désy"
+      },
+      {
+        "stop_id": "55193",
+        "stop_name": "Léger / Fortin"
+      },
+      {
+        "stop_id": "55208",
+        "stop_name": "Léger / Rolland"
+      },
+      {
+        "stop_id": "55224",
+        "stop_name": "Léger / Chartrand"
+      },
+      {
+        "stop_id": "60386",
+        "stop_name": "Langelier / Léger"
+      },
+      {
+        "stop_id": "55317",
+        "stop_name": "Gouin / No 6700"
+      },
+      {
+        "stop_id": "55311",
+        "stop_name": "Gouin / No 6750"
+      },
+      {
+        "stop_id": "53697",
+        "stop_name": "Gouin / No 6880"
+      },
+      {
+        "stop_id": "54186",
+        "stop_name": "Gouin / No 7015"
+      },
+      {
+        "stop_id": "51220",
+        "stop_name": "Gouin / Ozias-Leduc"
+      },
+      {
+        "stop_id": "54138",
+        "stop_name": "Ozias-Leduc / Perras (Hôpital Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "54053",
+        "stop_name": "Perras / 6e Avenue"
+      },
+      {
+        "stop_id": "51422",
+        "stop_name": "Perras / Gilbert-Barbier"
+      },
+      {
+        "stop_id": "51443",
+        "stop_name": "Perras / Marc-Aurèle-Fortin"
+      },
+      {
+        "stop_id": "51488",
+        "stop_name": "Perras / Fernand-Gauthier"
+      },
+      {
+        "stop_id": "51543",
+        "stop_name": "Perras / Élie-Beauregard"
+      },
+      {
+        "stop_id": "51590",
+        "stop_name": "Perras / Salomon-Marion"
+      },
+      {
+        "stop_id": "51621",
+        "stop_name": "Perras / Armand-Bombardier"
+      },
+      {
+        "stop_id": "51691",
+        "stop_name": "Perras / 25e Avenue"
+      },
+      {
+        "stop_id": "51720",
+        "stop_name": "Perras / 27e Avenue"
+      },
+      {
+        "stop_id": "51807",
+        "stop_name": "Perras / Alfred-Nobel"
+      },
+      {
+        "stop_id": "51890",
+        "stop_name": "Perras / Rita-Levi-Montalcini"
+      },
+      {
+        "stop_id": "54050",
+        "stop_name": "Perras / Pierre-Baillargeon"
+      },
+      {
+        "stop_id": "54152",
+        "stop_name": "Perras / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "60305",
+        "stop_name": "Rodolphe-Forget / Louis-Dessaulles"
+      },
+      {
+        "stop_id": "60306",
+        "stop_name": "Rodolphe-Forget / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "52378",
+        "stop_name": "Maurice-Duplessis / J.-J.-Joubert"
+      },
+      {
+        "stop_id": "53977",
+        "stop_name": "Maurice-Duplessis / Jean-Yves-Bigras"
+      },
+      {
+        "stop_id": "54061",
+        "stop_name": "Maurice-Duplessis / 54e Avenue"
+      },
+      {
+        "stop_id": "52655",
+        "stop_name": "Maurice-Duplessis / Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "54271",
+        "stop_name": "Maurice-Duplessis / 63e Avenue"
+      },
+      {
+        "stop_id": "61201",
+        "stop_name": "Maurice-Duplessis / No 10000"
+      },
+      {
+        "stop_id": "61742",
+        "stop_name": "Maurice-Duplessis / Olivier-Lejeune"
+      },
+      {
+        "stop_id": "61638",
+        "stop_name": "Maurice-Duplessis / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "61606",
+        "stop_name": "Gare Rivière-des-Prairies"
+      }
+    ]
+  }
+]

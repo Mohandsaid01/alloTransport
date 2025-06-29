@@ -1,0 +1,298 @@
+[
+  {
+    "direction": "Ouest via Charleroi / Fleury",
+    "arrets": [
+      {
+        "stop_id": "55271",
+        "stop_name": "Amos / Lacordaire"
+      },
+      {
+        "stop_id": "55330",
+        "stop_name": "Jean-Meunier / d'Amos"
+      },
+      {
+        "stop_id": "55251",
+        "stop_name": "Jean-Meunier / de Charleroi"
+      },
+      {
+        "stop_id": "55228",
+        "stop_name": "de Charleroi / Salk"
+      },
+      {
+        "stop_id": "55205",
+        "stop_name": "de Charleroi / Brunet"
+      },
+      {
+        "stop_id": "55194",
+        "stop_name": "de Charleroi / Sainte-Gertrude"
+      },
+      {
+        "stop_id": "55172",
+        "stop_name": "de Charleroi / L'Archevêque"
+      },
+      {
+        "stop_id": "55142",
+        "stop_name": "de Charleroi / Drapeau"
+      },
+      {
+        "stop_id": "55119",
+        "stop_name": "de Charleroi / Armand-Lavergne"
+      },
+      {
+        "stop_id": "55149",
+        "stop_name": "Armand-Lavergne / de Castille"
+      },
+      {
+        "stop_id": "55163",
+        "stop_name": "Armand-Lavergne / d'Amiens"
+      },
+      {
+        "stop_id": "55188",
+        "stop_name": "Armand-Lavergne / Forest"
+      },
+      {
+        "stop_id": "55159",
+        "stop_name": "Forest / Garon"
+      },
+      {
+        "stop_id": "62012",
+        "stop_name": "Forest / Hébert"
+      },
+      {
+        "stop_id": "55090",
+        "stop_name": "Fleury / Saint-Vital"
+      },
+      {
+        "stop_id": "55065",
+        "stop_name": "Fleury / Lausanne"
+      },
+      {
+        "stop_id": "50437",
+        "stop_name": "Station Sauvé (Édicule Nord)"
+      }
+    ]
+  },
+  {
+    "direction": "Est via Fleury / Charleroi",
+    "arrets": [
+      {
+        "stop_id": "54269",
+        "stop_name": "Station Sauvé (Édicule Sud)"
+      },
+      {
+        "stop_id": "55066",
+        "stop_name": "Fleury / Lausanne"
+      },
+      {
+        "stop_id": "55091",
+        "stop_name": "Fleury / Saint-Vital"
+      },
+      {
+        "stop_id": "55151",
+        "stop_name": "Fleury / Pie-IX"
+      },
+      {
+        "stop_id": "55135",
+        "stop_name": "Forest / Pie-IX"
+      },
+      {
+        "stop_id": "55160",
+        "stop_name": "Forest / Garon"
+      },
+      {
+        "stop_id": "55189",
+        "stop_name": "Armand-Lavergne / Forest"
+      },
+      {
+        "stop_id": "55161",
+        "stop_name": "Armand-Lavergne / d'Amiens"
+      },
+      {
+        "stop_id": "55148",
+        "stop_name": "Armand-Lavergne / de Castille"
+      },
+      {
+        "stop_id": "55118",
+        "stop_name": "Armand-Lavergne / de Charleroi"
+      },
+      {
+        "stop_id": "55143",
+        "stop_name": "de Charleroi / Drapeau"
+      },
+      {
+        "stop_id": "55173",
+        "stop_name": "de Charleroi / L'Archevêque"
+      },
+      {
+        "stop_id": "55196",
+        "stop_name": "de Charleroi / Sainte-Gertrude"
+      },
+      {
+        "stop_id": "55206",
+        "stop_name": "de Charleroi / Racette"
+      },
+      {
+        "stop_id": "55229",
+        "stop_name": "de Charleroi / Salk"
+      },
+      {
+        "stop_id": "55252",
+        "stop_name": "Jean-Meunier / de Charleroi"
+      },
+      {
+        "stop_id": "55257",
+        "stop_name": "Henri-Bourassa / Lacordaire"
+      },
+      {
+        "stop_id": "55271",
+        "stop_name": "Amos / Lacordaire"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest via Industriel",
+    "arrets": [
+      {
+        "stop_id": "55271",
+        "stop_name": "Amos / Lacordaire"
+      },
+      {
+        "stop_id": "55330",
+        "stop_name": "Jean-Meunier / d'Amos"
+      },
+      {
+        "stop_id": "55251",
+        "stop_name": "Jean-Meunier / de Charleroi"
+      },
+      {
+        "stop_id": "55253",
+        "stop_name": "Jean-Meunier / Louis-Francoeur"
+      },
+      {
+        "stop_id": "55275",
+        "stop_name": "Jean-Meunier / Industriel"
+      },
+      {
+        "stop_id": "55267",
+        "stop_name": "Industriel / Salk"
+      },
+      {
+        "stop_id": "55246",
+        "stop_name": "Industriel / Racette"
+      },
+      {
+        "stop_id": "55225",
+        "stop_name": "Industriel / L'Archevêque"
+      },
+      {
+        "stop_id": "55203",
+        "stop_name": "Industriel / Armand-Lavergne"
+      },
+      {
+        "stop_id": "55178",
+        "stop_name": "Industriel / Pie-IX"
+      },
+      {
+        "stop_id": "55152",
+        "stop_name": "Industriel / de Paris"
+      },
+      {
+        "stop_id": "55127",
+        "stop_name": "Industriel / Saint-Vital"
+      },
+      {
+        "stop_id": "50802",
+        "stop_name": "Charland / J.-J.-Gagnier"
+      },
+      {
+        "stop_id": "50754",
+        "stop_name": "Charland / Sackville"
+      },
+      {
+        "stop_id": "50611",
+        "stop_name": "Charland / Charton"
+      },
+      {
+        "stop_id": "61117",
+        "stop_name": "Saint-Hubert / de Louvain"
+      },
+      {
+        "stop_id": "50437",
+        "stop_name": "Station Sauvé (Édicule Nord)"
+      }
+    ]
+  },
+  {
+    "direction": "Est via Industriel",
+    "arrets": [
+      {
+        "stop_id": "54269",
+        "stop_name": "Station Sauvé (Édicule Sud)"
+      },
+      {
+        "stop_id": "50538",
+        "stop_name": "de Louvain / Saint-Hubert"
+      },
+      {
+        "stop_id": "50610",
+        "stop_name": "Papineau / Charland"
+      },
+      {
+        "stop_id": "50755",
+        "stop_name": "Charland / Sackville"
+      },
+      {
+        "stop_id": "50803",
+        "stop_name": "Charland / J.-J.-Gagnier"
+      },
+      {
+        "stop_id": "55128",
+        "stop_name": "Industriel / Saint-Vital"
+      },
+      {
+        "stop_id": "55153",
+        "stop_name": "Industriel / de Paris"
+      },
+      {
+        "stop_id": "55180",
+        "stop_name": "Industriel / Pie-IX"
+      },
+      {
+        "stop_id": "55204",
+        "stop_name": "Industriel / Armand-Lavergne"
+      },
+      {
+        "stop_id": "55226",
+        "stop_name": "Industriel / L'Archevêque"
+      },
+      {
+        "stop_id": "55247",
+        "stop_name": "Industriel / Racette"
+      },
+      {
+        "stop_id": "55268",
+        "stop_name": "Industriel / Salk"
+      },
+      {
+        "stop_id": "55274",
+        "stop_name": "Industriel / Cantin"
+      },
+      {
+        "stop_id": "55266",
+        "stop_name": "Jean-Meunier / Louis-Francoeur"
+      },
+      {
+        "stop_id": "55252",
+        "stop_name": "Jean-Meunier / de Charleroi"
+      },
+      {
+        "stop_id": "55257",
+        "stop_name": "Henri-Bourassa / Lacordaire"
+      },
+      {
+        "stop_id": "55271",
+        "stop_name": "Amos / Lacordaire"
+      }
+    ]
+  }
+]

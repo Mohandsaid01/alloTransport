@@ -1,0 +1,177 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "60998",
+        "stop_name": "Gare d'autocars de Montréal"
+      },
+      {
+        "stop_id": "52844",
+        "stop_name": "Station Berri-UQAM (Berri / Ste-Catherine)"
+      },
+      {
+        "stop_id": "52834",
+        "stop_name": "René-Lévesque / de l'Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "52783",
+        "stop_name": "René-Lévesque / Saint-Laurent"
+      },
+      {
+        "stop_id": "52697",
+        "stop_name": "René-Lévesque / Jeanne-Mance"
+      },
+      {
+        "stop_id": "52625",
+        "stop_name": "Place du Frère-André"
+      },
+      {
+        "stop_id": "52529",
+        "stop_name": "René-Lévesque / Mansfield"
+      },
+      {
+        "stop_id": "52483",
+        "stop_name": "René-Lévesque / Peel"
+      },
+      {
+        "stop_id": "52416",
+        "stop_name": "René-Lévesque / de la Montagne"
+      },
+      {
+        "stop_id": "52373",
+        "stop_name": "René-Lévesque / Bishop"
+      },
+      {
+        "stop_id": "61334",
+        "stop_name": "Station Lionel-Groulx"
+      },
+      {
+        "stop_id": "61261",
+        "stop_name": "YUL Aéroport Montréal-Trudeau"
+      }
+    ]
+  },
+  {
+    "direction": "Est trajet 1 gare d’autocars de Montréal.",
+    "arrets": [
+      {
+        "stop_id": "60997",
+        "stop_name": "YUL Aéroport Montréal-Trudeau"
+      },
+      {
+        "stop_id": "61332",
+        "stop_name": "Station Lionel-Groulx"
+      },
+      {
+        "stop_id": "52326",
+        "stop_name": "Guy / René-Lévesque"
+      },
+      {
+        "stop_id": "52374",
+        "stop_name": "René-Lévesque / Bishop"
+      },
+      {
+        "stop_id": "52437",
+        "stop_name": "René-Lévesque / Drummond"
+      },
+      {
+        "stop_id": "61807",
+        "stop_name": "René-Lévesque / Stanley"
+      },
+      {
+        "stop_id": "52530",
+        "stop_name": "René-Lévesque / Mansfield"
+      },
+      {
+        "stop_id": "53918",
+        "stop_name": "René-Lévesque / Union"
+      },
+      {
+        "stop_id": "60683",
+        "stop_name": "René-Lévesque / Jeanne-Mance"
+      },
+      {
+        "stop_id": "52782",
+        "stop_name": "René-Lévesque / Saint-Laurent"
+      },
+      {
+        "stop_id": "52835",
+        "stop_name": "René-Lévesque / de l'Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "61153",
+        "stop_name": "Station Berri-UQAM"
+      },
+      {
+        "stop_id": "61611",
+        "stop_name": "Station Berri-UQAM (1621 Berri)"
+      },
+      {
+        "stop_id": "62136",
+        "stop_name": "Gare d'autocars de Montréal"
+      }
+    ]
+  },
+  {
+    "direction": "Est trajet 2 station Lionel-Groulx.",
+    "arrets": [
+      {
+        "stop_id": "60997",
+        "stop_name": "YUL Aéroport Montréal-Trudeau"
+      },
+      {
+        "stop_id": "61332",
+        "stop_name": "Station Lionel-Groulx"
+      },
+      {
+        "stop_id": "52326",
+        "stop_name": "Guy / René-Lévesque"
+      },
+      {
+        "stop_id": "52374",
+        "stop_name": "René-Lévesque / Bishop"
+      },
+      {
+        "stop_id": "52437",
+        "stop_name": "René-Lévesque / Drummond"
+      },
+      {
+        "stop_id": "61807",
+        "stop_name": "René-Lévesque / Stanley"
+      },
+      {
+        "stop_id": "52530",
+        "stop_name": "René-Lévesque / Mansfield"
+      },
+      {
+        "stop_id": "53918",
+        "stop_name": "René-Lévesque / Union"
+      },
+      {
+        "stop_id": "60683",
+        "stop_name": "René-Lévesque / Jeanne-Mance"
+      },
+      {
+        "stop_id": "52782",
+        "stop_name": "René-Lévesque / Saint-Laurent"
+      },
+      {
+        "stop_id": "52835",
+        "stop_name": "René-Lévesque / de l'Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "61153",
+        "stop_name": "Station Berri-UQAM"
+      },
+      {
+        "stop_id": "61611",
+        "stop_name": "Station Berri-UQAM (1621 Berri)"
+      },
+      {
+        "stop_id": "62136",
+        "stop_name": "Gare d'autocars de Montréal"
+      }
+    ]
+  }
+]

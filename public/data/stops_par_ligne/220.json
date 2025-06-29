@@ -1,0 +1,64 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "55921",
+        "stop_name": "Station Du Collège (Ouimet / Saint-Louis)"
+      },
+      {
+        "stop_id": "62049",
+        "stop_name": "Douglas-B.-Floreani / Cypihot"
+      },
+      {
+        "stop_id": "55999",
+        "stop_name": "Douglas-B.-Floreani / Kieran"
+      },
+      {
+        "stop_id": "61103",
+        "stop_name": "Kieran / No 5900"
+      },
+      {
+        "stop_id": "61101",
+        "stop_name": "Kieran / No 5825"
+      },
+      {
+        "stop_id": "61106",
+        "stop_name": "Kieran / No 5600"
+      },
+      {
+        "stop_id": "61100",
+        "stop_name": "Kieran / No 5600"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "61100",
+        "stop_name": "Kieran / No 5600"
+      },
+      {
+        "stop_id": "61105",
+        "stop_name": "Kieran / No 5825"
+      },
+      {
+        "stop_id": "61104",
+        "stop_name": "Kieran / No 5900"
+      },
+      {
+        "stop_id": "61661",
+        "stop_name": "Kieran / Douglas-B.-Floreani"
+      },
+      {
+        "stop_id": "56002",
+        "stop_name": "Douglas-B.-Floreani / Etingin"
+      },
+      {
+        "stop_id": "55921",
+        "stop_name": "Station Du Collège (Ouimet / Saint-Louis)"
+      }
+    ]
+  }
+]

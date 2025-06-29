@@ -1,0 +1,244 @@
+[
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "53051",
+        "stop_name": "Station Papineau (Dorion / Sainte-Catherine)"
+      },
+      {
+        "stop_id": "53045",
+        "stop_name": "De Lorimier / De Maisonneuve"
+      },
+      {
+        "stop_id": "53010",
+        "stop_name": "De Lorimier / Logan"
+      },
+      {
+        "stop_id": "52895",
+        "stop_name": "De Lorimier / Ontario"
+      },
+      {
+        "stop_id": "52813",
+        "stop_name": "De Lorimier / de Rouen"
+      },
+      {
+        "stop_id": "61295",
+        "stop_name": "De Lorimier / Sherbrooke"
+      },
+      {
+        "stop_id": "52637",
+        "stop_name": "De Lorimier / Gauthier"
+      },
+      {
+        "stop_id": "52561",
+        "stop_name": "De Lorimier / Rachel"
+      },
+      {
+        "stop_id": "52456",
+        "stop_name": "De Lorimier / Marie-Anne"
+      },
+      {
+        "stop_id": "52380",
+        "stop_name": "De Lorimier / du Mont-Royal"
+      },
+      {
+        "stop_id": "52267",
+        "stop_name": "De Lorimier / Gilford"
+      },
+      {
+        "stop_id": "52220",
+        "stop_name": "De Lorimier / Saint-Joseph"
+      },
+      {
+        "stop_id": "52181",
+        "stop_name": "De Lorimier / Laurier"
+      },
+      {
+        "stop_id": "52087",
+        "stop_name": "De Lorimier / Masson"
+      },
+      {
+        "stop_id": "51953",
+        "stop_name": "De Lorimier / Holt"
+      },
+      {
+        "stop_id": "51858",
+        "stop_name": "De Lorimier / Rosemont"
+      },
+      {
+        "stop_id": "51824",
+        "stop_name": "De Lorimier / de Bellechasse"
+      },
+      {
+        "stop_id": "51738",
+        "stop_name": "De Lorimier / Beaubien"
+      },
+      {
+        "stop_id": "51651",
+        "stop_name": "De Lorimier / Saint-Zotique"
+      },
+      {
+        "stop_id": "51579",
+        "stop_name": "De Lorimier / Bélanger"
+      },
+      {
+        "stop_id": "51497",
+        "stop_name": "De Lorimier / Jean-Talon"
+      },
+      {
+        "stop_id": "54320",
+        "stop_name": "De Lorimier / Everett"
+      },
+      {
+        "stop_id": "51351",
+        "stop_name": "De Lorimier / Villeray"
+      },
+      {
+        "stop_id": "51308",
+        "stop_name": "De Lorimier / Tillemont"
+      },
+      {
+        "stop_id": "51260",
+        "stop_name": "De Lorimier / Jarry"
+      },
+      {
+        "stop_id": "51233",
+        "stop_name": "De Lorimier / Crémazie"
+      }
+    ]
+  },
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "51233",
+        "stop_name": "De Lorimier / Crémazie"
+      },
+      {
+        "stop_id": "51200",
+        "stop_name": "Crémazie / Chabot"
+      },
+      {
+        "stop_id": "51105",
+        "stop_name": "Crémazie / Fabre"
+      },
+      {
+        "stop_id": "51178",
+        "stop_name": "Crémazie / Papineau"
+      },
+      {
+        "stop_id": "51223",
+        "stop_name": "Crémazie / de Bordeaux"
+      },
+      {
+        "stop_id": "51262",
+        "stop_name": "De Lorimier / Jarry"
+      },
+      {
+        "stop_id": "51309",
+        "stop_name": "De Lorimier / Tillemont"
+      },
+      {
+        "stop_id": "51353",
+        "stop_name": "De Lorimier / Villeray"
+      },
+      {
+        "stop_id": "54321",
+        "stop_name": "De Lorimier / Everett"
+      },
+      {
+        "stop_id": "51499",
+        "stop_name": "De Lorimier / Jean-Talon"
+      },
+      {
+        "stop_id": "51581",
+        "stop_name": "De Lorimier / Bélanger"
+      },
+      {
+        "stop_id": "51652",
+        "stop_name": "De Lorimier / Saint-Zotique"
+      },
+      {
+        "stop_id": "51740",
+        "stop_name": "De Lorimier / Beaubien"
+      },
+      {
+        "stop_id": "51825",
+        "stop_name": "De Lorimier / de Bellechasse"
+      },
+      {
+        "stop_id": "51860",
+        "stop_name": "De Lorimier / Rosemont"
+      },
+      {
+        "stop_id": "51954",
+        "stop_name": "De Lorimier / Holt"
+      },
+      {
+        "stop_id": "52089",
+        "stop_name": "De Lorimier / Masson"
+      },
+      {
+        "stop_id": "52182",
+        "stop_name": "De Lorimier / Laurier"
+      },
+      {
+        "stop_id": "52222",
+        "stop_name": "De Lorimier / Saint-Joseph"
+      },
+      {
+        "stop_id": "52268",
+        "stop_name": "De Lorimier / Gilford"
+      },
+      {
+        "stop_id": "52382",
+        "stop_name": "De Lorimier / du Mont-Royal"
+      },
+      {
+        "stop_id": "52457",
+        "stop_name": "De Lorimier / Marie-Anne"
+      },
+      {
+        "stop_id": "52563",
+        "stop_name": "De Lorimier / Rachel"
+      },
+      {
+        "stop_id": "52614",
+        "stop_name": "Rachel / Parthenais"
+      },
+      {
+        "stop_id": "52685",
+        "stop_name": "Parthenais / Gauthier"
+      },
+      {
+        "stop_id": "52742",
+        "stop_name": "Sherbrooke / Fullum"
+      },
+      {
+        "stop_id": "61889",
+        "stop_name": "D'Iberville / de Rouen"
+      },
+      {
+        "stop_id": "52964",
+        "stop_name": "Ontario / Fullum"
+      },
+      {
+        "stop_id": "53033",
+        "stop_name": "Parthenais / Logan"
+      },
+      {
+        "stop_id": "53063",
+        "stop_name": "Parthenais / De Maisonneuve"
+      },
+      {
+        "stop_id": "53046",
+        "stop_name": "De Maisonneuve / De Lorimier"
+      },
+      {
+        "stop_id": "53051",
+        "stop_name": "Station Papineau (Dorion / Sainte-Catherine)"
+      }
+    ]
+  }
+]

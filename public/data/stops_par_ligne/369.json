@@ -1,0 +1,308 @@
+[
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "56301",
+        "stop_name": "Station Atwater"
+      },
+      {
+        "stop_id": "52227",
+        "stop_name": "René-Lévesque / du Fort"
+      },
+      {
+        "stop_id": "52286",
+        "stop_name": "René-Lévesque / Saint-Mathieu"
+      },
+      {
+        "stop_id": "52330",
+        "stop_name": "Guy / René-Lévesque"
+      },
+      {
+        "stop_id": "52201",
+        "stop_name": "Station Guy-Concordia (Guy / De Maisonneuve)"
+      },
+      {
+        "stop_id": "52113",
+        "stop_name": "de la Côte-des-Neiges / Sherbrooke"
+      },
+      {
+        "stop_id": "52044",
+        "stop_name": "de la Côte-des-Neiges / Summerhill"
+      },
+      {
+        "stop_id": "51984",
+        "stop_name": "de la Côte-des-Neiges / du Docteur-Penfield"
+      },
+      {
+        "stop_id": "53761",
+        "stop_name": "des Pins / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "51840",
+        "stop_name": "de la Côte-des-Neiges / Cedar"
+      },
+      {
+        "stop_id": "51732",
+        "stop_name": "de la Côte-des-Neiges / The Boulevard"
+      },
+      {
+        "stop_id": "51664",
+        "stop_name": "de la Côte-des-Neiges / Hill Park"
+      },
+      {
+        "stop_id": "51626",
+        "stop_name": "de la Côte-des-Neiges / Blueridge"
+      },
+      {
+        "stop_id": "51545",
+        "stop_name": "de la Côte-des-Neiges / Belvédère"
+      },
+      {
+        "stop_id": "62119",
+        "stop_name": "de la Côte-des-Neiges / Remembrance"
+      },
+      {
+        "stop_id": "51486",
+        "stop_name": "de la Côte-des-Neiges / Forest Hill"
+      },
+      {
+        "stop_id": "53837",
+        "stop_name": "Cimetière Notre-Dame-des-Neiges"
+      },
+      {
+        "stop_id": "51426",
+        "stop_name": "de la Côte-des-Neiges / Ridgewood"
+      },
+      {
+        "stop_id": "51321",
+        "stop_name": "de la Côte-des-Neiges / Decelles"
+      },
+      {
+        "stop_id": "51251",
+        "stop_name": "de la Côte-des-Neiges / Queen-Mary"
+      },
+      {
+        "stop_id": "51186",
+        "stop_name": "de la Côte-des-Neiges / Jean-Brillant"
+      },
+      {
+        "stop_id": "51155",
+        "stop_name": "Station Côte-des-Neiges (Côte-des-Neiges / Lacombe"
+      },
+      {
+        "stop_id": "51101",
+        "stop_name": "de la Côte-des-Neiges / Saint-Kevin"
+      },
+      {
+        "stop_id": "51045",
+        "stop_name": "de la Côte-des-Neiges / Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "53864",
+        "stop_name": "de la Côte-des-Neiges / De La Peltrie"
+      },
+      {
+        "stop_id": "50940",
+        "stop_name": "de la Côte-des-Neiges / Van Horne"
+      },
+      {
+        "stop_id": "50903",
+        "stop_name": "de la Côte-des-Neiges / Carlton"
+      },
+      {
+        "stop_id": "50863",
+        "stop_name": "de la Côte-des-Neiges / Barclay"
+      },
+      {
+        "stop_id": "50789",
+        "stop_name": "de la Côte-des-Neiges / Mackenzie"
+      },
+      {
+        "stop_id": "54067",
+        "stop_name": "Jean-Talon / de Nancy"
+      },
+      {
+        "stop_id": "56104",
+        "stop_name": "Jean-Talon / Lucerne"
+      },
+      {
+        "stop_id": "50608",
+        "stop_name": "Jean-Talon / de la Savane"
+      },
+      {
+        "stop_id": "50581",
+        "stop_name": "Jean-Talon / Victoria"
+      },
+      {
+        "stop_id": "53892",
+        "stop_name": "Jean-Talon / No 5005"
+      },
+      {
+        "stop_id": "50531",
+        "stop_name": "Jean-Talon / Mountain Sights"
+      },
+      {
+        "stop_id": "50500",
+        "stop_name": "Mountain Sights / Buchan"
+      },
+      {
+        "stop_id": "50476",
+        "stop_name": "Paré / Décarie"
+      },
+      {
+        "stop_id": "54195",
+        "stop_name": "Station Namur (Jean-Talon / Décarie)"
+      }
+    ]
+  },
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "54195",
+        "stop_name": "Station Namur (Jean-Talon / Décarie)"
+      },
+      {
+        "stop_id": "53776",
+        "stop_name": "Jean-Talon / No 5000"
+      },
+      {
+        "stop_id": "50583",
+        "stop_name": "Jean-Talon / Victoria"
+      },
+      {
+        "stop_id": "50609",
+        "stop_name": "Jean-Talon / de la Savane"
+      },
+      {
+        "stop_id": "54318",
+        "stop_name": "Jean-Talon / Lucerne"
+      },
+      {
+        "stop_id": "54068",
+        "stop_name": "Jean-Talon / de Nancy"
+      },
+      {
+        "stop_id": "50810",
+        "stop_name": "de la Côte-des-Neiges / de Bedford"
+      },
+      {
+        "stop_id": "50865",
+        "stop_name": "de la Côte-des-Neiges / Barclay"
+      },
+      {
+        "stop_id": "50904",
+        "stop_name": "de la Côte-des-Neiges / Carlton"
+      },
+      {
+        "stop_id": "50942",
+        "stop_name": "de la Côte-des-Neiges / Van Horne"
+      },
+      {
+        "stop_id": "53865",
+        "stop_name": "de la Côte-des-Neiges / De La Peltrie"
+      },
+      {
+        "stop_id": "51047",
+        "stop_name": "de la Côte-des-Neiges / Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "51102",
+        "stop_name": "de la Côte-des-Neiges / Saint-Kevin"
+      },
+      {
+        "stop_id": "51156",
+        "stop_name": "de la Côte-des-Neiges / Lacombe"
+      },
+      {
+        "stop_id": "51187",
+        "stop_name": "Station Côte-des-Neiges"
+      },
+      {
+        "stop_id": "51253",
+        "stop_name": "de la Côte-des-Neiges / Queen-Mary"
+      },
+      {
+        "stop_id": "51391",
+        "stop_name": "de la Côte-des-Neiges / No 4858"
+      },
+      {
+        "stop_id": "51427",
+        "stop_name": "de la Côte-des-Neiges / Ridgewood"
+      },
+      {
+        "stop_id": "51487",
+        "stop_name": "de la Côte-des-Neiges / Forest Hill"
+      },
+      {
+        "stop_id": "51546",
+        "stop_name": "de la Côte-des-Neiges / Remembrance"
+      },
+      {
+        "stop_id": "62143",
+        "stop_name": "de la Côte-des-Neiges / Belvédère"
+      },
+      {
+        "stop_id": "51627",
+        "stop_name": "de la Côte-des-Neiges / Blueridge"
+      },
+      {
+        "stop_id": "51653",
+        "stop_name": "de la Côte-des-Neiges / Gage"
+      },
+      {
+        "stop_id": "51715",
+        "stop_name": "McDougall / The Boulevard"
+      },
+      {
+        "stop_id": "51841",
+        "stop_name": "de la Côte-des-Neiges / Cedar"
+      },
+      {
+        "stop_id": "51923",
+        "stop_name": "du Docteur-Penfield / Atwater"
+      },
+      {
+        "stop_id": "51985",
+        "stop_name": "du Docteur-Penfield / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "52045",
+        "stop_name": "de la Côte-des-Neiges / Summerhill"
+      },
+      {
+        "stop_id": "52096",
+        "stop_name": "Saint-Mathieu / Sherbrooke"
+      },
+      {
+        "stop_id": "52147",
+        "stop_name": "Station Guy-Concordia (St-Mathieu/De Maisonneuve)"
+      },
+      {
+        "stop_id": "52196",
+        "stop_name": "Saint-Mathieu / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52285",
+        "stop_name": "Saint-Mathieu / René-Lévesque"
+      },
+      {
+        "stop_id": "52198",
+        "stop_name": "René-Lévesque / Seymour"
+      },
+      {
+        "stop_id": "52149",
+        "stop_name": "René-Lévesque / du Sussex"
+      },
+      {
+        "stop_id": "52078",
+        "stop_name": "René-Lévesque / Atwater"
+      },
+      {
+        "stop_id": "56301",
+        "stop_name": "Station Atwater"
+      }
+    ]
+  }
+]

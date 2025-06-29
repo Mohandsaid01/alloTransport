@@ -1,0 +1,332 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "61985",
+        "stop_name": "Gare Roxboro-Pierrefonds"
+      },
+      {
+        "stop_id": "58024",
+        "stop_name": "Gouin / 5e Avenue"
+      },
+      {
+        "stop_id": "58020",
+        "stop_name": "Gouin / 8e Avenue"
+      },
+      {
+        "stop_id": "58203",
+        "stop_name": "Gouin / de Pierrefonds"
+      },
+      {
+        "stop_id": "58196",
+        "stop_name": "des Sources / Gouin"
+      },
+      {
+        "stop_id": "58201",
+        "stop_name": "des Sources / de Pierrefonds"
+      },
+      {
+        "stop_id": "58206",
+        "stop_name": "des Sources / Ross"
+      },
+      {
+        "stop_id": "57894",
+        "stop_name": "des Sources / Anselme-Lavigne"
+      },
+      {
+        "stop_id": "57898",
+        "stop_name": "des Sources / Belcourt"
+      },
+      {
+        "stop_id": "58001",
+        "stop_name": "des Sources / 14e Rue"
+      },
+      {
+        "stop_id": "57906",
+        "stop_name": "des Sources / Roger-Pilon"
+      },
+      {
+        "stop_id": "57912",
+        "stop_name": "des Sources / Churchill"
+      },
+      {
+        "stop_id": "57924",
+        "stop_name": "des Sources / Hyman"
+      },
+      {
+        "stop_id": "57932",
+        "stop_name": "des Sources / de Salaberry"
+      },
+      {
+        "stop_id": "57945",
+        "stop_name": "des Sources / Brunswick"
+      },
+      {
+        "stop_id": "57369",
+        "stop_name": "des Sources / Hymus"
+      },
+      {
+        "stop_id": "57781",
+        "stop_name": "des Sources / Avro"
+      },
+      {
+        "stop_id": "57596",
+        "stop_name": "des Sources / de l'Aviation"
+      },
+      {
+        "stop_id": "57597",
+        "stop_name": "des Sources / Avro"
+      },
+      {
+        "stop_id": "57755",
+        "stop_name": "des Sources / Saint-Louis"
+      },
+      {
+        "stop_id": "57791",
+        "stop_name": "des Sources / No 1733"
+      },
+      {
+        "stop_id": "57760",
+        "stop_name": "des Sources / Belmont"
+      },
+      {
+        "stop_id": "57762",
+        "stop_name": "des Sources / Chanteclerc"
+      },
+      {
+        "stop_id": "57381",
+        "stop_name": "Herron / Strathmore"
+      },
+      {
+        "stop_id": "57396",
+        "stop_name": "Herron / Neptune"
+      },
+      {
+        "stop_id": "57398",
+        "stop_name": "Neptune / Nightingale"
+      },
+      {
+        "stop_id": "57364",
+        "stop_name": "Neptune / Carson"
+      },
+      {
+        "stop_id": "57400",
+        "stop_name": "Neptune / Bord-du-Lac"
+      },
+      {
+        "stop_id": "57415",
+        "stop_name": "Bord-du-Lac / Stream"
+      },
+      {
+        "stop_id": "57426",
+        "stop_name": "Bord-du-Lac / Saint-Louis"
+      },
+      {
+        "stop_id": "57429",
+        "stop_name": "Bord-du-Lac / Pine Beach"
+      },
+      {
+        "stop_id": "57437",
+        "stop_name": "Bord-du-Lac / Allan Point"
+      },
+      {
+        "stop_id": "57446",
+        "stop_name": "Bord-du-Lac / Claude"
+      },
+      {
+        "stop_id": "57452",
+        "stop_name": "Bord-du-Lac / McConnell"
+      },
+      {
+        "stop_id": "57460",
+        "stop_name": "Bord-du-Lac / Brunet"
+      },
+      {
+        "stop_id": "60627",
+        "stop_name": "Dorval / No 150"
+      },
+      {
+        "stop_id": "57464",
+        "stop_name": "Dorval / Dawson"
+      },
+      {
+        "stop_id": "57461",
+        "stop_name": "Dorval / Carson"
+      },
+      {
+        "stop_id": "57491",
+        "stop_name": "Dorval / No 352"
+      },
+      {
+        "stop_id": "57506",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "62027",
+        "stop_name": "YUL Aéroport Montréal-Trudeau"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "62027",
+        "stop_name": "YUL Aéroport Montréal-Trudeau"
+      },
+      {
+        "stop_id": "57536",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "57462",
+        "stop_name": "Dorval / Carson"
+      },
+      {
+        "stop_id": "57465",
+        "stop_name": "Dorval / Dawson"
+      },
+      {
+        "stop_id": "57550",
+        "stop_name": "Dorval / No 135"
+      },
+      {
+        "stop_id": "57459",
+        "stop_name": "Bord-du-Lac / Brunet"
+      },
+      {
+        "stop_id": "57451",
+        "stop_name": "Bord-du-Lac / McConnell"
+      },
+      {
+        "stop_id": "57447",
+        "stop_name": "Bord-du-Lac / Claude"
+      },
+      {
+        "stop_id": "57436",
+        "stop_name": "Bord-du-Lac / Allan Point"
+      },
+      {
+        "stop_id": "57428",
+        "stop_name": "Bord-du-Lac / Pine Beach"
+      },
+      {
+        "stop_id": "57427",
+        "stop_name": "Bord-du-Lac / Saint-Louis"
+      },
+      {
+        "stop_id": "57414",
+        "stop_name": "Bord-du-Lac / Stream"
+      },
+      {
+        "stop_id": "57399",
+        "stop_name": "Bord-du-Lac / Neptune"
+      },
+      {
+        "stop_id": "57390",
+        "stop_name": "Bord-du-Lac / Thrush"
+      },
+      {
+        "stop_id": "57382",
+        "stop_name": "Bord-du-Lac / Lake"
+      },
+      {
+        "stop_id": "57377",
+        "stop_name": "Bord-du-Lac / de l'Église"
+      },
+      {
+        "stop_id": "57763",
+        "stop_name": "Bord-du-Lac / Lakebreeze"
+      },
+      {
+        "stop_id": "57761",
+        "stop_name": "des Sources / Chanteclerc"
+      },
+      {
+        "stop_id": "57759",
+        "stop_name": "des Sources / Belmont"
+      },
+      {
+        "stop_id": "57366",
+        "stop_name": "des Sources / No 1733"
+      },
+      {
+        "stop_id": "57756",
+        "stop_name": "des Sources / Reverchon"
+      },
+      {
+        "stop_id": "57598",
+        "stop_name": "des Sources / Avro"
+      },
+      {
+        "stop_id": "57783",
+        "stop_name": "des Sources / de l'Aviation"
+      },
+      {
+        "stop_id": "57782",
+        "stop_name": "des Sources / Avro"
+      },
+      {
+        "stop_id": "57367",
+        "stop_name": "des Sources / Transcanadienne"
+      },
+      {
+        "stop_id": "57947",
+        "stop_name": "des Sources / Brunswick"
+      },
+      {
+        "stop_id": "57930",
+        "stop_name": "des Sources / de Salaberry"
+      },
+      {
+        "stop_id": "57923",
+        "stop_name": "des Sources / Hyman"
+      },
+      {
+        "stop_id": "57910",
+        "stop_name": "des Sources / Sunnydale"
+      },
+      {
+        "stop_id": "57905",
+        "stop_name": "des Sources / Roger-Pilon"
+      },
+      {
+        "stop_id": "58000",
+        "stop_name": "des Sources / 14e Rue"
+      },
+      {
+        "stop_id": "57999",
+        "stop_name": "des Sources / 9e Rue"
+      },
+      {
+        "stop_id": "57893",
+        "stop_name": "des Sources / Anselme-Lavigne"
+      },
+      {
+        "stop_id": "58205",
+        "stop_name": "des Sources / Ross"
+      },
+      {
+        "stop_id": "58198",
+        "stop_name": "des Sources / de Pierrefonds"
+      },
+      {
+        "stop_id": "58202",
+        "stop_name": "de Pierrefonds / Gouin"
+      },
+      {
+        "stop_id": "58013",
+        "stop_name": "Gouin / 6e Avenue"
+      },
+      {
+        "stop_id": "58208",
+        "stop_name": "Gare Roxboro-Pierrefonds"
+      },
+      {
+        "stop_id": "61985",
+        "stop_name": "Gare Roxboro-Pierrefonds"
+      }
+    ]
+  }
+]

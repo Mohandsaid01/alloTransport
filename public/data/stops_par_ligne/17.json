@@ -1,0 +1,304 @@
+[
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "51986",
+        "stop_name": "Station Place-Saint-Henri / Saint-Ferdinand"
+      },
+      {
+        "stop_id": "51916",
+        "stop_name": "Saint-Ferdinand / Saint-Antoine"
+      },
+      {
+        "stop_id": "51885",
+        "stop_name": "Saint-Antoine / Sainte-Marguerite"
+      },
+      {
+        "stop_id": "51851",
+        "stop_name": "Saint-Antoine / Lenoir"
+      },
+      {
+        "stop_id": "51789",
+        "stop_name": "Saint-Antoine / De Courcelle"
+      },
+      {
+        "stop_id": "51701",
+        "stop_name": "Saint-Jacques / Saint-Rémi"
+      },
+      {
+        "stop_id": "51523",
+        "stop_name": "Décarie / De Maisonneuve"
+      },
+      {
+        "stop_id": "51460",
+        "stop_name": "Décarie / Sherbrooke"
+      },
+      {
+        "stop_id": "51396",
+        "stop_name": "Sherbrooke / Girouard"
+      },
+      {
+        "stop_id": "51334",
+        "stop_name": "Girouard / Côte-Saint-Antoine"
+      },
+      {
+        "stop_id": "51291",
+        "stop_name": "Girouard / Notre-Dame-de-Grâce"
+      },
+      {
+        "stop_id": "51235",
+        "stop_name": "Girouard / Duquette"
+      },
+      {
+        "stop_id": "51201",
+        "stop_name": "Girouard / de Monkland"
+      },
+      {
+        "stop_id": "51128",
+        "stop_name": "Girouard / de Terrebonne"
+      },
+      {
+        "stop_id": "51136",
+        "stop_name": "de Terrebonne / Côte-Saint-Luc"
+      },
+      {
+        "stop_id": "51169",
+        "stop_name": "Décarie / Jacques-Grenier"
+      },
+      {
+        "stop_id": "51073",
+        "stop_name": "Décarie / Snowdon"
+      },
+      {
+        "stop_id": "51018",
+        "stop_name": "Décarie / Queen-Mary"
+      },
+      {
+        "stop_id": "50950",
+        "stop_name": "Décarie / Isabella"
+      },
+      {
+        "stop_id": "50905",
+        "stop_name": "Décarie / Édouard-Montpetit"
+      },
+      {
+        "stop_id": "50835",
+        "stop_name": "Décarie / Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "50790",
+        "stop_name": "Décarie / Bourret"
+      },
+      {
+        "stop_id": "50700",
+        "stop_name": "Décarie / Van Horne"
+      },
+      {
+        "stop_id": "50628",
+        "stop_name": "Décarie / Plamondon"
+      },
+      {
+        "stop_id": "50591",
+        "stop_name": "Décarie / Vézina"
+      },
+      {
+        "stop_id": "50510",
+        "stop_name": "Station Namur (Décarie / Jean-Talon)"
+      },
+      {
+        "stop_id": "50475",
+        "stop_name": "Décarie / Paré"
+      },
+      {
+        "stop_id": "50435",
+        "stop_name": "Décarie / Ferrier"
+      },
+      {
+        "stop_id": "50410",
+        "stop_name": "Décarie / de la Savane"
+      },
+      {
+        "stop_id": "50377",
+        "stop_name": "Station De la Savane (Décarie / de Sorel)"
+      },
+      {
+        "stop_id": "56023",
+        "stop_name": "Décarie / Duncan"
+      },
+      {
+        "stop_id": "56140",
+        "stop_name": "Côte-de-Liesse / Décarie"
+      },
+      {
+        "stop_id": "55827",
+        "stop_name": "Décarie / No 255"
+      },
+      {
+        "stop_id": "55717",
+        "stop_name": "Station Du Collège (Décarie / Cartier)"
+      },
+      {
+        "stop_id": "55703",
+        "stop_name": "Station Du Collège (Décarie / du Collège)"
+      },
+      {
+        "stop_id": "55675",
+        "stop_name": "Décarie / de l'Église"
+      },
+      {
+        "stop_id": "55658",
+        "stop_name": "Décarie / Decelles"
+      },
+      {
+        "stop_id": "55904",
+        "stop_name": "Station Côte-Vertu (Décarie / Edouard-Laurin)"
+      }
+    ]
+  },
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "55904",
+        "stop_name": "Station Côte-Vertu (Décarie / Edouard-Laurin)"
+      },
+      {
+        "stop_id": "55677",
+        "stop_name": "Décarie / de l'Église"
+      },
+      {
+        "stop_id": "55825",
+        "stop_name": "Décarie / Beaudet"
+      },
+      {
+        "stop_id": "55706",
+        "stop_name": "Station Du Collège (Décarie / du Collège)"
+      },
+      {
+        "stop_id": "55723",
+        "stop_name": "Station Du Collège (Décarie / Saint-Louis)"
+      },
+      {
+        "stop_id": "55826",
+        "stop_name": "Décarie / No 290"
+      },
+      {
+        "stop_id": "56116",
+        "stop_name": "Décarie / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "56105",
+        "stop_name": "Décarie / No 8400"
+      },
+      {
+        "stop_id": "50398",
+        "stop_name": "Décarie / Royalmount"
+      },
+      {
+        "stop_id": "50436",
+        "stop_name": "Décarie / Ferrier"
+      },
+      {
+        "stop_id": "50477",
+        "stop_name": "Décarie / Paré"
+      },
+      {
+        "stop_id": "50508",
+        "stop_name": "Station Namur (Décarie / Jean-Talon)"
+      },
+      {
+        "stop_id": "50599",
+        "stop_name": "Décarie / Vézina"
+      },
+      {
+        "stop_id": "53831",
+        "stop_name": "Décarie / Kenmore"
+      },
+      {
+        "stop_id": "50702",
+        "stop_name": "Décarie / Van Horne"
+      },
+      {
+        "stop_id": "54226",
+        "stop_name": "Décarie / Cochrane"
+      },
+      {
+        "stop_id": "50806",
+        "stop_name": "Décarie / Lucy"
+      },
+      {
+        "stop_id": "53881",
+        "stop_name": "Décarie / Dupuis"
+      },
+      {
+        "stop_id": "50906",
+        "stop_name": "Décarie / Édouard-Montpetit"
+      },
+      {
+        "stop_id": "50951",
+        "stop_name": "Décarie / Isabella"
+      },
+      {
+        "stop_id": "51019",
+        "stop_name": "Décarie / Queen-Mary"
+      },
+      {
+        "stop_id": "51074",
+        "stop_name": "Décarie / Snowdon"
+      },
+      {
+        "stop_id": "51180",
+        "stop_name": "Décarie / Côte-Saint-Luc"
+      },
+      {
+        "stop_id": "51137",
+        "stop_name": "de Terrebonne / Earnscliffe"
+      },
+      {
+        "stop_id": "51129",
+        "stop_name": "Girouard / Guillaume-Couture"
+      },
+      {
+        "stop_id": "51203",
+        "stop_name": "Girouard / de Monkland"
+      },
+      {
+        "stop_id": "51236",
+        "stop_name": "Girouard / Duquette"
+      },
+      {
+        "stop_id": "51292",
+        "stop_name": "Girouard / Notre-Dame-de-Grâce"
+      },
+      {
+        "stop_id": "51333",
+        "stop_name": "Girouard / Côte-Saint-Antoine"
+      },
+      {
+        "stop_id": "54215",
+        "stop_name": "Girouard / Sherbrooke"
+      },
+      {
+        "stop_id": "61992",
+        "stop_name": "Saint-Jacques / Décarie"
+      },
+      {
+        "stop_id": "51826",
+        "stop_name": "Saint-Jacques / Delinelle"
+      },
+      {
+        "stop_id": "51870",
+        "stop_name": "Saint-Jacques / Lenoir"
+      },
+      {
+        "stop_id": "51925",
+        "stop_name": "Saint-Jacques / Sainte-Marguerite"
+      },
+      {
+        "stop_id": "51986",
+        "stop_name": "Station Place-Saint-Henri / Saint-Ferdinand"
+      }
+    ]
+  }
+]

@@ -1,0 +1,831 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "50544",
+        "stop_name": "Vézina / Macdonald"
+      },
+      {
+        "stop_id": "50584",
+        "stop_name": "Macdonald / Plamondon"
+      },
+      {
+        "stop_id": "50642",
+        "stop_name": "Macdonald / Fleet"
+      },
+      {
+        "stop_id": "50714",
+        "stop_name": "Macdonald / Hampstead"
+      },
+      {
+        "stop_id": "50795",
+        "stop_name": "Macdonald / Langhorne"
+      },
+      {
+        "stop_id": "56416",
+        "stop_name": "Macdonald / Isabella"
+      },
+      {
+        "stop_id": "56417",
+        "stop_name": "Macdonald / Queen-Mary"
+      },
+      {
+        "stop_id": "50986",
+        "stop_name": "Queen-Mary / Earnscliffe"
+      },
+      {
+        "stop_id": "51020",
+        "stop_name": "Queen-Mary / Décarie"
+      },
+      {
+        "stop_id": "51032",
+        "stop_name": "Queen-Mary / Trans Island"
+      },
+      {
+        "stop_id": "51051",
+        "stop_name": "Station Snowdon (Queen-Mary / Circle)"
+      },
+      {
+        "stop_id": "51086",
+        "stop_name": "Queen-Mary / Lemieux"
+      },
+      {
+        "stop_id": "51119",
+        "stop_name": "Queen-Mary / Victoria"
+      },
+      {
+        "stop_id": "51146",
+        "stop_name": "Queen-Mary / Roslyn"
+      },
+      {
+        "stop_id": "51175",
+        "stop_name": "Queen-Mary / Cedar Crescent"
+      },
+      {
+        "stop_id": "53677",
+        "stop_name": "Queen-Mary / du Frère-André (Oratoire St-Joseph)"
+      },
+      {
+        "stop_id": "51267",
+        "stop_name": "Queen-Mary / Gatineau"
+      },
+      {
+        "stop_id": "51279",
+        "stop_name": "Place du 6-décembre-1989 (Queen-Mary / Decelles)"
+      },
+      {
+        "stop_id": "51391",
+        "stop_name": "de la Côte-des-Neiges / No 4858"
+      },
+      {
+        "stop_id": "51427",
+        "stop_name": "de la Côte-des-Neiges / Ridgewood"
+      },
+      {
+        "stop_id": "51487",
+        "stop_name": "de la Côte-des-Neiges / Forest Hill"
+      },
+      {
+        "stop_id": "51546",
+        "stop_name": "de la Côte-des-Neiges / Remembrance"
+      },
+      {
+        "stop_id": "62143",
+        "stop_name": "de la Côte-des-Neiges / Belvédère"
+      },
+      {
+        "stop_id": "51627",
+        "stop_name": "de la Côte-des-Neiges / Blueridge"
+      },
+      {
+        "stop_id": "51653",
+        "stop_name": "de la Côte-des-Neiges / Gage"
+      },
+      {
+        "stop_id": "51715",
+        "stop_name": "McDougall / The Boulevard"
+      },
+      {
+        "stop_id": "51841",
+        "stop_name": "de la Côte-des-Neiges / Cedar"
+      },
+      {
+        "stop_id": "51923",
+        "stop_name": "du Docteur-Penfield / Atwater"
+      },
+      {
+        "stop_id": "51985",
+        "stop_name": "du Docteur-Penfield / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "52045",
+        "stop_name": "de la Côte-des-Neiges / Summerhill"
+      },
+      {
+        "stop_id": "52096",
+        "stop_name": "Saint-Mathieu / Sherbrooke"
+      },
+      {
+        "stop_id": "52147",
+        "stop_name": "Station Guy-Concordia (St-Mathieu/De Maisonneuve)"
+      },
+      {
+        "stop_id": "52196",
+        "stop_name": "Saint-Mathieu / Sainte-Catherine"
+      },
+      {
+        "stop_id": "53762",
+        "stop_name": "Saint-Mathieu / Baile"
+      },
+      {
+        "stop_id": "52285",
+        "stop_name": "Saint-Mathieu / René-Lévesque"
+      },
+      {
+        "stop_id": "52330",
+        "stop_name": "Guy / René-Lévesque"
+      },
+      {
+        "stop_id": "52236",
+        "stop_name": "Guy / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52195",
+        "stop_name": "Station Guy-Concordia (Guy / De Maisonneuve)"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "52195",
+        "stop_name": "Station Guy-Concordia (Guy / De Maisonneuve)"
+      },
+      {
+        "stop_id": "52113",
+        "stop_name": "de la Côte-des-Neiges / Sherbrooke"
+      },
+      {
+        "stop_id": "52044",
+        "stop_name": "de la Côte-des-Neiges / Summerhill"
+      },
+      {
+        "stop_id": "51984",
+        "stop_name": "de la Côte-des-Neiges / du Docteur-Penfield"
+      },
+      {
+        "stop_id": "53761",
+        "stop_name": "des Pins / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "51840",
+        "stop_name": "de la Côte-des-Neiges / Cedar"
+      },
+      {
+        "stop_id": "51732",
+        "stop_name": "de la Côte-des-Neiges / The Boulevard"
+      },
+      {
+        "stop_id": "51664",
+        "stop_name": "de la Côte-des-Neiges / Hill Park"
+      },
+      {
+        "stop_id": "51626",
+        "stop_name": "de la Côte-des-Neiges / Blueridge"
+      },
+      {
+        "stop_id": "51545",
+        "stop_name": "de la Côte-des-Neiges / Belvédère"
+      },
+      {
+        "stop_id": "62119",
+        "stop_name": "de la Côte-des-Neiges / Remembrance"
+      },
+      {
+        "stop_id": "51486",
+        "stop_name": "de la Côte-des-Neiges / Forest Hill"
+      },
+      {
+        "stop_id": "53837",
+        "stop_name": "Cimetière Notre-Dame-des-Neiges"
+      },
+      {
+        "stop_id": "51426",
+        "stop_name": "de la Côte-des-Neiges / Ridgewood"
+      },
+      {
+        "stop_id": "51290",
+        "stop_name": "Decelles / Troie"
+      },
+      {
+        "stop_id": "51252",
+        "stop_name": "Queen-Mary / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "51254",
+        "stop_name": "Queen-Mary / Queen-Mary"
+      },
+      {
+        "stop_id": "53678",
+        "stop_name": "Queen-Mary / Frère-André (Oratoire St-Joseph)"
+      },
+      {
+        "stop_id": "51176",
+        "stop_name": "Queen-Mary / Cedar Crescent"
+      },
+      {
+        "stop_id": "51145",
+        "stop_name": "Queen-Mary / Roslyn"
+      },
+      {
+        "stop_id": "51117",
+        "stop_name": "Queen-Mary / Victoria"
+      },
+      {
+        "stop_id": "51081",
+        "stop_name": "Queen-Mary / Ponsard"
+      },
+      {
+        "stop_id": "51050",
+        "stop_name": "Station Snowdon (Queen-Mary / de Westbury)"
+      },
+      {
+        "stop_id": "51031",
+        "stop_name": "Queen-Mary / Trans Island"
+      },
+      {
+        "stop_id": "51003",
+        "stop_name": "Queen-Mary / Coolbrook"
+      },
+      {
+        "stop_id": "50966",
+        "stop_name": "Queen-Mary / Clanranald"
+      },
+      {
+        "stop_id": "50897",
+        "stop_name": "Clanranald / Isabella"
+      },
+      {
+        "stop_id": "54208",
+        "stop_name": "Clanranald / Dupuis"
+      },
+      {
+        "stop_id": "50728",
+        "stop_name": "Clanranald / Bourret"
+      },
+      {
+        "stop_id": "50658",
+        "stop_name": "Clanranald / Van Horne"
+      },
+      {
+        "stop_id": "50598",
+        "stop_name": "Clanranald / Plamondon"
+      },
+      {
+        "stop_id": "50550",
+        "stop_name": "Clanranald / Vézina"
+      },
+      {
+        "stop_id": "50544",
+        "stop_name": "Vézina / Macdonald"
+      },
+      {
+        "stop_id": "52285",
+        "stop_name": "Saint-Mathieu / René-Lévesque"
+      },
+      {
+        "stop_id": "52236",
+        "stop_name": "Guy / Sainte-Catherine"
+      }
+    ]
+  },
+  {
+    "direction": "Sud via Ridgewood",
+    "arrets": [
+      {
+        "stop_id": "50544",
+        "stop_name": "Vézina / Macdonald"
+      },
+      {
+        "stop_id": "50584",
+        "stop_name": "Macdonald / Plamondon"
+      },
+      {
+        "stop_id": "50642",
+        "stop_name": "Macdonald / Fleet"
+      },
+      {
+        "stop_id": "50714",
+        "stop_name": "Macdonald / Hampstead"
+      },
+      {
+        "stop_id": "50795",
+        "stop_name": "Macdonald / Langhorne"
+      },
+      {
+        "stop_id": "56416",
+        "stop_name": "Macdonald / Isabella"
+      },
+      {
+        "stop_id": "56417",
+        "stop_name": "Macdonald / Queen-Mary"
+      },
+      {
+        "stop_id": "50986",
+        "stop_name": "Queen-Mary / Earnscliffe"
+      },
+      {
+        "stop_id": "51020",
+        "stop_name": "Queen-Mary / Décarie"
+      },
+      {
+        "stop_id": "51032",
+        "stop_name": "Queen-Mary / Trans Island"
+      },
+      {
+        "stop_id": "51051",
+        "stop_name": "Station Snowdon (Queen-Mary / Circle)"
+      },
+      {
+        "stop_id": "51086",
+        "stop_name": "Queen-Mary / Lemieux"
+      },
+      {
+        "stop_id": "51119",
+        "stop_name": "Queen-Mary / Victoria"
+      },
+      {
+        "stop_id": "51146",
+        "stop_name": "Queen-Mary / Roslyn"
+      },
+      {
+        "stop_id": "51175",
+        "stop_name": "Queen-Mary / Cedar Crescent"
+      },
+      {
+        "stop_id": "53677",
+        "stop_name": "Queen-Mary / du Frère-André (Oratoire St-Joseph)"
+      },
+      {
+        "stop_id": "51267",
+        "stop_name": "Queen-Mary / Gatineau"
+      },
+      {
+        "stop_id": "51279",
+        "stop_name": "Place du 6-décembre-1989 (Queen-Mary / Decelles)"
+      },
+      {
+        "stop_id": "51391",
+        "stop_name": "de la Côte-des-Neiges / No 4858"
+      },
+      {
+        "stop_id": "51429",
+        "stop_name": "Ridgewood / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "53972",
+        "stop_name": "Ridgewood / No 3360"
+      },
+      {
+        "stop_id": "53836",
+        "stop_name": "Ridgewood / No 3440"
+      },
+      {
+        "stop_id": "53835",
+        "stop_name": "Ridgewood / No 3550"
+      },
+      {
+        "stop_id": "53834",
+        "stop_name": "Ridgewood / No 3600"
+      },
+      {
+        "stop_id": "53833",
+        "stop_name": "Ridgewood / No 3635"
+      },
+      {
+        "stop_id": "53741",
+        "stop_name": "Ridgewood / No 3600"
+      },
+      {
+        "stop_id": "53742",
+        "stop_name": "Ridgewood / No 3550"
+      },
+      {
+        "stop_id": "53971",
+        "stop_name": "Ridgewood / No 3440"
+      },
+      {
+        "stop_id": "53743",
+        "stop_name": "Ridgewood / No 3360"
+      },
+      {
+        "stop_id": "54078",
+        "stop_name": "Ridgewood / No 3280"
+      },
+      {
+        "stop_id": "51428",
+        "stop_name": "Ridgewood / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "51487",
+        "stop_name": "de la Côte-des-Neiges / Forest Hill"
+      },
+      {
+        "stop_id": "51546",
+        "stop_name": "de la Côte-des-Neiges / Remembrance"
+      },
+      {
+        "stop_id": "62143",
+        "stop_name": "de la Côte-des-Neiges / Belvédère"
+      },
+      {
+        "stop_id": "51627",
+        "stop_name": "de la Côte-des-Neiges / Blueridge"
+      },
+      {
+        "stop_id": "51653",
+        "stop_name": "de la Côte-des-Neiges / Gage"
+      },
+      {
+        "stop_id": "51715",
+        "stop_name": "McDougall / The Boulevard"
+      },
+      {
+        "stop_id": "51841",
+        "stop_name": "de la Côte-des-Neiges / Cedar"
+      },
+      {
+        "stop_id": "51923",
+        "stop_name": "du Docteur-Penfield / Atwater"
+      },
+      {
+        "stop_id": "51985",
+        "stop_name": "du Docteur-Penfield / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "52045",
+        "stop_name": "de la Côte-des-Neiges / Summerhill"
+      },
+      {
+        "stop_id": "52096",
+        "stop_name": "Saint-Mathieu / Sherbrooke"
+      },
+      {
+        "stop_id": "52147",
+        "stop_name": "Station Guy-Concordia (St-Mathieu/De Maisonneuve)"
+      },
+      {
+        "stop_id": "52196",
+        "stop_name": "Saint-Mathieu / Sainte-Catherine"
+      },
+      {
+        "stop_id": "53762",
+        "stop_name": "Saint-Mathieu / Baile"
+      },
+      {
+        "stop_id": "52285",
+        "stop_name": "Saint-Mathieu / René-Lévesque"
+      },
+      {
+        "stop_id": "52330",
+        "stop_name": "Guy / René-Lévesque"
+      },
+      {
+        "stop_id": "52236",
+        "stop_name": "Guy / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52195",
+        "stop_name": "Station Guy-Concordia (Guy / De Maisonneuve)"
+      }
+    ]
+  },
+  {
+    "direction": "Nord via Ridgewood",
+    "arrets": [
+      {
+        "stop_id": "52195",
+        "stop_name": "Station Guy-Concordia (Guy / De Maisonneuve)"
+      },
+      {
+        "stop_id": "52113",
+        "stop_name": "de la Côte-des-Neiges / Sherbrooke"
+      },
+      {
+        "stop_id": "52044",
+        "stop_name": "de la Côte-des-Neiges / Summerhill"
+      },
+      {
+        "stop_id": "51984",
+        "stop_name": "de la Côte-des-Neiges / du Docteur-Penfield"
+      },
+      {
+        "stop_id": "53761",
+        "stop_name": "des Pins / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "51840",
+        "stop_name": "de la Côte-des-Neiges / Cedar"
+      },
+      {
+        "stop_id": "51732",
+        "stop_name": "de la Côte-des-Neiges / The Boulevard"
+      },
+      {
+        "stop_id": "51664",
+        "stop_name": "de la Côte-des-Neiges / Hill Park"
+      },
+      {
+        "stop_id": "51626",
+        "stop_name": "de la Côte-des-Neiges / Blueridge"
+      },
+      {
+        "stop_id": "51545",
+        "stop_name": "de la Côte-des-Neiges / Belvédère"
+      },
+      {
+        "stop_id": "62119",
+        "stop_name": "de la Côte-des-Neiges / Remembrance"
+      },
+      {
+        "stop_id": "51486",
+        "stop_name": "de la Côte-des-Neiges / Forest Hill"
+      },
+      {
+        "stop_id": "53837",
+        "stop_name": "Cimetière Notre-Dame-des-Neiges"
+      },
+      {
+        "stop_id": "51426",
+        "stop_name": "de la Côte-des-Neiges / Ridgewood"
+      },
+      {
+        "stop_id": "51429",
+        "stop_name": "Ridgewood / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "53972",
+        "stop_name": "Ridgewood / No 3360"
+      },
+      {
+        "stop_id": "53836",
+        "stop_name": "Ridgewood / No 3440"
+      },
+      {
+        "stop_id": "53835",
+        "stop_name": "Ridgewood / No 3550"
+      },
+      {
+        "stop_id": "53834",
+        "stop_name": "Ridgewood / No 3600"
+      },
+      {
+        "stop_id": "53833",
+        "stop_name": "Ridgewood / No 3635"
+      },
+      {
+        "stop_id": "53741",
+        "stop_name": "Ridgewood / No 3600"
+      },
+      {
+        "stop_id": "53742",
+        "stop_name": "Ridgewood / No 3550"
+      },
+      {
+        "stop_id": "53971",
+        "stop_name": "Ridgewood / No 3440"
+      },
+      {
+        "stop_id": "53743",
+        "stop_name": "Ridgewood / No 3360"
+      },
+      {
+        "stop_id": "54078",
+        "stop_name": "Ridgewood / No 3280"
+      },
+      {
+        "stop_id": "51428",
+        "stop_name": "Ridgewood / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "51290",
+        "stop_name": "Decelles / Troie"
+      },
+      {
+        "stop_id": "51252",
+        "stop_name": "Queen-Mary / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "51254",
+        "stop_name": "Queen-Mary / Queen-Mary"
+      },
+      {
+        "stop_id": "53678",
+        "stop_name": "Queen-Mary / Frère-André (Oratoire St-Joseph)"
+      },
+      {
+        "stop_id": "51176",
+        "stop_name": "Queen-Mary / Cedar Crescent"
+      },
+      {
+        "stop_id": "51145",
+        "stop_name": "Queen-Mary / Roslyn"
+      },
+      {
+        "stop_id": "51117",
+        "stop_name": "Queen-Mary / Victoria"
+      },
+      {
+        "stop_id": "51081",
+        "stop_name": "Queen-Mary / Ponsard"
+      },
+      {
+        "stop_id": "51050",
+        "stop_name": "Station Snowdon (Queen-Mary / de Westbury)"
+      },
+      {
+        "stop_id": "51031",
+        "stop_name": "Queen-Mary / Trans Island"
+      },
+      {
+        "stop_id": "51003",
+        "stop_name": "Queen-Mary / Coolbrook"
+      },
+      {
+        "stop_id": "50966",
+        "stop_name": "Queen-Mary / Clanranald"
+      },
+      {
+        "stop_id": "50897",
+        "stop_name": "Clanranald / Isabella"
+      },
+      {
+        "stop_id": "54208",
+        "stop_name": "Clanranald / Dupuis"
+      },
+      {
+        "stop_id": "50728",
+        "stop_name": "Clanranald / Bourret"
+      },
+      {
+        "stop_id": "50658",
+        "stop_name": "Clanranald / Van Horne"
+      },
+      {
+        "stop_id": "50598",
+        "stop_name": "Clanranald / Plamondon"
+      },
+      {
+        "stop_id": "50550",
+        "stop_name": "Clanranald / Vézina"
+      },
+      {
+        "stop_id": "50544",
+        "stop_name": "Vézina / Macdonald"
+      }
+    ]
+  },
+  {
+    "direction": "Sud destination St-Mathieu / Baile",
+    "arrets": [
+      {
+        "stop_id": "50544",
+        "stop_name": "Vézina / Macdonald"
+      },
+      {
+        "stop_id": "50584",
+        "stop_name": "Macdonald / Plamondon"
+      },
+      {
+        "stop_id": "50642",
+        "stop_name": "Macdonald / Fleet"
+      },
+      {
+        "stop_id": "50714",
+        "stop_name": "Macdonald / Hampstead"
+      },
+      {
+        "stop_id": "50795",
+        "stop_name": "Macdonald / Langhorne"
+      },
+      {
+        "stop_id": "56416",
+        "stop_name": "Macdonald / Isabella"
+      },
+      {
+        "stop_id": "56417",
+        "stop_name": "Macdonald / Queen-Mary"
+      },
+      {
+        "stop_id": "50986",
+        "stop_name": "Queen-Mary / Earnscliffe"
+      },
+      {
+        "stop_id": "51020",
+        "stop_name": "Queen-Mary / Décarie"
+      },
+      {
+        "stop_id": "51032",
+        "stop_name": "Queen-Mary / Trans Island"
+      },
+      {
+        "stop_id": "51051",
+        "stop_name": "Station Snowdon (Queen-Mary / Circle)"
+      },
+      {
+        "stop_id": "51086",
+        "stop_name": "Queen-Mary / Lemieux"
+      },
+      {
+        "stop_id": "51119",
+        "stop_name": "Queen-Mary / Victoria"
+      },
+      {
+        "stop_id": "51146",
+        "stop_name": "Queen-Mary / Roslyn"
+      },
+      {
+        "stop_id": "51175",
+        "stop_name": "Queen-Mary / Cedar Crescent"
+      },
+      {
+        "stop_id": "53677",
+        "stop_name": "Queen-Mary / du Frère-André (Oratoire St-Joseph)"
+      },
+      {
+        "stop_id": "51267",
+        "stop_name": "Queen-Mary / Gatineau"
+      },
+      {
+        "stop_id": "51279",
+        "stop_name": "Place du 6-décembre-1989 (Queen-Mary / Decelles)"
+      },
+      {
+        "stop_id": "51391",
+        "stop_name": "de la Côte-des-Neiges / No 4858"
+      },
+      {
+        "stop_id": "51427",
+        "stop_name": "de la Côte-des-Neiges / Ridgewood"
+      },
+      {
+        "stop_id": "51487",
+        "stop_name": "de la Côte-des-Neiges / Forest Hill"
+      },
+      {
+        "stop_id": "51546",
+        "stop_name": "de la Côte-des-Neiges / Remembrance"
+      },
+      {
+        "stop_id": "62143",
+        "stop_name": "de la Côte-des-Neiges / Belvédère"
+      },
+      {
+        "stop_id": "51627",
+        "stop_name": "de la Côte-des-Neiges / Blueridge"
+      },
+      {
+        "stop_id": "51653",
+        "stop_name": "de la Côte-des-Neiges / Gage"
+      },
+      {
+        "stop_id": "51715",
+        "stop_name": "McDougall / The Boulevard"
+      },
+      {
+        "stop_id": "51841",
+        "stop_name": "de la Côte-des-Neiges / Cedar"
+      },
+      {
+        "stop_id": "51923",
+        "stop_name": "du Docteur-Penfield / Atwater"
+      },
+      {
+        "stop_id": "51985",
+        "stop_name": "du Docteur-Penfield / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "52045",
+        "stop_name": "de la Côte-des-Neiges / Summerhill"
+      },
+      {
+        "stop_id": "52096",
+        "stop_name": "Saint-Mathieu / Sherbrooke"
+      },
+      {
+        "stop_id": "52147",
+        "stop_name": "Station Guy-Concordia (St-Mathieu/De Maisonneuve)"
+      },
+      {
+        "stop_id": "52196",
+        "stop_name": "Saint-Mathieu / Sainte-Catherine"
+      },
+      {
+        "stop_id": "53762",
+        "stop_name": "Saint-Mathieu / Baile"
+      }
+    ]
+  }
+]

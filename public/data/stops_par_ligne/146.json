@@ -1,0 +1,409 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "53827",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50335",
+        "stop_name": "Henri-Bourassa / Chambord"
+      },
+      {
+        "stop_id": "50351",
+        "stop_name": "Henri-Bourassa / Christophe-Colomb"
+      },
+      {
+        "stop_id": "62169",
+        "stop_name": "Christophe-Colomb / Prieur"
+      },
+      {
+        "stop_id": "62170",
+        "stop_name": "Christophe-Colomb / Fleury"
+      },
+      {
+        "stop_id": "62171",
+        "stop_name": "Christophe-Colomb / Sauriol"
+      },
+      {
+        "stop_id": "62172",
+        "stop_name": "Christophe-Colomb / Sauvé"
+      },
+      {
+        "stop_id": "62173",
+        "stop_name": "Christophe-Colomb / de Louvain"
+      },
+      {
+        "stop_id": "50640",
+        "stop_name": "Christophe-Colomb / Chabanel"
+      },
+      {
+        "stop_id": "62174",
+        "stop_name": "Christophe-Colomb / Legendre"
+      },
+      {
+        "stop_id": "62176",
+        "stop_name": "Émile-Journault / Christophe-Colomb"
+      },
+      {
+        "stop_id": "53789",
+        "stop_name": "Complexe sportif Claude-Robillard"
+      },
+      {
+        "stop_id": "50708",
+        "stop_name": "Émile-Journault / Marcel-Cadieux"
+      },
+      {
+        "stop_id": "50679",
+        "stop_name": "Émile-Journault / Lajeunesse"
+      },
+      {
+        "stop_id": "50760",
+        "stop_name": "Station Crémazie Nord (St-Denis / Crémazie)"
+      },
+      {
+        "stop_id": "61760",
+        "stop_name": "Lajeunesse / Émile-Journault"
+      },
+      {
+        "stop_id": "50600",
+        "stop_name": "Legendre / Berri"
+      },
+      {
+        "stop_id": "50589",
+        "stop_name": "Legendre / Henri-Julien"
+      },
+      {
+        "stop_id": "53701",
+        "stop_name": "Centre de transport Legendre"
+      },
+      {
+        "stop_id": "50563",
+        "stop_name": "Legendre / Saint-Laurent"
+      },
+      {
+        "stop_id": "54120",
+        "stop_name": "Legendre / Clark"
+      },
+      {
+        "stop_id": "50545",
+        "stop_name": "Legendre / de Reims"
+      },
+      {
+        "stop_id": "50529",
+        "stop_name": "Legendre / Meunier"
+      },
+      {
+        "stop_id": "50523",
+        "stop_name": "Legendre / Jeanne-Mance"
+      },
+      {
+        "stop_id": "50511",
+        "stop_name": "Legendre / du Parc"
+      },
+      {
+        "stop_id": "50498",
+        "stop_name": "Meilleur / No 9200"
+      },
+      {
+        "stop_id": "50449",
+        "stop_name": "Meilleur / Chabanel"
+      },
+      {
+        "stop_id": "54122",
+        "stop_name": "Meilleur / de Louvain"
+      },
+      {
+        "stop_id": "50371",
+        "stop_name": "Meilleur / de Port-Royal"
+      },
+      {
+        "stop_id": "50340",
+        "stop_name": "Meilleur / Sauvé"
+      },
+      {
+        "stop_id": "50308",
+        "stop_name": "Meilleur / du Mont-Cassin"
+      },
+      {
+        "stop_id": "54123",
+        "stop_name": "Meilleur / Fleury"
+      },
+      {
+        "stop_id": "54150",
+        "stop_name": "du Mont-Cassin / Meilleur"
+      },
+      {
+        "stop_id": "54093",
+        "stop_name": "Georges-Baril / Henri-Bourassa"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54150",
+        "stop_name": "du Mont-Cassin / Meilleur"
+      },
+      {
+        "stop_id": "54338",
+        "stop_name": "Parc Saint-Benoît"
+      },
+      {
+        "stop_id": "50343",
+        "stop_name": "Meilleur / Sauvé"
+      },
+      {
+        "stop_id": "50372",
+        "stop_name": "Meilleur / de Port-Royal"
+      },
+      {
+        "stop_id": "50405",
+        "stop_name": "Meilleur / de Louvain"
+      },
+      {
+        "stop_id": "54125",
+        "stop_name": "Meilleur / Chabanel"
+      },
+      {
+        "stop_id": "50451",
+        "stop_name": "Meilleur / No 9200"
+      },
+      {
+        "stop_id": "50512",
+        "stop_name": "Legendre / du Parc"
+      },
+      {
+        "stop_id": "50524",
+        "stop_name": "Legendre / Jeanne-Mance"
+      },
+      {
+        "stop_id": "50530",
+        "stop_name": "Legendre / Meunier"
+      },
+      {
+        "stop_id": "50546",
+        "stop_name": "Legendre / de Reims"
+      },
+      {
+        "stop_id": "50565",
+        "stop_name": "Legendre / Saint-Laurent (coin Sud-Ouest)"
+      },
+      {
+        "stop_id": "50566",
+        "stop_name": "Legendre / Saint-Laurent (coin Sud-Est)"
+      },
+      {
+        "stop_id": "53700",
+        "stop_name": "Centre de transport Legendre"
+      },
+      {
+        "stop_id": "50590",
+        "stop_name": "Legendre / Henri-Julien"
+      },
+      {
+        "stop_id": "50602",
+        "stop_name": "Legendre / Berri"
+      },
+      {
+        "stop_id": "61964",
+        "stop_name": "Berri / Émile-Journault"
+      },
+      {
+        "stop_id": "50792",
+        "stop_name": "Station Crémazie Nord"
+      },
+      {
+        "stop_id": "50678",
+        "stop_name": "Lajeunesse / Émile-Journault"
+      },
+      {
+        "stop_id": "50687",
+        "stop_name": "Émile-Journault / Millen"
+      },
+      {
+        "stop_id": "50710",
+        "stop_name": "Émile-Journault / Saint-Hubert"
+      },
+      {
+        "stop_id": "53788",
+        "stop_name": "Complexe sportif Claude-Robillard"
+      },
+      {
+        "stop_id": "50775",
+        "stop_name": "Christophe-Colomb / Émile-Journault"
+      },
+      {
+        "stop_id": "50712",
+        "stop_name": "Christophe-Colomb / Legendre"
+      },
+      {
+        "stop_id": "62195",
+        "stop_name": "Christophe-Colomb / Chabanel"
+      },
+      {
+        "stop_id": "62196",
+        "stop_name": "Christophe-Colomb / de Louvain"
+      },
+      {
+        "stop_id": "62197",
+        "stop_name": "Christophe-Colomb / Sauvé"
+      },
+      {
+        "stop_id": "50460",
+        "stop_name": "Christophe-Colomb / Sauriol"
+      },
+      {
+        "stop_id": "62198",
+        "stop_name": "Christophe-Colomb / Fleury"
+      },
+      {
+        "stop_id": "50349",
+        "stop_name": "Christophe-Colomb / Henri-Bourassa"
+      },
+      {
+        "stop_id": "50333",
+        "stop_name": "Henri-Bourassa / De La Roche"
+      },
+      {
+        "stop_id": "54127",
+        "stop_name": "Station Henri-Bourassa"
+      }
+    ]
+  },
+  {
+    "direction": "Est destination Georges-Baril / Henri-Bourassa",
+    "arrets": [
+      {
+        "stop_id": "54150",
+        "stop_name": "du Mont-Cassin / Meilleur"
+      },
+      {
+        "stop_id": "54338",
+        "stop_name": "Parc Saint-Benoît"
+      },
+      {
+        "stop_id": "50343",
+        "stop_name": "Meilleur / Sauvé"
+      },
+      {
+        "stop_id": "50372",
+        "stop_name": "Meilleur / de Port-Royal"
+      },
+      {
+        "stop_id": "50405",
+        "stop_name": "Meilleur / de Louvain"
+      },
+      {
+        "stop_id": "54125",
+        "stop_name": "Meilleur / Chabanel"
+      },
+      {
+        "stop_id": "50451",
+        "stop_name": "Meilleur / No 9200"
+      },
+      {
+        "stop_id": "50512",
+        "stop_name": "Legendre / du Parc"
+      },
+      {
+        "stop_id": "50524",
+        "stop_name": "Legendre / Jeanne-Mance"
+      },
+      {
+        "stop_id": "50530",
+        "stop_name": "Legendre / Meunier"
+      },
+      {
+        "stop_id": "50546",
+        "stop_name": "Legendre / de Reims"
+      },
+      {
+        "stop_id": "50565",
+        "stop_name": "Legendre / Saint-Laurent (coin Sud-Ouest)"
+      },
+      {
+        "stop_id": "50566",
+        "stop_name": "Legendre / Saint-Laurent (coin Sud-Est)"
+      },
+      {
+        "stop_id": "53700",
+        "stop_name": "Centre de transport Legendre"
+      },
+      {
+        "stop_id": "50590",
+        "stop_name": "Legendre / Henri-Julien"
+      },
+      {
+        "stop_id": "50602",
+        "stop_name": "Legendre / Berri"
+      },
+      {
+        "stop_id": "61964",
+        "stop_name": "Berri / Émile-Journault"
+      },
+      {
+        "stop_id": "50792",
+        "stop_name": "Station Crémazie Nord"
+      },
+      {
+        "stop_id": "50678",
+        "stop_name": "Lajeunesse / Émile-Journault"
+      },
+      {
+        "stop_id": "50687",
+        "stop_name": "Émile-Journault / Millen"
+      },
+      {
+        "stop_id": "50710",
+        "stop_name": "Émile-Journault / Saint-Hubert"
+      },
+      {
+        "stop_id": "53788",
+        "stop_name": "Complexe sportif Claude-Robillard"
+      },
+      {
+        "stop_id": "50775",
+        "stop_name": "Christophe-Colomb / Émile-Journault"
+      },
+      {
+        "stop_id": "50712",
+        "stop_name": "Christophe-Colomb / Legendre"
+      },
+      {
+        "stop_id": "62195",
+        "stop_name": "Christophe-Colomb / Chabanel"
+      },
+      {
+        "stop_id": "62196",
+        "stop_name": "Christophe-Colomb / de Louvain"
+      },
+      {
+        "stop_id": "62197",
+        "stop_name": "Christophe-Colomb / Sauvé"
+      },
+      {
+        "stop_id": "50460",
+        "stop_name": "Christophe-Colomb / Sauriol"
+      },
+      {
+        "stop_id": "62198",
+        "stop_name": "Christophe-Colomb / Fleury"
+      },
+      {
+        "stop_id": "50349",
+        "stop_name": "Christophe-Colomb / Henri-Bourassa"
+      },
+      {
+        "stop_id": "50333",
+        "stop_name": "Henri-Bourassa / De La Roche"
+      },
+      {
+        "stop_id": "54093",
+        "stop_name": "Georges-Baril / Henri-Bourassa"
+      }
+    ]
+  }
+]

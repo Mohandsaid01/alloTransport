@@ -1,0 +1,568 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "50150",
+        "stop_name": "De Serres / Grenet"
+      },
+      {
+        "stop_id": "54319",
+        "stop_name": "Gouin / Grenet"
+      },
+      {
+        "stop_id": "50158",
+        "stop_name": "Gouin / de la Miséricorde"
+      },
+      {
+        "stop_id": "50160",
+        "stop_name": "Gouin / Notre-Dame-des-Anges (Hôpital du Sacré-Coe"
+      },
+      {
+        "stop_id": "50165",
+        "stop_name": "Gouin / Saint-Évariste"
+      },
+      {
+        "stop_id": "50169",
+        "stop_name": "Gouin / O'Brien"
+      },
+      {
+        "stop_id": "50176",
+        "stop_name": "Gouin / Dépatie"
+      },
+      {
+        "stop_id": "50181",
+        "stop_name": "Gouin / Filion"
+      },
+      {
+        "stop_id": "50188",
+        "stop_name": "Gouin / Bohlé"
+      },
+      {
+        "stop_id": "50200",
+        "stop_name": "Gouin / De Poutrincourt"
+      },
+      {
+        "stop_id": "50206",
+        "stop_name": "Gouin / Taylor"
+      },
+      {
+        "stop_id": "50210",
+        "stop_name": "de l'Acadie / Gouin"
+      },
+      {
+        "stop_id": "50220",
+        "stop_name": "de l'Acadie / Viel"
+      },
+      {
+        "stop_id": "60797",
+        "stop_name": "de l'Acadie / De Salaberry"
+      },
+      {
+        "stop_id": "50234",
+        "stop_name": "De Salaberry / du Bois-de-Boulogne"
+      },
+      {
+        "stop_id": "50239",
+        "stop_name": "De Salaberry / Poincaré"
+      },
+      {
+        "stop_id": "53801",
+        "stop_name": "Prison de Bordeaux"
+      },
+      {
+        "stop_id": "53803",
+        "stop_name": "Gouin / Norwood"
+      },
+      {
+        "stop_id": "50254",
+        "stop_name": "Gouin / Tanguay"
+      },
+      {
+        "stop_id": "50258",
+        "stop_name": "Gouin / Jeanne-Mance"
+      },
+      {
+        "stop_id": "50267",
+        "stop_name": "Gouin / Meunier"
+      },
+      {
+        "stop_id": "50272",
+        "stop_name": "Gouin / Waverly"
+      },
+      {
+        "stop_id": "50275",
+        "stop_name": "Gouin / Clark"
+      },
+      {
+        "stop_id": "50282",
+        "stop_name": "Saint-Laurent / Gouin"
+      },
+      {
+        "stop_id": "50291",
+        "stop_name": "Saint-Laurent / Lighthall"
+      },
+      {
+        "stop_id": "50297",
+        "stop_name": "Henri-Bourassa / Saint-Laurent"
+      },
+      {
+        "stop_id": "62371",
+        "stop_name": "Henri-Bourassa / Laverdure"
+      },
+      {
+        "stop_id": "50303",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50307",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50317",
+        "stop_name": "Henri-Bourassa / Saint-Hubert"
+      },
+      {
+        "stop_id": "50321",
+        "stop_name": "Henri-Bourassa / Georges-Baril"
+      },
+      {
+        "stop_id": "50335",
+        "stop_name": "Henri-Bourassa / Chambord"
+      },
+      {
+        "stop_id": "50351",
+        "stop_name": "Henri-Bourassa / Christophe-Colomb"
+      },
+      {
+        "stop_id": "50364",
+        "stop_name": "Henri-Bourassa / Hamel"
+      },
+      {
+        "stop_id": "50367",
+        "stop_name": "Henri-Bourassa / Francis"
+      },
+      {
+        "stop_id": "50388",
+        "stop_name": "Henri-Bourassa / du Fort-Lorette"
+      },
+      {
+        "stop_id": "50400",
+        "stop_name": "Henri-Bourassa / Papineau"
+      },
+      {
+        "stop_id": "50409",
+        "stop_name": "Henri-Bourassa / Séguin"
+      },
+      {
+        "stop_id": "50415",
+        "stop_name": "Henri-Bourassa / De Saint-Firmin"
+      },
+      {
+        "stop_id": "50430",
+        "stop_name": "Henri-Bourassa / Parthenais"
+      },
+      {
+        "stop_id": "50445",
+        "stop_name": "Henri-Bourassa / de Lille"
+      },
+      {
+        "stop_id": "50465",
+        "stop_name": "Henri-Bourassa / D'Iberville"
+      },
+      {
+        "stop_id": "50484",
+        "stop_name": "Henri-Bourassa / Sackville"
+      },
+      {
+        "stop_id": "50495",
+        "stop_name": "Henri-Bourassa / J.-J.-Gagnier"
+      },
+      {
+        "stop_id": "50514",
+        "stop_name": "Henri-Bourassa / Saint-Michel (coin Sud-Ouest)"
+      },
+      {
+        "stop_id": "50515",
+        "stop_name": "Henri-Bourassa / Saint-Michel"
+      },
+      {
+        "stop_id": "55035",
+        "stop_name": "Henri-Bourassa / Leblanc"
+      },
+      {
+        "stop_id": "55040",
+        "stop_name": "Henri-Bourassa / du Parc-Georges"
+      },
+      {
+        "stop_id": "55045",
+        "stop_name": "Henri-Bourassa / Saint-Vital"
+      },
+      {
+        "stop_id": "55049",
+        "stop_name": "Henri-Bourassa / Plaza"
+      },
+      {
+        "stop_id": "55053",
+        "stop_name": "Henri-Bourassa / des Récollets"
+      },
+      {
+        "stop_id": "61542",
+        "stop_name": "Henri-Bourassa / Pie-IX"
+      },
+      {
+        "stop_id": "55067",
+        "stop_name": "Henri-Bourassa / Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "55073",
+        "stop_name": "Henri-Bourassa / Pelletier"
+      },
+      {
+        "stop_id": "55094",
+        "stop_name": "Henri-Bourassa / Balzac"
+      },
+      {
+        "stop_id": "55109",
+        "stop_name": "Henri-Bourassa / Bellevois"
+      },
+      {
+        "stop_id": "55147",
+        "stop_name": "Henri-Bourassa / Sainte-Gertrude"
+      },
+      {
+        "stop_id": "55175",
+        "stop_name": "Henri-Bourassa / Racette"
+      },
+      {
+        "stop_id": "55191",
+        "stop_name": "Henri-Bourassa / Alfred"
+      },
+      {
+        "stop_id": "55200",
+        "stop_name": "Henri-Bourassa / Salk"
+      },
+      {
+        "stop_id": "55214",
+        "stop_name": "Henri-Bourassa / Sainte-Colette"
+      },
+      {
+        "stop_id": "55257",
+        "stop_name": "Henri-Bourassa / Lacordaire"
+      },
+      {
+        "stop_id": "55278",
+        "stop_name": "Henri-Bourassa / Désy"
+      },
+      {
+        "stop_id": "59461",
+        "stop_name": "Henri-Bourassa / No 6100"
+      },
+      {
+        "stop_id": "55294",
+        "stop_name": "Henri-Bourassa / Rolland"
+      },
+      {
+        "stop_id": "55301",
+        "stop_name": "Henri-Bourassa / Valade"
+      },
+      {
+        "stop_id": "55306",
+        "stop_name": "Langelier / Renoir"
+      },
+      {
+        "stop_id": "55302",
+        "stop_name": "Langelier / Dijon"
+      },
+      {
+        "stop_id": "55296",
+        "stop_name": "Langelier / Marie-Victorin"
+      },
+      {
+        "stop_id": "55289",
+        "stop_name": "Langelier / Bonneville"
+      },
+      {
+        "stop_id": "55291",
+        "stop_name": "Maurice-Duplessis / Albert-Hudon"
+      },
+      {
+        "stop_id": "54236",
+        "stop_name": "Maurice-Duplessis / No 7000"
+      },
+      {
+        "stop_id": "54223",
+        "stop_name": "Cégep Marie-Victorin (Marie-Victorin / No 7000)"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54223",
+        "stop_name": "Cégep Marie-Victorin (Marie-Victorin / No 7000)"
+      },
+      {
+        "stop_id": "55318",
+        "stop_name": "Marie-Victorin / Albert-Hudon"
+      },
+      {
+        "stop_id": "55303",
+        "stop_name": "Langelier / Dijon"
+      },
+      {
+        "stop_id": "55304",
+        "stop_name": "Langelier / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55300",
+        "stop_name": "Henri-Bourassa / Valade"
+      },
+      {
+        "stop_id": "55292",
+        "stop_name": "Henri-Bourassa / Rolland"
+      },
+      {
+        "stop_id": "59462",
+        "stop_name": "Henri-Bourassa / No 6085"
+      },
+      {
+        "stop_id": "55277",
+        "stop_name": "Henri-Bourassa / Désy"
+      },
+      {
+        "stop_id": "55255",
+        "stop_name": "Henri-Bourassa / Lacordaire"
+      },
+      {
+        "stop_id": "55222",
+        "stop_name": "Henri-Bourassa / Jean-Meunier"
+      },
+      {
+        "stop_id": "55199",
+        "stop_name": "Henri-Bourassa / Salk"
+      },
+      {
+        "stop_id": "55190",
+        "stop_name": "Henri-Bourassa / Alfred"
+      },
+      {
+        "stop_id": "55174",
+        "stop_name": "Henri-Bourassa / Racette"
+      },
+      {
+        "stop_id": "55145",
+        "stop_name": "Henri-Bourassa / Sainte-Gertrude"
+      },
+      {
+        "stop_id": "55115",
+        "stop_name": "Henri-Bourassa / L'Archevêque"
+      },
+      {
+        "stop_id": "55095",
+        "stop_name": "Henri-Bourassa / Drapeau"
+      },
+      {
+        "stop_id": "55325",
+        "stop_name": "Henri-Bourassa / Léger"
+      },
+      {
+        "stop_id": "55072",
+        "stop_name": "Henri-Bourassa / Pelletier"
+      },
+      {
+        "stop_id": "55064",
+        "stop_name": "Henri-Bourassa / Pie-IX"
+      },
+      {
+        "stop_id": "55052",
+        "stop_name": "Henri-Bourassa / London"
+      },
+      {
+        "stop_id": "55048",
+        "stop_name": "Henri-Bourassa / Plaza"
+      },
+      {
+        "stop_id": "55043",
+        "stop_name": "Henri-Bourassa / Saint-Vital"
+      },
+      {
+        "stop_id": "55039",
+        "stop_name": "Henri-Bourassa / Mère-Anselme"
+      },
+      {
+        "stop_id": "55038",
+        "stop_name": "Henri-Bourassa / De Belleville"
+      },
+      {
+        "stop_id": "55034",
+        "stop_name": "Henri-Bourassa / Audoin"
+      },
+      {
+        "stop_id": "50513",
+        "stop_name": "Henri-Bourassa / Saint-Michel"
+      },
+      {
+        "stop_id": "50494",
+        "stop_name": "Henri-Bourassa / J.-J.-Gagnier"
+      },
+      {
+        "stop_id": "50483",
+        "stop_name": "Henri-Bourassa / Sackville"
+      },
+      {
+        "stop_id": "50464",
+        "stop_name": "Henri-Bourassa / D'Iberville"
+      },
+      {
+        "stop_id": "50444",
+        "stop_name": "Henri-Bourassa / de Lille"
+      },
+      {
+        "stop_id": "50429",
+        "stop_name": "Henri-Bourassa / Parthenais"
+      },
+      {
+        "stop_id": "50413",
+        "stop_name": "Henri-Bourassa / De Saint-Firmin"
+      },
+      {
+        "stop_id": "50408",
+        "stop_name": "Henri-Bourassa / Séguin"
+      },
+      {
+        "stop_id": "53805",
+        "stop_name": "Henri-Bourassa / Lambert"
+      },
+      {
+        "stop_id": "50387",
+        "stop_name": "Henri-Bourassa / du Fort-Lorette"
+      },
+      {
+        "stop_id": "50366",
+        "stop_name": "Henri-Bourassa / Francis"
+      },
+      {
+        "stop_id": "50363",
+        "stop_name": "Henri-Bourassa / Hamel"
+      },
+      {
+        "stop_id": "50350",
+        "stop_name": "Henri-Bourassa / Christophe-Colomb"
+      },
+      {
+        "stop_id": "50333",
+        "stop_name": "Henri-Bourassa / De La Roche"
+      },
+      {
+        "stop_id": "50316",
+        "stop_name": "Henri-Bourassa / Saint-Hubert"
+      },
+      {
+        "stop_id": "50306",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50301",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50299",
+        "stop_name": "Henri-Bourassa / Laverdure"
+      },
+      {
+        "stop_id": "62375",
+        "stop_name": "Saint-Laurent / Lighthall"
+      },
+      {
+        "stop_id": "50274",
+        "stop_name": "Gouin / Clark"
+      },
+      {
+        "stop_id": "50271",
+        "stop_name": "Gouin / Waverly"
+      },
+      {
+        "stop_id": "50266",
+        "stop_name": "Gouin / Meunier"
+      },
+      {
+        "stop_id": "50257",
+        "stop_name": "Gouin / Jeanne-Mance"
+      },
+      {
+        "stop_id": "50253",
+        "stop_name": "Gouin / Tanguay"
+      },
+      {
+        "stop_id": "53804",
+        "stop_name": "Gouin / Norwood"
+      },
+      {
+        "stop_id": "53802",
+        "stop_name": "Prison de Bordeaux"
+      },
+      {
+        "stop_id": "50238",
+        "stop_name": "De Salaberry / Poincaré"
+      },
+      {
+        "stop_id": "50235",
+        "stop_name": "De Salaberry / du Bois-de-Boulogne"
+      },
+      {
+        "stop_id": "50230",
+        "stop_name": "De Salaberry / de l'Acadie"
+      },
+      {
+        "stop_id": "50219",
+        "stop_name": "de l'Acadie / Viel"
+      },
+      {
+        "stop_id": "50209",
+        "stop_name": "de l'Acadie / Gouin"
+      },
+      {
+        "stop_id": "50205",
+        "stop_name": "Gouin / René-Guénette"
+      },
+      {
+        "stop_id": "50199",
+        "stop_name": "Gouin / De Poutrincourt"
+      },
+      {
+        "stop_id": "50187",
+        "stop_name": "Gouin / Bohlé"
+      },
+      {
+        "stop_id": "50180",
+        "stop_name": "Gouin / Filion"
+      },
+      {
+        "stop_id": "50175",
+        "stop_name": "Gouin / Dépatie"
+      },
+      {
+        "stop_id": "50170",
+        "stop_name": "Gouin / Saint-Germain"
+      },
+      {
+        "stop_id": "50166",
+        "stop_name": "Gouin / Saint-Évariste"
+      },
+      {
+        "stop_id": "53800",
+        "stop_name": "Gouin / Fréchette (Hôpital du Sacré-Coeur)"
+      },
+      {
+        "stop_id": "50157",
+        "stop_name": "Gouin / de la Miséricorde"
+      },
+      {
+        "stop_id": "50150",
+        "stop_name": "De Serres / Grenet"
+      }
+    ]
+  }
+]

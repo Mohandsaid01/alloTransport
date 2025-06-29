@@ -1,0 +1,136 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "55997",
+        "stop_name": "Dutrisac / Henri-Bourassa"
+      },
+      {
+        "stop_id": "50270",
+        "stop_name": "Collège de Bois-de-Boulogne"
+      },
+      {
+        "stop_id": "50298",
+        "stop_name": "Saint-Laurent / Henri-Bourassa"
+      },
+      {
+        "stop_id": "50392",
+        "stop_name": "Saint-Laurent / Sauvé"
+      },
+      {
+        "stop_id": "50458",
+        "stop_name": "de Louvain / No 7"
+      },
+      {
+        "stop_id": "50405",
+        "stop_name": "Meilleur / de Louvain"
+      },
+      {
+        "stop_id": "54125",
+        "stop_name": "Meilleur / Chabanel"
+      },
+      {
+        "stop_id": "50451",
+        "stop_name": "Meilleur / No 9200"
+      },
+      {
+        "stop_id": "50554",
+        "stop_name": "du Parc / De Beauharnois"
+      },
+      {
+        "stop_id": "60248",
+        "stop_name": "Guizot / de l'Esplanade"
+      },
+      {
+        "stop_id": "50740",
+        "stop_name": "de Liège / de l'Esplanade"
+      },
+      {
+        "stop_id": "50715",
+        "stop_name": "de Liège / Jeanne-Mance"
+      },
+      {
+        "stop_id": "50657",
+        "stop_name": "Crémazie / de l'Esplanade"
+      },
+      {
+        "stop_id": "60249",
+        "stop_name": "Crémazie / de Reims"
+      },
+      {
+        "stop_id": "50665",
+        "stop_name": "Crémazie / Clark"
+      },
+      {
+        "stop_id": "50769",
+        "stop_name": "Station Crémazie Sud (Crémazie / Berri)"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "60250",
+        "stop_name": "Station Crémazie Sud (Berri / Crémazie)"
+      },
+      {
+        "stop_id": "50894",
+        "stop_name": "de l'Esplanade / Guizot"
+      },
+      {
+        "stop_id": "50740",
+        "stop_name": "de Liège / de l'Esplanade"
+      },
+      {
+        "stop_id": "50715",
+        "stop_name": "de Liège / Jeanne-Mance"
+      },
+      {
+        "stop_id": "50681",
+        "stop_name": "Crémazie / de Reims"
+      },
+      {
+        "stop_id": "50664",
+        "stop_name": "Crémazie / Clark"
+      },
+      {
+        "stop_id": "50553",
+        "stop_name": "du Parc / De Beauharnois"
+      },
+      {
+        "stop_id": "50498",
+        "stop_name": "Meilleur / No 9200"
+      },
+      {
+        "stop_id": "50449",
+        "stop_name": "Meilleur / Chabanel"
+      },
+      {
+        "stop_id": "54122",
+        "stop_name": "Meilleur / de Louvain"
+      },
+      {
+        "stop_id": "50456",
+        "stop_name": "de Louvain / Saint-Laurent"
+      },
+      {
+        "stop_id": "50390",
+        "stop_name": "Saint-Laurent / Sauvé"
+      },
+      {
+        "stop_id": "62373",
+        "stop_name": "Henri-Bourassa / de l'Esplanade"
+      },
+      {
+        "stop_id": "62374",
+        "stop_name": "Henri-Bourassa / du Bois-de-Boulogne"
+      },
+      {
+        "stop_id": "55996",
+        "stop_name": "Gare Du Ruisseau (Henri-Bourassa / Dutrisac)"
+      }
+    ]
+  }
+]

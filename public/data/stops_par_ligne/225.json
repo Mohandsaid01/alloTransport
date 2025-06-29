@@ -1,0 +1,396 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "60383",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "55594",
+        "stop_name": "Côte-Vertu / Leduc"
+      },
+      {
+        "stop_id": "55554",
+        "stop_name": "Côte-Vertu / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55486",
+        "stop_name": "Côte-Vertu / Cavendish"
+      },
+      {
+        "stop_id": "55488",
+        "stop_name": "Côte-Vertu / Cavendish"
+      },
+      {
+        "stop_id": "55464",
+        "stop_name": "Côte-Vertu / Beaulac"
+      },
+      {
+        "stop_id": "55355",
+        "stop_name": "Côte-Vertu / No 3695"
+      },
+      {
+        "stop_id": "55445",
+        "stop_name": "Côte-Vertu / Bégin"
+      },
+      {
+        "stop_id": "55933",
+        "stop_name": "Bégin / Thimens"
+      },
+      {
+        "stop_id": "55924",
+        "stop_name": "Thimens / Tees"
+      },
+      {
+        "stop_id": "55426",
+        "stop_name": "Thimens / Pomba"
+      },
+      {
+        "stop_id": "55790",
+        "stop_name": "Thimens / Garand"
+      },
+      {
+        "stop_id": "55874",
+        "stop_name": "Thimens / Poirier"
+      },
+      {
+        "stop_id": "55875",
+        "stop_name": "Thimens / Steinberg"
+      },
+      {
+        "stop_id": "55873",
+        "stop_name": "Thimens / Dobrin"
+      },
+      {
+        "stop_id": "55876",
+        "stop_name": "Thimens / No 5555"
+      },
+      {
+        "stop_id": "55394",
+        "stop_name": "Thimens / Bois-Franc"
+      },
+      {
+        "stop_id": "55884",
+        "stop_name": "Guénette / Bois-Franc"
+      },
+      {
+        "stop_id": "55838",
+        "stop_name": "Centre de transport St-Laurent (Guénette / Cousens"
+      },
+      {
+        "stop_id": "55775",
+        "stop_name": "Guénette / Cousens"
+      },
+      {
+        "stop_id": "55389",
+        "stop_name": "Cousens / Thimens"
+      },
+      {
+        "stop_id": "55837",
+        "stop_name": "Cousens / No 4600"
+      },
+      {
+        "stop_id": "55377",
+        "stop_name": "Brabant-Marineau / Botham"
+      },
+      {
+        "stop_id": "55372",
+        "stop_name": "Brabant-Marineau / De Baene"
+      },
+      {
+        "stop_id": "55368",
+        "stop_name": "Henri-Bourassa / Valiquette"
+      },
+      {
+        "stop_id": "55359",
+        "stop_name": "Henri-Bourassa / De Miniac"
+      },
+      {
+        "stop_id": "55357",
+        "stop_name": "Henri-Bourassa / Halpern"
+      },
+      {
+        "stop_id": "55782",
+        "stop_name": "Hymus / Douglas-B.-Floreani"
+      },
+      {
+        "stop_id": "55962",
+        "stop_name": "Hymus / No 1000"
+      },
+      {
+        "stop_id": "55836",
+        "stop_name": "Hymus / No 1300"
+      },
+      {
+        "stop_id": "57404",
+        "stop_name": "Hymus / No 1455"
+      },
+      {
+        "stop_id": "57545",
+        "stop_name": "Hymus / No 1565"
+      },
+      {
+        "stop_id": "57385",
+        "stop_name": "Hymus / No 1655"
+      },
+      {
+        "stop_id": "57374",
+        "stop_name": "Hymus / André"
+      },
+      {
+        "stop_id": "57373",
+        "stop_name": "Hymus / No 2055"
+      },
+      {
+        "stop_id": "57592",
+        "stop_name": "Hymus / Saint-François"
+      },
+      {
+        "stop_id": "57368",
+        "stop_name": "Hymus / No 2355"
+      },
+      {
+        "stop_id": "57367",
+        "stop_name": "des Sources / Transcanadienne"
+      },
+      {
+        "stop_id": "57716",
+        "stop_name": "Transcanadienne / Bancroft"
+      },
+      {
+        "stop_id": "57920",
+        "stop_name": "Bancroft / Brunswick"
+      },
+      {
+        "stop_id": "57917",
+        "stop_name": "Brunswick / Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "57996",
+        "stop_name": "Brunswick / Montrose"
+      },
+      {
+        "stop_id": "57900",
+        "stop_name": "Brunswick / Tecumseh"
+      },
+      {
+        "stop_id": "57777",
+        "stop_name": "Brunswick / Hewitt"
+      },
+      {
+        "stop_id": "57654",
+        "stop_name": "Brunswick / No 195"
+      },
+      {
+        "stop_id": "57644",
+        "stop_name": "Brunswick / Ellingham"
+      },
+      {
+        "stop_id": "57639",
+        "stop_name": "Brunswick / Selkirk"
+      },
+      {
+        "stop_id": "57627",
+        "stop_name": "Brunswick / Revcon"
+      },
+      {
+        "stop_id": "57815",
+        "stop_name": "Terminus Fairview"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "57815",
+        "stop_name": "Terminus Fairview"
+      },
+      {
+        "stop_id": "57628",
+        "stop_name": "Brunswick / Revcon"
+      },
+      {
+        "stop_id": "57640",
+        "stop_name": "Brunswick / Selkirk"
+      },
+      {
+        "stop_id": "57645",
+        "stop_name": "Brunswick / Ellingham"
+      },
+      {
+        "stop_id": "57775",
+        "stop_name": "Brunswick / No 195"
+      },
+      {
+        "stop_id": "57776",
+        "stop_name": "Brunswick / Hewitt"
+      },
+      {
+        "stop_id": "57902",
+        "stop_name": "Brunswick / Tecumseh"
+      },
+      {
+        "stop_id": "57995",
+        "stop_name": "Brunswick / Montrose"
+      },
+      {
+        "stop_id": "57914",
+        "stop_name": "Brunswick / Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "57922",
+        "stop_name": "Brunswick / Bancroft"
+      },
+      {
+        "stop_id": "57935",
+        "stop_name": "Brunswick / No 64"
+      },
+      {
+        "stop_id": "57936",
+        "stop_name": "Brunswick / Bovis"
+      },
+      {
+        "stop_id": "62081",
+        "stop_name": "Hymus / des Sources"
+      },
+      {
+        "stop_id": "57593",
+        "stop_name": "Hymus / Saint-François"
+      },
+      {
+        "stop_id": "57517",
+        "stop_name": "Hymus / No 2055"
+      },
+      {
+        "stop_id": "57375",
+        "stop_name": "Hymus / André"
+      },
+      {
+        "stop_id": "57501",
+        "stop_name": "Hymus / No 1655"
+      },
+      {
+        "stop_id": "57544",
+        "stop_name": "Hymus / No 1565"
+      },
+      {
+        "stop_id": "57500",
+        "stop_name": "Hymus / No 1455"
+      },
+      {
+        "stop_id": "55835",
+        "stop_name": "Hymus / No 1300"
+      },
+      {
+        "stop_id": "60432",
+        "stop_name": "Hymus / No 1000"
+      },
+      {
+        "stop_id": "55963",
+        "stop_name": "Hymus / Alfred-Nobel"
+      },
+      {
+        "stop_id": "55781",
+        "stop_name": "Henri-Bourassa / Douglas-B.-Floreani"
+      },
+      {
+        "stop_id": "55358",
+        "stop_name": "Henri-Bourassa / Halpern"
+      },
+      {
+        "stop_id": "55361",
+        "stop_name": "Henri-Bourassa / De Miniac"
+      },
+      {
+        "stop_id": "55369",
+        "stop_name": "Henri-Bourassa / Valiquette"
+      },
+      {
+        "stop_id": "55371",
+        "stop_name": "Brabant-Marineau / De Baene"
+      },
+      {
+        "stop_id": "55378",
+        "stop_name": "Brabant-Marineau / Botham"
+      },
+      {
+        "stop_id": "55869",
+        "stop_name": "Cousens / No 4600"
+      },
+      {
+        "stop_id": "55774",
+        "stop_name": "Cousens / Thimens"
+      },
+      {
+        "stop_id": "55864",
+        "stop_name": "Thimens / Bois-Franc"
+      },
+      {
+        "stop_id": "55397",
+        "stop_name": "Thimens / No 5550"
+      },
+      {
+        "stop_id": "55870",
+        "stop_name": "Thimens / Dobrin"
+      },
+      {
+        "stop_id": "55872",
+        "stop_name": "Thimens / No 4900"
+      },
+      {
+        "stop_id": "55871",
+        "stop_name": "Thimens / Poirier"
+      },
+      {
+        "stop_id": "55433",
+        "stop_name": "Thimens / Garand"
+      },
+      {
+        "stop_id": "55800",
+        "stop_name": "Thimens / Pomba"
+      },
+      {
+        "stop_id": "55925",
+        "stop_name": "Thimens / Tees"
+      },
+      {
+        "stop_id": "55441",
+        "stop_name": "Thimens / Bégin"
+      },
+      {
+        "stop_id": "55955",
+        "stop_name": "Côte-Vertu / Bégin"
+      },
+      {
+        "stop_id": "55778",
+        "stop_name": "Côte-Vertu / No 3695"
+      },
+      {
+        "stop_id": "55466",
+        "stop_name": "Côte-Vertu / Beaulac"
+      },
+      {
+        "stop_id": "55463",
+        "stop_name": "Côte-Vertu / No 3200"
+      },
+      {
+        "stop_id": "55487",
+        "stop_name": "Côte-Vertu / Cavendish"
+      },
+      {
+        "stop_id": "55556",
+        "stop_name": "Côte-Vertu / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55596",
+        "stop_name": "Côte-Vertu / Marcel-Laurin"
+      },
+      {
+        "stop_id": "60288",
+        "stop_name": "Station Côte-Vertu"
+      }
+    ]
+  }
+]

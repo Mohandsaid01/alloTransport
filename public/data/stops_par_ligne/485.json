@@ -1,0 +1,244 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "61395",
+        "stop_name": "de Pierrefonds / Winnie-Wakefield"
+      },
+      {
+        "stop_id": "61257",
+        "stop_name": "de Pierrefonds / du Palomino"
+      },
+      {
+        "stop_id": "61254",
+        "stop_name": "de Pierrefonds / du Château-Pierrefonds"
+      },
+      {
+        "stop_id": "58230",
+        "stop_name": "du Château-Pierrefonds / Meloche"
+      },
+      {
+        "stop_id": "58228",
+        "stop_name": "du Château-Pierrefonds / Antoine-Faucon"
+      },
+      {
+        "stop_id": "58224",
+        "stop_name": "Antoine-Faucon / des Cageux"
+      },
+      {
+        "stop_id": "58226",
+        "stop_name": "Antoine-Faucon / Grilli"
+      },
+      {
+        "stop_id": "58221",
+        "stop_name": "Antoine-Faucon / Henri-Daoust"
+      },
+      {
+        "stop_id": "58106",
+        "stop_name": "Antoine-Faucon / Biroleau"
+      },
+      {
+        "stop_id": "58112",
+        "stop_name": "Antoine-Faucon / Saint-Charles"
+      },
+      {
+        "stop_id": "58349",
+        "stop_name": "Brunswick / du Merlot"
+      },
+      {
+        "stop_id": "58373",
+        "stop_name": "Brunswick / Charles E.-Frosst"
+      },
+      {
+        "stop_id": "58371",
+        "stop_name": "Brunswick / De Salaberry"
+      },
+      {
+        "stop_id": "58383",
+        "stop_name": "De Salaberry / Acres"
+      },
+      {
+        "stop_id": "58368",
+        "stop_name": "De Salaberry / Médoc"
+      },
+      {
+        "stop_id": "57978",
+        "stop_name": "de Salaberry / Sommerset"
+      },
+      {
+        "stop_id": "57838",
+        "stop_name": "de Salaberry / Walworth"
+      },
+      {
+        "stop_id": "57839",
+        "stop_name": "de Salaberry / Devon"
+      },
+      {
+        "stop_id": "57841",
+        "stop_name": "de Salaberry / Saint-Jean"
+      },
+      {
+        "stop_id": "57858",
+        "stop_name": "Saint-Jean / Devon"
+      },
+      {
+        "stop_id": "60889",
+        "stop_name": "Brunswick / Terminus Fairview"
+      },
+      {
+        "stop_id": "57647",
+        "stop_name": "Saint-Jean / Hymus"
+      },
+      {
+        "stop_id": "57653",
+        "stop_name": "Saint-Jean / Sedgefield"
+      },
+      {
+        "stop_id": "57659",
+        "stop_name": "Saint-Jean / Douglas-Shand"
+      },
+      {
+        "stop_id": "57668",
+        "stop_name": "Saint-Jean / Springdale"
+      },
+      {
+        "stop_id": "57788",
+        "stop_name": "Saint-Jean / Autoroute 20"
+      },
+      {
+        "stop_id": "57537",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "61339",
+        "stop_name": "Station Lionel-Groulx"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "61336",
+        "stop_name": "Station Lionel-Groulx"
+      },
+      {
+        "stop_id": "57504",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "57665",
+        "stop_name": "Saint-Jean / Drake"
+      },
+      {
+        "stop_id": "57658",
+        "stop_name": "Saint-Jean / Douglas-Shand"
+      },
+      {
+        "stop_id": "57652",
+        "stop_name": "Saint-Jean / Cardiff"
+      },
+      {
+        "stop_id": "57646",
+        "stop_name": "Saint-Jean / Hymus"
+      },
+      {
+        "stop_id": "57818",
+        "stop_name": "Fairview / Brunswick"
+      },
+      {
+        "stop_id": "57823",
+        "stop_name": "Brunswick / Terminus Fairview"
+      },
+      {
+        "stop_id": "57980",
+        "stop_name": "de Salaberry / Hasting"
+      },
+      {
+        "stop_id": "57836",
+        "stop_name": "de Salaberry / Devon"
+      },
+      {
+        "stop_id": "57979",
+        "stop_name": "de Salaberry / Walworth"
+      },
+      {
+        "stop_id": "57837",
+        "stop_name": "de Salaberry / Sommerset"
+      },
+      {
+        "stop_id": "58367",
+        "stop_name": "de Salaberry / Berkshire"
+      },
+      {
+        "stop_id": "58384",
+        "stop_name": "De Salaberry / Acres"
+      },
+      {
+        "stop_id": "58370",
+        "stop_name": "de Salaberry / Brunswick"
+      },
+      {
+        "stop_id": "58372",
+        "stop_name": "Brunswick / Argyle"
+      },
+      {
+        "stop_id": "58347",
+        "stop_name": "Brunswick / du Merlot"
+      },
+      {
+        "stop_id": "58113",
+        "stop_name": "Antoine-Faucon / Saint-Charles"
+      },
+      {
+        "stop_id": "58105",
+        "stop_name": "Antoine-Faucon / Biroleau"
+      },
+      {
+        "stop_id": "58220",
+        "stop_name": "Antoine-Faucon / Henri-Daoust"
+      },
+      {
+        "stop_id": "58225",
+        "stop_name": "Antoine-Faucon / Grilli"
+      },
+      {
+        "stop_id": "58223",
+        "stop_name": "Antoine-Faucon / des Cageux"
+      },
+      {
+        "stop_id": "58227",
+        "stop_name": "Antoine-Faucon / du Château-Pierrefonds"
+      },
+      {
+        "stop_id": "58229",
+        "stop_name": "du Château-Pierrefonds / Meloche"
+      },
+      {
+        "stop_id": "58231",
+        "stop_name": "du Château-Pierrefonds / Rousson"
+      },
+      {
+        "stop_id": "61256",
+        "stop_name": "de Pierrefonds / Winnie-Wakefield"
+      },
+      {
+        "stop_id": "61258",
+        "stop_name": "de Pierrefonds / du Palomino"
+      },
+      {
+        "stop_id": "61257",
+        "stop_name": "de Pierrefonds / du Palomino"
+      },
+      {
+        "stop_id": "61321",
+        "stop_name": "de Pierrefonds / Winnie-Wakefield"
+      },
+      {
+        "stop_id": "61254",
+        "stop_name": "de Pierrefonds / du Château-Pierrefonds"
+      }
+    ]
+  }
+]

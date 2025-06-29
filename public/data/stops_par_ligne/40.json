@@ -1,0 +1,509 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "61728",
+        "stop_name": "Gare Pointe-aux-Trembles"
+      },
+      {
+        "stop_id": "53512",
+        "stop_name": "Sherbrooke / 53e Avenue"
+      },
+      {
+        "stop_id": "53720",
+        "stop_name": "52e Avenue / Sherbrooke"
+      },
+      {
+        "stop_id": "60579",
+        "stop_name": "Prince-Arthur / De La Rousselière"
+      },
+      {
+        "stop_id": "53447",
+        "stop_name": "Prince-Arthur / 44e Avenue"
+      },
+      {
+        "stop_id": "61729",
+        "stop_name": "Prince-Arthur / 43e Avenue"
+      },
+      {
+        "stop_id": "61739",
+        "stop_name": "40e Avenue / Sherbrooke"
+      },
+      {
+        "stop_id": "53486",
+        "stop_name": "Sherbrooke / 36e Avenue"
+      },
+      {
+        "stop_id": "53476",
+        "stop_name": "Sherbrooke / 32e Avenue"
+      },
+      {
+        "stop_id": "53713",
+        "stop_name": "Sherbrooke / No 13092"
+      },
+      {
+        "stop_id": "53469",
+        "stop_name": "Sherbrooke / Robert-Chevalier"
+      },
+      {
+        "stop_id": "53458",
+        "stop_name": "Sherbrooke / du Tricentenaire"
+      },
+      {
+        "stop_id": "54254",
+        "stop_name": "Sherbrooke / No 12555"
+      },
+      {
+        "stop_id": "53434",
+        "stop_name": "Sherbrooke / 16e Avenue"
+      },
+      {
+        "stop_id": "61757",
+        "stop_name": "Sherbrooke / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "61730",
+        "stop_name": "Saint-Jean-Baptiste / Industriel"
+      },
+      {
+        "stop_id": "53777",
+        "stop_name": "Saint-Jean-Baptiste / Urgel-Charbonneau"
+      },
+      {
+        "stop_id": "54246",
+        "stop_name": "Henri-Bourassa / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "54408",
+        "stop_name": "Henri-Bourassa / Marien"
+      },
+      {
+        "stop_id": "50122",
+        "stop_name": "Henri-Bourassa / No 9875"
+      },
+      {
+        "stop_id": "52907",
+        "stop_name": "Henri-Bourassa / Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "52859",
+        "stop_name": "Henri-Bourassa / 57e Avenue"
+      },
+      {
+        "stop_id": "52802",
+        "stop_name": "Henri-Bourassa / 54e Avenue"
+      },
+      {
+        "stop_id": "54472",
+        "stop_name": "Henri-Bourassa / No 9225"
+      },
+      {
+        "stop_id": "54733",
+        "stop_name": "Henri-Bourassa / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "54682",
+        "stop_name": "Henri-Bourassa / No 9050"
+      },
+      {
+        "stop_id": "54683",
+        "stop_name": "Henri-Bourassa / No 8601"
+      },
+      {
+        "stop_id": "54684",
+        "stop_name": "Henri-Bourassa / No 8255"
+      },
+      {
+        "stop_id": "60333",
+        "stop_name": "Henri-Bourassa / Armand-Bombardier"
+      },
+      {
+        "stop_id": "51931",
+        "stop_name": "Henri-Bourassa / Marco-Polo"
+      },
+      {
+        "stop_id": "51847",
+        "stop_name": "Henri-Bourassa / L.-J.- Forget"
+      },
+      {
+        "stop_id": "53739",
+        "stop_name": "Henri-Bourassa / Nicolas-Josselin"
+      },
+      {
+        "stop_id": "61530",
+        "stop_name": "Henri-Bourassa / 6e Avenue"
+      },
+      {
+        "stop_id": "60389",
+        "stop_name": "Henri-Bourassa / Renaude-Lapointe"
+      },
+      {
+        "stop_id": "60514",
+        "stop_name": "Albert-Hudon / Marie-Victorin"
+      },
+      {
+        "stop_id": "55303",
+        "stop_name": "Langelier / Dijon"
+      },
+      {
+        "stop_id": "55304",
+        "stop_name": "Langelier / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55292",
+        "stop_name": "Henri-Bourassa / Rolland"
+      },
+      {
+        "stop_id": "60326",
+        "stop_name": "d'Amos / Arthur-Buies"
+      },
+      {
+        "stop_id": "62009",
+        "stop_name": "École secondaire de la Pointe-aux-Trembles"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "60326",
+        "stop_name": "d'Amos / Arthur-Buies"
+      },
+      {
+        "stop_id": "55257",
+        "stop_name": "Henri-Bourassa / Lacordaire"
+      },
+      {
+        "stop_id": "55294",
+        "stop_name": "Henri-Bourassa / Rolland"
+      },
+      {
+        "stop_id": "55306",
+        "stop_name": "Langelier / Renoir"
+      },
+      {
+        "stop_id": "55302",
+        "stop_name": "Langelier / Dijon"
+      },
+      {
+        "stop_id": "60507",
+        "stop_name": "Marie-Victorin / Albert-Hudon"
+      },
+      {
+        "stop_id": "60387",
+        "stop_name": "Henri-Bourassa / Pascal-Gagnon"
+      },
+      {
+        "stop_id": "61529",
+        "stop_name": "Henri-Bourassa / 6e Avenue"
+      },
+      {
+        "stop_id": "53738",
+        "stop_name": "Henri-Bourassa / Colbert"
+      },
+      {
+        "stop_id": "54514",
+        "stop_name": "Henri-Bourassa / L.-J.- Forget"
+      },
+      {
+        "stop_id": "51932",
+        "stop_name": "Henri-Bourassa / Marco-Polo"
+      },
+      {
+        "stop_id": "60328",
+        "stop_name": "Henri-Bourassa / Ray-Lawson"
+      },
+      {
+        "stop_id": "53785",
+        "stop_name": "Henri-Bourassa / No 8255"
+      },
+      {
+        "stop_id": "61756",
+        "stop_name": "Henri-Bourassa / du Golf"
+      },
+      {
+        "stop_id": "53926",
+        "stop_name": "Henri-Bourassa / No 8601"
+      },
+      {
+        "stop_id": "54513",
+        "stop_name": "Henri-Bourassa / No 9050"
+      },
+      {
+        "stop_id": "54734",
+        "stop_name": "Henri-Bourassa / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "54481",
+        "stop_name": "Henri-Bourassa / No 9225"
+      },
+      {
+        "stop_id": "52803",
+        "stop_name": "Henri-Bourassa / 54e Avenue"
+      },
+      {
+        "stop_id": "52860",
+        "stop_name": "Henri-Bourassa / 57e Avenue"
+      },
+      {
+        "stop_id": "52909",
+        "stop_name": "Henri-Bourassa / Broadway"
+      },
+      {
+        "stop_id": "54406",
+        "stop_name": "Henri-Bourassa / No 9850"
+      },
+      {
+        "stop_id": "54409",
+        "stop_name": "Henri-Bourassa / Marien"
+      },
+      {
+        "stop_id": "54241",
+        "stop_name": "Henri-Bourassa / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "61740",
+        "stop_name": "Saint-Jean-Baptiste / Industriel"
+      },
+      {
+        "stop_id": "61731",
+        "stop_name": "Sherbrooke / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "53435",
+        "stop_name": "Sherbrooke / 16e Avenue"
+      },
+      {
+        "stop_id": "54248",
+        "stop_name": "Sherbrooke / No 12572"
+      },
+      {
+        "stop_id": "53457",
+        "stop_name": "Sherbrooke / du Tricentenaire"
+      },
+      {
+        "stop_id": "53470",
+        "stop_name": "Sherbrooke / Robert-Chevalier"
+      },
+      {
+        "stop_id": "53712",
+        "stop_name": "Sherbrooke / No 13092"
+      },
+      {
+        "stop_id": "53477",
+        "stop_name": "Sherbrooke / 32e Avenue"
+      },
+      {
+        "stop_id": "53487",
+        "stop_name": "Sherbrooke / 36e Avenue"
+      },
+      {
+        "stop_id": "61741",
+        "stop_name": "40e Avenue / Beaudry"
+      },
+      {
+        "stop_id": "61732",
+        "stop_name": "42e Avenue / Prince-Arthur"
+      },
+      {
+        "stop_id": "53448",
+        "stop_name": "Prince-Arthur / François-Harel"
+      },
+      {
+        "stop_id": "53465",
+        "stop_name": "Prince-Arthur / De La Rousselière"
+      },
+      {
+        "stop_id": "53718",
+        "stop_name": "Prince-Arthur / No 14135"
+      },
+      {
+        "stop_id": "53719",
+        "stop_name": "52e Avenue / Prince-Arthur"
+      },
+      {
+        "stop_id": "53513",
+        "stop_name": "Sherbrooke / 53e Avenue"
+      },
+      {
+        "stop_id": "61728",
+        "stop_name": "Gare Pointe-aux-Trembles"
+      }
+    ]
+  },
+  {
+    "direction": "Est destination École secondaire P.A.T.",
+    "arrets": [
+      {
+        "stop_id": "60326",
+        "stop_name": "d'Amos / Arthur-Buies"
+      },
+      {
+        "stop_id": "55257",
+        "stop_name": "Henri-Bourassa / Lacordaire"
+      },
+      {
+        "stop_id": "55294",
+        "stop_name": "Henri-Bourassa / Rolland"
+      },
+      {
+        "stop_id": "55306",
+        "stop_name": "Langelier / Renoir"
+      },
+      {
+        "stop_id": "55302",
+        "stop_name": "Langelier / Dijon"
+      },
+      {
+        "stop_id": "60507",
+        "stop_name": "Marie-Victorin / Albert-Hudon"
+      },
+      {
+        "stop_id": "60387",
+        "stop_name": "Henri-Bourassa / Pascal-Gagnon"
+      },
+      {
+        "stop_id": "61529",
+        "stop_name": "Henri-Bourassa / 6e Avenue"
+      },
+      {
+        "stop_id": "53738",
+        "stop_name": "Henri-Bourassa / Colbert"
+      },
+      {
+        "stop_id": "54514",
+        "stop_name": "Henri-Bourassa / L.-J.- Forget"
+      },
+      {
+        "stop_id": "51932",
+        "stop_name": "Henri-Bourassa / Marco-Polo"
+      },
+      {
+        "stop_id": "60328",
+        "stop_name": "Henri-Bourassa / Ray-Lawson"
+      },
+      {
+        "stop_id": "53785",
+        "stop_name": "Henri-Bourassa / No 8255"
+      },
+      {
+        "stop_id": "61756",
+        "stop_name": "Henri-Bourassa / du Golf"
+      },
+      {
+        "stop_id": "53926",
+        "stop_name": "Henri-Bourassa / No 8601"
+      },
+      {
+        "stop_id": "54513",
+        "stop_name": "Henri-Bourassa / No 9050"
+      },
+      {
+        "stop_id": "54734",
+        "stop_name": "Henri-Bourassa / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "54481",
+        "stop_name": "Henri-Bourassa / No 9225"
+      },
+      {
+        "stop_id": "52803",
+        "stop_name": "Henri-Bourassa / 54e Avenue"
+      },
+      {
+        "stop_id": "52860",
+        "stop_name": "Henri-Bourassa / 57e Avenue"
+      },
+      {
+        "stop_id": "52909",
+        "stop_name": "Henri-Bourassa / Broadway"
+      },
+      {
+        "stop_id": "54406",
+        "stop_name": "Henri-Bourassa / No 9850"
+      },
+      {
+        "stop_id": "54409",
+        "stop_name": "Henri-Bourassa / Marien"
+      },
+      {
+        "stop_id": "54241",
+        "stop_name": "Henri-Bourassa / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "61740",
+        "stop_name": "Saint-Jean-Baptiste / Industriel"
+      },
+      {
+        "stop_id": "61731",
+        "stop_name": "Sherbrooke / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "53435",
+        "stop_name": "Sherbrooke / 16e Avenue"
+      },
+      {
+        "stop_id": "54248",
+        "stop_name": "Sherbrooke / No 12572"
+      },
+      {
+        "stop_id": "53457",
+        "stop_name": "Sherbrooke / du Tricentenaire"
+      },
+      {
+        "stop_id": "53470",
+        "stop_name": "Sherbrooke / Robert-Chevalier"
+      },
+      {
+        "stop_id": "53712",
+        "stop_name": "Sherbrooke / No 13092"
+      },
+      {
+        "stop_id": "53477",
+        "stop_name": "Sherbrooke / 32e Avenue"
+      },
+      {
+        "stop_id": "53487",
+        "stop_name": "Sherbrooke / 36e Avenue"
+      },
+      {
+        "stop_id": "61741",
+        "stop_name": "40e Avenue / Beaudry"
+      },
+      {
+        "stop_id": "61732",
+        "stop_name": "42e Avenue / Prince-Arthur"
+      },
+      {
+        "stop_id": "53448",
+        "stop_name": "Prince-Arthur / François-Harel"
+      },
+      {
+        "stop_id": "53465",
+        "stop_name": "Prince-Arthur / De La Rousselière"
+      },
+      {
+        "stop_id": "53718",
+        "stop_name": "Prince-Arthur / No 14135"
+      },
+      {
+        "stop_id": "53719",
+        "stop_name": "52e Avenue / Prince-Arthur"
+      },
+      {
+        "stop_id": "53513",
+        "stop_name": "Sherbrooke / 53e Avenue"
+      },
+      {
+        "stop_id": "61728",
+        "stop_name": "Gare Pointe-aux-Trembles"
+      },
+      {
+        "stop_id": "62009",
+        "stop_name": "École secondaire de la Pointe-aux-Trembles"
+      }
+    ]
+  }
+]

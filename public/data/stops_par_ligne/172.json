@@ -1,0 +1,160 @@
+[
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "62067",
+        "stop_name": "Station REM Île-des-Soeurs"
+      },
+      {
+        "stop_id": "62206",
+        "stop_name": "René-Lévesque / Levert"
+      },
+      {
+        "stop_id": "62118",
+        "stop_name": "René-Lévesque / du Commerce"
+      },
+      {
+        "stop_id": "61670",
+        "stop_name": "de l'Île-des-Soeurs / de la Grande-Allée"
+      },
+      {
+        "stop_id": "56721",
+        "stop_name": "Marguerite-Bourgeoys / des Passereaux"
+      },
+      {
+        "stop_id": "56698",
+        "stop_name": "Marguerite-Bourgeoys / Marie-Le Ber"
+      },
+      {
+        "stop_id": "56681",
+        "stop_name": "Marguerite-Bourgeoys / du Club-Marin"
+      },
+      {
+        "stop_id": "56679",
+        "stop_name": "du Golf / No 1160"
+      },
+      {
+        "stop_id": "56677",
+        "stop_name": "du Golf / No 1050"
+      },
+      {
+        "stop_id": "56675",
+        "stop_name": "du Golf / No 800"
+      },
+      {
+        "stop_id": "56673",
+        "stop_name": "du Golf / William-Paul"
+      },
+      {
+        "stop_id": "56671",
+        "stop_name": "du Golf / des Camélias"
+      },
+      {
+        "stop_id": "56652",
+        "stop_name": "du Golf / No 201"
+      },
+      {
+        "stop_id": "60196",
+        "stop_name": "Place du Commerce / Provigo"
+      },
+      {
+        "stop_id": "56683",
+        "stop_name": "Place du Commerce / Centre Le Village"
+      },
+      {
+        "stop_id": "56496",
+        "stop_name": "Place du Commerce / Cité de l'Île"
+      },
+      {
+        "stop_id": "56702",
+        "stop_name": "René-Lévesque / Levert"
+      },
+      {
+        "stop_id": "62201",
+        "stop_name": "Station REM Île-des-Soeurs / Pont Champlain"
+      }
+    ]
+  },
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "62066",
+        "stop_name": "Station REM Île-des-Soeurs"
+      },
+      {
+        "stop_id": "61671",
+        "stop_name": "René-Lévesque / Levert"
+      },
+      {
+        "stop_id": "61672",
+        "stop_name": "du Commerce / Levert"
+      },
+      {
+        "stop_id": "62133",
+        "stop_name": "du Commerce / Cité de l'Île"
+      },
+      {
+        "stop_id": "61674",
+        "stop_name": "du Commerce / No 40"
+      },
+      {
+        "stop_id": "56670",
+        "stop_name": "du Golf / No 210"
+      },
+      {
+        "stop_id": "56672",
+        "stop_name": "du Golf / No 500"
+      },
+      {
+        "stop_id": "56674",
+        "stop_name": "du Golf / William-Paul"
+      },
+      {
+        "stop_id": "56676",
+        "stop_name": "du Golf / No 800"
+      },
+      {
+        "stop_id": "56678",
+        "stop_name": "du Golf / No 1050"
+      },
+      {
+        "stop_id": "56680",
+        "stop_name": "du Golf / No 1061"
+      },
+      {
+        "stop_id": "56495",
+        "stop_name": "Marguerite-Bourgeoys / du Club-Marin"
+      },
+      {
+        "stop_id": "56699",
+        "stop_name": "Marguerite-Bourgeoys / de la Forêt"
+      },
+      {
+        "stop_id": "61675",
+        "stop_name": "Marguerite-Bourgeoys / des Passereaux"
+      },
+      {
+        "stop_id": "61676",
+        "stop_name": "de l'Île-des-Soeurs / Parc de la Fontaine"
+      },
+      {
+        "stop_id": "61677",
+        "stop_name": "de l'Île-des-Soeurs / École des Marguerite"
+      },
+      {
+        "stop_id": "56692",
+        "stop_name": "René-Lévesque / No 3000"
+      },
+      {
+        "stop_id": "56702",
+        "stop_name": "René-Lévesque / Levert"
+      },
+      {
+        "stop_id": "62201",
+        "stop_name": "Station REM Île-des-Soeurs / Pont Champlain"
+      }
+    ]
+  }
+]

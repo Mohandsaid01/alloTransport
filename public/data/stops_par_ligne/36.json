@@ -1,0 +1,304 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "60224",
+        "stop_name": "Station Square-Victoria-OACI"
+      },
+      {
+        "stop_id": "52753",
+        "stop_name": "Saint-Jacques / Robert-Bourassa"
+      },
+      {
+        "stop_id": "62354",
+        "stop_name": "Saint-Jacques / Mansfield"
+      },
+      {
+        "stop_id": "62355",
+        "stop_name": "Notre-Dame / Peel"
+      },
+      {
+        "stop_id": "62254",
+        "stop_name": "Notre-Dame / de la Montagne"
+      },
+      {
+        "stop_id": "61750",
+        "stop_name": "Notre-Dame / de Versailles"
+      },
+      {
+        "stop_id": "61751",
+        "stop_name": "Notre-Dame / Guy"
+      },
+      {
+        "stop_id": "52549",
+        "stop_name": "Notre-Dame / des Seigneurs"
+      },
+      {
+        "stop_id": "52446",
+        "stop_name": "Notre-Dame / Georges-Vanier"
+      },
+      {
+        "stop_id": "52320",
+        "stop_name": "Notre-Dame / Charlevoix"
+      },
+      {
+        "stop_id": "52244",
+        "stop_name": "Notre-Dame / Atwater"
+      },
+      {
+        "stop_id": "52169",
+        "stop_name": "Notre-Dame / Rose-de-Lima"
+      },
+      {
+        "stop_id": "52122",
+        "stop_name": "Notre-Dame / Turgeon"
+      },
+      {
+        "stop_id": "53816",
+        "stop_name": "Notre-Dame / Place Saint-Henri"
+      },
+      {
+        "stop_id": "54282",
+        "stop_name": "Notre-Dame / Sainte-Marguerite"
+      },
+      {
+        "stop_id": "62162",
+        "stop_name": "Notre-Dame / Lacasse"
+      },
+      {
+        "stop_id": "51935",
+        "stop_name": "Notre-Dame / De Courcelle"
+      },
+      {
+        "stop_id": "51872",
+        "stop_name": "Notre-Dame / Saint-Rémi"
+      },
+      {
+        "stop_id": "51813",
+        "stop_name": "Notre-Dame / de la Côte-Saint-Paul"
+      },
+      {
+        "stop_id": "51774",
+        "stop_name": "Notre-Dame / de Carillon"
+      },
+      {
+        "stop_id": "61641",
+        "stop_name": "École James-Lyng (Notre-Dame / de Carillon)"
+      },
+      {
+        "stop_id": "54393",
+        "stop_name": "Monk / Philippe-Turcot"
+      },
+      {
+        "stop_id": "51697",
+        "stop_name": "Monk / Pierre-Héroux"
+      },
+      {
+        "stop_id": "51733",
+        "stop_name": "Monk / Denonville"
+      },
+      {
+        "stop_id": "51747",
+        "stop_name": "Monk / Jacques-Hertel"
+      },
+      {
+        "stop_id": "51777",
+        "stop_name": "Monk / Jolicoeur"
+      },
+      {
+        "stop_id": "51801",
+        "stop_name": "Monk / Springland"
+      },
+      {
+        "stop_id": "62356",
+        "stop_name": "Allard / Beaulieu"
+      },
+      {
+        "stop_id": "51730",
+        "stop_name": "Allard / Dumas"
+      },
+      {
+        "stop_id": "51639",
+        "stop_name": "Allard / De Montmagny"
+      },
+      {
+        "stop_id": "51562",
+        "stop_name": "Allard / Irwin"
+      },
+      {
+        "stop_id": "56968",
+        "stop_name": "Allard / Newman"
+      },
+      {
+        "stop_id": "60633",
+        "stop_name": "Angrignon / Tours Angrignon"
+      },
+      {
+        "stop_id": "61660",
+        "stop_name": "Station Angrignon"
+      },
+      {
+        "stop_id": "54105",
+        "stop_name": "Station Angrignon"
+      },
+      {
+        "stop_id": "62229",
+        "stop_name": "Notre-Dame / Charlevoix"
+      },
+      {
+        "stop_id": "52003",
+        "stop_name": "Notre-Dame / Sainte-Marguerite"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54105",
+        "stop_name": "Station Angrignon"
+      },
+      {
+        "stop_id": "56727",
+        "stop_name": "Angrignon / Newman"
+      },
+      {
+        "stop_id": "57078",
+        "stop_name": "Allard / Newman"
+      },
+      {
+        "stop_id": "51563",
+        "stop_name": "Allard / Irwin"
+      },
+      {
+        "stop_id": "51640",
+        "stop_name": "Allard / De Montmagny"
+      },
+      {
+        "stop_id": "51731",
+        "stop_name": "Allard / Dumas"
+      },
+      {
+        "stop_id": "62247",
+        "stop_name": "Allard / Monk"
+      },
+      {
+        "stop_id": "51800",
+        "stop_name": "Monk / Springland"
+      },
+      {
+        "stop_id": "51779",
+        "stop_name": "Monk / Jolicoeur"
+      },
+      {
+        "stop_id": "62111",
+        "stop_name": "Monk / Jacques-Hertel"
+      },
+      {
+        "stop_id": "51734",
+        "stop_name": "Monk / Denonville"
+      },
+      {
+        "stop_id": "51696",
+        "stop_name": "Monk / Pierre-Héroux"
+      },
+      {
+        "stop_id": "54392",
+        "stop_name": "Monk / de la Côte-Saint-Paul"
+      },
+      {
+        "stop_id": "60525",
+        "stop_name": "de la Côte-Saint-Paul / Centre Gadbois"
+      },
+      {
+        "stop_id": "60708",
+        "stop_name": "de la Côte-Saint-Paul / Saint-Ambroise"
+      },
+      {
+        "stop_id": "60527",
+        "stop_name": "Notre-Dame / de la Côte-Saint-Paul"
+      },
+      {
+        "stop_id": "51874",
+        "stop_name": "Notre-Dame / Saint-Rémi"
+      },
+      {
+        "stop_id": "51936",
+        "stop_name": "Notre-Dame / De Courcelle"
+      },
+      {
+        "stop_id": "53954",
+        "stop_name": "Square Sir-George-Étienne-Cartier"
+      },
+      {
+        "stop_id": "51926",
+        "stop_name": "Saint-Jacques / Saint-Philippe"
+      },
+      {
+        "stop_id": "51989",
+        "stop_name": "Station Place-Saint-Henri"
+      },
+      {
+        "stop_id": "52053",
+        "stop_name": "Notre-Dame / de la Station"
+      },
+      {
+        "stop_id": "52123",
+        "stop_name": "Notre-Dame / Turgeon"
+      },
+      {
+        "stop_id": "62063",
+        "stop_name": "Notre-Dame / Bérard"
+      },
+      {
+        "stop_id": "52246",
+        "stop_name": "Notre-Dame / Atwater"
+      },
+      {
+        "stop_id": "52321",
+        "stop_name": "Notre-Dame / Charlevoix"
+      },
+      {
+        "stop_id": "52447",
+        "stop_name": "Notre-Dame / Georges-Vanier"
+      },
+      {
+        "stop_id": "52548",
+        "stop_name": "Notre-Dame / des Seigneurs"
+      },
+      {
+        "stop_id": "61743",
+        "stop_name": "Notre-Dame / Guy"
+      },
+      {
+        "stop_id": "59235",
+        "stop_name": "Notre-Dame / de Versailles"
+      },
+      {
+        "stop_id": "58803",
+        "stop_name": "Notre-Dame / de la Montagne"
+      },
+      {
+        "stop_id": "62248",
+        "stop_name": "Notre-Dame / Peel"
+      },
+      {
+        "stop_id": "62249",
+        "stop_name": "Notre-Dame / de l'Inspecteur"
+      },
+      {
+        "stop_id": "62353",
+        "stop_name": "Notre-Dame / Gauvin"
+      },
+      {
+        "stop_id": "52826",
+        "stop_name": "McGill / Saint-Jacques"
+      },
+      {
+        "stop_id": "60224",
+        "stop_name": "Station Square-Victoria-OACI"
+      }
+    ]
+  }
+]

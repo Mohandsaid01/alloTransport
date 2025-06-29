@@ -1,0 +1,252 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "61271",
+        "stop_name": "des Jockeys / Clanranald"
+      },
+      {
+        "stop_id": "54361",
+        "stop_name": "Jean-Talon / Jean-Louis-Lévesque"
+      },
+      {
+        "stop_id": "50510",
+        "stop_name": "Station Namur (Décarie / Jean-Talon)"
+      },
+      {
+        "stop_id": "54224",
+        "stop_name": "Paré / Mountain Sights"
+      },
+      {
+        "stop_id": "50532",
+        "stop_name": "Mountain Sights / Jean-Talon"
+      },
+      {
+        "stop_id": "53776",
+        "stop_name": "Jean-Talon / No 5000"
+      },
+      {
+        "stop_id": "50583",
+        "stop_name": "Jean-Talon / Victoria"
+      },
+      {
+        "stop_id": "50609",
+        "stop_name": "Jean-Talon / de la Savane"
+      },
+      {
+        "stop_id": "54318",
+        "stop_name": "Jean-Talon / Lucerne"
+      },
+      {
+        "stop_id": "54068",
+        "stop_name": "Jean-Talon / de Nancy"
+      },
+      {
+        "stop_id": "50694",
+        "stop_name": "Jean-Talon / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "50746",
+        "stop_name": "Jean-Talon / Frobisher"
+      },
+      {
+        "stop_id": "50822",
+        "stop_name": "Jean-Talon / de Dieppe"
+      },
+      {
+        "stop_id": "50104",
+        "stop_name": "Gare Canora (Jean-Talon / Wilderton)"
+      },
+      {
+        "stop_id": "56093",
+        "stop_name": "Dresden / Aberdare"
+      },
+      {
+        "stop_id": "56121",
+        "stop_name": "Dresden / Clyde"
+      },
+      {
+        "stop_id": "56122",
+        "stop_name": "Dresden / Rockland"
+      },
+      {
+        "stop_id": "56095",
+        "stop_name": "Graham / Rockland"
+      },
+      {
+        "stop_id": "56100",
+        "stop_name": "Graham / Markham"
+      },
+      {
+        "stop_id": "51064",
+        "stop_name": "Jean-Talon / de l'Acadie"
+      },
+      {
+        "stop_id": "51085",
+        "stop_name": "Jean-Talon / Wiseman"
+      },
+      {
+        "stop_id": "51114",
+        "stop_name": "Jean-Talon / Bloomfield"
+      },
+      {
+        "stop_id": "51127",
+        "stop_name": "Jean-Talon / Querbes"
+      },
+      {
+        "stop_id": "51140",
+        "stop_name": "Station Parc (Jean-Talon / Hutchison)"
+      },
+      {
+        "stop_id": "51199",
+        "stop_name": "Jean-Talon / Alexandra"
+      },
+      {
+        "stop_id": "51227",
+        "stop_name": "Jean-Talon / Clark"
+      },
+      {
+        "stop_id": "51266",
+        "stop_name": "Jean-Talon / Saint-Dominique"
+      },
+      {
+        "stop_id": "53774",
+        "stop_name": "Jean-Talon / Drolet"
+      },
+      {
+        "stop_id": "51322",
+        "stop_name": "Station Jean-Talon Sud / De Saint-Vallier"
+      },
+      {
+        "stop_id": "51288",
+        "stop_name": "De Castelnau / Saint-Hubert"
+      },
+      {
+        "stop_id": "51311",
+        "stop_name": "Station Jean-Talon Nord / Saint-Denis"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "51311",
+        "stop_name": "Station Jean-Talon Nord / Saint-Denis"
+      },
+      {
+        "stop_id": "51296",
+        "stop_name": "Jean-Talon / Henri-Julien"
+      },
+      {
+        "stop_id": "51269",
+        "stop_name": "Jean-Talon / Casgrain"
+      },
+      {
+        "stop_id": "51226",
+        "stop_name": "Jean-Talon / Clark"
+      },
+      {
+        "stop_id": "51198",
+        "stop_name": "Jean-Talon / Alexandra"
+      },
+      {
+        "stop_id": "54170",
+        "stop_name": "Station Parc (Jean-Talon / du Parc)"
+      },
+      {
+        "stop_id": "51125",
+        "stop_name": "Jean-Talon / Querbes"
+      },
+      {
+        "stop_id": "51113",
+        "stop_name": "Jean-Talon / Bloomfield"
+      },
+      {
+        "stop_id": "51084",
+        "stop_name": "Jean-Talon / Wiseman"
+      },
+      {
+        "stop_id": "51063",
+        "stop_name": "Jean-Talon / de l'Acadie"
+      },
+      {
+        "stop_id": "56123",
+        "stop_name": "Graham / Markham"
+      },
+      {
+        "stop_id": "56124",
+        "stop_name": "Graham / Rockland"
+      },
+      {
+        "stop_id": "56125",
+        "stop_name": "Dresden / Rockland"
+      },
+      {
+        "stop_id": "56126",
+        "stop_name": "Dresden / Clyde"
+      },
+      {
+        "stop_id": "56127",
+        "stop_name": "Dresden / Aberdare"
+      },
+      {
+        "stop_id": "50933",
+        "stop_name": "Gare Canora (Jean-Talon / Wilderton)"
+      },
+      {
+        "stop_id": "50922",
+        "stop_name": "Jean-Talon / de Dunkirk"
+      },
+      {
+        "stop_id": "50821",
+        "stop_name": "Jean-Talon / de Dieppe"
+      },
+      {
+        "stop_id": "50735",
+        "stop_name": "Jean-Talon / Mulberry"
+      },
+      {
+        "stop_id": "50693",
+        "stop_name": "Jean-Talon / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "54067",
+        "stop_name": "Jean-Talon / de Nancy"
+      },
+      {
+        "stop_id": "56104",
+        "stop_name": "Jean-Talon / Lucerne"
+      },
+      {
+        "stop_id": "50608",
+        "stop_name": "Jean-Talon / de la Savane"
+      },
+      {
+        "stop_id": "50581",
+        "stop_name": "Jean-Talon / Victoria"
+      },
+      {
+        "stop_id": "53892",
+        "stop_name": "Jean-Talon / No 5005"
+      },
+      {
+        "stop_id": "50531",
+        "stop_name": "Jean-Talon / Mountain Sights"
+      },
+      {
+        "stop_id": "50507",
+        "stop_name": "Station Namur (Jean-Talon / Décarie)"
+      },
+      {
+        "stop_id": "54362",
+        "stop_name": "Jean-Talon / Jean-Louis-Lévesque"
+      },
+      {
+        "stop_id": "61271",
+        "stop_name": "des Jockeys / Clanranald"
+      }
+    ]
+  }
+]

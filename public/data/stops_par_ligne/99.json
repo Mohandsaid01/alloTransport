@@ -1,0 +1,216 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "51753",
+        "stop_name": "Everett / 24e Avenue"
+      },
+      {
+        "stop_id": "51657",
+        "stop_name": "Villeray / Pie-IX"
+      },
+      {
+        "stop_id": "51650",
+        "stop_name": "Villeray / 22e Avenue"
+      },
+      {
+        "stop_id": "51617",
+        "stop_name": "Villeray / 19e Avenue"
+      },
+      {
+        "stop_id": "51596",
+        "stop_name": "Villeray / Léonard-De Vinci"
+      },
+      {
+        "stop_id": "51592",
+        "stop_name": "Shaughnessy / François-Perrault"
+      },
+      {
+        "stop_id": "53990",
+        "stop_name": "François-Perrault / Michel-Ange"
+      },
+      {
+        "stop_id": "51518",
+        "stop_name": "Villeray / Saint-Michel"
+      },
+      {
+        "stop_id": "51492",
+        "stop_name": "Villeray / 9e Avenue"
+      },
+      {
+        "stop_id": "53783",
+        "stop_name": "Villeray / 6e Avenue"
+      },
+      {
+        "stop_id": "51444",
+        "stop_name": "Villeray / 2e Avenue"
+      },
+      {
+        "stop_id": "51415",
+        "stop_name": "Villeray / D'Iberville"
+      },
+      {
+        "stop_id": "51381",
+        "stop_name": "Villeray / Sagard"
+      },
+      {
+        "stop_id": "51352",
+        "stop_name": "Villeray / De Lorimier"
+      },
+      {
+        "stop_id": "51328",
+        "stop_name": "Villeray / Chabot"
+      },
+      {
+        "stop_id": "51302",
+        "stop_name": "Villeray / Papineau"
+      },
+      {
+        "stop_id": "54240",
+        "stop_name": "Villeray / Garnier"
+      },
+      {
+        "stop_id": "51255",
+        "stop_name": "Villeray / Chambord"
+      },
+      {
+        "stop_id": "51208",
+        "stop_name": "Villeray / Christophe-Colomb"
+      },
+      {
+        "stop_id": "51173",
+        "stop_name": "Villeray / Saint-Hubert"
+      },
+      {
+        "stop_id": "53781",
+        "stop_name": "De Chateaubriand / Villeray"
+      },
+      {
+        "stop_id": "53782",
+        "stop_name": "De Chateaubriand / Faillon"
+      },
+      {
+        "stop_id": "51289",
+        "stop_name": "De Chateaubriand / De Castelnau"
+      },
+      {
+        "stop_id": "54172",
+        "stop_name": "Station Jean-Talon Nord / Lajeunesse"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54172",
+        "stop_name": "Station Jean-Talon Nord / Lajeunesse"
+      },
+      {
+        "stop_id": "54145",
+        "stop_name": "Lajeunesse / de Castelnau"
+      },
+      {
+        "stop_id": "54146",
+        "stop_name": "Lajeunesse / Faillon"
+      },
+      {
+        "stop_id": "51141",
+        "stop_name": "Lajeunesse / Villeray"
+      },
+      {
+        "stop_id": "51159",
+        "stop_name": "Villeray / Foucher"
+      },
+      {
+        "stop_id": "51174",
+        "stop_name": "Villeray / Saint-Hubert"
+      },
+      {
+        "stop_id": "51210",
+        "stop_name": "Villeray / Christophe-Colomb"
+      },
+      {
+        "stop_id": "51256",
+        "stop_name": "Villeray / Chambord"
+      },
+      {
+        "stop_id": "54239",
+        "stop_name": "Villeray / Garnier"
+      },
+      {
+        "stop_id": "51304",
+        "stop_name": "Villeray / Papineau"
+      },
+      {
+        "stop_id": "51329",
+        "stop_name": "Villeray / Chabot"
+      },
+      {
+        "stop_id": "51354",
+        "stop_name": "Villeray / De Lorimier"
+      },
+      {
+        "stop_id": "51380",
+        "stop_name": "Villeray / Louis-Hémon"
+      },
+      {
+        "stop_id": "51417",
+        "stop_name": "Villeray / D'Iberville"
+      },
+      {
+        "stop_id": "51437",
+        "stop_name": "Villeray / 1re Avenue"
+      },
+      {
+        "stop_id": "51450",
+        "stop_name": "Villeray / 6e Avenue"
+      },
+      {
+        "stop_id": "51483",
+        "stop_name": "Villeray / 8e Avenue"
+      },
+      {
+        "stop_id": "51520",
+        "stop_name": "Villeray / Saint-Michel"
+      },
+      {
+        "stop_id": "51625",
+        "stop_name": "François-Perrault / 13e Avenue"
+      },
+      {
+        "stop_id": "51575",
+        "stop_name": "François-Perrault / 14e Avenue"
+      },
+      {
+        "stop_id": "51597",
+        "stop_name": "Villeray / Léonard-De Vinci"
+      },
+      {
+        "stop_id": "51618",
+        "stop_name": "Villeray / 19e Avenue"
+      },
+      {
+        "stop_id": "61553",
+        "stop_name": "Villeray / 20e Avenue"
+      },
+      {
+        "stop_id": "51659",
+        "stop_name": "Villeray / Pie-IX"
+      },
+      {
+        "stop_id": "51666",
+        "stop_name": "Villeray / 23e Avenue"
+      },
+      {
+        "stop_id": "53784",
+        "stop_name": "Villeray / de Gênes"
+      },
+      {
+        "stop_id": "51753",
+        "stop_name": "Everett / 24e Avenue"
+      }
+    ]
+  }
+]

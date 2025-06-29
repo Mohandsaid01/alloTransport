@@ -1,0 +1,28 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54331",
+        "stop_name": "Station Jean-Drapeau"
+      },
+      {
+        "stop_id": "53839",
+        "stop_name": "La Ronde"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "53839",
+        "stop_name": "La Ronde"
+      },
+      {
+        "stop_id": "54331",
+        "stop_name": "Station Jean-Drapeau"
+      }
+    ]
+  }
+]

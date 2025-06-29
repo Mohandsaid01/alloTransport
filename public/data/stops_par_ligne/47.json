@@ -1,0 +1,204 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "62159",
+        "stop_name": "Saint-Joseph / Pie-IX"
+      },
+      {
+        "stop_id": "62147",
+        "stop_name": "Charlemagne / Laurier"
+      },
+      {
+        "stop_id": "52464",
+        "stop_name": "Charlemagne / Masson"
+      },
+      {
+        "stop_id": "52452",
+        "stop_name": "Masson / d'Orléans"
+      },
+      {
+        "stop_id": "52419",
+        "stop_name": "Masson / 17e Avenue"
+      },
+      {
+        "stop_id": "52391",
+        "stop_name": "Masson / 15e Avenue"
+      },
+      {
+        "stop_id": "52370",
+        "stop_name": "Masson / Lafond"
+      },
+      {
+        "stop_id": "52348",
+        "stop_name": "Masson / Saint-Michel"
+      },
+      {
+        "stop_id": "52316",
+        "stop_name": "Masson / 9e Avenue"
+      },
+      {
+        "stop_id": "52294",
+        "stop_name": "Masson / 6e Avenue"
+      },
+      {
+        "stop_id": "52259",
+        "stop_name": "Masson / 3e Avenue"
+      },
+      {
+        "stop_id": "52233",
+        "stop_name": "Masson / 1re Avenue"
+      },
+      {
+        "stop_id": "52188",
+        "stop_name": "Masson / D'Iberville"
+      },
+      {
+        "stop_id": "52191",
+        "stop_name": "Masson / D'Iberville"
+      },
+      {
+        "stop_id": "52088",
+        "stop_name": "Masson / De Lorimier"
+      },
+      {
+        "stop_id": "52023",
+        "stop_name": "Masson / Papineau"
+      },
+      {
+        "stop_id": "51975",
+        "stop_name": "Saint-Grégoire / Marquette"
+      },
+      {
+        "stop_id": "51929",
+        "stop_name": "Saint-Grégoire / Garnier"
+      },
+      {
+        "stop_id": "51893",
+        "stop_name": "Saint-Grégoire / Chambord"
+      },
+      {
+        "stop_id": "51852",
+        "stop_name": "Saint-Grégoire / De La Roche"
+      },
+      {
+        "stop_id": "53812",
+        "stop_name": "Saint-Grégoire / Saint-André"
+      },
+      {
+        "stop_id": "61369",
+        "stop_name": "Saint-Grégoire / Rivard"
+      },
+      {
+        "stop_id": "61903",
+        "stop_name": "Saint-Denis / Boucher"
+      },
+      {
+        "stop_id": "61900",
+        "stop_name": "Saint-Denis / Laurier"
+      },
+      {
+        "stop_id": "60366",
+        "stop_name": "Station Laurier (Berri / Saint-Joseph)"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "51974",
+        "stop_name": "Station Laurier Sud (Gilford / Berri)"
+      },
+      {
+        "stop_id": "61299",
+        "stop_name": "Saint-Hubert / Laurier"
+      },
+      {
+        "stop_id": "61301",
+        "stop_name": "Saint-Hubert / Saint-Grégoire"
+      },
+      {
+        "stop_id": "61370",
+        "stop_name": "Saint-Grégoire / de Mentana"
+      },
+      {
+        "stop_id": "61302",
+        "stop_name": "Saint-Grégoire / Chambord"
+      },
+      {
+        "stop_id": "51930",
+        "stop_name": "Saint-Grégoire / Garnier"
+      },
+      {
+        "stop_id": "51976",
+        "stop_name": "Saint-Grégoire / Marquette"
+      },
+      {
+        "stop_id": "52043",
+        "stop_name": "Masson / Cartier"
+      },
+      {
+        "stop_id": "52090",
+        "stop_name": "Masson / De Lorimier"
+      },
+      {
+        "stop_id": "52190",
+        "stop_name": "Masson / D'Iberville"
+      },
+      {
+        "stop_id": "61698",
+        "stop_name": "Masson / Molson"
+      },
+      {
+        "stop_id": "52248",
+        "stop_name": "Masson / 2e Avenue"
+      },
+      {
+        "stop_id": "52270",
+        "stop_name": "Masson / 4e Avenue"
+      },
+      {
+        "stop_id": "52299",
+        "stop_name": "Masson / 7e Avenue"
+      },
+      {
+        "stop_id": "52317",
+        "stop_name": "Masson / 9e Avenue"
+      },
+      {
+        "stop_id": "52350",
+        "stop_name": "Masson / Saint-Michel"
+      },
+      {
+        "stop_id": "52371",
+        "stop_name": "Masson / Lafond"
+      },
+      {
+        "stop_id": "52392",
+        "stop_name": "Masson / 15e Avenue"
+      },
+      {
+        "stop_id": "52426",
+        "stop_name": "Masson / 18e Avenue"
+      },
+      {
+        "stop_id": "52465",
+        "stop_name": "Masson / Charlemagne"
+      },
+      {
+        "stop_id": "52497",
+        "stop_name": "Masson / Pie-IX"
+      },
+      {
+        "stop_id": "52596",
+        "stop_name": "Pie-IX / Laurier"
+      },
+      {
+        "stop_id": "62159",
+        "stop_name": "Saint-Joseph / Pie-IX"
+      }
+    ]
+  }
+]

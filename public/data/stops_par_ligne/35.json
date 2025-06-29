@@ -1,0 +1,372 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54109",
+        "stop_name": "Station Angrignon"
+      },
+      {
+        "stop_id": "51688",
+        "stop_name": "des Trinitaires / Jogues"
+      },
+      {
+        "stop_id": "51762",
+        "stop_name": "des Trinitaires / Dumas"
+      },
+      {
+        "stop_id": "54012",
+        "stop_name": "Monk / De La Vérendrye"
+      },
+      {
+        "stop_id": "53946",
+        "stop_name": "Monk / Raudot"
+      },
+      {
+        "stop_id": "62244",
+        "stop_name": "Monk / Allard"
+      },
+      {
+        "stop_id": "51927",
+        "stop_name": "Allard / Laurendeau"
+      },
+      {
+        "stop_id": "51928",
+        "stop_name": "Laurendeau / Egan"
+      },
+      {
+        "stop_id": "51933",
+        "stop_name": "Laurendeau / Springland"
+      },
+      {
+        "stop_id": "61849",
+        "stop_name": "Laurendeau / De Sève"
+      },
+      {
+        "stop_id": "54158",
+        "stop_name": "Laurendeau / Jolicoeur"
+      },
+      {
+        "stop_id": "51969",
+        "stop_name": "Laurendeau / Jacques-Hertel"
+      },
+      {
+        "stop_id": "51977",
+        "stop_name": "Laurendeau / Le Caron"
+      },
+      {
+        "stop_id": "51995",
+        "stop_name": "Laurendeau / de l'Église"
+      },
+      {
+        "stop_id": "61585",
+        "stop_name": "Saint-Rémi / Cabot"
+      },
+      {
+        "stop_id": "53861",
+        "stop_name": "Saint-Rémi / Sainte-Émilie"
+      },
+      {
+        "stop_id": "51871",
+        "stop_name": "Saint-Rémi / Notre-Dame"
+      },
+      {
+        "stop_id": "51936",
+        "stop_name": "Notre-Dame / De Courcelle"
+      },
+      {
+        "stop_id": "53954",
+        "stop_name": "Square Sir-George-Étienne-Cartier"
+      },
+      {
+        "stop_id": "51926",
+        "stop_name": "Saint-Jacques / Saint-Philippe"
+      },
+      {
+        "stop_id": "51989",
+        "stop_name": "Station Place-Saint-Henri"
+      },
+      {
+        "stop_id": "52053",
+        "stop_name": "Notre-Dame / de la Station"
+      },
+      {
+        "stop_id": "52123",
+        "stop_name": "Notre-Dame / Turgeon"
+      },
+      {
+        "stop_id": "62063",
+        "stop_name": "Notre-Dame / Bérard"
+      },
+      {
+        "stop_id": "52246",
+        "stop_name": "Notre-Dame / Atwater"
+      },
+      {
+        "stop_id": "52321",
+        "stop_name": "Notre-Dame / Charlevoix"
+      },
+      {
+        "stop_id": "52447",
+        "stop_name": "Notre-Dame / Georges-Vanier"
+      },
+      {
+        "stop_id": "52548",
+        "stop_name": "Notre-Dame / des Seigneurs"
+      },
+      {
+        "stop_id": "61743",
+        "stop_name": "Notre-Dame / Guy"
+      },
+      {
+        "stop_id": "59235",
+        "stop_name": "Notre-Dame / de Versailles"
+      },
+      {
+        "stop_id": "58803",
+        "stop_name": "Notre-Dame / de la Montagne"
+      },
+      {
+        "stop_id": "59223",
+        "stop_name": "de la Montagne / William"
+      },
+      {
+        "stop_id": "61744",
+        "stop_name": "de la Montagne / Ottawa"
+      },
+      {
+        "stop_id": "52913",
+        "stop_name": "Wellington / Young"
+      },
+      {
+        "stop_id": "52945",
+        "stop_name": "Wellington / Ann"
+      },
+      {
+        "stop_id": "61765",
+        "stop_name": "Wellington / Prince"
+      },
+      {
+        "stop_id": "52975",
+        "stop_name": "Wellington / Queen"
+      },
+      {
+        "stop_id": "52992",
+        "stop_name": "Wellington / des Soeurs-Grises"
+      },
+      {
+        "stop_id": "60426",
+        "stop_name": "McGill / Le Moyne"
+      },
+      {
+        "stop_id": "52826",
+        "stop_name": "McGill / Saint-Jacques"
+      },
+      {
+        "stop_id": "52705",
+        "stop_name": "Station Square-Victoria-OACI"
+      },
+      {
+        "stop_id": "52666",
+        "stop_name": "Robert-Bourassa / De La Gauchetière"
+      },
+      {
+        "stop_id": "52588",
+        "stop_name": "Robert-Bourassa / René-Lévesque"
+      },
+      {
+        "stop_id": "52499",
+        "stop_name": "Robert-Bourassa / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52412",
+        "stop_name": "Station McGill (R.-Bourassa / Président-Kennedy)"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "52451",
+        "stop_name": "Station McGill (Union / De Maisonneuve)"
+      },
+      {
+        "stop_id": "52527",
+        "stop_name": "Union / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52669",
+        "stop_name": "du Beaver Hall / Belmont"
+      },
+      {
+        "stop_id": "61657",
+        "stop_name": "du Beaver Hall / Viger"
+      },
+      {
+        "stop_id": "52856",
+        "stop_name": "McGill / Notre-Dame"
+      },
+      {
+        "stop_id": "54070",
+        "stop_name": "McGill / Saint-Paul"
+      },
+      {
+        "stop_id": "52991",
+        "stop_name": "McGill / William"
+      },
+      {
+        "stop_id": "52974",
+        "stop_name": "Wellington / Queen"
+      },
+      {
+        "stop_id": "54382",
+        "stop_name": "Wellington / Robert-Bourassa"
+      },
+      {
+        "stop_id": "52944",
+        "stop_name": "Wellington / Ann"
+      },
+      {
+        "stop_id": "52919",
+        "stop_name": "Wellington / Peel"
+      },
+      {
+        "stop_id": "52898",
+        "stop_name": "Wellington / Murray"
+      },
+      {
+        "stop_id": "61747",
+        "stop_name": "de la Montagne / Ottawa"
+      },
+      {
+        "stop_id": "61748",
+        "stop_name": "de la Montagne / William"
+      },
+      {
+        "stop_id": "61749",
+        "stop_name": "de la Montagne / Barré"
+      },
+      {
+        "stop_id": "61750",
+        "stop_name": "Notre-Dame / de Versailles"
+      },
+      {
+        "stop_id": "61751",
+        "stop_name": "Notre-Dame / Guy"
+      },
+      {
+        "stop_id": "52549",
+        "stop_name": "Notre-Dame / des Seigneurs"
+      },
+      {
+        "stop_id": "52446",
+        "stop_name": "Notre-Dame / Georges-Vanier"
+      },
+      {
+        "stop_id": "52320",
+        "stop_name": "Notre-Dame / Charlevoix"
+      },
+      {
+        "stop_id": "52244",
+        "stop_name": "Notre-Dame / Atwater"
+      },
+      {
+        "stop_id": "52169",
+        "stop_name": "Notre-Dame / Rose-de-Lima"
+      },
+      {
+        "stop_id": "52122",
+        "stop_name": "Notre-Dame / Turgeon"
+      },
+      {
+        "stop_id": "53816",
+        "stop_name": "Notre-Dame / Place Saint-Henri"
+      },
+      {
+        "stop_id": "52003",
+        "stop_name": "Notre-Dame / Sainte-Marguerite"
+      },
+      {
+        "stop_id": "62162",
+        "stop_name": "Notre-Dame / Lacasse"
+      },
+      {
+        "stop_id": "51935",
+        "stop_name": "Notre-Dame / De Courcelle"
+      },
+      {
+        "stop_id": "62245",
+        "stop_name": "Notre-Dame / Saint-Rémi"
+      },
+      {
+        "stop_id": "51942",
+        "stop_name": "Saint-Rémi / Saint-Ambroise"
+      },
+      {
+        "stop_id": "61584",
+        "stop_name": "Saint-Rémi / Cabot"
+      },
+      {
+        "stop_id": "51996",
+        "stop_name": "Laurendeau / de l'Église"
+      },
+      {
+        "stop_id": "51978",
+        "stop_name": "Laurendeau / Le Caron"
+      },
+      {
+        "stop_id": "51970",
+        "stop_name": "Laurendeau / Jacques-Hertel"
+      },
+      {
+        "stop_id": "51962",
+        "stop_name": "Laurendeau / Jolicoeur"
+      },
+      {
+        "stop_id": "51960",
+        "stop_name": "Laurendeau / Desmarchais"
+      },
+      {
+        "stop_id": "51934",
+        "stop_name": "Laurendeau / Springland"
+      },
+      {
+        "stop_id": "54075",
+        "stop_name": "Laurendeau / D'Arcy-McGee"
+      },
+      {
+        "stop_id": "53859",
+        "stop_name": "Station Monk (Monk / Allard)"
+      },
+      {
+        "stop_id": "51857",
+        "stop_name": "Monk / Raudot"
+      },
+      {
+        "stop_id": "51887",
+        "stop_name": "Monk / De La Vérendrye"
+      },
+      {
+        "stop_id": "51785",
+        "stop_name": "des Trinitaires / D'Aragon"
+      },
+      {
+        "stop_id": "51687",
+        "stop_name": "des Trinitaires / Jogues"
+      },
+      {
+        "stop_id": "51611",
+        "stop_name": "des Trinitaires / Lamont"
+      },
+      {
+        "stop_id": "54109",
+        "stop_name": "Station Angrignon"
+      },
+      {
+        "stop_id": "62229",
+        "stop_name": "Notre-Dame / Charlevoix"
+      }
+    ]
+  }
+]

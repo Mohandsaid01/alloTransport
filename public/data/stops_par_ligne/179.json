@@ -1,0 +1,272 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "50231",
+        "stop_name": "de l'Acadie / De Salaberry"
+      },
+      {
+        "stop_id": "50233",
+        "stop_name": "de l'Acadie / De Salaberry"
+      },
+      {
+        "stop_id": "50243",
+        "stop_name": "de l'Acadie / de Louisbourg"
+      },
+      {
+        "stop_id": "50249",
+        "stop_name": "de l'Acadie / Dudemaine"
+      },
+      {
+        "stop_id": "50252",
+        "stop_name": "de l'Acadie / Charles-Gill"
+      },
+      {
+        "stop_id": "50261",
+        "stop_name": "de l'Acadie / Henri-Bourassa"
+      },
+      {
+        "stop_id": "53978",
+        "stop_name": "de l'Acadie / Place de l'Acadie"
+      },
+      {
+        "stop_id": "53821",
+        "stop_name": "de l'Acadie / No 10500"
+      },
+      {
+        "stop_id": "50273",
+        "stop_name": "de l'Acadie / Persillier"
+      },
+      {
+        "stop_id": "50293",
+        "stop_name": "de l'Acadie / Olivier-Berthelet"
+      },
+      {
+        "stop_id": "54083",
+        "stop_name": "de l'Acadie / Arthur-Lismer"
+      },
+      {
+        "stop_id": "50326",
+        "stop_name": "de l'Acadie / Sauvé"
+      },
+      {
+        "stop_id": "50331",
+        "stop_name": "de l'Acadie / Yvette-Brillon"
+      },
+      {
+        "stop_id": "50378",
+        "stop_name": "de l'Acadie / de Louvain"
+      },
+      {
+        "stop_id": "54341",
+        "stop_name": "de l'Acadie / Mazurette"
+      },
+      {
+        "stop_id": "50427",
+        "stop_name": "de l'Acadie / Chabanel"
+      },
+      {
+        "stop_id": "50482",
+        "stop_name": "de l'Acadie / Legendre"
+      },
+      {
+        "stop_id": "50539",
+        "stop_name": "Marché Central (de l'Acadie / Crémazie)"
+      },
+      {
+        "stop_id": "53828",
+        "stop_name": "de l'Acadie / Crémazie"
+      },
+      {
+        "stop_id": "50633",
+        "stop_name": "de l'Acadie / de Liège"
+      },
+      {
+        "stop_id": "50699",
+        "stop_name": "de l'Acadie / d'Anvers"
+      },
+      {
+        "stop_id": "50781",
+        "stop_name": "Jarry / de l'Acadie"
+      },
+      {
+        "stop_id": "50809",
+        "stop_name": "Jarry / Wiseman"
+      },
+      {
+        "stop_id": "50838",
+        "stop_name": "Jarry / Bloomfield"
+      },
+      {
+        "stop_id": "50907",
+        "stop_name": "Bloomfield / Ball"
+      },
+      {
+        "stop_id": "50970",
+        "stop_name": "Bloomfield / Saint-Roch"
+      },
+      {
+        "stop_id": "51062",
+        "stop_name": "Bloomfield / Ogilvy"
+      },
+      {
+        "stop_id": "62061",
+        "stop_name": "Ogilvy / d'Outremont"
+      },
+      {
+        "stop_id": "62062",
+        "stop_name": "de l'Acadie / Jean-Talon"
+      },
+      {
+        "stop_id": "60302",
+        "stop_name": "Station Acadie (Beaumont / de l'Acadie)"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "60302",
+        "stop_name": "Station Acadie (Beaumont / de l'Acadie)"
+      },
+      {
+        "stop_id": "56138",
+        "stop_name": "Beaumont / Fleet"
+      },
+      {
+        "stop_id": "56101",
+        "stop_name": "Beaumont / Rockland"
+      },
+      {
+        "stop_id": "56111",
+        "stop_name": "Rockland / Beaumont"
+      },
+      {
+        "stop_id": "56095",
+        "stop_name": "Graham / Rockland"
+      },
+      {
+        "stop_id": "56100",
+        "stop_name": "Graham / Markham"
+      },
+      {
+        "stop_id": "51064",
+        "stop_name": "Jean-Talon / de l'Acadie"
+      },
+      {
+        "stop_id": "51085",
+        "stop_name": "Jean-Talon / Wiseman"
+      },
+      {
+        "stop_id": "51055",
+        "stop_name": "Champagneur / Ogilvy"
+      },
+      {
+        "stop_id": "50964",
+        "stop_name": "Champagneur / Saint-Roch"
+      },
+      {
+        "stop_id": "50896",
+        "stop_name": "Champagneur / Ball"
+      },
+      {
+        "stop_id": "50829",
+        "stop_name": "Champagneur / Jarry"
+      },
+      {
+        "stop_id": "50808",
+        "stop_name": "Jarry / Wiseman"
+      },
+      {
+        "stop_id": "50782",
+        "stop_name": "Jarry / de l'Acadie"
+      },
+      {
+        "stop_id": "50698",
+        "stop_name": "de l'Acadie / d'Anvers"
+      },
+      {
+        "stop_id": "50632",
+        "stop_name": "de l'Acadie / de Liège"
+      },
+      {
+        "stop_id": "50573",
+        "stop_name": "de l'Acadie / Crémazie"
+      },
+      {
+        "stop_id": "53823",
+        "stop_name": "Marché Central (de l'Acadie / Crémazie)"
+      },
+      {
+        "stop_id": "50481",
+        "stop_name": "de l'Acadie / Legendre"
+      },
+      {
+        "stop_id": "50428",
+        "stop_name": "de l'Acadie / Chabanel"
+      },
+      {
+        "stop_id": "50380",
+        "stop_name": "de l'Acadie / de Louvain"
+      },
+      {
+        "stop_id": "50324",
+        "stop_name": "de l'Acadie / Sauvé"
+      },
+      {
+        "stop_id": "50329",
+        "stop_name": "de l'Acadie / Sauvé"
+      },
+      {
+        "stop_id": "54082",
+        "stop_name": "de l'Acadie / Arthur-Lismer"
+      },
+      {
+        "stop_id": "50292",
+        "stop_name": "de l'Acadie / du Liban"
+      },
+      {
+        "stop_id": "53822",
+        "stop_name": "de l'Acadie / de Persillier"
+      },
+      {
+        "stop_id": "54350",
+        "stop_name": "de l'Acadie / Place de l'Acadie"
+      },
+      {
+        "stop_id": "50259",
+        "stop_name": "de l'Acadie / Henri-Bourassa"
+      },
+      {
+        "stop_id": "50251",
+        "stop_name": "Aréna Marcelin-Wilson (de l'Acadie / C.-Gill)"
+      },
+      {
+        "stop_id": "50246",
+        "stop_name": "de l'Acadie / Dudemaine"
+      },
+      {
+        "stop_id": "50242",
+        "stop_name": "de l'Acadie / de Louisbourg"
+      },
+      {
+        "stop_id": "50229",
+        "stop_name": "de l'Acadie / De Salaberry"
+      },
+      {
+        "stop_id": "50224",
+        "stop_name": "Valmont / Viel"
+      },
+      {
+        "stop_id": "50221",
+        "stop_name": "de l'Acadie / Viel"
+      },
+      {
+        "stop_id": "50231",
+        "stop_name": "de l'Acadie / De Salaberry"
+      }
+    ]
+  }
+]

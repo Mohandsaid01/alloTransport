@@ -1,0 +1,352 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "56065",
+        "stop_name": "Graham / Dunkirk"
+      },
+      {
+        "stop_id": "56067",
+        "stop_name": "Laird / Chester"
+      },
+      {
+        "stop_id": "56070",
+        "stop_name": "Laird / Stanstead"
+      },
+      {
+        "stop_id": "56074",
+        "stop_name": "Laird / Caledonia"
+      },
+      {
+        "stop_id": "56077",
+        "stop_name": "Laird / Kenilworth"
+      },
+      {
+        "stop_id": "56071",
+        "stop_name": "Laird / Saint-Clare"
+      },
+      {
+        "stop_id": "50810",
+        "stop_name": "de la Côte-des-Neiges / de Bedford"
+      },
+      {
+        "stop_id": "50865",
+        "stop_name": "de la Côte-des-Neiges / Barclay"
+      },
+      {
+        "stop_id": "50904",
+        "stop_name": "de la Côte-des-Neiges / Carlton"
+      },
+      {
+        "stop_id": "50942",
+        "stop_name": "de la Côte-des-Neiges / Van Horne"
+      },
+      {
+        "stop_id": "53865",
+        "stop_name": "de la Côte-des-Neiges / De La Peltrie"
+      },
+      {
+        "stop_id": "51047",
+        "stop_name": "de la Côte-des-Neiges / Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "51102",
+        "stop_name": "de la Côte-des-Neiges / Saint-Kevin"
+      },
+      {
+        "stop_id": "51156",
+        "stop_name": "de la Côte-des-Neiges / Lacombe"
+      },
+      {
+        "stop_id": "51187",
+        "stop_name": "Station Côte-des-Neiges"
+      },
+      {
+        "stop_id": "51253",
+        "stop_name": "de la Côte-des-Neiges / Queen-Mary"
+      },
+      {
+        "stop_id": "51391",
+        "stop_name": "de la Côte-des-Neiges / No 4858"
+      },
+      {
+        "stop_id": "51427",
+        "stop_name": "de la Côte-des-Neiges / Ridgewood"
+      },
+      {
+        "stop_id": "51487",
+        "stop_name": "de la Côte-des-Neiges / Forest Hill"
+      },
+      {
+        "stop_id": "51546",
+        "stop_name": "de la Côte-des-Neiges / Remembrance"
+      },
+      {
+        "stop_id": "62143",
+        "stop_name": "de la Côte-des-Neiges / Belvédère"
+      },
+      {
+        "stop_id": "51627",
+        "stop_name": "de la Côte-des-Neiges / Blueridge"
+      },
+      {
+        "stop_id": "51653",
+        "stop_name": "de la Côte-des-Neiges / Gage"
+      },
+      {
+        "stop_id": "51715",
+        "stop_name": "McDougall / The Boulevard"
+      },
+      {
+        "stop_id": "51841",
+        "stop_name": "de la Côte-des-Neiges / Cedar"
+      },
+      {
+        "stop_id": "51923",
+        "stop_name": "du Docteur-Penfield / Atwater"
+      },
+      {
+        "stop_id": "51985",
+        "stop_name": "du Docteur-Penfield / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "52045",
+        "stop_name": "de la Côte-des-Neiges / Summerhill"
+      },
+      {
+        "stop_id": "52096",
+        "stop_name": "Saint-Mathieu / Sherbrooke"
+      },
+      {
+        "stop_id": "52147",
+        "stop_name": "Station Guy-Concordia (St-Mathieu/De Maisonneuve)"
+      },
+      {
+        "stop_id": "52196",
+        "stop_name": "Saint-Mathieu / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52285",
+        "stop_name": "Saint-Mathieu / René-Lévesque"
+      },
+      {
+        "stop_id": "52329",
+        "stop_name": "René-Lévesque / Guy"
+      },
+      {
+        "stop_id": "52374",
+        "stop_name": "René-Lévesque / Bishop"
+      },
+      {
+        "stop_id": "52437",
+        "stop_name": "René-Lévesque / Drummond"
+      },
+      {
+        "stop_id": "61807",
+        "stop_name": "René-Lévesque / Stanley"
+      },
+      {
+        "stop_id": "52530",
+        "stop_name": "René-Lévesque / Mansfield"
+      },
+      {
+        "stop_id": "53918",
+        "stop_name": "René-Lévesque / Union"
+      },
+      {
+        "stop_id": "52627",
+        "stop_name": "Basilique St-Patrick (R.-Lévesque / St-Alexandre)"
+      },
+      {
+        "stop_id": "60683",
+        "stop_name": "René-Lévesque / Jeanne-Mance"
+      },
+      {
+        "stop_id": "61806",
+        "stop_name": "Saint-Laurent / De Maisonneuve"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "61806",
+        "stop_name": "Saint-Laurent / De Maisonneuve"
+      },
+      {
+        "stop_id": "61825",
+        "stop_name": "De Bleury / Mayor"
+      },
+      {
+        "stop_id": "52608",
+        "stop_name": "De Bleury / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52679",
+        "stop_name": "De Bleury / René-Lévesque"
+      },
+      {
+        "stop_id": "52587",
+        "stop_name": "René-Lévesque / Robert-Bourassa"
+      },
+      {
+        "stop_id": "52529",
+        "stop_name": "René-Lévesque / Mansfield"
+      },
+      {
+        "stop_id": "52483",
+        "stop_name": "René-Lévesque / Peel"
+      },
+      {
+        "stop_id": "52463",
+        "stop_name": "René-Lévesque / Stanley"
+      },
+      {
+        "stop_id": "52416",
+        "stop_name": "René-Lévesque / de la Montagne"
+      },
+      {
+        "stop_id": "52373",
+        "stop_name": "René-Lévesque / Bishop"
+      },
+      {
+        "stop_id": "52327",
+        "stop_name": "René-Lévesque / Guy"
+      },
+      {
+        "stop_id": "52236",
+        "stop_name": "Guy / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52201",
+        "stop_name": "Station Guy-Concordia (Guy / De Maisonneuve)"
+      },
+      {
+        "stop_id": "52113",
+        "stop_name": "de la Côte-des-Neiges / Sherbrooke"
+      },
+      {
+        "stop_id": "52044",
+        "stop_name": "de la Côte-des-Neiges / Summerhill"
+      },
+      {
+        "stop_id": "51984",
+        "stop_name": "de la Côte-des-Neiges / du Docteur-Penfield"
+      },
+      {
+        "stop_id": "53761",
+        "stop_name": "des Pins / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "51840",
+        "stop_name": "de la Côte-des-Neiges / Cedar"
+      },
+      {
+        "stop_id": "51732",
+        "stop_name": "de la Côte-des-Neiges / The Boulevard"
+      },
+      {
+        "stop_id": "51664",
+        "stop_name": "de la Côte-des-Neiges / Hill Park"
+      },
+      {
+        "stop_id": "51626",
+        "stop_name": "de la Côte-des-Neiges / Blueridge"
+      },
+      {
+        "stop_id": "51545",
+        "stop_name": "de la Côte-des-Neiges / Belvédère"
+      },
+      {
+        "stop_id": "62119",
+        "stop_name": "de la Côte-des-Neiges / Remembrance"
+      },
+      {
+        "stop_id": "51486",
+        "stop_name": "de la Côte-des-Neiges / Forest Hill"
+      },
+      {
+        "stop_id": "53837",
+        "stop_name": "Cimetière Notre-Dame-des-Neiges"
+      },
+      {
+        "stop_id": "51426",
+        "stop_name": "de la Côte-des-Neiges / Ridgewood"
+      },
+      {
+        "stop_id": "51321",
+        "stop_name": "de la Côte-des-Neiges / Decelles"
+      },
+      {
+        "stop_id": "51251",
+        "stop_name": "de la Côte-des-Neiges / Queen-Mary"
+      },
+      {
+        "stop_id": "51186",
+        "stop_name": "de la Côte-des-Neiges / Jean-Brillant"
+      },
+      {
+        "stop_id": "51155",
+        "stop_name": "Station Côte-des-Neiges (Côte-des-Neiges / Lacombe"
+      },
+      {
+        "stop_id": "51101",
+        "stop_name": "de la Côte-des-Neiges / Saint-Kevin"
+      },
+      {
+        "stop_id": "51045",
+        "stop_name": "de la Côte-des-Neiges / Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "53864",
+        "stop_name": "de la Côte-des-Neiges / De La Peltrie"
+      },
+      {
+        "stop_id": "50940",
+        "stop_name": "de la Côte-des-Neiges / Van Horne"
+      },
+      {
+        "stop_id": "50903",
+        "stop_name": "de la Côte-des-Neiges / Carlton"
+      },
+      {
+        "stop_id": "50863",
+        "stop_name": "de la Côte-des-Neiges / Barclay"
+      },
+      {
+        "stop_id": "50789",
+        "stop_name": "de la Côte-des-Neiges / Mackenzie"
+      },
+      {
+        "stop_id": "50692",
+        "stop_name": "de la Côte-des-Neiges / Jean-Talon"
+      },
+      {
+        "stop_id": "56078",
+        "stop_name": "Laird / Glencoe"
+      },
+      {
+        "stop_id": "56076",
+        "stop_name": "Laird / Geneva"
+      },
+      {
+        "stop_id": "56073",
+        "stop_name": "Laird / Caledonia"
+      },
+      {
+        "stop_id": "56069",
+        "stop_name": "Laird / Moncrieff"
+      },
+      {
+        "stop_id": "56066",
+        "stop_name": "Laird / Alexander"
+      },
+      {
+        "stop_id": "56136",
+        "stop_name": "Gare Mont-Royal (Dunkirk / Cornwall)"
+      }
+    ]
+  }
+]

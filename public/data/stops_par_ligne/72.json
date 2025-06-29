@@ -1,0 +1,401 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "60807",
+        "stop_name": "Station Côte-Vertu (Gohier / Côte-Vertu)"
+      },
+      {
+        "stop_id": "55677",
+        "stop_name": "Décarie / de l'Église"
+      },
+      {
+        "stop_id": "55706",
+        "stop_name": "Station Du Collège (Décarie / du Collège)"
+      },
+      {
+        "stop_id": "55723",
+        "stop_name": "Station Du Collège (Décarie / Saint-Louis)"
+      },
+      {
+        "stop_id": "55409",
+        "stop_name": "Saint-François / Saint-Amour"
+      },
+      {
+        "stop_id": "55862",
+        "stop_name": "Saint-François / Donahue"
+      },
+      {
+        "stop_id": "60268",
+        "stop_name": "Vanden-Abeele / No 6198"
+      },
+      {
+        "stop_id": "60269",
+        "stop_name": "Vanden-Abeele / Halpern"
+      },
+      {
+        "stop_id": "60270",
+        "stop_name": "Marie-Curie / No 2800"
+      },
+      {
+        "stop_id": "60271",
+        "stop_name": "Marie-Curie / Alfred-Nobel"
+      },
+      {
+        "stop_id": "55979",
+        "stop_name": "Marie-Curie / No 2650"
+      },
+      {
+        "stop_id": "61116",
+        "stop_name": "Marie-Curie / Frederick-Banting"
+      },
+      {
+        "stop_id": "60865",
+        "stop_name": "Marie-Curie / No 2520"
+      },
+      {
+        "stop_id": "55987",
+        "stop_name": "Marie-Curie / No 2450"
+      },
+      {
+        "stop_id": "55984",
+        "stop_name": "Alexander-Fleming / Alfred-Nobel"
+      },
+      {
+        "stop_id": "55982",
+        "stop_name": "Alfred-Nobel / Albert-Einstein"
+      },
+      {
+        "stop_id": "55980",
+        "stop_name": "Alfred-Nobel / Frederick-Banting"
+      },
+      {
+        "stop_id": "60840",
+        "stop_name": "Frederick-Banting / No 7171"
+      },
+      {
+        "stop_id": "60841",
+        "stop_name": "Frederick-Banting / Marie-Curie"
+      },
+      {
+        "stop_id": "62146",
+        "stop_name": "Saint-François / André"
+      },
+      {
+        "stop_id": "61873",
+        "stop_name": "Saint-François / No 2025"
+      },
+      {
+        "stop_id": "60810",
+        "stop_name": "Saint-François / Avro"
+      },
+      {
+        "stop_id": "60811",
+        "stop_name": "Avro / Saint-Rémi"
+      },
+      {
+        "stop_id": "60812",
+        "stop_name": "Avro / No 2525"
+      },
+      {
+        "stop_id": "60813",
+        "stop_name": "Hymus / No 39"
+      },
+      {
+        "stop_id": "60817",
+        "stop_name": "Hymus / No 59"
+      },
+      {
+        "stop_id": "60816",
+        "stop_name": "Hymus / Columbus"
+      },
+      {
+        "stop_id": "60818",
+        "stop_name": "Hymus / Leacock"
+      },
+      {
+        "stop_id": "60819",
+        "stop_name": "Hymus / Delmar"
+      },
+      {
+        "stop_id": "57692",
+        "stop_name": "Hymus / Nordic"
+      },
+      {
+        "stop_id": "57687",
+        "stop_name": "Hymus / Gun"
+      },
+      {
+        "stop_id": "57673",
+        "stop_name": "Hymus / Hilary"
+      },
+      {
+        "stop_id": "57663",
+        "stop_name": "Hymus / Hastings"
+      },
+      {
+        "stop_id": "57656",
+        "stop_name": "Hymus / Carlisle"
+      },
+      {
+        "stop_id": "57809",
+        "stop_name": "Terminus Fairview"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "60825",
+        "stop_name": "Avro / No 2525"
+      },
+      {
+        "stop_id": "60826",
+        "stop_name": "Avro / Saint-Rémi"
+      },
+      {
+        "stop_id": "60827",
+        "stop_name": "Avro / Saint-François"
+      },
+      {
+        "stop_id": "61872",
+        "stop_name": "Saint-François / No 2000"
+      },
+      {
+        "stop_id": "60828",
+        "stop_name": "Saint-François / de l'Aviation"
+      },
+      {
+        "stop_id": "60831",
+        "stop_name": "Frederick-Banting / Marie-Curie"
+      },
+      {
+        "stop_id": "60272",
+        "stop_name": "Frederick-Banting / No 7290"
+      },
+      {
+        "stop_id": "60273",
+        "stop_name": "Frederick-Banting / No 7150"
+      },
+      {
+        "stop_id": "60832",
+        "stop_name": "Frederick-Banting / Alfred-Nobel"
+      },
+      {
+        "stop_id": "60274",
+        "stop_name": "Alfred-Nobel / Albert-Einstein"
+      },
+      {
+        "stop_id": "60833",
+        "stop_name": "Alexander-Fleming / No 2280"
+      },
+      {
+        "stop_id": "60834",
+        "stop_name": "Marie-Curie / Albert-Einstein"
+      },
+      {
+        "stop_id": "60866",
+        "stop_name": "Marie-Curie / Frederick-Banting"
+      },
+      {
+        "stop_id": "60835",
+        "stop_name": "Marie-Curie / No 2650"
+      },
+      {
+        "stop_id": "60837",
+        "stop_name": "Marie-Curie / Alfred-Nobel"
+      },
+      {
+        "stop_id": "60867",
+        "stop_name": "Marie-Curie / Alfred-Nobel"
+      },
+      {
+        "stop_id": "55976",
+        "stop_name": "Marie-Curie / No 2800"
+      },
+      {
+        "stop_id": "60276",
+        "stop_name": "Vanden-Abeele / Halpern"
+      },
+      {
+        "stop_id": "60277",
+        "stop_name": "Vanden-Abeele / No 6198"
+      },
+      {
+        "stop_id": "55863",
+        "stop_name": "Saint-François / Donahue"
+      },
+      {
+        "stop_id": "55410",
+        "stop_name": "Saint-François / Saint-Amour"
+      },
+      {
+        "stop_id": "55898",
+        "stop_name": "Côte-Vertu / No 2308"
+      },
+      {
+        "stop_id": "55717",
+        "stop_name": "Station Du Collège (Décarie / Cartier)"
+      },
+      {
+        "stop_id": "55703",
+        "stop_name": "Station Du Collège (Décarie / du Collège)"
+      },
+      {
+        "stop_id": "55675",
+        "stop_name": "Décarie / de l'Église"
+      },
+      {
+        "stop_id": "60807",
+        "stop_name": "Station Côte-Vertu (Gohier / Côte-Vertu)"
+      },
+      {
+        "stop_id": "57809",
+        "stop_name": "Terminus Fairview"
+      },
+      {
+        "stop_id": "57657",
+        "stop_name": "Hymus / Carlisle"
+      },
+      {
+        "stop_id": "57664",
+        "stop_name": "Hymus / Hastings"
+      },
+      {
+        "stop_id": "57674",
+        "stop_name": "Hymus / Hilary"
+      },
+      {
+        "stop_id": "57686",
+        "stop_name": "Hymus / Winthrop"
+      },
+      {
+        "stop_id": "57693",
+        "stop_name": "Hymus / Nordic"
+      },
+      {
+        "stop_id": "57703",
+        "stop_name": "Hymus / Delmar"
+      },
+      {
+        "stop_id": "60820",
+        "stop_name": "Hymus / Leacock"
+      },
+      {
+        "stop_id": "60821",
+        "stop_name": "Hymus / Columbus"
+      },
+      {
+        "stop_id": "60822",
+        "stop_name": "Hymus / No 50"
+      },
+      {
+        "stop_id": "60823",
+        "stop_name": "Hymus / des Sources"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest destination 2525 Avro",
+    "arrets": [
+      {
+        "stop_id": "60807",
+        "stop_name": "Station Côte-Vertu (Gohier / Côte-Vertu)"
+      },
+      {
+        "stop_id": "55677",
+        "stop_name": "Décarie / de l'Église"
+      },
+      {
+        "stop_id": "55706",
+        "stop_name": "Station Du Collège (Décarie / du Collège)"
+      },
+      {
+        "stop_id": "55723",
+        "stop_name": "Station Du Collège (Décarie / Saint-Louis)"
+      },
+      {
+        "stop_id": "55409",
+        "stop_name": "Saint-François / Saint-Amour"
+      },
+      {
+        "stop_id": "55862",
+        "stop_name": "Saint-François / Donahue"
+      },
+      {
+        "stop_id": "60268",
+        "stop_name": "Vanden-Abeele / No 6198"
+      },
+      {
+        "stop_id": "60269",
+        "stop_name": "Vanden-Abeele / Halpern"
+      },
+      {
+        "stop_id": "60270",
+        "stop_name": "Marie-Curie / No 2800"
+      },
+      {
+        "stop_id": "60271",
+        "stop_name": "Marie-Curie / Alfred-Nobel"
+      },
+      {
+        "stop_id": "55979",
+        "stop_name": "Marie-Curie / No 2650"
+      },
+      {
+        "stop_id": "61116",
+        "stop_name": "Marie-Curie / Frederick-Banting"
+      },
+      {
+        "stop_id": "60865",
+        "stop_name": "Marie-Curie / No 2520"
+      },
+      {
+        "stop_id": "55987",
+        "stop_name": "Marie-Curie / No 2450"
+      },
+      {
+        "stop_id": "55984",
+        "stop_name": "Alexander-Fleming / Alfred-Nobel"
+      },
+      {
+        "stop_id": "55982",
+        "stop_name": "Alfred-Nobel / Albert-Einstein"
+      },
+      {
+        "stop_id": "55980",
+        "stop_name": "Alfred-Nobel / Frederick-Banting"
+      },
+      {
+        "stop_id": "60840",
+        "stop_name": "Frederick-Banting / No 7171"
+      },
+      {
+        "stop_id": "60841",
+        "stop_name": "Frederick-Banting / Marie-Curie"
+      },
+      {
+        "stop_id": "62146",
+        "stop_name": "Saint-François / André"
+      },
+      {
+        "stop_id": "61873",
+        "stop_name": "Saint-François / No 2025"
+      },
+      {
+        "stop_id": "60810",
+        "stop_name": "Saint-François / Avro"
+      },
+      {
+        "stop_id": "60811",
+        "stop_name": "Avro / Saint-Rémi"
+      },
+      {
+        "stop_id": "60812",
+        "stop_name": "Avro / No 2525"
+      }
+    ]
+  }
+]

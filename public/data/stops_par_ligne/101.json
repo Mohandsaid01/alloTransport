@@ -1,0 +1,364 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "62300",
+        "stop_name": "Riverview / Airlie"
+      },
+      {
+        "stop_id": "56738",
+        "stop_name": "Airlie / Dupras"
+      },
+      {
+        "stop_id": "56752",
+        "stop_name": "LaSalle / Stirling"
+      },
+      {
+        "stop_id": "57106",
+        "stop_name": "Parc des Saints-Anges"
+      },
+      {
+        "stop_id": "57091",
+        "stop_name": "LaSalle / Bélanger"
+      },
+      {
+        "stop_id": "56768",
+        "stop_name": "Lafleur / Chatelle"
+      },
+      {
+        "stop_id": "56771",
+        "stop_name": "Terminus Lafleur / Newman"
+      },
+      {
+        "stop_id": "57055",
+        "stop_name": "Lafleur / Numéro 225"
+      },
+      {
+        "stop_id": "56778",
+        "stop_name": "Lafleur / Wanklyn"
+      },
+      {
+        "stop_id": "56783",
+        "stop_name": "Lafleur / Jean-Milot"
+      },
+      {
+        "stop_id": "56786",
+        "stop_name": "Lafleur / Clément"
+      },
+      {
+        "stop_id": "57101",
+        "stop_name": "Lafleur / Larente"
+      },
+      {
+        "stop_id": "60500",
+        "stop_name": "Elmslie / Luno"
+      },
+      {
+        "stop_id": "60299",
+        "stop_name": "Elmslie / No 8301"
+      },
+      {
+        "stop_id": "60457",
+        "stop_name": "Elmslie / No 7851"
+      },
+      {
+        "stop_id": "57089",
+        "stop_name": "Centre de transport LaSalle (St-Patrick / No 7770)"
+      },
+      {
+        "stop_id": "56831",
+        "stop_name": "Saint-Patrick / Lapierre"
+      },
+      {
+        "stop_id": "59794",
+        "stop_name": "Saint-Patrick / Léger"
+      },
+      {
+        "stop_id": "57104",
+        "stop_name": "Senkus / Saint-Patrick"
+      },
+      {
+        "stop_id": "56904",
+        "stop_name": "Senkus / No 2480"
+      },
+      {
+        "stop_id": "57112",
+        "stop_name": "Senkus / Cordner"
+      },
+      {
+        "stop_id": "56729",
+        "stop_name": "Carr. Angrignon entrée ouest (Senkus / No 2350)"
+      },
+      {
+        "stop_id": "56944",
+        "stop_name": "Senkus / Newman"
+      },
+      {
+        "stop_id": "56951",
+        "stop_name": "Newman / Guy-Bouchard"
+      },
+      {
+        "stop_id": "56960",
+        "stop_name": "Newman / Angrignon"
+      },
+      {
+        "stop_id": "54108",
+        "stop_name": "Station Angrignon"
+      },
+      {
+        "stop_id": "56727",
+        "stop_name": "Angrignon / Newman"
+      },
+      {
+        "stop_id": "56970",
+        "stop_name": "Carrefour Angrignon (Newman / No 6900)"
+      },
+      {
+        "stop_id": "62301",
+        "stop_name": "Newman / Irwin"
+      },
+      {
+        "stop_id": "59819",
+        "stop_name": "Saint-Patrick / Irwin"
+      },
+      {
+        "stop_id": "58721",
+        "stop_name": "Saint-Patrick / Irwin"
+      },
+      {
+        "stop_id": "58720",
+        "stop_name": "Saint-Patrick / Hamilton"
+      },
+      {
+        "stop_id": "54404",
+        "stop_name": "Saint-Patrick / Briand"
+      },
+      {
+        "stop_id": "51770",
+        "stop_name": "Saint-Patrick / de l'Église"
+      },
+      {
+        "stop_id": "54317",
+        "stop_name": "Saint-Patrick / No 5200"
+      },
+      {
+        "stop_id": "54287",
+        "stop_name": "Saint-Patrick / Gilmore"
+      },
+      {
+        "stop_id": "52082",
+        "stop_name": "Saint-Patrick / De La Vérendrye"
+      },
+      {
+        "stop_id": "62345",
+        "stop_name": "Saint-Patrick / Pitt"
+      },
+      {
+        "stop_id": "52155",
+        "stop_name": "Saint-Patrick / No 3620"
+      },
+      {
+        "stop_id": "52209",
+        "stop_name": "Saint-Patrick / No 3550"
+      },
+      {
+        "stop_id": "52304",
+        "stop_name": "Saint-Patrick / No 3400"
+      },
+      {
+        "stop_id": "53734",
+        "stop_name": "Saint-Patrick / Atwater"
+      },
+      {
+        "stop_id": "52376",
+        "stop_name": "Saint-Patrick / Thomas-Keefer"
+      },
+      {
+        "stop_id": "62302",
+        "stop_name": "Thomas-Keefer / du Centre"
+      },
+      {
+        "stop_id": "52290",
+        "stop_name": "Atwater / Sainte-Émilie"
+      },
+      {
+        "stop_id": "61339",
+        "stop_name": "Station Lionel-Groulx"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "61337",
+        "stop_name": "Station Lionel-Groulx"
+      },
+      {
+        "stop_id": "52245",
+        "stop_name": "Atwater / Notre-Dame"
+      },
+      {
+        "stop_id": "52289",
+        "stop_name": "Atwater / Sainte-Émilie"
+      },
+      {
+        "stop_id": "53735",
+        "stop_name": "Saint-Patrick / Atwater"
+      },
+      {
+        "stop_id": "53939",
+        "stop_name": "Saint-Patrick / No 3400"
+      },
+      {
+        "stop_id": "53941",
+        "stop_name": "Saint-Patrick / No 3550"
+      },
+      {
+        "stop_id": "53942",
+        "stop_name": "Saint-Patrick / No 3620"
+      },
+      {
+        "stop_id": "52131",
+        "stop_name": "Saint-Patrick / Pitt"
+      },
+      {
+        "stop_id": "53943",
+        "stop_name": "Saint-Patrick / No 3826"
+      },
+      {
+        "stop_id": "58729",
+        "stop_name": "Saint-Patrick / de l'Église"
+      },
+      {
+        "stop_id": "54299",
+        "stop_name": "Saint-Patrick / Briand"
+      },
+      {
+        "stop_id": "62308",
+        "stop_name": "Irwin / Saint-Patrick"
+      },
+      {
+        "stop_id": "62309",
+        "stop_name": "Irwin / Newman"
+      },
+      {
+        "stop_id": "56969",
+        "stop_name": "Carrefour Angrignon (Newman / No 6767)"
+      },
+      {
+        "stop_id": "60633",
+        "stop_name": "Angrignon / Tours Angrignon"
+      },
+      {
+        "stop_id": "61263",
+        "stop_name": "Station Angrignon"
+      },
+      {
+        "stop_id": "57060",
+        "stop_name": "Newman / Angrignon"
+      },
+      {
+        "stop_id": "56950",
+        "stop_name": "Newman / Guy-Bouchard"
+      },
+      {
+        "stop_id": "56943",
+        "stop_name": "Newman / Senkus"
+      },
+      {
+        "stop_id": "57035",
+        "stop_name": "Carr. Angrignon entrée ouest (Senkus / No 2350)"
+      },
+      {
+        "stop_id": "56905",
+        "stop_name": "Senkus / Carrefour Angrignon"
+      },
+      {
+        "stop_id": "62329",
+        "stop_name": "Senkus / Saint-Patrick"
+      },
+      {
+        "stop_id": "62310",
+        "stop_name": "Saint-Patrick / Léger"
+      },
+      {
+        "stop_id": "59793",
+        "stop_name": "Saint-Patrick / Lapierre"
+      },
+      {
+        "stop_id": "57090",
+        "stop_name": "Centre de transport LaSalle (St-Patrick / No 7770)"
+      },
+      {
+        "stop_id": "60458",
+        "stop_name": "Elmslie / No 7900"
+      },
+      {
+        "stop_id": "60300",
+        "stop_name": "Elmslie / No 8301"
+      },
+      {
+        "stop_id": "60502",
+        "stop_name": "Elmslie / Luno"
+      },
+      {
+        "stop_id": "57102",
+        "stop_name": "Lafleur / Larente"
+      },
+      {
+        "stop_id": "56789",
+        "stop_name": "Lafleur / Clément"
+      },
+      {
+        "stop_id": "56781",
+        "stop_name": "Lafleur / Jean-Milot"
+      },
+      {
+        "stop_id": "56777",
+        "stop_name": "Lafleur / Wanklyn"
+      },
+      {
+        "stop_id": "56734",
+        "stop_name": "Lafleur / Numéro 220"
+      },
+      {
+        "stop_id": "60875",
+        "stop_name": "Terminus Lafleur / Newman"
+      },
+      {
+        "stop_id": "56769",
+        "stop_name": "Lafleur / Centrale"
+      },
+      {
+        "stop_id": "56756",
+        "stop_name": "LaSalle / Bélanger"
+      },
+      {
+        "stop_id": "57107",
+        "stop_name": "Parc des Saints-Anges"
+      },
+      {
+        "stop_id": "56751",
+        "stop_name": "LaSalle / Stirling"
+      },
+      {
+        "stop_id": "56737",
+        "stop_name": "LaSalle / Dupras"
+      },
+      {
+        "stop_id": "62311",
+        "stop_name": "Dupras / Jeannette"
+      },
+      {
+        "stop_id": "62312",
+        "stop_name": "Jeannette / Riverview"
+      },
+      {
+        "stop_id": "62300",
+        "stop_name": "Riverview / Airlie"
+      }
+    ]
+  }
+]

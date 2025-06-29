@@ -1,0 +1,188 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "52069",
+        "stop_name": "Station Atwater (Sainte-Catherine / Atwater)"
+      },
+      {
+        "stop_id": "52130",
+        "stop_name": "Sainte-Catherine / du Fort"
+      },
+      {
+        "stop_id": "62227",
+        "stop_name": "Georges-Vanier / Saint-Antoine"
+      },
+      {
+        "stop_id": "62228",
+        "stop_name": "Georges-Vanier / Lionel-Groulx"
+      },
+      {
+        "stop_id": "52407",
+        "stop_name": "Notre-Dame / Dominion"
+      },
+      {
+        "stop_id": "62229",
+        "stop_name": "Notre-Dame / Charlevoix"
+      },
+      {
+        "stop_id": "61204",
+        "stop_name": "Charlevoix / Rufus-Rockhead"
+      },
+      {
+        "stop_id": "53699",
+        "stop_name": "Station Charlevoix (Charlevoix / de Châteauguay)"
+      },
+      {
+        "stop_id": "52633",
+        "stop_name": "Charlevoix / Mullins"
+      },
+      {
+        "stop_id": "52690",
+        "stop_name": "Charlevoix / Knox"
+      },
+      {
+        "stop_id": "52740",
+        "stop_name": "Charlevoix / de Coleraine"
+      },
+      {
+        "stop_id": "52818",
+        "stop_name": "Charlevoix / Wellington"
+      },
+      {
+        "stop_id": "52871",
+        "stop_name": "Parc-Marguerite-Bourgeoys"
+      },
+      {
+        "stop_id": "52887",
+        "stop_name": "Wellington / Fortune"
+      },
+      {
+        "stop_id": "52893",
+        "stop_name": "Wellington / Charon"
+      },
+      {
+        "stop_id": "54233",
+        "stop_name": "Charon / Favard"
+      },
+      {
+        "stop_id": "54229",
+        "stop_name": "Charon / Le Ber"
+      },
+      {
+        "stop_id": "53029",
+        "stop_name": "Le Ber / de la Congrégation"
+      },
+      {
+        "stop_id": "54231",
+        "stop_name": "de la Congrégation / Favard"
+      },
+      {
+        "stop_id": "52911",
+        "stop_name": "de la Congrégation / de Sébastopol"
+      },
+      {
+        "stop_id": "53869",
+        "stop_name": "De Condé / du Centre"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "53869",
+        "stop_name": "De Condé / du Centre"
+      },
+      {
+        "stop_id": "54307",
+        "stop_name": "de la Sucrerie / Grand Trunk"
+      },
+      {
+        "stop_id": "52902",
+        "stop_name": "Sainte-Madeleine / Wellington"
+      },
+      {
+        "stop_id": "52978",
+        "stop_name": "Sainte-Madeleine / Favard"
+      },
+      {
+        "stop_id": "53030",
+        "stop_name": "Sainte-Madeleine / Le Ber"
+      },
+      {
+        "stop_id": "62235",
+        "stop_name": "Le Ber / Ash"
+      },
+      {
+        "stop_id": "52979",
+        "stop_name": "Ash / Favard"
+      },
+      {
+        "stop_id": "52886",
+        "stop_name": "Wellington / Fortune"
+      },
+      {
+        "stop_id": "52870",
+        "stop_name": "Wellington / de Liverpool"
+      },
+      {
+        "stop_id": "52817",
+        "stop_name": "Wellington / Charlevoix"
+      },
+      {
+        "stop_id": "52739",
+        "stop_name": "Charlevoix / de Coleraine"
+      },
+      {
+        "stop_id": "52689",
+        "stop_name": "Charlevoix / Knox"
+      },
+      {
+        "stop_id": "52598",
+        "stop_name": "Charlevoix / Grand Trunk"
+      },
+      {
+        "stop_id": "54018",
+        "stop_name": "Station Charlevoix"
+      },
+      {
+        "stop_id": "52473",
+        "stop_name": "Charlevoix / Augustin-Cantin"
+      },
+      {
+        "stop_id": "61209",
+        "stop_name": "Charlevoix / Sainte-Cunégonde"
+      },
+      {
+        "stop_id": "61210",
+        "stop_name": "Charlevoix / Fauteux"
+      },
+      {
+        "stop_id": "52408",
+        "stop_name": "Notre-Dame / Dominion"
+      },
+      {
+        "stop_id": "62224",
+        "stop_name": "Georges-Vanier / Delisle"
+      },
+      {
+        "stop_id": "62225",
+        "stop_name": "Georges-Vanier / Saint-Antoine"
+      },
+      {
+        "stop_id": "53775",
+        "stop_name": "De Maisonneuve / du Fort"
+      },
+      {
+        "stop_id": "54166",
+        "stop_name": "De Maisonneuve / Chomedey"
+      },
+      {
+        "stop_id": "52069",
+        "stop_name": "Station Atwater (Sainte-Catherine / Atwater)"
+      }
+    ]
+  }
+]

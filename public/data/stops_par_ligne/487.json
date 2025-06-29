@@ -1,0 +1,446 @@
+[
+  {
+    "direction": "Ouest via Notre-Dame / De Montigny",
+    "arrets": [
+      {
+        "stop_id": "54116",
+        "stop_name": "100e Avenue / Bureau"
+      },
+      {
+        "stop_id": "53716",
+        "stop_name": "Sainte-Maria-Goretti / 100e Avenue"
+      },
+      {
+        "stop_id": "53670",
+        "stop_name": "Sainte-Maria-Goretti / 96e Avenue"
+      },
+      {
+        "stop_id": "53879",
+        "stop_name": "Sainte-Maria-Goretti / 93e Avenue"
+      },
+      {
+        "stop_id": "53660",
+        "stop_name": "Sainte-Maria-Goretti / Terrasse Maria-Goretti"
+      },
+      {
+        "stop_id": "53654",
+        "stop_name": "Notre-Dame / Antoine-Chaudillon"
+      },
+      {
+        "stop_id": "54378",
+        "stop_name": "Notre-Dame / No 15657"
+      },
+      {
+        "stop_id": "53642",
+        "stop_name": "Notre-Dame / 81e Avenue"
+      },
+      {
+        "stop_id": "54011",
+        "stop_name": "Notre-Dame / Beausoleil (est)"
+      },
+      {
+        "stop_id": "53634",
+        "stop_name": "Notre-Dame / Bellevue"
+      },
+      {
+        "stop_id": "53627",
+        "stop_name": "Notre-Dame / Beausoleil"
+      },
+      {
+        "stop_id": "53617",
+        "stop_name": "Notre-Dame / 67e Avenue"
+      },
+      {
+        "stop_id": "54147",
+        "stop_name": "Notre-Dame / Antoine-Bazinet"
+      },
+      {
+        "stop_id": "53600",
+        "stop_name": "Notre-Dame / 58e Avenue"
+      },
+      {
+        "stop_id": "53596",
+        "stop_name": "Notre-Dame / 54e Avenue"
+      },
+      {
+        "stop_id": "53566",
+        "stop_name": "53e Avenue / De Montigny"
+      },
+      {
+        "stop_id": "53561",
+        "stop_name": "De Montigny / 51e Avenue"
+      },
+      {
+        "stop_id": "53558",
+        "stop_name": "De Montigny / De La Rousselière"
+      },
+      {
+        "stop_id": "53551",
+        "stop_name": "De Montigny / 47e Avenue"
+      },
+      {
+        "stop_id": "53545",
+        "stop_name": "De Montigny / 43e Avenue"
+      },
+      {
+        "stop_id": "53536",
+        "stop_name": "De Montigny / 40e Avenue"
+      },
+      {
+        "stop_id": "53527",
+        "stop_name": "De Montigny / 36e Avenue"
+      },
+      {
+        "stop_id": "53518",
+        "stop_name": "De Montigny / 32e Avenue"
+      },
+      {
+        "stop_id": "53514",
+        "stop_name": "De Montigny / Régnier"
+      },
+      {
+        "stop_id": "53522",
+        "stop_name": "De Montigny / Georges-Vermette"
+      },
+      {
+        "stop_id": "53539",
+        "stop_name": "De Montigny / du Tricentenaire"
+      },
+      {
+        "stop_id": "60599",
+        "stop_name": "De Montigny / Versailles"
+      },
+      {
+        "stop_id": "60556",
+        "stop_name": "De Montigny / des Épinettes"
+      },
+      {
+        "stop_id": "60557",
+        "stop_name": "De Montigny / 16e Avenue"
+      },
+      {
+        "stop_id": "60558",
+        "stop_name": "De Montigny / 12e Avenue"
+      },
+      {
+        "stop_id": "53480",
+        "stop_name": "Saint-Jean-Baptiste / Ontario"
+      },
+      {
+        "stop_id": "53438",
+        "stop_name": "Saint-Jean-Baptiste / Forsyth"
+      },
+      {
+        "stop_id": "53411",
+        "stop_name": "Sherbrooke / 3e Avenue"
+      },
+      {
+        "stop_id": "54115",
+        "stop_name": "Station Honoré-Beaugrand"
+      }
+    ]
+  },
+  {
+    "direction": "Est via Industriel / Sherbrooke",
+    "arrets": [
+      {
+        "stop_id": "54008",
+        "stop_name": "Station Honoré-Beaugrand / Terminus Nord"
+      },
+      {
+        "stop_id": "53345",
+        "stop_name": "Sherbrooke / Fletcher"
+      },
+      {
+        "stop_id": "53412",
+        "stop_name": "Sherbrooke / 3e Avenue"
+      },
+      {
+        "stop_id": "53427",
+        "stop_name": "Saint-Jean-Baptiste / Sherbrooke"
+      },
+      {
+        "stop_id": "53382",
+        "stop_name": "Industriel / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "53390",
+        "stop_name": "Industriel / Jean-Viel"
+      },
+      {
+        "stop_id": "53759",
+        "stop_name": "Industriel / Dollard-Desjardins"
+      },
+      {
+        "stop_id": "53687",
+        "stop_name": "Industriel / Jean-Sicard"
+      },
+      {
+        "stop_id": "53406",
+        "stop_name": "Industriel / du Tricentenaire"
+      },
+      {
+        "stop_id": "53884",
+        "stop_name": "Industriel / Jean-Grou"
+      },
+      {
+        "stop_id": "53403",
+        "stop_name": "Cherrier / 32e Avenue"
+      },
+      {
+        "stop_id": "53487",
+        "stop_name": "Sherbrooke / 36e Avenue"
+      },
+      {
+        "stop_id": "54379",
+        "stop_name": "Notre-Dame / 83e Avenue"
+      },
+      {
+        "stop_id": "53655",
+        "stop_name": "Notre-Dame / 86e Avenue"
+      },
+      {
+        "stop_id": "53846",
+        "stop_name": "Notre-Dame / Raoul-Jobin"
+      },
+      {
+        "stop_id": "53880",
+        "stop_name": "Sainte-Maria-Goretti / 93e Avenue"
+      },
+      {
+        "stop_id": "53671",
+        "stop_name": "Sainte-Maria-Goretti / 96e Avenue"
+      },
+      {
+        "stop_id": "53715",
+        "stop_name": "Sainte-Maria-Goretti / 100e Avenue"
+      },
+      {
+        "stop_id": "54116",
+        "stop_name": "100e Avenue / Bureau"
+      }
+    ]
+  },
+  {
+    "direction": "Est via De Montigny / Notre-Dame",
+    "arrets": [
+      {
+        "stop_id": "54008",
+        "stop_name": "Station Honoré-Beaugrand / Terminus Nord"
+      },
+      {
+        "stop_id": "53345",
+        "stop_name": "Sherbrooke / Fletcher"
+      },
+      {
+        "stop_id": "53412",
+        "stop_name": "Sherbrooke / 3e Avenue"
+      },
+      {
+        "stop_id": "53426",
+        "stop_name": "Sherbrooke / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "53481",
+        "stop_name": "Saint-Jean-Baptiste / Ontario"
+      },
+      {
+        "stop_id": "60553",
+        "stop_name": "De Montigny / 12e Avenue"
+      },
+      {
+        "stop_id": "60554",
+        "stop_name": "De Montigny / 16e Avenue"
+      },
+      {
+        "stop_id": "60555",
+        "stop_name": "De Montigny / des Frênes"
+      },
+      {
+        "stop_id": "60600",
+        "stop_name": "De Montigny / Versailles"
+      },
+      {
+        "stop_id": "53523",
+        "stop_name": "De Montigny / Georges-Vermette"
+      },
+      {
+        "stop_id": "53515",
+        "stop_name": "De Montigny / Régnier"
+      },
+      {
+        "stop_id": "53519",
+        "stop_name": "De Montigny / 32e Avenue"
+      },
+      {
+        "stop_id": "53528",
+        "stop_name": "De Montigny / 36e Avenue"
+      },
+      {
+        "stop_id": "53537",
+        "stop_name": "De Montigny / 40e Avenue"
+      },
+      {
+        "stop_id": "53546",
+        "stop_name": "De Montigny / 43e Avenue"
+      },
+      {
+        "stop_id": "53552",
+        "stop_name": "De Montigny / 47e Avenue"
+      },
+      {
+        "stop_id": "53560",
+        "stop_name": "De Montigny / De La Rousselière"
+      },
+      {
+        "stop_id": "53562",
+        "stop_name": "De Montigny / 51e Avenue"
+      },
+      {
+        "stop_id": "53568",
+        "stop_name": "De Montigny / 53e Avenue"
+      },
+      {
+        "stop_id": "53597",
+        "stop_name": "53e Avenue / Notre-Dame"
+      },
+      {
+        "stop_id": "53601",
+        "stop_name": "Notre-Dame / 57e Avenue"
+      },
+      {
+        "stop_id": "53605",
+        "stop_name": "Notre-Dame / 60e Avenue"
+      },
+      {
+        "stop_id": "53618",
+        "stop_name": "Notre-Dame / 67e Avenue"
+      },
+      {
+        "stop_id": "53641",
+        "stop_name": "Notre-Dame / Beausoleil"
+      },
+      {
+        "stop_id": "53640",
+        "stop_name": "Notre-Dame / Bellevue"
+      },
+      {
+        "stop_id": "53637",
+        "stop_name": "Notre-Dame / 79e Avenue"
+      },
+      {
+        "stop_id": "53644",
+        "stop_name": "Notre-Dame / 81e Avenue"
+      },
+      {
+        "stop_id": "54379",
+        "stop_name": "Notre-Dame / 83e Avenue"
+      },
+      {
+        "stop_id": "53655",
+        "stop_name": "Notre-Dame / 86e Avenue"
+      },
+      {
+        "stop_id": "53846",
+        "stop_name": "Notre-Dame / Raoul-Jobin"
+      },
+      {
+        "stop_id": "53880",
+        "stop_name": "Sainte-Maria-Goretti / 93e Avenue"
+      },
+      {
+        "stop_id": "53671",
+        "stop_name": "Sainte-Maria-Goretti / 96e Avenue"
+      },
+      {
+        "stop_id": "53715",
+        "stop_name": "Sainte-Maria-Goretti / 100e Avenue"
+      },
+      {
+        "stop_id": "54116",
+        "stop_name": "100e Avenue / Bureau"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest via Sherbrooke / Industriel",
+    "arrets": [
+      {
+        "stop_id": "54116",
+        "stop_name": "100e Avenue / Bureau"
+      },
+      {
+        "stop_id": "53716",
+        "stop_name": "Sainte-Maria-Goretti / 100e Avenue"
+      },
+      {
+        "stop_id": "53670",
+        "stop_name": "Sainte-Maria-Goretti / 96e Avenue"
+      },
+      {
+        "stop_id": "53879",
+        "stop_name": "Sainte-Maria-Goretti / 93e Avenue"
+      },
+      {
+        "stop_id": "53660",
+        "stop_name": "Sainte-Maria-Goretti / Terrasse Maria-Goretti"
+      },
+      {
+        "stop_id": "53654",
+        "stop_name": "Notre-Dame / Antoine-Chaudillon"
+      },
+      {
+        "stop_id": "54378",
+        "stop_name": "Notre-Dame / No 15657"
+      },
+      {
+        "stop_id": "53642",
+        "stop_name": "Notre-Dame / 81e Avenue"
+      },
+      {
+        "stop_id": "53486",
+        "stop_name": "Sherbrooke / 36e Avenue"
+      },
+      {
+        "stop_id": "53404",
+        "stop_name": "Cherrier / 32e Avenue"
+      },
+      {
+        "stop_id": "53883",
+        "stop_name": "Jean-Grou / Industriel"
+      },
+      {
+        "stop_id": "53405",
+        "stop_name": "Industriel / du Tricentenaire"
+      },
+      {
+        "stop_id": "54251",
+        "stop_name": "Industriel / Jean-Sicard"
+      },
+      {
+        "stop_id": "53885",
+        "stop_name": "Industriel / Dollard-Desjardins"
+      },
+      {
+        "stop_id": "53389",
+        "stop_name": "Industriel / Jean-Viel"
+      },
+      {
+        "stop_id": "53381",
+        "stop_name": "Industriel / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "53425",
+        "stop_name": "Saint-Jean-Baptiste / Sherbrooke"
+      },
+      {
+        "stop_id": "53411",
+        "stop_name": "Sherbrooke / 3e Avenue"
+      },
+      {
+        "stop_id": "54115",
+        "stop_name": "Station Honoré-Beaugrand"
+      }
+    ]
+  }
+]

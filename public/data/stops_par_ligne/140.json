@@ -1,0 +1,360 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "62045",
+        "stop_name": "Gouin / Pigeon"
+      },
+      {
+        "stop_id": "62046",
+        "stop_name": "Léger / Hénault"
+      },
+      {
+        "stop_id": "55111",
+        "stop_name": "Sainte-Gertrude / Perras"
+      },
+      {
+        "stop_id": "55126",
+        "stop_name": "Sainte-Gertrude / des Ardennes"
+      },
+      {
+        "stop_id": "55146",
+        "stop_name": "Sainte-Gertrude / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55154",
+        "stop_name": "Sainte-Gertrude / de Bayonne"
+      },
+      {
+        "stop_id": "55177",
+        "stop_name": "Sainte-Gertrude / d'Amos"
+      },
+      {
+        "stop_id": "55195",
+        "stop_name": "Sainte-Gertrude / de Charleroi"
+      },
+      {
+        "stop_id": "55172",
+        "stop_name": "de Charleroi / L'Archevêque"
+      },
+      {
+        "stop_id": "55142",
+        "stop_name": "de Charleroi / Drapeau"
+      },
+      {
+        "stop_id": "55119",
+        "stop_name": "de Charleroi / Armand-Lavergne"
+      },
+      {
+        "stop_id": "55149",
+        "stop_name": "Armand-Lavergne / de Castille"
+      },
+      {
+        "stop_id": "55163",
+        "stop_name": "Armand-Lavergne / d'Amiens"
+      },
+      {
+        "stop_id": "55136",
+        "stop_name": "d'Amiens / Garon"
+      },
+      {
+        "stop_id": "55123",
+        "stop_name": "d'Amiens / Hébert"
+      },
+      {
+        "stop_id": "55113",
+        "stop_name": "d'Amiens / Pie-IX"
+      },
+      {
+        "stop_id": "55120",
+        "stop_name": "Pie-IX / Prieur"
+      },
+      {
+        "stop_id": "55134",
+        "stop_name": "Pie-IX / Forest"
+      },
+      {
+        "stop_id": "55150",
+        "stop_name": "Pie-IX / Fleury"
+      },
+      {
+        "stop_id": "55121",
+        "stop_name": "Fleury / des Récollets"
+      },
+      {
+        "stop_id": "55101",
+        "stop_name": "Fleury / Plaza"
+      },
+      {
+        "stop_id": "55090",
+        "stop_name": "Fleury / Saint-Vital"
+      },
+      {
+        "stop_id": "55081",
+        "stop_name": "Fleury / de Cobourg"
+      },
+      {
+        "stop_id": "55065",
+        "stop_name": "Fleury / Lausanne"
+      },
+      {
+        "stop_id": "55058",
+        "stop_name": "Fleury / Saint-Michel"
+      },
+      {
+        "stop_id": "50592",
+        "stop_name": "Fleury / Larose"
+      },
+      {
+        "stop_id": "50567",
+        "stop_name": "Fleury / André-Jobin"
+      },
+      {
+        "stop_id": "50540",
+        "stop_name": "Fleury / de Lille"
+      },
+      {
+        "stop_id": "50521",
+        "stop_name": "Fleury / Parthenais"
+      },
+      {
+        "stop_id": "50496",
+        "stop_name": "Fleury / De Lorimier"
+      },
+      {
+        "stop_id": "50485",
+        "stop_name": "Fleury / Charton"
+      },
+      {
+        "stop_id": "50471",
+        "stop_name": "Fleury / Papineau"
+      },
+      {
+        "stop_id": "50452",
+        "stop_name": "Fleury / Garnier"
+      },
+      {
+        "stop_id": "50433",
+        "stop_name": "Fleury / Francis"
+      },
+      {
+        "stop_id": "50424",
+        "stop_name": "Fleury / Hamel"
+      },
+      {
+        "stop_id": "50417",
+        "stop_name": "Fleury / Christophe-Colomb"
+      },
+      {
+        "stop_id": "50406",
+        "stop_name": "Fleury / Chambord"
+      },
+      {
+        "stop_id": "50395",
+        "stop_name": "Fleury / Georges-Baril"
+      },
+      {
+        "stop_id": "50384",
+        "stop_name": "Fleury / Saint-Hubert"
+      },
+      {
+        "stop_id": "50368",
+        "stop_name": "Fleury / Millen"
+      },
+      {
+        "stop_id": "50357",
+        "stop_name": "Fleury / Lajeunesse"
+      },
+      {
+        "stop_id": "61973",
+        "stop_name": "Berri / Sauriol"
+      },
+      {
+        "stop_id": "50437",
+        "stop_name": "Station Sauvé (Édicule Nord)"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "50440",
+        "stop_name": "Station Sauvé (Édicule Sud)"
+      },
+      {
+        "stop_id": "53760",
+        "stop_name": "Lajeunesse / de Louvain"
+      },
+      {
+        "stop_id": "61970",
+        "stop_name": "Lajeunesse / Sauvé"
+      },
+      {
+        "stop_id": "61972",
+        "stop_name": "Lajeunesse / Sauriol"
+      },
+      {
+        "stop_id": "50360",
+        "stop_name": "Lajeunesse / Fleury"
+      },
+      {
+        "stop_id": "50369",
+        "stop_name": "Fleury / Millen"
+      },
+      {
+        "stop_id": "50386",
+        "stop_name": "Fleury / Saint-Hubert"
+      },
+      {
+        "stop_id": "50396",
+        "stop_name": "Fleury / Georges-Baril"
+      },
+      {
+        "stop_id": "50407",
+        "stop_name": "Fleury / Chambord"
+      },
+      {
+        "stop_id": "50419",
+        "stop_name": "Fleury / Christophe-Colomb"
+      },
+      {
+        "stop_id": "50425",
+        "stop_name": "Fleury / Hamel"
+      },
+      {
+        "stop_id": "50434",
+        "stop_name": "Fleury / Francis"
+      },
+      {
+        "stop_id": "50459",
+        "stop_name": "Fleury / Fabre"
+      },
+      {
+        "stop_id": "50473",
+        "stop_name": "Fleury / Papineau"
+      },
+      {
+        "stop_id": "50486",
+        "stop_name": "Fleury / Charton"
+      },
+      {
+        "stop_id": "50497",
+        "stop_name": "Fleury / De Lorimier"
+      },
+      {
+        "stop_id": "50522",
+        "stop_name": "Fleury / Parthenais (Hôpital Fleury)"
+      },
+      {
+        "stop_id": "50541",
+        "stop_name": "Fleury / de Lille"
+      },
+      {
+        "stop_id": "50568",
+        "stop_name": "Fleury / André-Jobin"
+      },
+      {
+        "stop_id": "50593",
+        "stop_name": "Fleury / Larose"
+      },
+      {
+        "stop_id": "55060",
+        "stop_name": "Fleury / Saint-Michel"
+      },
+      {
+        "stop_id": "55061",
+        "stop_name": "Fleury / Audoin"
+      },
+      {
+        "stop_id": "55066",
+        "stop_name": "Fleury / Lausanne"
+      },
+      {
+        "stop_id": "55082",
+        "stop_name": "Fleury / de Cobourg"
+      },
+      {
+        "stop_id": "55091",
+        "stop_name": "Fleury / Saint-Vital"
+      },
+      {
+        "stop_id": "55099",
+        "stop_name": "Fleury / de Rome"
+      },
+      {
+        "stop_id": "55122",
+        "stop_name": "Fleury / des Récollets"
+      },
+      {
+        "stop_id": "55151",
+        "stop_name": "Fleury / Pie-IX"
+      },
+      {
+        "stop_id": "55132",
+        "stop_name": "Pie-IX / Forest"
+      },
+      {
+        "stop_id": "55114",
+        "stop_name": "d'Amiens / Pie-IX"
+      },
+      {
+        "stop_id": "55124",
+        "stop_name": "d'Amiens / Hébert"
+      },
+      {
+        "stop_id": "55137",
+        "stop_name": "d'Amiens / Garon"
+      },
+      {
+        "stop_id": "55165",
+        "stop_name": "Armand-Lavergne / d'Amiens"
+      },
+      {
+        "stop_id": "55148",
+        "stop_name": "Armand-Lavergne / de Castille"
+      },
+      {
+        "stop_id": "55118",
+        "stop_name": "Armand-Lavergne / de Charleroi"
+      },
+      {
+        "stop_id": "55143",
+        "stop_name": "de Charleroi / Drapeau"
+      },
+      {
+        "stop_id": "55173",
+        "stop_name": "de Charleroi / L'Archevêque"
+      },
+      {
+        "stop_id": "55196",
+        "stop_name": "de Charleroi / Sainte-Gertrude"
+      },
+      {
+        "stop_id": "55176",
+        "stop_name": "Sainte-Gertrude / d'Amos"
+      },
+      {
+        "stop_id": "55144",
+        "stop_name": "Sainte-Gertrude / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55125",
+        "stop_name": "Sainte-Gertrude / des Ardennes"
+      },
+      {
+        "stop_id": "55110",
+        "stop_name": "Sainte-Gertrude / Perras"
+      },
+      {
+        "stop_id": "62044",
+        "stop_name": "Sainte-Gertrude / Léger"
+      },
+      {
+        "stop_id": "62045",
+        "stop_name": "Gouin / Pigeon"
+      }
+    ]
+  }
+]

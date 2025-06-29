@@ -1,0 +1,364 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "54708",
+        "stop_name": "Centre de transport Anjou"
+      },
+      {
+        "stop_id": "54531",
+        "stop_name": "Larrey / Secant"
+      },
+      {
+        "stop_id": "54705",
+        "stop_name": "J.-René-Ouimet / Parkway"
+      },
+      {
+        "stop_id": "54725",
+        "stop_name": "Parkway / No 10800"
+      },
+      {
+        "stop_id": "54727",
+        "stop_name": "Parkway / No 10700"
+      },
+      {
+        "stop_id": "54726",
+        "stop_name": "Parkway / No 10600"
+      },
+      {
+        "stop_id": "54542",
+        "stop_name": "Jules-Léger / Parkway"
+      },
+      {
+        "stop_id": "54556",
+        "stop_name": "Jules-Léger / Ray-Lawson"
+      },
+      {
+        "stop_id": "54568",
+        "stop_name": "Ray-Lawson / Ernest-Cormier"
+      },
+      {
+        "stop_id": "54587",
+        "stop_name": "Ray-Lawson / Grenache"
+      },
+      {
+        "stop_id": "54574",
+        "stop_name": "Grenache / Parkway"
+      },
+      {
+        "stop_id": "54572",
+        "stop_name": "Grenache / Edison"
+      },
+      {
+        "stop_id": "54702",
+        "stop_name": "Claveau / Grenache"
+      },
+      {
+        "stop_id": "54700",
+        "stop_name": "Claveau / No 9100"
+      },
+      {
+        "stop_id": "54579",
+        "stop_name": "Claveau / Jarry"
+      },
+      {
+        "stop_id": "54591",
+        "stop_name": "Jarry / Edison"
+      },
+      {
+        "stop_id": "54592",
+        "stop_name": "Jarry / Parkway"
+      },
+      {
+        "stop_id": "54598",
+        "stop_name": "Jarry / Ray-Lawson"
+      },
+      {
+        "stop_id": "54620",
+        "stop_name": "Roi-René / de Châteauneuf"
+      },
+      {
+        "stop_id": "54611",
+        "stop_name": "de Châteauneuf / de la Loire"
+      },
+      {
+        "stop_id": "54608",
+        "stop_name": "de Châteauneuf / de Vaujours"
+      },
+      {
+        "stop_id": "54607",
+        "stop_name": "Joseph-Renaud / de Châteauneuf"
+      },
+      {
+        "stop_id": "54630",
+        "stop_name": "Joseph-Renaud / Wilfrid-Pelletier"
+      },
+      {
+        "stop_id": "54647",
+        "stop_name": "Joseph-Renaud / de Châtillon"
+      },
+      {
+        "stop_id": "54652",
+        "stop_name": "Joseph-Renaud / des Vendéens"
+      },
+      {
+        "stop_id": "54662",
+        "stop_name": "Joseph-Renaud / Yves-Prévost"
+      },
+      {
+        "stop_id": "54669",
+        "stop_name": "Chénier / Saint-Donat"
+      },
+      {
+        "stop_id": "54673",
+        "stop_name": "Saint-Donat / des Réaux"
+      },
+      {
+        "stop_id": "54675",
+        "stop_name": "Saint-Donat / Fonteneau"
+      },
+      {
+        "stop_id": "54677",
+        "stop_name": "Saint-Donat / De Grosbois"
+      },
+      {
+        "stop_id": "53266",
+        "stop_name": "Saint-Donat / De Forbin-Janson"
+      },
+      {
+        "stop_id": "53288",
+        "stop_name": "Saint-Donat / Sherbrooke"
+      },
+      {
+        "stop_id": "54237",
+        "stop_name": "Station Honoré-Beaugrand / Terminus Sud"
+      },
+      {
+        "stop_id": "53307",
+        "stop_name": "Honoré-Beaugrand / de Marseille"
+      },
+      {
+        "stop_id": "53336",
+        "stop_name": "Honoré-Beaugrand / Sainte-Claire"
+      },
+      {
+        "stop_id": "53347",
+        "stop_name": "Honoré-Beaugrand / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "53360",
+        "stop_name": "Honoré-Beaugrand / Hochelaga"
+      },
+      {
+        "stop_id": "53398",
+        "stop_name": "Honoré-Beaugrand / Tellier"
+      },
+      {
+        "stop_id": "53418",
+        "stop_name": "Honoré-Beaugrand / Ontario"
+      },
+      {
+        "stop_id": "53454",
+        "stop_name": "Honoré-Beaugrand / La Fontaine"
+      },
+      {
+        "stop_id": "53467",
+        "stop_name": "La Fontaine / Georges-Bizet"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "53467",
+        "stop_name": "La Fontaine / Georges-Bizet"
+      },
+      {
+        "stop_id": "53485",
+        "stop_name": "Liébert / Notre-Dame"
+      },
+      {
+        "stop_id": "53489",
+        "stop_name": "Notre-Dame / Georges-Bizet"
+      },
+      {
+        "stop_id": "53498",
+        "stop_name": "Honoré-Beaugrand / Notre-Dame"
+      },
+      {
+        "stop_id": "53453",
+        "stop_name": "Honoré-Beaugrand / La Fontaine"
+      },
+      {
+        "stop_id": "53417",
+        "stop_name": "Honoré-Beaugrand / Ontario"
+      },
+      {
+        "stop_id": "53397",
+        "stop_name": "Honoré-Beaugrand / Tellier"
+      },
+      {
+        "stop_id": "53685",
+        "stop_name": "Honoré-Beaugrand / Dubuisson"
+      },
+      {
+        "stop_id": "53361",
+        "stop_name": "Honoré-Beaugrand / Hochelaga"
+      },
+      {
+        "stop_id": "53346",
+        "stop_name": "Honoré-Beaugrand / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "53335",
+        "stop_name": "Honoré-Beaugrand / Sainte-Claire"
+      },
+      {
+        "stop_id": "53306",
+        "stop_name": "Honoré-Beaugrand / de Marseille"
+      },
+      {
+        "stop_id": "53293",
+        "stop_name": "Honoré-Beaugrand / Roux"
+      },
+      {
+        "stop_id": "54257",
+        "stop_name": "Station Honoré-Beaugrand"
+      },
+      {
+        "stop_id": "53290",
+        "stop_name": "Saint-Donat / Sherbrooke"
+      },
+      {
+        "stop_id": "53265",
+        "stop_name": "Saint-Donat / De Forbin-Janson"
+      },
+      {
+        "stop_id": "54676",
+        "stop_name": "Saint-Donat / De Grosbois"
+      },
+      {
+        "stop_id": "54674",
+        "stop_name": "Saint-Donat / Roi-René"
+      },
+      {
+        "stop_id": "54672",
+        "stop_name": "Saint-Donat / des Réaux"
+      },
+      {
+        "stop_id": "54668",
+        "stop_name": "Saint-Donat / Chénier"
+      },
+      {
+        "stop_id": "54661",
+        "stop_name": "Joseph-Renaud / Yves-Prévost"
+      },
+      {
+        "stop_id": "54646",
+        "stop_name": "Joseph-Renaud / de Châtillon"
+      },
+      {
+        "stop_id": "54629",
+        "stop_name": "Joseph-Renaud / Wilfrid-Pelletier"
+      },
+      {
+        "stop_id": "54605",
+        "stop_name": "Joseph-Renaud / de Châteauneuf"
+      },
+      {
+        "stop_id": "54609",
+        "stop_name": "de Châteauneuf / Talcy"
+      },
+      {
+        "stop_id": "54610",
+        "stop_name": "de Châteauneuf / Rabelais"
+      },
+      {
+        "stop_id": "54612",
+        "stop_name": "de Châteauneuf / de la Loire"
+      },
+      {
+        "stop_id": "62113",
+        "stop_name": "de Châteauneuf / de Fougeray"
+      },
+      {
+        "stop_id": "54599",
+        "stop_name": "Jarry / Ray-Lawson"
+      },
+      {
+        "stop_id": "60471",
+        "stop_name": "Jarry / Parkway"
+      },
+      {
+        "stop_id": "54590",
+        "stop_name": "Jarry / Edison"
+      },
+      {
+        "stop_id": "54585",
+        "stop_name": "Jarry / Claveau"
+      },
+      {
+        "stop_id": "54703",
+        "stop_name": "Claveau / No 9100"
+      },
+      {
+        "stop_id": "54701",
+        "stop_name": "Grenache / Claveau"
+      },
+      {
+        "stop_id": "54573",
+        "stop_name": "Grenache / Edison"
+      },
+      {
+        "stop_id": "54575",
+        "stop_name": "Grenache / Parkway"
+      },
+      {
+        "stop_id": "54588",
+        "stop_name": "Grenache / Ray-Lawson"
+      },
+      {
+        "stop_id": "54567",
+        "stop_name": "Ray-Lawson / Ernest-Cormier"
+      },
+      {
+        "stop_id": "54557",
+        "stop_name": "Jules-Léger / Ray-Lawson"
+      },
+      {
+        "stop_id": "54541",
+        "stop_name": "Jules-Léger / Parkway"
+      },
+      {
+        "stop_id": "54706",
+        "stop_name": "Parkway / No 10600"
+      },
+      {
+        "stop_id": "54707",
+        "stop_name": "Parkway / No 10700"
+      },
+      {
+        "stop_id": "54704",
+        "stop_name": "Parkway / J.-René-Ouimet"
+      },
+      {
+        "stop_id": "54521",
+        "stop_name": "J.-René-Ouimet / Secant"
+      },
+      {
+        "stop_id": "54530",
+        "stop_name": "Secant / Larrey"
+      },
+      {
+        "stop_id": "54688",
+        "stop_name": "Larrey / L.-J.- Forget"
+      },
+      {
+        "stop_id": "54708",
+        "stop_name": "Centre de transport Anjou"
+      }
+    ]
+  }
+]

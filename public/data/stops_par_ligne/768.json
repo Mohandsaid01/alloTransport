@@ -1,0 +1,36 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "62158",
+        "stop_name": "Station Jean-Drapeau"
+      },
+      {
+        "stop_id": "54332",
+        "stop_name": "Lac de l'Île Notre-Dame / Plage Jean-Doré"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54332",
+        "stop_name": "Lac de l'Île Notre-Dame / Plage Jean-Doré"
+      },
+      {
+        "stop_id": "54333",
+        "stop_name": "Gilles-Villeneuve / Pavillon du Canada"
+      },
+      {
+        "stop_id": "54334",
+        "stop_name": "Jardin des Floralies"
+      },
+      {
+        "stop_id": "62158",
+        "stop_name": "Station Jean-Drapeau"
+      }
+    ]
+  }
+]

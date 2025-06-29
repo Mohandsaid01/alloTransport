@@ -1,0 +1,416 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "52786",
+        "stop_name": "du Square-Victoria / Saint-Antoine"
+      },
+      {
+        "stop_id": "52856",
+        "stop_name": "McGill / Notre-Dame"
+      },
+      {
+        "stop_id": "54070",
+        "stop_name": "McGill / Saint-Paul"
+      },
+      {
+        "stop_id": "52991",
+        "stop_name": "McGill / William"
+      },
+      {
+        "stop_id": "62267",
+        "stop_name": "Wellington / des Soeurs-Grises"
+      },
+      {
+        "stop_id": "52974",
+        "stop_name": "Wellington / Queen"
+      },
+      {
+        "stop_id": "54382",
+        "stop_name": "Wellington / Robert-Bourassa"
+      },
+      {
+        "stop_id": "52944",
+        "stop_name": "Wellington / Ann"
+      },
+      {
+        "stop_id": "52898",
+        "stop_name": "Wellington / Murray"
+      },
+      {
+        "stop_id": "52925",
+        "stop_name": "Wellington / Bridge"
+      },
+      {
+        "stop_id": "52914",
+        "stop_name": "Wellington / De Condé"
+      },
+      {
+        "stop_id": "52894",
+        "stop_name": "Wellington / de la Sucrerie"
+      },
+      {
+        "stop_id": "52901",
+        "stop_name": "Wellington / Sainte-Madeleine"
+      },
+      {
+        "stop_id": "52892",
+        "stop_name": "Wellington / Charon"
+      },
+      {
+        "stop_id": "52886",
+        "stop_name": "Wellington / Fortune"
+      },
+      {
+        "stop_id": "52870",
+        "stop_name": "Wellington / de Liverpool"
+      },
+      {
+        "stop_id": "52817",
+        "stop_name": "Wellington / Charlevoix"
+      },
+      {
+        "stop_id": "56643",
+        "stop_name": "Wellington / Gilberte-Dubé"
+      },
+      {
+        "stop_id": "62219",
+        "stop_name": "Wellington / Albert-Denault"
+      },
+      {
+        "stop_id": "62261",
+        "stop_name": "Regina / Evelyn"
+      },
+      {
+        "stop_id": "56594",
+        "stop_name": "de Verdun / Hickson"
+      },
+      {
+        "stop_id": "56592",
+        "stop_name": "de Verdun / de l'Église"
+      },
+      {
+        "stop_id": "56588",
+        "stop_name": "de Verdun / Galt"
+      },
+      {
+        "stop_id": "56686",
+        "stop_name": "Station Verdun (de Verdun / Willibrord)"
+      },
+      {
+        "stop_id": "62367",
+        "stop_name": "de Verdun / 5e Avenue"
+      },
+      {
+        "stop_id": "56582",
+        "stop_name": "de Verdun / Desmarchais"
+      },
+      {
+        "stop_id": "56578",
+        "stop_name": "de Verdun / Woodland"
+      },
+      {
+        "stop_id": "56576",
+        "stop_name": "de Verdun / Beatty"
+      },
+      {
+        "stop_id": "56572",
+        "stop_name": "de Verdun / Manning"
+      },
+      {
+        "stop_id": "61320",
+        "stop_name": "de Verdun / Brault"
+      },
+      {
+        "stop_id": "56704",
+        "stop_name": "LaSalle / Riverview"
+      },
+      {
+        "stop_id": "56565",
+        "stop_name": "LaSalle / Valiquette"
+      },
+      {
+        "stop_id": "56535",
+        "stop_name": "LaSalle / Bannantyne"
+      },
+      {
+        "stop_id": "56696",
+        "stop_name": "LaSalle / No 6875"
+      },
+      {
+        "stop_id": "56532",
+        "stop_name": "LaSalle / No 7105"
+      },
+      {
+        "stop_id": "56524",
+        "stop_name": "LaSalle / Crawford"
+      },
+      {
+        "stop_id": "56515",
+        "stop_name": "Crawford / Churchill"
+      },
+      {
+        "stop_id": "56509",
+        "stop_name": "Crawford / Ouimet"
+      },
+      {
+        "stop_id": "56505",
+        "stop_name": "Ouimet / Clémenceau"
+      },
+      {
+        "stop_id": "56503",
+        "stop_name": "Ouimet / Fayolle"
+      },
+      {
+        "stop_id": "57024",
+        "stop_name": "Ouimet / Lacharité"
+      },
+      {
+        "stop_id": "57021",
+        "stop_name": "Lacharité / Édouard"
+      },
+      {
+        "stop_id": "62262",
+        "stop_name": "Lacharité / Centrale"
+      },
+      {
+        "stop_id": "57003",
+        "stop_name": "Champlain / Allion"
+      },
+      {
+        "stop_id": "59834",
+        "stop_name": "Champlain / 2e Avenue"
+      },
+      {
+        "stop_id": "62263",
+        "stop_name": "George / 6e Avenue"
+      },
+      {
+        "stop_id": "62264",
+        "stop_name": "George / 9e Avenue"
+      },
+      {
+        "stop_id": "56981",
+        "stop_name": "George / 11e Avenue"
+      },
+      {
+        "stop_id": "56976",
+        "stop_name": "George / Gagné"
+      },
+      {
+        "stop_id": "60981",
+        "stop_name": "Gagné / Centre Lecavalier"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "60981",
+        "stop_name": "Gagné / Centre Lecavalier"
+      },
+      {
+        "stop_id": "57094",
+        "stop_name": "Gagné / Champlain"
+      },
+      {
+        "stop_id": "56972",
+        "stop_name": "Champlain / Bishop-Power"
+      },
+      {
+        "stop_id": "59828",
+        "stop_name": "Champlain / 8e Avenue"
+      },
+      {
+        "stop_id": "62256",
+        "stop_name": "Champlain / 6e Avenue"
+      },
+      {
+        "stop_id": "62257",
+        "stop_name": "Champlain / 4e Avenue"
+      },
+      {
+        "stop_id": "62258",
+        "stop_name": "Champlain / 2e Avenue"
+      },
+      {
+        "stop_id": "62260",
+        "stop_name": "Lacharité / Centrale"
+      },
+      {
+        "stop_id": "57103",
+        "stop_name": "Lacharité / Bannon"
+      },
+      {
+        "stop_id": "57025",
+        "stop_name": "Lacharité / Ouimet"
+      },
+      {
+        "stop_id": "56504",
+        "stop_name": "Ouimet / Fayolle"
+      },
+      {
+        "stop_id": "56506",
+        "stop_name": "Ouimet / Clémenceau"
+      },
+      {
+        "stop_id": "56510",
+        "stop_name": "Ouimet / Crawford"
+      },
+      {
+        "stop_id": "56514",
+        "stop_name": "Crawford / Churchill"
+      },
+      {
+        "stop_id": "56525",
+        "stop_name": "Crawford / LaSalle"
+      },
+      {
+        "stop_id": "56701",
+        "stop_name": "LaSalle / No 7105"
+      },
+      {
+        "stop_id": "57063",
+        "stop_name": "LaSalle / No 6875"
+      },
+      {
+        "stop_id": "56536",
+        "stop_name": "LaSalle / Bannantyne"
+      },
+      {
+        "stop_id": "56566",
+        "stop_name": "LaSalle / Valiquette"
+      },
+      {
+        "stop_id": "56693",
+        "stop_name": "de Verdun / Brault"
+      },
+      {
+        "stop_id": "56573",
+        "stop_name": "de Verdun / Manning"
+      },
+      {
+        "stop_id": "56577",
+        "stop_name": "de Verdun / Beatty"
+      },
+      {
+        "stop_id": "56580",
+        "stop_name": "de Verdun / Woodland"
+      },
+      {
+        "stop_id": "56583",
+        "stop_name": "de Verdun / Desmarchais"
+      },
+      {
+        "stop_id": "56584",
+        "stop_name": "de Verdun / 5e Avenue"
+      },
+      {
+        "stop_id": "56685",
+        "stop_name": "Station Verdun (de Verdun / Willibrord)"
+      },
+      {
+        "stop_id": "56590",
+        "stop_name": "de Verdun / Galt"
+      },
+      {
+        "stop_id": "56593",
+        "stop_name": "de Verdun / de l'Église"
+      },
+      {
+        "stop_id": "56595",
+        "stop_name": "de Verdun / Hickson"
+      },
+      {
+        "stop_id": "56597",
+        "stop_name": "de Verdun / Regina"
+      },
+      {
+        "stop_id": "56600",
+        "stop_name": "de Verdun / Strathmore"
+      },
+      {
+        "stop_id": "56622",
+        "stop_name": "Strathmore / LaSalle"
+      },
+      {
+        "stop_id": "56718",
+        "stop_name": "Wellington / No 3500"
+      },
+      {
+        "stop_id": "56719",
+        "stop_name": "Wellington / No 3265"
+      },
+      {
+        "stop_id": "60540",
+        "stop_name": "Wellington / Gilberte-Dubé"
+      },
+      {
+        "stop_id": "53900",
+        "stop_name": "Wellington / Charlevoix"
+      },
+      {
+        "stop_id": "52871",
+        "stop_name": "Parc-Marguerite-Bourgeoys"
+      },
+      {
+        "stop_id": "52887",
+        "stop_name": "Wellington / Fortune"
+      },
+      {
+        "stop_id": "52893",
+        "stop_name": "Wellington / Charon"
+      },
+      {
+        "stop_id": "52912",
+        "stop_name": "Wellington / de la Congrégation"
+      },
+      {
+        "stop_id": "53898",
+        "stop_name": "Wellington / du Centre"
+      },
+      {
+        "stop_id": "52926",
+        "stop_name": "Wellington / Bridge"
+      },
+      {
+        "stop_id": "52913",
+        "stop_name": "Wellington / Young"
+      },
+      {
+        "stop_id": "52945",
+        "stop_name": "Wellington / Ann"
+      },
+      {
+        "stop_id": "61765",
+        "stop_name": "Wellington / Prince"
+      },
+      {
+        "stop_id": "52975",
+        "stop_name": "Wellington / Queen"
+      },
+      {
+        "stop_id": "52992",
+        "stop_name": "Wellington / des Soeurs-Grises"
+      },
+      {
+        "stop_id": "60426",
+        "stop_name": "McGill / Le Moyne"
+      },
+      {
+        "stop_id": "52826",
+        "stop_name": "McGill / Saint-Jacques"
+      },
+      {
+        "stop_id": "52786",
+        "stop_name": "du Square-Victoria / Saint-Antoine"
+      },
+      {
+        "stop_id": "56625",
+        "stop_name": "LaSalle / Victor"
+      }
+    ]
+  }
+]

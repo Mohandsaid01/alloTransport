@@ -1,0 +1,84 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "60413",
+        "stop_name": "Remembrance / 32e Avenue"
+      },
+      {
+        "stop_id": "57198",
+        "stop_name": "32e Avenue / Saint-Antoine"
+      },
+      {
+        "stop_id": "62120",
+        "stop_name": "32e Avenue / Provost"
+      },
+      {
+        "stop_id": "57214",
+        "stop_name": "Provost / 24e Avenue"
+      },
+      {
+        "stop_id": "57223",
+        "stop_name": "Provost / 18e Avenue"
+      },
+      {
+        "stop_id": "57244",
+        "stop_name": "Provost / 10e Avenue"
+      },
+      {
+        "stop_id": "57267",
+        "stop_name": "Provost / 3e Avenue"
+      },
+      {
+        "stop_id": "61333",
+        "stop_name": "Station Lionel-Groulx"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "61333",
+        "stop_name": "Station Lionel-Groulx"
+      },
+      {
+        "stop_id": "56472",
+        "stop_name": "Notre-Dame / Saint-Pierre"
+      },
+      {
+        "stop_id": "57272",
+        "stop_name": "Victoria / 1re Avenue"
+      },
+      {
+        "stop_id": "57266",
+        "stop_name": "Provost / 3e Avenue"
+      },
+      {
+        "stop_id": "57243",
+        "stop_name": "Provost / 10e Avenue"
+      },
+      {
+        "stop_id": "57221",
+        "stop_name": "Provost / Esther-Blondin"
+      },
+      {
+        "stop_id": "57207",
+        "stop_name": "Provost / 25e Avenue"
+      },
+      {
+        "stop_id": "62132",
+        "stop_name": "Provost / 31e Avenue"
+      },
+      {
+        "stop_id": "57200",
+        "stop_name": "32e Avenue / Saint-Antoine"
+      },
+      {
+        "stop_id": "60413",
+        "stop_name": "Remembrance / 32e Avenue"
+      }
+    ]
+  }
+]

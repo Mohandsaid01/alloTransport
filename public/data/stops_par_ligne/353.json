@@ -1,0 +1,740 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54397",
+        "stop_name": "Maurice-Duplessis / Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "54060",
+        "stop_name": "Maurice-Duplessis / 54e Avenue"
+      },
+      {
+        "stop_id": "54062",
+        "stop_name": "Maurice-Duplessis / Jean-Yves-Bigras"
+      },
+      {
+        "stop_id": "52379",
+        "stop_name": "Maurice-Duplessis / J.-J.-Joubert"
+      },
+      {
+        "stop_id": "52264",
+        "stop_name": "Maurice-Duplessis / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "52216",
+        "stop_name": "Maurice-Duplessis / 41e Avenue"
+      },
+      {
+        "stop_id": "52156",
+        "stop_name": "Maurice-Duplessis / Pierre-Baillargeon"
+      },
+      {
+        "stop_id": "52071",
+        "stop_name": "Maurice-Duplessis / Rita-Levi-Montalcini"
+      },
+      {
+        "stop_id": "51993",
+        "stop_name": "Maurice-Duplessis / André-Dumas"
+      },
+      {
+        "stop_id": "51906",
+        "stop_name": "Maurice-Duplessis / 27e Avenue"
+      },
+      {
+        "stop_id": "51850",
+        "stop_name": "Maurice-Duplessis / Clément-Ader"
+      },
+      {
+        "stop_id": "51809",
+        "stop_name": "Maurice-Duplessis / Armand-Bombardier"
+      },
+      {
+        "stop_id": "51766",
+        "stop_name": "Armand-Bombardier / Jean-Vincent"
+      },
+      {
+        "stop_id": "51722",
+        "stop_name": "Armand-Bombardier / André-Ampère"
+      },
+      {
+        "stop_id": "51622",
+        "stop_name": "Perras / Armand-Bombardier"
+      },
+      {
+        "stop_id": "51589",
+        "stop_name": "Perras / Salomon-Marion"
+      },
+      {
+        "stop_id": "51542",
+        "stop_name": "Perras / Élie-Beauregard"
+      },
+      {
+        "stop_id": "54154",
+        "stop_name": "Perras / Fernand-Gauthier"
+      },
+      {
+        "stop_id": "51442",
+        "stop_name": "Perras / Marc-Aurèle-Fortin"
+      },
+      {
+        "stop_id": "62129",
+        "stop_name": "Perras / Gilbert-Barbier"
+      },
+      {
+        "stop_id": "54054",
+        "stop_name": "Perras / 6e Avenue"
+      },
+      {
+        "stop_id": "54155",
+        "stop_name": "Perras / 4e Avenue"
+      },
+      {
+        "stop_id": "51283",
+        "stop_name": "Perras / Ozias-Leduc (Hôpital Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "55260",
+        "stop_name": "Léger / Albert-Hudon"
+      },
+      {
+        "stop_id": "55233",
+        "stop_name": "Léger / Langelier"
+      },
+      {
+        "stop_id": "55223",
+        "stop_name": "Léger / Chartrand"
+      },
+      {
+        "stop_id": "55207",
+        "stop_name": "Léger / Rolland"
+      },
+      {
+        "stop_id": "55192",
+        "stop_name": "Léger / Fortin"
+      },
+      {
+        "stop_id": "55182",
+        "stop_name": "Léger / Hector-Lamarre"
+      },
+      {
+        "stop_id": "55171",
+        "stop_name": "Lacordaire / Léger"
+      },
+      {
+        "stop_id": "55187",
+        "stop_name": "Lacordaire / Arthur-Chevrier"
+      },
+      {
+        "stop_id": "55198",
+        "stop_name": "Lacordaire / Claude"
+      },
+      {
+        "stop_id": "55210",
+        "stop_name": "Lacordaire / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "55230",
+        "stop_name": "Lacordaire / des Iris"
+      },
+      {
+        "stop_id": "55256",
+        "stop_name": "Lacordaire / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55270",
+        "stop_name": "Lacordaire / d'Amos"
+      },
+      {
+        "stop_id": "55279",
+        "stop_name": "Lacordaire / de Charleroi"
+      },
+      {
+        "stop_id": "55284",
+        "stop_name": "Lacordaire / Industriel"
+      },
+      {
+        "stop_id": "54773",
+        "stop_name": "Lacordaire / des Grandes-Prairies"
+      },
+      {
+        "stop_id": "54796",
+        "stop_name": "Lacordaire / Couture"
+      },
+      {
+        "stop_id": "54815",
+        "stop_name": "Lacordaire / Honoré-Mercier"
+      },
+      {
+        "stop_id": "54834",
+        "stop_name": "Lacordaire / Lavoisier"
+      },
+      {
+        "stop_id": "54851",
+        "stop_name": "Lacordaire / Lafourcade"
+      },
+      {
+        "stop_id": "54857",
+        "stop_name": "Lacordaire / Jobin"
+      },
+      {
+        "stop_id": "54872",
+        "stop_name": "Lacordaire / Robert"
+      },
+      {
+        "stop_id": "54879",
+        "stop_name": "Lacordaire / des Galets"
+      },
+      {
+        "stop_id": "54903",
+        "stop_name": "Lacordaire / Jarry"
+      },
+      {
+        "stop_id": "54920",
+        "stop_name": "Lacordaire / Métropolitain"
+      },
+      {
+        "stop_id": "54940",
+        "stop_name": "Lacordaire / Paimpol"
+      },
+      {
+        "stop_id": "54970",
+        "stop_name": "Lacordaire / Jean-Talon"
+      },
+      {
+        "stop_id": "54988",
+        "stop_name": "Lacordaire / Bourdaloue"
+      },
+      {
+        "stop_id": "52341",
+        "stop_name": "Lacordaire / Bélanger"
+      },
+      {
+        "stop_id": "52462",
+        "stop_name": "Lacordaire / Saint-Zotique"
+      },
+      {
+        "stop_id": "52602",
+        "stop_name": "Lacordaire / Beaubien"
+      },
+      {
+        "stop_id": "52575",
+        "stop_name": "Beaubien / de Pontoise"
+      },
+      {
+        "stop_id": "52538",
+        "stop_name": "Beaubien / Châtelain"
+      },
+      {
+        "stop_id": "52513",
+        "stop_name": "Beaubien / de l'Assomption"
+      },
+      {
+        "stop_id": "54129",
+        "stop_name": "Beaubien / 42e Avenue"
+      },
+      {
+        "stop_id": "61124",
+        "stop_name": "Viau / Beaubien"
+      },
+      {
+        "stop_id": "52494",
+        "stop_name": "Viau / de Bellechasse"
+      },
+      {
+        "stop_id": "52573",
+        "stop_name": "Viau / Rosemont"
+      },
+      {
+        "stop_id": "52707",
+        "stop_name": "Viau / des Sorbiers"
+      },
+      {
+        "stop_id": "52986",
+        "stop_name": "Viau / Sherbrooke"
+      },
+      {
+        "stop_id": "53988",
+        "stop_name": "Viau / No 3265 (Stade Saputo)"
+      },
+      {
+        "stop_id": "50108",
+        "stop_name": "Viau / de Marseille"
+      },
+      {
+        "stop_id": "53116",
+        "stop_name": "Viau / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "61588",
+        "stop_name": "Viau / Hochelaga"
+      },
+      {
+        "stop_id": "61589",
+        "stop_name": "Viau / de Rouen"
+      },
+      {
+        "stop_id": "61590",
+        "stop_name": "Viau / Ontario"
+      },
+      {
+        "stop_id": "61591",
+        "stop_name": "Viau / La Fontaine"
+      },
+      {
+        "stop_id": "61592",
+        "stop_name": "Viau / Adam"
+      },
+      {
+        "stop_id": "61593",
+        "stop_name": "Viau / Sainte-Catherine"
+      },
+      {
+        "stop_id": "53324",
+        "stop_name": "Sainte-Catherine / Leclaire"
+      },
+      {
+        "stop_id": "53309",
+        "stop_name": "Sainte-Catherine / Aird"
+      },
+      {
+        "stop_id": "53298",
+        "stop_name": "Sainte-Catherine / William-David"
+      },
+      {
+        "stop_id": "53285",
+        "stop_name": "Sainte-Catherine / Letourneux"
+      },
+      {
+        "stop_id": "53269",
+        "stop_name": "Sainte-Catherine / Pie-IX"
+      },
+      {
+        "stop_id": "53243",
+        "stop_name": "Sainte-Catherine / Bourbonnière"
+      },
+      {
+        "stop_id": "53235",
+        "stop_name": "Sainte-Catherine / Nicolet"
+      },
+      {
+        "stop_id": "53226",
+        "stop_name": "Sainte-Catherine / Joliette"
+      },
+      {
+        "stop_id": "53211",
+        "stop_name": "Sainte-Catherine / Davidson"
+      },
+      {
+        "stop_id": "53192",
+        "stop_name": "Sainte-Catherine / Dézéry"
+      },
+      {
+        "stop_id": "53180",
+        "stop_name": "Sainte-Catherine / Moreau"
+      },
+      {
+        "stop_id": "53171",
+        "stop_name": "Sainte-Catherine / Alphonse-D.-Roy"
+      },
+      {
+        "stop_id": "54003",
+        "stop_name": "Sainte-Catherine / Frontenac"
+      },
+      {
+        "stop_id": "54071",
+        "stop_name": "Frontenac / Mondelet"
+      },
+      {
+        "stop_id": "53092",
+        "stop_name": "Frontenac / Logan"
+      },
+      {
+        "stop_id": "53067",
+        "stop_name": "Frontenac / La Fontaine"
+      },
+      {
+        "stop_id": "53014",
+        "stop_name": "Station Frontenac (Frontenac / Ontario)"
+      },
+      {
+        "stop_id": "53016",
+        "stop_name": "Station Frontenac (du Havre / Ontario)"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "53016",
+        "stop_name": "Station Frontenac (du Havre / Ontario)"
+      },
+      {
+        "stop_id": "53075",
+        "stop_name": "du Havre / La Fontaine"
+      },
+      {
+        "stop_id": "53112",
+        "stop_name": "du Havre / De Maisonneuve"
+      },
+      {
+        "stop_id": "53172",
+        "stop_name": "Sainte-Catherine / Alphonse-D.-Roy"
+      },
+      {
+        "stop_id": "53181",
+        "stop_name": "Sainte-Catherine / Moreau"
+      },
+      {
+        "stop_id": "53193",
+        "stop_name": "Sainte-Catherine / Dézéry"
+      },
+      {
+        "stop_id": "53213",
+        "stop_name": "Sainte-Catherine / Davidson"
+      },
+      {
+        "stop_id": "53227",
+        "stop_name": "Sainte-Catherine / Aylwin"
+      },
+      {
+        "stop_id": "53236",
+        "stop_name": "Sainte-Catherine / Nicolet"
+      },
+      {
+        "stop_id": "53244",
+        "stop_name": "Sainte-Catherine / Bourbonnière"
+      },
+      {
+        "stop_id": "53259",
+        "stop_name": "Sainte-Catherine / Jeanne-d'Arc"
+      },
+      {
+        "stop_id": "53271",
+        "stop_name": "Sainte-Catherine / Pie-IX"
+      },
+      {
+        "stop_id": "53286",
+        "stop_name": "Sainte-Catherine / Letourneux"
+      },
+      {
+        "stop_id": "53299",
+        "stop_name": "Sainte-Catherine / William-David"
+      },
+      {
+        "stop_id": "53310",
+        "stop_name": "Sainte-Catherine / Aird"
+      },
+      {
+        "stop_id": "53325",
+        "stop_name": "Sainte-Catherine / Leclaire"
+      },
+      {
+        "stop_id": "53331",
+        "stop_name": "Sainte-Catherine / Saint-Clément"
+      },
+      {
+        "stop_id": "53317",
+        "stop_name": "Viau / Adam"
+      },
+      {
+        "stop_id": "53295",
+        "stop_name": "Viau / La Fontaine"
+      },
+      {
+        "stop_id": "53274",
+        "stop_name": "Viau / Ontario"
+      },
+      {
+        "stop_id": "53223",
+        "stop_name": "Viau / de Rouen"
+      },
+      {
+        "stop_id": "53166",
+        "stop_name": "Viau / Hochelaga"
+      },
+      {
+        "stop_id": "53118",
+        "stop_name": "Viau / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "50107",
+        "stop_name": "Viau / de Marseille"
+      },
+      {
+        "stop_id": "53987",
+        "stop_name": "Viau / No 3265"
+      },
+      {
+        "stop_id": "52984",
+        "stop_name": "Viau / Sherbrooke"
+      },
+      {
+        "stop_id": "52988",
+        "stop_name": "Viau / Village Olympique"
+      },
+      {
+        "stop_id": "52706",
+        "stop_name": "Viau / des Sorbiers"
+      },
+      {
+        "stop_id": "52571",
+        "stop_name": "Viau / Rosemont"
+      },
+      {
+        "stop_id": "52493",
+        "stop_name": "Viau / de Bellechasse"
+      },
+      {
+        "stop_id": "52357",
+        "stop_name": "Viau / Beaubien"
+      },
+      {
+        "stop_id": "52414",
+        "stop_name": "Beaubien / 40e Avenue"
+      },
+      {
+        "stop_id": "52445",
+        "stop_name": "Beaubien / 42e Avenue"
+      },
+      {
+        "stop_id": "52515",
+        "stop_name": "Beaubien / de l'Assomption"
+      },
+      {
+        "stop_id": "52539",
+        "stop_name": "Beaubien / Châtelain"
+      },
+      {
+        "stop_id": "52576",
+        "stop_name": "Beaubien / de Pontoise"
+      },
+      {
+        "stop_id": "52461",
+        "stop_name": "Lacordaire / Saint-Zotique"
+      },
+      {
+        "stop_id": "52339",
+        "stop_name": "Lacordaire / Bélanger"
+      },
+      {
+        "stop_id": "54987",
+        "stop_name": "Lacordaire / Bourdaloue"
+      },
+      {
+        "stop_id": "54968",
+        "stop_name": "Lacordaire / Jean-Talon"
+      },
+      {
+        "stop_id": "54939",
+        "stop_name": "Lacordaire / Paimpol"
+      },
+      {
+        "stop_id": "55021",
+        "stop_name": "Lacordaire / Métropolitain"
+      },
+      {
+        "stop_id": "54905",
+        "stop_name": "Lacordaire / Jarry"
+      },
+      {
+        "stop_id": "54878",
+        "stop_name": "Lacordaire / des Galets"
+      },
+      {
+        "stop_id": "54870",
+        "stop_name": "Lacordaire / Robert"
+      },
+      {
+        "stop_id": "54856",
+        "stop_name": "Lacordaire / Paul-Sauvé"
+      },
+      {
+        "stop_id": "54850",
+        "stop_name": "Lacordaire / Lafourcade"
+      },
+      {
+        "stop_id": "54832",
+        "stop_name": "Lacordaire / Lavoisier"
+      },
+      {
+        "stop_id": "54814",
+        "stop_name": "Lacordaire / Honoré-Mercier"
+      },
+      {
+        "stop_id": "54794",
+        "stop_name": "Lacordaire / Couture"
+      },
+      {
+        "stop_id": "54771",
+        "stop_name": "Lacordaire / des Grandes-Prairies"
+      },
+      {
+        "stop_id": "55283",
+        "stop_name": "Lacordaire / Industriel"
+      },
+      {
+        "stop_id": "55280",
+        "stop_name": "Lacordaire / de Charleroi"
+      },
+      {
+        "stop_id": "55269",
+        "stop_name": "Lacordaire / d'Amos"
+      },
+      {
+        "stop_id": "55245",
+        "stop_name": "CLSC de Montréal-Nord"
+      },
+      {
+        "stop_id": "55221",
+        "stop_name": "Lacordaire / Crevier"
+      },
+      {
+        "stop_id": "55209",
+        "stop_name": "Lacordaire / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "55197",
+        "stop_name": "Lacordaire / Claude"
+      },
+      {
+        "stop_id": "55186",
+        "stop_name": "Lacordaire / Arthur-Chevrier"
+      },
+      {
+        "stop_id": "55170",
+        "stop_name": "Léger / Lacordaire"
+      },
+      {
+        "stop_id": "55183",
+        "stop_name": "Léger / Désy"
+      },
+      {
+        "stop_id": "55193",
+        "stop_name": "Léger / Fortin"
+      },
+      {
+        "stop_id": "55208",
+        "stop_name": "Léger / Rolland"
+      },
+      {
+        "stop_id": "55224",
+        "stop_name": "Léger / Chartrand"
+      },
+      {
+        "stop_id": "55235",
+        "stop_name": "Léger / Allard"
+      },
+      {
+        "stop_id": "55259",
+        "stop_name": "Léger / Albert-Hudon"
+      },
+      {
+        "stop_id": "54139",
+        "stop_name": "Perras / Ozias-Leduc (Hôpital Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "54053",
+        "stop_name": "Perras / 6e Avenue"
+      },
+      {
+        "stop_id": "51422",
+        "stop_name": "Perras / Gilbert-Barbier"
+      },
+      {
+        "stop_id": "51443",
+        "stop_name": "Perras / Marc-Aurèle-Fortin"
+      },
+      {
+        "stop_id": "51488",
+        "stop_name": "Perras / Fernand-Gauthier"
+      },
+      {
+        "stop_id": "51543",
+        "stop_name": "Perras / Élie-Beauregard"
+      },
+      {
+        "stop_id": "51590",
+        "stop_name": "Perras / Salomon-Marion"
+      },
+      {
+        "stop_id": "54000",
+        "stop_name": "Armand-Bombardier / Perras"
+      },
+      {
+        "stop_id": "51670",
+        "stop_name": "Armand-Bombardier / Philippe-Lebon"
+      },
+      {
+        "stop_id": "51723",
+        "stop_name": "Armand-Bombardier / André-Ampère"
+      },
+      {
+        "stop_id": "51767",
+        "stop_name": "Armand-Bombardier / Jean-Vincent"
+      },
+      {
+        "stop_id": "51849",
+        "stop_name": "Maurice-Duplessis / Clément-Ader"
+      },
+      {
+        "stop_id": "51907",
+        "stop_name": "Maurice-Duplessis / 27e Avenue"
+      },
+      {
+        "stop_id": "51994",
+        "stop_name": "Maurice-Duplessis / André-Dumas"
+      },
+      {
+        "stop_id": "52073",
+        "stop_name": "Maurice-Duplessis / Rita-Levi-Montalcini"
+      },
+      {
+        "stop_id": "52157",
+        "stop_name": "Maurice-Duplessis / Pierre-Baillargeon"
+      },
+      {
+        "stop_id": "52217",
+        "stop_name": "Maurice-Duplessis / 41e Avenue"
+      },
+      {
+        "stop_id": "52266",
+        "stop_name": "Maurice-Duplessis / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "52378",
+        "stop_name": "Maurice-Duplessis / J.-J.-Joubert"
+      },
+      {
+        "stop_id": "53977",
+        "stop_name": "Maurice-Duplessis / Jean-Yves-Bigras"
+      },
+      {
+        "stop_id": "54061",
+        "stop_name": "Maurice-Duplessis / 54e Avenue"
+      },
+      {
+        "stop_id": "52655",
+        "stop_name": "Maurice-Duplessis / Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "54271",
+        "stop_name": "Maurice-Duplessis / 63e Avenue"
+      },
+      {
+        "stop_id": "54284",
+        "stop_name": "Maurice-Duplessis / 70e Avenue"
+      },
+      {
+        "stop_id": "54270",
+        "stop_name": "Maurice-Duplessis / 62e Avenue"
+      },
+      {
+        "stop_id": "54397",
+        "stop_name": "Maurice-Duplessis / Rivière-des-Prairies"
+      }
+    ]
+  }
+]

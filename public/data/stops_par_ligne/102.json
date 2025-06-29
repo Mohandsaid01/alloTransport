@@ -1,0 +1,216 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "50489",
+        "stop_name": "Connaught / Westmore"
+      },
+      {
+        "stop_id": "50526",
+        "stop_name": "Chester / West Broadway"
+      },
+      {
+        "stop_id": "50578",
+        "stop_name": "West Broadway / Fielding"
+      },
+      {
+        "stop_id": "50651",
+        "stop_name": "Somerled / O'Bryan"
+      },
+      {
+        "stop_id": "50674",
+        "stop_name": "Somerled / Doherty"
+      },
+      {
+        "stop_id": "50696",
+        "stop_name": "Somerled / Coronation"
+      },
+      {
+        "stop_id": "50730",
+        "stop_name": "Somerled / Mariette"
+      },
+      {
+        "stop_id": "50750",
+        "stop_name": "Somerled / King-Edward"
+      },
+      {
+        "stop_id": "50784",
+        "stop_name": "Somerled / Walkley"
+      },
+      {
+        "stop_id": "50825",
+        "stop_name": "Somerled / Cavendish"
+      },
+      {
+        "stop_id": "50845",
+        "stop_name": "Somerled / Borden"
+      },
+      {
+        "stop_id": "50882",
+        "stop_name": "Somerled / Madison"
+      },
+      {
+        "stop_id": "50913",
+        "stop_name": "Somerled / Grand Boulevard"
+      },
+      {
+        "stop_id": "50944",
+        "stop_name": "Somerled / Hampton"
+      },
+      {
+        "stop_id": "50967",
+        "stop_name": "Somerled / Draper"
+      },
+      {
+        "stop_id": "50998",
+        "stop_name": "Somerled / Wilson"
+      },
+      {
+        "stop_id": "51025",
+        "stop_name": "Somerled / Côte-Saint-Luc"
+      },
+      {
+        "stop_id": "51090",
+        "stop_name": "Côte-Saint-Luc / Girouard"
+      },
+      {
+        "stop_id": "51203",
+        "stop_name": "Girouard / de Monkland"
+      },
+      {
+        "stop_id": "51236",
+        "stop_name": "Girouard / Duquette"
+      },
+      {
+        "stop_id": "54072",
+        "stop_name": "Girouard / Notre-Dame-de-Grâce"
+      },
+      {
+        "stop_id": "51327",
+        "stop_name": "Notre-Dame-de-Grâce / Décarie"
+      },
+      {
+        "stop_id": "51372",
+        "stop_name": "Décarie / Côte-Saint-Antoine"
+      },
+      {
+        "stop_id": "54066",
+        "stop_name": "Décarie / Sherbrooke"
+      },
+      {
+        "stop_id": "53936",
+        "stop_name": "Station Vendôme"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "53796",
+        "stop_name": "Station Vendôme"
+      },
+      {
+        "stop_id": "51460",
+        "stop_name": "Décarie / Sherbrooke"
+      },
+      {
+        "stop_id": "51373",
+        "stop_name": "Côte-Saint-Antoine / Prud'homme"
+      },
+      {
+        "stop_id": "51350",
+        "stop_name": "Côte-Saint-Antoine / Botrel"
+      },
+      {
+        "stop_id": "51332",
+        "stop_name": "Côte-Saint-Antoine / Girouard"
+      },
+      {
+        "stop_id": "51291",
+        "stop_name": "Girouard / Notre-Dame-de-Grâce"
+      },
+      {
+        "stop_id": "51235",
+        "stop_name": "Girouard / Duquette"
+      },
+      {
+        "stop_id": "51201",
+        "stop_name": "Girouard / de Monkland"
+      },
+      {
+        "stop_id": "51089",
+        "stop_name": "Girouard / Côte-Saint-Luc"
+      },
+      {
+        "stop_id": "51015",
+        "stop_name": "Somerled / Oxford"
+      },
+      {
+        "stop_id": "50997",
+        "stop_name": "Somerled / Wilson"
+      },
+      {
+        "stop_id": "50968",
+        "stop_name": "Somerled / Draper"
+      },
+      {
+        "stop_id": "50928",
+        "stop_name": "Somerled / Hingston"
+      },
+      {
+        "stop_id": "50911",
+        "stop_name": "Somerled / Grand Boulevard"
+      },
+      {
+        "stop_id": "50881",
+        "stop_name": "Somerled / Madison"
+      },
+      {
+        "stop_id": "50844",
+        "stop_name": "Somerled / Borden"
+      },
+      {
+        "stop_id": "50823",
+        "stop_name": "Somerled / Cavendish"
+      },
+      {
+        "stop_id": "50783",
+        "stop_name": "Somerled / Walkley"
+      },
+      {
+        "stop_id": "50749",
+        "stop_name": "Somerled / King-Edward"
+      },
+      {
+        "stop_id": "50729",
+        "stop_name": "Somerled / Mariette"
+      },
+      {
+        "stop_id": "50695",
+        "stop_name": "Somerled / Coronation"
+      },
+      {
+        "stop_id": "50673",
+        "stop_name": "Somerled / Doherty"
+      },
+      {
+        "stop_id": "50649",
+        "stop_name": "Somerled / West Broadway"
+      },
+      {
+        "stop_id": "50576",
+        "stop_name": "West Broadway / Fielding"
+      },
+      {
+        "stop_id": "50525",
+        "stop_name": "West Broadway / Chester"
+      },
+      {
+        "stop_id": "50489",
+        "stop_name": "Connaught / Westmore"
+      }
+    ]
+  }
+]

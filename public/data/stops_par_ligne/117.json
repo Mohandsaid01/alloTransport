@@ -1,0 +1,196 @@
+[
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "55922",
+        "stop_name": "Station Du Collège (Saint-Louis / Ouimet)"
+      },
+      {
+        "stop_id": "55703",
+        "stop_name": "Station Du Collège (Décarie / du Collège)"
+      },
+      {
+        "stop_id": "55714",
+        "stop_name": "du Collège / Saint-Germain"
+      },
+      {
+        "stop_id": "55726",
+        "stop_name": "du Collège / Filiatrault"
+      },
+      {
+        "stop_id": "55697",
+        "stop_name": "Sainte-Croix / de l'Église"
+      },
+      {
+        "stop_id": "55684",
+        "stop_name": "Sainte-Croix / Decelles"
+      },
+      {
+        "stop_id": "55663",
+        "stop_name": "Sainte-Croix / Côte-Vertu"
+      },
+      {
+        "stop_id": "55634",
+        "stop_name": "Rochon / O'Brien"
+      },
+      {
+        "stop_id": "55612",
+        "stop_name": "Tassé / Sainte-Croix"
+      },
+      {
+        "stop_id": "55637",
+        "stop_name": "Dutrisac / Tassé"
+      },
+      {
+        "stop_id": "55608",
+        "stop_name": "Dutrisac / Deguire"
+      },
+      {
+        "stop_id": "55585",
+        "stop_name": "Dutrisac / Poirier"
+      },
+      {
+        "stop_id": "55832",
+        "stop_name": "Dutrisac / du Ruisseau"
+      },
+      {
+        "stop_id": "55546",
+        "stop_name": "Dutrisac / Cléroux"
+      },
+      {
+        "stop_id": "55525",
+        "stop_name": "Henri-Bourassa / Filion"
+      },
+      {
+        "stop_id": "55507",
+        "stop_name": "Henri-Bourassa / Dépatie"
+      },
+      {
+        "stop_id": "55834",
+        "stop_name": "O'Brien / Voie ferrée"
+      },
+      {
+        "stop_id": "50213",
+        "stop_name": "O'Brien / Dudemaine"
+      },
+      {
+        "stop_id": "53854",
+        "stop_name": "O'Brien / de Louisbourg"
+      },
+      {
+        "stop_id": "50195",
+        "stop_name": "O'Brien / De Salaberry"
+      },
+      {
+        "stop_id": "53852",
+        "stop_name": "O'Brien / Forbes"
+      },
+      {
+        "stop_id": "53863",
+        "stop_name": "Forbes / Saint-Évariste"
+      },
+      {
+        "stop_id": "50164",
+        "stop_name": "Saint-Évariste / Gouin"
+      },
+      {
+        "stop_id": "50169",
+        "stop_name": "Gouin / O'Brien"
+      }
+    ]
+  },
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "50169",
+        "stop_name": "Gouin / O'Brien"
+      },
+      {
+        "stop_id": "53853",
+        "stop_name": "O'Brien / Forbes"
+      },
+      {
+        "stop_id": "50197",
+        "stop_name": "O'Brien / De Salaberry"
+      },
+      {
+        "stop_id": "53855",
+        "stop_name": "O'Brien / de Louisbourg"
+      },
+      {
+        "stop_id": "50215",
+        "stop_name": "O'Brien / Dudemaine"
+      },
+      {
+        "stop_id": "55833",
+        "stop_name": "O'Brien / Voie ferrée C.P."
+      },
+      {
+        "stop_id": "55509",
+        "stop_name": "Henri-Bourassa / Dépatie"
+      },
+      {
+        "stop_id": "55526",
+        "stop_name": "Henri-Bourassa / Filion"
+      },
+      {
+        "stop_id": "55547",
+        "stop_name": "Henri-Bourassa / Norman"
+      },
+      {
+        "stop_id": "55567",
+        "stop_name": "Dutrisac / du Ruisseau"
+      },
+      {
+        "stop_id": "55586",
+        "stop_name": "Dutrisac / Poirier"
+      },
+      {
+        "stop_id": "55610",
+        "stop_name": "Dutrisac / Deguire"
+      },
+      {
+        "stop_id": "55636",
+        "stop_name": "Dutrisac / Tassé"
+      },
+      {
+        "stop_id": "55611",
+        "stop_name": "Tassé / Sainte-Croix"
+      },
+      {
+        "stop_id": "55635",
+        "stop_name": "O'Brien / Rochon"
+      },
+      {
+        "stop_id": "55657",
+        "stop_name": "O'Brien / Côte-Vertu"
+      },
+      {
+        "stop_id": "55664",
+        "stop_name": "Sainte-Croix / Côte-Vertu"
+      },
+      {
+        "stop_id": "55685",
+        "stop_name": "Sainte-Croix / Decelles"
+      },
+      {
+        "stop_id": "55698",
+        "stop_name": "Sainte-Croix / de l'Église"
+      },
+      {
+        "stop_id": "55725",
+        "stop_name": "Sainte-Croix / du Collège"
+      },
+      {
+        "stop_id": "55732",
+        "stop_name": "Sainte-Croix / Cartier"
+      },
+      {
+        "stop_id": "55922",
+        "stop_name": "Station Du Collège (Saint-Louis / Ouimet)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,864 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "53016",
+        "stop_name": "Station Frontenac (du Havre / Ontario)"
+      },
+      {
+        "stop_id": "53075",
+        "stop_name": "du Havre / La Fontaine"
+      },
+      {
+        "stop_id": "53112",
+        "stop_name": "du Havre / De Maisonneuve"
+      },
+      {
+        "stop_id": "53031",
+        "stop_name": "René-Lévesque / Panet"
+      },
+      {
+        "stop_id": "52980",
+        "stop_name": "René-Lévesque / Atateken"
+      },
+      {
+        "stop_id": "52954",
+        "stop_name": "René-Lévesque / Saint-André"
+      },
+      {
+        "stop_id": "52930",
+        "stop_name": "René-Lévesque / Saint-Hubert"
+      },
+      {
+        "stop_id": "52905",
+        "stop_name": "René-Lévesque / Berri"
+      },
+      {
+        "stop_id": "52881",
+        "stop_name": "René-Lévesque / Saint-Denis (CHUM)"
+      },
+      {
+        "stop_id": "52834",
+        "stop_name": "René-Lévesque / de l'Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "52783",
+        "stop_name": "René-Lévesque / Saint-Laurent"
+      },
+      {
+        "stop_id": "52745",
+        "stop_name": "René-Lévesque / Saint-Urbain"
+      },
+      {
+        "stop_id": "52697",
+        "stop_name": "René-Lévesque / Jeanne-Mance"
+      },
+      {
+        "stop_id": "52625",
+        "stop_name": "Place du Frère-André"
+      },
+      {
+        "stop_id": "52587",
+        "stop_name": "René-Lévesque / Robert-Bourassa"
+      },
+      {
+        "stop_id": "52529",
+        "stop_name": "René-Lévesque / Mansfield"
+      },
+      {
+        "stop_id": "52483",
+        "stop_name": "René-Lévesque / Peel"
+      },
+      {
+        "stop_id": "52463",
+        "stop_name": "René-Lévesque / Stanley"
+      },
+      {
+        "stop_id": "52416",
+        "stop_name": "René-Lévesque / de la Montagne"
+      },
+      {
+        "stop_id": "52373",
+        "stop_name": "René-Lévesque / Bishop"
+      },
+      {
+        "stop_id": "52327",
+        "stop_name": "René-Lévesque / Guy"
+      },
+      {
+        "stop_id": "52284",
+        "stop_name": "René-Lévesque / Saint-Mathieu"
+      },
+      {
+        "stop_id": "52198",
+        "stop_name": "René-Lévesque / Seymour"
+      },
+      {
+        "stop_id": "52149",
+        "stop_name": "René-Lévesque / du Sussex"
+      },
+      {
+        "stop_id": "60238",
+        "stop_name": "Station Atwater (Tupper / Atwater)"
+      },
+      {
+        "stop_id": "52086",
+        "stop_name": "Atwater / Dorchester"
+      },
+      {
+        "stop_id": "56304",
+        "stop_name": "Atwater / Saint-Antoine"
+      },
+      {
+        "stop_id": "61335",
+        "stop_name": "Station Lionel-Groulx"
+      },
+      {
+        "stop_id": "52245",
+        "stop_name": "Atwater / Notre-Dame"
+      },
+      {
+        "stop_id": "52289",
+        "stop_name": "Atwater / Sainte-Émilie"
+      },
+      {
+        "stop_id": "56604",
+        "stop_name": "Henri-Duhamel / de Verdun"
+      },
+      {
+        "stop_id": "56709",
+        "stop_name": "LaSalle / Caisse"
+      },
+      {
+        "stop_id": "56625",
+        "stop_name": "LaSalle / Victor"
+      },
+      {
+        "stop_id": "56637",
+        "stop_name": "Wellington / Hickson"
+      },
+      {
+        "stop_id": "56635",
+        "stop_name": "Wellington / de l'Église"
+      },
+      {
+        "stop_id": "56611",
+        "stop_name": "de l'Église / Gertrude"
+      },
+      {
+        "stop_id": "56588",
+        "stop_name": "de Verdun / Galt"
+      },
+      {
+        "stop_id": "56686",
+        "stop_name": "Station Verdun (de Verdun / Willibrord)"
+      },
+      {
+        "stop_id": "62367",
+        "stop_name": "de Verdun / 5e Avenue"
+      },
+      {
+        "stop_id": "56582",
+        "stop_name": "de Verdun / Desmarchais"
+      },
+      {
+        "stop_id": "56578",
+        "stop_name": "de Verdun / Woodland"
+      },
+      {
+        "stop_id": "56547",
+        "stop_name": "Woodland / Bannantyne"
+      },
+      {
+        "stop_id": "56526",
+        "stop_name": "Woodland / Champlain"
+      },
+      {
+        "stop_id": "56531",
+        "stop_name": "Champlain / Desmarchais"
+      },
+      {
+        "stop_id": "56533",
+        "stop_name": "Champlain / 5e Avenue"
+      },
+      {
+        "stop_id": "54100",
+        "stop_name": "Jolicoeur / Drake"
+      },
+      {
+        "stop_id": "52049",
+        "stop_name": "Jolicoeur / Angers"
+      },
+      {
+        "stop_id": "51961",
+        "stop_name": "Jolicoeur / Laurendeau"
+      },
+      {
+        "stop_id": "51899",
+        "stop_name": "Jolicoeur / Eadie"
+      },
+      {
+        "stop_id": "51836",
+        "stop_name": "Jolicoeur / Hadley"
+      },
+      {
+        "stop_id": "51801",
+        "stop_name": "Monk / Springland"
+      },
+      {
+        "stop_id": "53859",
+        "stop_name": "Station Monk (Monk / Allard)"
+      },
+      {
+        "stop_id": "51857",
+        "stop_name": "Monk / Raudot"
+      },
+      {
+        "stop_id": "51887",
+        "stop_name": "Monk / De La Vérendrye"
+      },
+      {
+        "stop_id": "51785",
+        "stop_name": "des Trinitaires / D'Aragon"
+      },
+      {
+        "stop_id": "51687",
+        "stop_name": "des Trinitaires / Jogues"
+      },
+      {
+        "stop_id": "51611",
+        "stop_name": "des Trinitaires / Lamont"
+      },
+      {
+        "stop_id": "54107",
+        "stop_name": "Station Angrignon"
+      },
+      {
+        "stop_id": "57060",
+        "stop_name": "Newman / Angrignon"
+      },
+      {
+        "stop_id": "56950",
+        "stop_name": "Newman / Guy-Bouchard"
+      },
+      {
+        "stop_id": "56943",
+        "stop_name": "Newman / Senkus"
+      },
+      {
+        "stop_id": "56921",
+        "stop_name": "Léger / Newman"
+      },
+      {
+        "stop_id": "56856",
+        "stop_name": "Cordner / Lapierre"
+      },
+      {
+        "stop_id": "57033",
+        "stop_name": "Lapierre / Cordner"
+      },
+      {
+        "stop_id": "56830",
+        "stop_name": "Lapierre / Saint-Patrick"
+      },
+      {
+        "stop_id": "57090",
+        "stop_name": "Centre de transport LaSalle (St-Patrick / No 7770)"
+      },
+      {
+        "stop_id": "56831",
+        "stop_name": "Saint-Patrick / Lapierre"
+      },
+      {
+        "stop_id": "57034",
+        "stop_name": "Lapierre / Cordner"
+      },
+      {
+        "stop_id": "56857",
+        "stop_name": "Cordner / Lapierre"
+      },
+      {
+        "stop_id": "57036",
+        "stop_name": "Cordner / Léger"
+      },
+      {
+        "stop_id": "56919",
+        "stop_name": "Léger / Newman"
+      },
+      {
+        "stop_id": "57045",
+        "stop_name": "Newman / No 7475"
+      },
+      {
+        "stop_id": "56899",
+        "stop_name": "Newman / Lapierre"
+      },
+      {
+        "stop_id": "56885",
+        "stop_name": "Newman / No 7721"
+      },
+      {
+        "stop_id": "56880",
+        "stop_name": "Newman / Thierry"
+      },
+      {
+        "stop_id": "56862",
+        "stop_name": "Newman / Lise"
+      },
+      {
+        "stop_id": "60246",
+        "stop_name": "Shevchenko / Newman"
+      },
+      {
+        "stop_id": "56869",
+        "stop_name": "Shevchenko / David-Boyer"
+      },
+      {
+        "stop_id": "56890",
+        "stop_name": "Shevchenko / Lemieux"
+      },
+      {
+        "stop_id": "56913",
+        "stop_name": "Shevchenko / Robert"
+      },
+      {
+        "stop_id": "56924",
+        "stop_name": "Shevchenko / Jean-Brillon"
+      },
+      {
+        "stop_id": "57043",
+        "stop_name": "Shevchenko / Jean-Chevalier"
+      },
+      {
+        "stop_id": "56949",
+        "stop_name": "Shevchenko / Bouvier"
+      },
+      {
+        "stop_id": "56963",
+        "stop_name": "Shevchenko / De La Vérendrye"
+      },
+      {
+        "stop_id": "56973",
+        "stop_name": "Bishop-Power / George"
+      },
+      {
+        "stop_id": "56981",
+        "stop_name": "George / 11e Avenue"
+      },
+      {
+        "stop_id": "56976",
+        "stop_name": "George / Gagné"
+      },
+      {
+        "stop_id": "60242",
+        "stop_name": "George / Albert-Couture"
+      },
+      {
+        "stop_id": "56962",
+        "stop_name": "Raymond / Lévis-Sauvé"
+      },
+      {
+        "stop_id": "57027",
+        "stop_name": "Raymond / Mongeau"
+      },
+      {
+        "stop_id": "56975",
+        "stop_name": "Centrale / Raymond"
+      },
+      {
+        "stop_id": "56957",
+        "stop_name": "Centrale / 31e Avenue"
+      },
+      {
+        "stop_id": "56952",
+        "stop_name": "Centrale / 35e Avenue"
+      },
+      {
+        "stop_id": "56936",
+        "stop_name": "Centrale / 40e Avenue"
+      },
+      {
+        "stop_id": "56926",
+        "stop_name": "Centrale / 43e Avenue"
+      },
+      {
+        "stop_id": "56910",
+        "stop_name": "Centrale / 63e Avenue"
+      },
+      {
+        "stop_id": "56882",
+        "stop_name": "Centrale / 66e Avenue"
+      },
+      {
+        "stop_id": "56876",
+        "stop_name": "67e Avenue / LaSalle"
+      },
+      {
+        "stop_id": "56872",
+        "stop_name": "LaSalle / No 8912"
+      },
+      {
+        "stop_id": "57099",
+        "stop_name": "75e Avenue / LaSalle"
+      },
+      {
+        "stop_id": "57053",
+        "stop_name": "Centrale / 76e Avenue"
+      },
+      {
+        "stop_id": "56823",
+        "stop_name": "Centrale / Duquette"
+      },
+      {
+        "stop_id": "56814",
+        "stop_name": "Centrale / Cavelier-De LaSalle"
+      },
+      {
+        "stop_id": "56792",
+        "stop_name": "Centrale / 90e Avenue"
+      },
+      {
+        "stop_id": "57064",
+        "stop_name": "LaSalle / Orchard"
+      },
+      {
+        "stop_id": "56765",
+        "stop_name": "LaSalle / Lafleur"
+      },
+      {
+        "stop_id": "56768",
+        "stop_name": "Lafleur / Chatelle"
+      },
+      {
+        "stop_id": "56759",
+        "stop_name": "Terminus Lafleur / Newman"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "56759",
+        "stop_name": "Terminus Lafleur / Newman"
+      },
+      {
+        "stop_id": "56769",
+        "stop_name": "Lafleur / Centrale"
+      },
+      {
+        "stop_id": "56766",
+        "stop_name": "LaSalle / Lafleur"
+      },
+      {
+        "stop_id": "56774",
+        "stop_name": "LaSalle / Orchard"
+      },
+      {
+        "stop_id": "56791",
+        "stop_name": "90e Avenue / Centrale"
+      },
+      {
+        "stop_id": "56813",
+        "stop_name": "Centrale / Cavelier-De LaSalle"
+      },
+      {
+        "stop_id": "56824",
+        "stop_name": "Centrale / Duquette"
+      },
+      {
+        "stop_id": "56725",
+        "stop_name": "Centrale / Terrasse Centrale"
+      },
+      {
+        "stop_id": "57098",
+        "stop_name": "75e Avenue / LaSalle"
+      },
+      {
+        "stop_id": "56870",
+        "stop_name": "LaSalle / No 8912"
+      },
+      {
+        "stop_id": "56871",
+        "stop_name": "68e Avenue / LaSalle"
+      },
+      {
+        "stop_id": "57093",
+        "stop_name": "68e Avenue / Centrale"
+      },
+      {
+        "stop_id": "56883",
+        "stop_name": "Centrale / 66e Avenue"
+      },
+      {
+        "stop_id": "56911",
+        "stop_name": "Centrale / 63e Avenue"
+      },
+      {
+        "stop_id": "56927",
+        "stop_name": "Centrale / 43e Avenue"
+      },
+      {
+        "stop_id": "56937",
+        "stop_name": "Centrale / 40e Avenue"
+      },
+      {
+        "stop_id": "56954",
+        "stop_name": "Centrale / 35e Avenue"
+      },
+      {
+        "stop_id": "56958",
+        "stop_name": "Centrale / 31e Avenue"
+      },
+      {
+        "stop_id": "57026",
+        "stop_name": "Raymond / Mongeau"
+      },
+      {
+        "stop_id": "56961",
+        "stop_name": "Raymond / Lévis-Sauvé"
+      },
+      {
+        "stop_id": "56967",
+        "stop_name": "George / Gamelin"
+      },
+      {
+        "stop_id": "56977",
+        "stop_name": "George / Gagné"
+      },
+      {
+        "stop_id": "56971",
+        "stop_name": "Bishop-Power / Champlain"
+      },
+      {
+        "stop_id": "56964",
+        "stop_name": "Shevchenko / De La Vérendrye"
+      },
+      {
+        "stop_id": "56948",
+        "stop_name": "Shevchenko / Bouvier"
+      },
+      {
+        "stop_id": "56728",
+        "stop_name": "Shevchenko / Jean-Chevalier"
+      },
+      {
+        "stop_id": "56922",
+        "stop_name": "Shevchenko / Jean-Brillon"
+      },
+      {
+        "stop_id": "56912",
+        "stop_name": "Shevchenko / Robert"
+      },
+      {
+        "stop_id": "56884",
+        "stop_name": "Shevchenko / Lefebvre"
+      },
+      {
+        "stop_id": "56868",
+        "stop_name": "Shevchenko / David-Boyer"
+      },
+      {
+        "stop_id": "56850",
+        "stop_name": "Shevchenko / Newman"
+      },
+      {
+        "stop_id": "56863",
+        "stop_name": "Newman / Lise"
+      },
+      {
+        "stop_id": "56881",
+        "stop_name": "Newman / Thierry"
+      },
+      {
+        "stop_id": "56889",
+        "stop_name": "Newman / No 7700"
+      },
+      {
+        "stop_id": "56900",
+        "stop_name": "Newman / Lapierre"
+      },
+      {
+        "stop_id": "56726",
+        "stop_name": "Newman / No 7475"
+      },
+      {
+        "stop_id": "56921",
+        "stop_name": "Léger / Newman"
+      },
+      {
+        "stop_id": "56856",
+        "stop_name": "Cordner / Lapierre"
+      },
+      {
+        "stop_id": "57033",
+        "stop_name": "Lapierre / Cordner"
+      },
+      {
+        "stop_id": "56830",
+        "stop_name": "Lapierre / Saint-Patrick"
+      },
+      {
+        "stop_id": "57089",
+        "stop_name": "Centre de transport LaSalle (St-Patrick / No 7770)"
+      },
+      {
+        "stop_id": "56831",
+        "stop_name": "Saint-Patrick / Lapierre"
+      },
+      {
+        "stop_id": "57034",
+        "stop_name": "Lapierre / Cordner"
+      },
+      {
+        "stop_id": "56857",
+        "stop_name": "Cordner / Lapierre"
+      },
+      {
+        "stop_id": "57036",
+        "stop_name": "Cordner / Léger"
+      },
+      {
+        "stop_id": "56919",
+        "stop_name": "Léger / Newman"
+      },
+      {
+        "stop_id": "56945",
+        "stop_name": "Newman / Senkus"
+      },
+      {
+        "stop_id": "56951",
+        "stop_name": "Newman / Guy-Bouchard"
+      },
+      {
+        "stop_id": "56960",
+        "stop_name": "Newman / Angrignon"
+      },
+      {
+        "stop_id": "54109",
+        "stop_name": "Station Angrignon"
+      },
+      {
+        "stop_id": "51688",
+        "stop_name": "des Trinitaires / Jogues"
+      },
+      {
+        "stop_id": "51762",
+        "stop_name": "des Trinitaires / Dumas"
+      },
+      {
+        "stop_id": "54012",
+        "stop_name": "Monk / De La Vérendrye"
+      },
+      {
+        "stop_id": "53946",
+        "stop_name": "Monk / Raudot"
+      },
+      {
+        "stop_id": "53858",
+        "stop_name": "Station Monk (Monk / Allard)"
+      },
+      {
+        "stop_id": "51800",
+        "stop_name": "Monk / Springland"
+      },
+      {
+        "stop_id": "51779",
+        "stop_name": "Monk / Jolicoeur"
+      },
+      {
+        "stop_id": "51837",
+        "stop_name": "Jolicoeur / Hadley"
+      },
+      {
+        "stop_id": "51900",
+        "stop_name": "Jolicoeur / Eadie"
+      },
+      {
+        "stop_id": "51963",
+        "stop_name": "Jolicoeur / Dubois"
+      },
+      {
+        "stop_id": "52050",
+        "stop_name": "Jolicoeur / Angers"
+      },
+      {
+        "stop_id": "61324",
+        "stop_name": "Station Jolicoeur"
+      },
+      {
+        "stop_id": "53951",
+        "stop_name": "De La Vérendrye / Desmarchais"
+      },
+      {
+        "stop_id": "56529",
+        "stop_name": "Woodland / Champlain"
+      },
+      {
+        "stop_id": "56545",
+        "stop_name": "Woodland / Bannantyne"
+      },
+      {
+        "stop_id": "61693",
+        "stop_name": "Woodland / de Verdun"
+      },
+      {
+        "stop_id": "56583",
+        "stop_name": "de Verdun / Desmarchais"
+      },
+      {
+        "stop_id": "56584",
+        "stop_name": "de Verdun / 5e Avenue"
+      },
+      {
+        "stop_id": "56685",
+        "stop_name": "Station Verdun (de Verdun / Willibrord)"
+      },
+      {
+        "stop_id": "56590",
+        "stop_name": "de Verdun / Galt"
+      },
+      {
+        "stop_id": "56636",
+        "stop_name": "Wellington / de l'Église"
+      },
+      {
+        "stop_id": "56638",
+        "stop_name": "Wellington / Hickson"
+      },
+      {
+        "stop_id": "56623",
+        "stop_name": "LaSalle / de Rushbrooke"
+      },
+      {
+        "stop_id": "56708",
+        "stop_name": "LaSalle / Caisse"
+      },
+      {
+        "stop_id": "61696",
+        "stop_name": "Henri-Duhamel / de Verdun"
+      },
+      {
+        "stop_id": "53894",
+        "stop_name": "Atwater / du Centre"
+      },
+      {
+        "stop_id": "52290",
+        "stop_name": "Atwater / Sainte-Émilie"
+      },
+      {
+        "stop_id": "52243",
+        "stop_name": "Atwater / Notre-Dame"
+      },
+      {
+        "stop_id": "54181",
+        "stop_name": "Station Lionel-Groulx (Atwater / Lionel-Groulx)"
+      },
+      {
+        "stop_id": "52193",
+        "stop_name": "Station Lionel-Groulx"
+      },
+      {
+        "stop_id": "56303",
+        "stop_name": "Atwater / Saint-Antoine"
+      },
+      {
+        "stop_id": "52085",
+        "stop_name": "Atwater / du Souvenir"
+      },
+      {
+        "stop_id": "56297",
+        "stop_name": "Station Atwater (Atwater / Sainte-Catherine)"
+      },
+      {
+        "stop_id": "52227",
+        "stop_name": "René-Lévesque / du Fort"
+      },
+      {
+        "stop_id": "52286",
+        "stop_name": "René-Lévesque / Saint-Mathieu"
+      },
+      {
+        "stop_id": "52329",
+        "stop_name": "René-Lévesque / Guy"
+      },
+      {
+        "stop_id": "52374",
+        "stop_name": "René-Lévesque / Bishop"
+      },
+      {
+        "stop_id": "52437",
+        "stop_name": "René-Lévesque / Drummond"
+      },
+      {
+        "stop_id": "61807",
+        "stop_name": "René-Lévesque / Stanley"
+      },
+      {
+        "stop_id": "52530",
+        "stop_name": "René-Lévesque / Mansfield"
+      },
+      {
+        "stop_id": "53918",
+        "stop_name": "René-Lévesque / Union"
+      },
+      {
+        "stop_id": "52627",
+        "stop_name": "Basilique St-Patrick (R.-Lévesque / St-Alexandre)"
+      },
+      {
+        "stop_id": "60683",
+        "stop_name": "René-Lévesque / Jeanne-Mance"
+      },
+      {
+        "stop_id": "52782",
+        "stop_name": "René-Lévesque / Saint-Laurent"
+      },
+      {
+        "stop_id": "52835",
+        "stop_name": "René-Lévesque / de l'Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "52882",
+        "stop_name": "René-Lévesque / Saint-Denis (CHUM)"
+      },
+      {
+        "stop_id": "54041",
+        "stop_name": "René-Lévesque / Berri"
+      },
+      {
+        "stop_id": "52931",
+        "stop_name": "René-Lévesque / Saint-Hubert"
+      },
+      {
+        "stop_id": "52982",
+        "stop_name": "René-Lévesque / Atateken"
+      },
+      {
+        "stop_id": "53032",
+        "stop_name": "René-Lévesque / Panet"
+      },
+      {
+        "stop_id": "53073",
+        "stop_name": "René-Lévesque / Papineau (Maison Radio-Canada)"
+      },
+      {
+        "stop_id": "54071",
+        "stop_name": "Frontenac / Mondelet"
+      },
+      {
+        "stop_id": "53092",
+        "stop_name": "Frontenac / Logan"
+      },
+      {
+        "stop_id": "53014",
+        "stop_name": "Station Frontenac (Frontenac / Ontario)"
+      },
+      {
+        "stop_id": "53016",
+        "stop_name": "Station Frontenac (du Havre / Ontario)"
+      }
+    ]
+  }
+]

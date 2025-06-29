@@ -1,0 +1,396 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "60482",
+        "stop_name": "d'Amiens / Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "55164",
+        "stop_name": "d'Amiens / Armand-Lavergne"
+      },
+      {
+        "stop_id": "55188",
+        "stop_name": "Armand-Lavergne / Forest"
+      },
+      {
+        "stop_id": "55159",
+        "stop_name": "Forest / Garon"
+      },
+      {
+        "stop_id": "62012",
+        "stop_name": "Forest / Hébert"
+      },
+      {
+        "stop_id": "55150",
+        "stop_name": "Pie-IX / Fleury"
+      },
+      {
+        "stop_id": "55179",
+        "stop_name": "Pie-IX / Industriel"
+      },
+      {
+        "stop_id": "60484",
+        "stop_name": "des Grandes-Prairies / Pie-IX"
+      },
+      {
+        "stop_id": "60506",
+        "stop_name": "des Grandes-Prairies / Lionel-Groulx"
+      },
+      {
+        "stop_id": "54749",
+        "stop_name": "des Grandes-Prairies / No 4840"
+      },
+      {
+        "stop_id": "54754",
+        "stop_name": "des Grandes-Prairies / Viau"
+      },
+      {
+        "stop_id": "54760",
+        "stop_name": "des Grandes-Prairies / Saguenay"
+      },
+      {
+        "stop_id": "54763",
+        "stop_name": "des Grandes-Prairies / Salvaye"
+      },
+      {
+        "stop_id": "54764",
+        "stop_name": "des Grandes-Prairies / Puyseaux"
+      },
+      {
+        "stop_id": "54774",
+        "stop_name": "des Grandes-Prairies / Lacordaire"
+      },
+      {
+        "stop_id": "54775",
+        "stop_name": "des Grandes-Prairies / No 5850"
+      },
+      {
+        "stop_id": "54793",
+        "stop_name": "des Grandes-Prairies / du Prado"
+      },
+      {
+        "stop_id": "55020",
+        "stop_name": "des Grandes-Prairies / No 6150"
+      },
+      {
+        "stop_id": "55027",
+        "stop_name": "des Grandes-Prairies / Langelier"
+      },
+      {
+        "stop_id": "55022",
+        "stop_name": "Langelier / No 9300"
+      },
+      {
+        "stop_id": "61643",
+        "stop_name": "Couture / Léonard"
+      },
+      {
+        "stop_id": "54868",
+        "stop_name": "Couture / Pascal-Gagnon"
+      },
+      {
+        "stop_id": "60625",
+        "stop_name": "Pascal-Gagnon / du Champ-d'Eau"
+      },
+      {
+        "stop_id": "60486",
+        "stop_name": "Pascal-Gagnon / des Grandes-Prairies"
+      },
+      {
+        "stop_id": "60487",
+        "stop_name": "Pascal-Gagnon / Place Pascal-Gagnon"
+      },
+      {
+        "stop_id": "60489",
+        "stop_name": "Renaude-Lapointe / No 11200"
+      },
+      {
+        "stop_id": "54680",
+        "stop_name": "Renaude-Lapointe / Minicut"
+      },
+      {
+        "stop_id": "54691",
+        "stop_name": "Renaude-Lapointe / No 10291"
+      },
+      {
+        "stop_id": "54678",
+        "stop_name": "Renaude-Lapointe / Béclard"
+      },
+      {
+        "stop_id": "54534",
+        "stop_name": "Colbert / Ravenel"
+      },
+      {
+        "stop_id": "54687",
+        "stop_name": "Colbert / No 10700"
+      },
+      {
+        "stop_id": "54520",
+        "stop_name": "Colbert / Larrey"
+      },
+      {
+        "stop_id": "54525",
+        "stop_name": "Larrey / Mirabeau"
+      },
+      {
+        "stop_id": "54731",
+        "stop_name": "Larrey / L.-J.-Forget"
+      },
+      {
+        "stop_id": "54531",
+        "stop_name": "Larrey / Secant"
+      },
+      {
+        "stop_id": "54705",
+        "stop_name": "J.-René-Ouimet / Parkway"
+      },
+      {
+        "stop_id": "54725",
+        "stop_name": "Parkway / No 10800"
+      },
+      {
+        "stop_id": "54727",
+        "stop_name": "Parkway / No 10700"
+      },
+      {
+        "stop_id": "54726",
+        "stop_name": "Parkway / No 10600"
+      },
+      {
+        "stop_id": "54548",
+        "stop_name": "Parkway / Bombardier"
+      },
+      {
+        "stop_id": "54561",
+        "stop_name": "Parkway / Ernest-Cormier"
+      },
+      {
+        "stop_id": "60490",
+        "stop_name": "Parkway / Grenache"
+      },
+      {
+        "stop_id": "60491",
+        "stop_name": "Jarry / Parkway"
+      },
+      {
+        "stop_id": "54598",
+        "stop_name": "Jarry / Ray-Lawson"
+      },
+      {
+        "stop_id": "60205",
+        "stop_name": "des Sciences / Ray-Lawson"
+      },
+      {
+        "stop_id": "60492",
+        "stop_name": "des Sciences / de l'Innovation"
+      },
+      {
+        "stop_id": "60493",
+        "stop_name": "des Sciences / du Golf"
+      },
+      {
+        "stop_id": "60494",
+        "stop_name": "des Sciences / No 9500"
+      },
+      {
+        "stop_id": "60464",
+        "stop_name": "des Sciences / des Bâtisseurs"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "60464",
+        "stop_name": "des Sciences / des Bâtisseurs"
+      },
+      {
+        "stop_id": "60465",
+        "stop_name": "des Bâtisseurs / Métropolitain"
+      },
+      {
+        "stop_id": "60468",
+        "stop_name": "du Golf / Métropolitain"
+      },
+      {
+        "stop_id": "60469",
+        "stop_name": "des Sciences / du Golf"
+      },
+      {
+        "stop_id": "60470",
+        "stop_name": "des Sciences / de l'Innovation"
+      },
+      {
+        "stop_id": "61586",
+        "stop_name": "des Sciences / Ray-Lawson"
+      },
+      {
+        "stop_id": "54599",
+        "stop_name": "Jarry / Ray-Lawson"
+      },
+      {
+        "stop_id": "60471",
+        "stop_name": "Jarry / Parkway"
+      },
+      {
+        "stop_id": "60472",
+        "stop_name": "Parkway / Grenache"
+      },
+      {
+        "stop_id": "60473",
+        "stop_name": "Parkway / Ernest-Cormier"
+      },
+      {
+        "stop_id": "60474",
+        "stop_name": "Parkway / Jules-Léger"
+      },
+      {
+        "stop_id": "54706",
+        "stop_name": "Parkway / No 10600"
+      },
+      {
+        "stop_id": "54707",
+        "stop_name": "Parkway / No 10700"
+      },
+      {
+        "stop_id": "54704",
+        "stop_name": "Parkway / J.-René-Ouimet"
+      },
+      {
+        "stop_id": "54521",
+        "stop_name": "J.-René-Ouimet / Secant"
+      },
+      {
+        "stop_id": "54530",
+        "stop_name": "Secant / Larrey"
+      },
+      {
+        "stop_id": "54688",
+        "stop_name": "Larrey / L.-J.- Forget"
+      },
+      {
+        "stop_id": "54524",
+        "stop_name": "Larrey / Mirabeau"
+      },
+      {
+        "stop_id": "54692",
+        "stop_name": "Colbert / Larrey"
+      },
+      {
+        "stop_id": "54512",
+        "stop_name": "Colbert / No 10700"
+      },
+      {
+        "stop_id": "54535",
+        "stop_name": "Colbert / Ravenel"
+      },
+      {
+        "stop_id": "54537",
+        "stop_name": "Colbert / Bombardier"
+      },
+      {
+        "stop_id": "54679",
+        "stop_name": "Renaude-Lapointe / Béclard"
+      },
+      {
+        "stop_id": "54690",
+        "stop_name": "Renaude-Lapointe / No 10291"
+      },
+      {
+        "stop_id": "54681",
+        "stop_name": "Renaude-Lapointe / Minicut"
+      },
+      {
+        "stop_id": "60475",
+        "stop_name": "Renaude-Lapointe / No 11200"
+      },
+      {
+        "stop_id": "60476",
+        "stop_name": "Pascal-Gagnon / Place Pascal-Gagnon"
+      },
+      {
+        "stop_id": "60477",
+        "stop_name": "Pascal-Gagnon / des Grandes-Prairies"
+      },
+      {
+        "stop_id": "60626",
+        "stop_name": "Pascal-Gagnon / du Champ-d'Eau"
+      },
+      {
+        "stop_id": "54869",
+        "stop_name": "Couture / Pascal-Gagnon"
+      },
+      {
+        "stop_id": "61644",
+        "stop_name": "Couture / Léonard"
+      },
+      {
+        "stop_id": "60478",
+        "stop_name": "Langelier / Couture"
+      },
+      {
+        "stop_id": "54816",
+        "stop_name": "Langelier / des Grandes-Prairies"
+      },
+      {
+        "stop_id": "55018",
+        "stop_name": "des Grandes-Prairies / No 6363"
+      },
+      {
+        "stop_id": "55019",
+        "stop_name": "des Grandes-Prairies / No 6205"
+      },
+      {
+        "stop_id": "54792",
+        "stop_name": "des Grandes-Prairies / du Prado"
+      },
+      {
+        "stop_id": "54772",
+        "stop_name": "des Grandes-Prairies / Lacordaire"
+      },
+      {
+        "stop_id": "60479",
+        "stop_name": "des Grandes-Prairies / Puyseaux"
+      },
+      {
+        "stop_id": "60480",
+        "stop_name": "des Grandes-Prairies / Saguenay"
+      },
+      {
+        "stop_id": "54755",
+        "stop_name": "des Grandes-Prairies / Viau"
+      },
+      {
+        "stop_id": "55012",
+        "stop_name": "des Grandes-Prairies / No 4840"
+      },
+      {
+        "stop_id": "60481",
+        "stop_name": "des Grandes-Prairies / Lionel-Groulx"
+      },
+      {
+        "stop_id": "51037",
+        "stop_name": "Pie-IX / 53e Rue"
+      },
+      {
+        "stop_id": "54189",
+        "stop_name": "Pie-IX / 56e Rue"
+      },
+      {
+        "stop_id": "55157",
+        "stop_name": "Pie-IX / Majeau"
+      },
+      {
+        "stop_id": "55132",
+        "stop_name": "Pie-IX / Forest"
+      },
+      {
+        "stop_id": "60482",
+        "stop_name": "d'Amiens / Hôtel-de-Ville"
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "54080",
+        "stop_name": "Station Radisson (Sherbrooke / du Trianon)"
+      },
+      {
+        "stop_id": "54381",
+        "stop_name": "Cégep Marie-Victorin (Marie-Victorin / No 7000)"
+      }
+    ]
+  },
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "54381",
+        "stop_name": "Cégep Marie-Victorin (Marie-Victorin / No 7000)"
+      },
+      {
+        "stop_id": "53196",
+        "stop_name": "Station Radisson (Sherbrooke / Des Groseilliers)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,360 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "55166",
+        "stop_name": "Lacordaire / Léger"
+      },
+      {
+        "stop_id": "55138",
+        "stop_name": "Lacordaire / Joseph-Dufresne"
+      },
+      {
+        "stop_id": "55131",
+        "stop_name": "Napoléon-Bédard / Lacordaire"
+      },
+      {
+        "stop_id": "55139",
+        "stop_name": "Lacordaire / Joseph-Dufresne"
+      },
+      {
+        "stop_id": "55168",
+        "stop_name": "Lacordaire / Léger"
+      },
+      {
+        "stop_id": "55187",
+        "stop_name": "Lacordaire / Arthur-Chevrier"
+      },
+      {
+        "stop_id": "55198",
+        "stop_name": "Lacordaire / Claude"
+      },
+      {
+        "stop_id": "55210",
+        "stop_name": "Lacordaire / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "55230",
+        "stop_name": "Lacordaire / des Iris"
+      },
+      {
+        "stop_id": "55256",
+        "stop_name": "Lacordaire / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55270",
+        "stop_name": "Lacordaire / d'Amos"
+      },
+      {
+        "stop_id": "55279",
+        "stop_name": "Lacordaire / de Charleroi"
+      },
+      {
+        "stop_id": "55284",
+        "stop_name": "Lacordaire / Industriel"
+      },
+      {
+        "stop_id": "61546",
+        "stop_name": "Gare Saint-Léonard-Montréal-Nord"
+      },
+      {
+        "stop_id": "54773",
+        "stop_name": "Lacordaire / des Grandes-Prairies"
+      },
+      {
+        "stop_id": "54796",
+        "stop_name": "Lacordaire / Couture"
+      },
+      {
+        "stop_id": "54815",
+        "stop_name": "Lacordaire / Honoré-Mercier"
+      },
+      {
+        "stop_id": "54834",
+        "stop_name": "Lacordaire / Lavoisier"
+      },
+      {
+        "stop_id": "54851",
+        "stop_name": "Lacordaire / Lafourcade"
+      },
+      {
+        "stop_id": "54857",
+        "stop_name": "Lacordaire / Jobin"
+      },
+      {
+        "stop_id": "54872",
+        "stop_name": "Lacordaire / Robert"
+      },
+      {
+        "stop_id": "54879",
+        "stop_name": "Lacordaire / des Galets"
+      },
+      {
+        "stop_id": "54903",
+        "stop_name": "Lacordaire / Jarry"
+      },
+      {
+        "stop_id": "54920",
+        "stop_name": "Lacordaire / Métropolitain"
+      },
+      {
+        "stop_id": "54940",
+        "stop_name": "Lacordaire / Paimpol"
+      },
+      {
+        "stop_id": "54970",
+        "stop_name": "Lacordaire / Jean-Talon"
+      },
+      {
+        "stop_id": "54988",
+        "stop_name": "Lacordaire / Bourdaloue"
+      },
+      {
+        "stop_id": "52341",
+        "stop_name": "Lacordaire / Bélanger"
+      },
+      {
+        "stop_id": "52462",
+        "stop_name": "Lacordaire / Saint-Zotique"
+      },
+      {
+        "stop_id": "52602",
+        "stop_name": "Lacordaire / Beaubien"
+      },
+      {
+        "stop_id": "52777",
+        "stop_name": "Lacordaire / Rosemont"
+      },
+      {
+        "stop_id": "52867",
+        "stop_name": "Pierre-Bédard / Lacordaire"
+      },
+      {
+        "stop_id": "52929",
+        "stop_name": "Lacordaire / Gérin-Lajoie"
+      },
+      {
+        "stop_id": "61920",
+        "stop_name": "Lacordaire / Turenne"
+      },
+      {
+        "stop_id": "61917",
+        "stop_name": "De Jumonville / Louis-Veuillot"
+      },
+      {
+        "stop_id": "61918",
+        "stop_name": "De Jumonville / De Cadillac"
+      },
+      {
+        "stop_id": "53100",
+        "stop_name": "Station Cadillac (De Cadillac / Sherbrooke)"
+      },
+      {
+        "stop_id": "53143",
+        "stop_name": "De Cadillac / Chauveau"
+      },
+      {
+        "stop_id": "53175",
+        "stop_name": "De Cadillac / de Marseille"
+      },
+      {
+        "stop_id": "53220",
+        "stop_name": "De Cadillac / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "53256",
+        "stop_name": "De Cadillac / Hochelaga"
+      },
+      {
+        "stop_id": "53283",
+        "stop_name": "De Cadillac / de Toulouse"
+      },
+      {
+        "stop_id": "53342",
+        "stop_name": "De Cadillac / Ontario"
+      },
+      {
+        "stop_id": "53357",
+        "stop_name": "De Cadillac / La Fontaine"
+      },
+      {
+        "stop_id": "53377",
+        "stop_name": "De Cadillac / Notre-Dame"
+      },
+      {
+        "stop_id": "53375",
+        "stop_name": "Rougemont / Notre-Dame"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "53375",
+        "stop_name": "Rougemont / Notre-Dame"
+      },
+      {
+        "stop_id": "53358",
+        "stop_name": "La Fontaine / De Cadillac"
+      },
+      {
+        "stop_id": "53341",
+        "stop_name": "De Cadillac / Ontario"
+      },
+      {
+        "stop_id": "53282",
+        "stop_name": "De Cadillac / de Toulouse"
+      },
+      {
+        "stop_id": "53254",
+        "stop_name": "De Cadillac / Hochelaga"
+      },
+      {
+        "stop_id": "53219",
+        "stop_name": "De Cadillac / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "53174",
+        "stop_name": "De Cadillac / de Marseille"
+      },
+      {
+        "stop_id": "53142",
+        "stop_name": "De Cadillac / Chauveau"
+      },
+      {
+        "stop_id": "53098",
+        "stop_name": "Station Cadillac (De Cadillac / Sherbrooke)"
+      },
+      {
+        "stop_id": "53055",
+        "stop_name": "De Cadillac / De Jumonville"
+      },
+      {
+        "stop_id": "61915",
+        "stop_name": "De Jumonville / Louis-Veuillot"
+      },
+      {
+        "stop_id": "61916",
+        "stop_name": "Lacordaire / Turenne"
+      },
+      {
+        "stop_id": "52928",
+        "stop_name": "Lacordaire / Gérin-Lajoie"
+      },
+      {
+        "stop_id": "52866",
+        "stop_name": "Lacordaire / Pierre-Bédard"
+      },
+      {
+        "stop_id": "52775",
+        "stop_name": "Dickson / Rosemont"
+      },
+      {
+        "stop_id": "52600",
+        "stop_name": "Lacordaire / Beaubien"
+      },
+      {
+        "stop_id": "52461",
+        "stop_name": "Lacordaire / Saint-Zotique"
+      },
+      {
+        "stop_id": "52339",
+        "stop_name": "Lacordaire / Bélanger"
+      },
+      {
+        "stop_id": "54987",
+        "stop_name": "Lacordaire / Bourdaloue"
+      },
+      {
+        "stop_id": "54968",
+        "stop_name": "Lacordaire / Jean-Talon"
+      },
+      {
+        "stop_id": "54939",
+        "stop_name": "Lacordaire / Paimpol"
+      },
+      {
+        "stop_id": "55021",
+        "stop_name": "Lacordaire / Métropolitain"
+      },
+      {
+        "stop_id": "54905",
+        "stop_name": "Lacordaire / Jarry"
+      },
+      {
+        "stop_id": "54878",
+        "stop_name": "Lacordaire / des Galets"
+      },
+      {
+        "stop_id": "54870",
+        "stop_name": "Lacordaire / Robert"
+      },
+      {
+        "stop_id": "54856",
+        "stop_name": "Lacordaire / Paul-Sauvé"
+      },
+      {
+        "stop_id": "54850",
+        "stop_name": "Lacordaire / Lafourcade"
+      },
+      {
+        "stop_id": "54832",
+        "stop_name": "Lacordaire / Lavoisier"
+      },
+      {
+        "stop_id": "54814",
+        "stop_name": "Lacordaire / Honoré-Mercier"
+      },
+      {
+        "stop_id": "54794",
+        "stop_name": "Lacordaire / Couture"
+      },
+      {
+        "stop_id": "54771",
+        "stop_name": "Lacordaire / des Grandes-Prairies"
+      },
+      {
+        "stop_id": "61547",
+        "stop_name": "Gare Saint-Léonard-Montréal-Nord"
+      },
+      {
+        "stop_id": "55283",
+        "stop_name": "Lacordaire / Industriel"
+      },
+      {
+        "stop_id": "55280",
+        "stop_name": "Lacordaire / de Charleroi"
+      },
+      {
+        "stop_id": "55269",
+        "stop_name": "Lacordaire / d'Amos"
+      },
+      {
+        "stop_id": "55245",
+        "stop_name": "CLSC de Montréal-Nord"
+      },
+      {
+        "stop_id": "55221",
+        "stop_name": "Lacordaire / Crevier"
+      },
+      {
+        "stop_id": "55209",
+        "stop_name": "Lacordaire / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "55197",
+        "stop_name": "Lacordaire / Claude"
+      },
+      {
+        "stop_id": "55186",
+        "stop_name": "Lacordaire / Arthur-Chevrier"
+      },
+      {
+        "stop_id": "55166",
+        "stop_name": "Lacordaire / Léger"
+      }
+    ]
+  }
+]
