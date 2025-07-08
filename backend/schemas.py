@@ -1,5 +1,6 @@
 from pydantic import BaseModel, EmailStr
 from typing import Optional
+from datetime import datetime
 
 class UserCreate(BaseModel):
     prenom: str
@@ -8,7 +9,6 @@ class UserCreate(BaseModel):
     mot_de_passe: str
     carte_opus: Optional[str] = None
     role: str = "client" 
-
 
 class UserLogin(BaseModel):
     email: EmailStr
@@ -31,6 +31,35 @@ class RapportOut(BaseModel):
     titre: str
     contenu: str
     valide: bool
+
+    class Config:
+        orm_mode = True
+
+class UserUpdate(BaseModel):
+    prenom: str
+    nom: str
+    email: str
+
+class IncidentCreate(BaseModel):
+    type_incident: str
+    ligne: str
+    station: str
+    description: str
+    gravite: str
+    email: Optional[str] = None
+    contact_souhaite: Optional[str] = None
+
+class IncidentResponse(BaseModel):
+    id: int
+    type_incident: str
+    ligne: str
+    station: str
+    description: str
+    gravite: str
+    email: Optional[str] = None
+    contact_souhaite: Optional[str] = None
+    statut: str
+    date_created: datetime
 
     class Config:
         orm_mode = True
