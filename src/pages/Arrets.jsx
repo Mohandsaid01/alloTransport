@@ -10,14 +10,27 @@ const Arrets = () => {
   const [arretActif, setArretActif] = useState(null);
   const [loading, setLoading] = useState(true);
   const [loadingHoraires, setLoadingHoraires] = useState(false);
+  const [favoris, setFavoris] = useState([]);
+  const [filters, setFilters] = useState({
+    maintenant: false,
+    avantMidi: false,
+    apresMidi: false,
+  });
 
+  // Charger favoris depuis localStorage
+  useEffect(() => {
+    const saved = JSON.parse(localStorage.getItem('favoris')) || [];
+    setFavoris(saved);
+  }, []);
+
+  // Charger les arrêts d’une ligne
   useEffect(() => {
     setLoading(true);
     fetch(`/data/stops_par_ligne/${routeId}.json`)
       .then(res => res.json())
       .then(data => {
         setDirections(data);
-        setDirectionChoisie(data[0] || null);
+        setDirectionChoisie(null);
         setArretActif(null);
         setHoraires([]);
       })
@@ -26,6 +39,12 @@ const Arrets = () => {
   }, [routeId]);
 
   const chargerHoraires = async (stopId) => {
+    if (arretActif === stopId) {
+      setArretActif(null);
+      setHoraires([]);
+      return;
+    }
+
     setArretActif(stopId);
     setHoraires([]);
     setLoadingHoraires(true);
@@ -40,43 +59,79 @@ const Arrets = () => {
     }
   };
 
-  // Normaliser une heure (ex: 26:15 → 02:15)
   const normaliserHeure = (heure) => {
     const [h, m] = heure.split(':');
     const hMod = String(Number(h) % 24).padStart(2, '0');
     return `${hMod}:${m}`;
   };
 
- 
-//  Grouper par heure réelle (0h → 23h) avec tri
-const grouperParHeure = (horaires) => {
-  const groupes = {};
+  const appliquerFiltres = (horaire) => {
+    const now = new Date();
+    const [heureStr, minuteStr] = horaire.split(':');
+    const heure = Number(heureStr) % 24;
+    const minute = Number(minuteStr);
 
-  horaires.forEach((heure) => {
-    const [h, m, s] = heure.split(':');
-    const hMod = Number(h) % 24;
-    const cle = `${hMod}h`;
+    const heureActuelle = now.getHours();
+    const minuteActuelle = now.getMinutes();
 
-    const heureNormalisee = `${String(hMod).padStart(2, '0')}:${m}`;
+    const estApresHeureActuelle = (heure > heureActuelle) || (heure === heureActuelle && minute >= minuteActuelle);
 
-    if (!groupes[cle]) groupes[cle] = [];
-    groupes[cle].push(heureNormalisee);
-  });
+    if (filters.maintenant && !estApresHeureActuelle) return false;
+    if (filters.avantMidi && heure >= 12) return false;
+    if (filters.apresMidi && heure < 12) return false;
 
-  // 🔢 Tri dans chaque groupe
-  for (const cle in groupes) {
-    groupes[cle].sort((a, b) => {
-      const [ha, ma] = a.split(':').map(Number);
-      const [hb, mb] = b.split(':').map(Number);
-      return ha !== hb ? ha - hb : ma - mb;
-    });
-  }
+    return true;
+  };
 
-  return groupes;
-};
+  const grouperParHeure = (horaires) => {
+    const groupes = {};
+    horaires
+      .filter(appliquerFiltres)
+      .forEach((heure) => {
+        const [h, m] = heure.split(':');
+        const hMod = Number(h) % 24;
+        const cle = `${hMod}h`;
+        const heureNormalisee = `${String(hMod).padStart(2, '0')}:${m}`;
+        if (!groupes[cle]) groupes[cle] = [];
+        groupes[cle].push(heureNormalisee);
+      });
 
+    for (const cle in groupes) {
+      groupes[cle].sort((a, b) => a.localeCompare(b));
+    }
+
+    return groupes;
+  };
 
   const horairesGroupes = grouperParHeure(horaires);
+
+  const toggleFavori = (stopId, stopName) => {
+    const favori = { stopId, stopName, routeId, mode };
+    const exists = favoris.some(f => f.stopId === stopId && f.routeId === routeId && f.mode === mode);
+
+    let nouveauxFavoris;
+    if (exists) {
+      nouveauxFavoris = favoris.filter(f => !(f.stopId === stopId && f.routeId === routeId && f.mode === mode));
+    } else {
+      nouveauxFavoris = [...favoris, favori];
+    }
+
+    setFavoris(nouveauxFavoris);
+    localStorage.setItem('favoris', JSON.stringify(nouveauxFavoris));
+  };
+
+  const estFavori = (stopId) =>
+    favoris.some(f => f.stopId === stopId && f.routeId === routeId && f.mode === mode);
+
+  const handleDirectionClick = (dir) => {
+    if (dir.direction === directionChoisie?.direction) {
+      setDirectionChoisie(null);
+    } else {
+      setDirectionChoisie(dir);
+    }
+    setArretActif(null);
+    setHoraires([]);
+  };
 
   return (
     <div className="arrets-wrapper">
@@ -91,51 +146,99 @@ const grouperParHeure = (horaires) => {
               <button
                 key={index}
                 className={dir.direction === directionChoisie?.direction ? 'active' : ''}
-                onClick={() => {
-                  setDirectionChoisie(dir);
-                  setArretActif(null);
-                  setHoraires([]);
-                }}
+                onClick={() => handleDirectionClick(dir)}
               >
                 {dir.direction}
               </button>
             ))}
           </div>
 
-          {directionChoisie && (
-            <ul className="arret-list">
-              {directionChoisie.arrets.map((arret) => (
-                <li key={arret.stop_id}>
-                  <button onClick={() => chargerHoraires(arret.stop_id)}>
-                    {arret.stop_name}
-                  </button>
-                </li>
-              ))}
-            </ul>
+          {!directionChoisie && (
+            <p className="message-info"> Veuillez sélectionner une direction pour voir les arrêts.</p>
           )}
-        </>
-      )}
 
-      {arretActif && (
-        <div className="horaire-details">
-          <h3>Horaires pour l’arrêt : {arretActif}</h3>
-          {loadingHoraires ? (
-            <p>Chargement des horaires...</p>
-          ) : horaires.length > 0 ? (
-            Object.entries(horairesGroupes).map(([heure, liste]) => (
-              <div key={heure}>
-                <h4>{heure}</h4>
-                <ul>
-                  {liste.map((h, i) => (
-                    <li key={i}>{h}</li>
+          {directionChoisie && (
+            <div className="arrets-container">
+              <div className="arret-column">
+                <ul className="arret-list">
+                  {directionChoisie.arrets.map((arret) => (
+                    <li key={arret.stop_id}>
+                      <button
+                        className={`arret-btn ${arret.stop_id === arretActif ? 'active' : ''}`}
+                        onClick={() => chargerHoraires(arret.stop_id)}
+                      >
+                        <span>{arret.stop_name}</span>
+                        <span
+                          className={`etoile ${estFavori(arret.stop_id) ? 'favori' : ''}`}
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            toggleFavori(arret.stop_id, arret.stop_name);
+                          }}
+                          title={estFavori(arret.stop_id) ? 'Retirer des favoris' : 'Ajouter aux favoris'}
+                        >
+                          ★
+                        </span>
+                      </button>
+                    </li>
                   ))}
                 </ul>
               </div>
-            ))
-          ) : (
-            <p>Aucun horaire disponible.</p>
+
+              <div className="horaire-column">
+                {arretActif && (
+                  <div className="horaire-details">
+                    <h3> Horaires : {arretActif}</h3>
+
+                    {/* filtres */}
+                    <div className="horaire-filtres">
+                      <label>
+                        <input
+                          type="checkbox"
+                          checked={filters.maintenant}
+                          onChange={(e) => setFilters({ ...filters, maintenant: e.target.checked })}
+                        />
+                        Après maintenant
+                      </label>
+                      <label>
+                        <input
+                          type="checkbox"
+                          checked={filters.avantMidi}
+                          onChange={(e) => setFilters({ ...filters, avantMidi: e.target.checked })}
+                        />
+                        Avant midi
+                      </label>
+                      <label>
+                        <input
+                          type="checkbox"
+                          checked={filters.apresMidi}
+                          onChange={(e) => setFilters({ ...filters, apresMidi: e.target.checked })}
+                        />
+                        Après midi
+                      </label>
+                    </div>
+
+                    {loadingHoraires ? (
+                      <p>Chargement...</p>
+                    ) : horaires.length > 0 ? (
+                      Object.entries(horairesGroupes).map(([heure, liste]) => (
+                        <div key={heure}>
+                          <h4>{heure}</h4>
+                          <ul>
+                            {liste.map((h, i) => (
+                              <li key={i}>{h}</li>
+                            ))}
+                          </ul>
+                        </div>
+                      ))
+                    ) : (
+                      <p>Aucun horaire disponible.</p>
+                    )}
+                  </div>
+                )}
+              </div>
+            </div>
           )}
-        </div>
+        </>
       )}
     </div>
   );
