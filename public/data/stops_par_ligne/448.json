@@ -1,0 +1,366 @@
+[
+  {
+    "direction": "Ouest via Maurice-Duplessis",
+    "arrets": [
+      {
+        "stop_id": "54313",
+        "stop_name": "Maurice-Duplessis / 71e Avenue"
+      },
+      {
+        "stop_id": "54270",
+        "stop_name": "Maurice-Duplessis / 62e Avenue"
+      },
+      {
+        "stop_id": "54397",
+        "stop_name": "Maurice-Duplessis / Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "54060",
+        "stop_name": "Maurice-Duplessis / 54e Avenue"
+      },
+      {
+        "stop_id": "54062",
+        "stop_name": "Maurice-Duplessis / Jean-Yves-Bigras"
+      },
+      {
+        "stop_id": "52379",
+        "stop_name": "Maurice-Duplessis / J.-J.-Joubert"
+      },
+      {
+        "stop_id": "52264",
+        "stop_name": "Maurice-Duplessis / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "52216",
+        "stop_name": "Maurice-Duplessis / 41e Avenue"
+      },
+      {
+        "stop_id": "52156",
+        "stop_name": "Maurice-Duplessis / Pierre-Baillargeon"
+      },
+      {
+        "stop_id": "52071",
+        "stop_name": "Maurice-Duplessis / Rita-Levi-Montalcini"
+      },
+      {
+        "stop_id": "51993",
+        "stop_name": "Maurice-Duplessis / André-Dumas"
+      },
+      {
+        "stop_id": "51906",
+        "stop_name": "Maurice-Duplessis / 27e Avenue"
+      },
+      {
+        "stop_id": "51850",
+        "stop_name": "Maurice-Duplessis / Clément-Ader"
+      },
+      {
+        "stop_id": "51809",
+        "stop_name": "Maurice-Duplessis / Armand-Bombardier"
+      },
+      {
+        "stop_id": "51756",
+        "stop_name": "Maurice-Duplessis / No 7861"
+      },
+      {
+        "stop_id": "51699",
+        "stop_name": "Maurice-Duplessis / La Valinière"
+      },
+      {
+        "stop_id": "53927",
+        "stop_name": "Maurice-Duplessis / Fernand-Gauthier"
+      },
+      {
+        "stop_id": "54051",
+        "stop_name": "Maurice-Duplessis / No 7588"
+      },
+      {
+        "stop_id": "51552",
+        "stop_name": "Maurice-Duplessis / Pierre-Blanchet"
+      },
+      {
+        "stop_id": "51521",
+        "stop_name": "Maurice-Duplessis / 5e Avenue"
+      },
+      {
+        "stop_id": "62034",
+        "stop_name": "Louis-H.-La Fontaine / Minicut"
+      },
+      {
+        "stop_id": "59312",
+        "stop_name": "Station Radisson"
+      }
+    ]
+  },
+  {
+    "direction": "Est via du Golf",
+    "arrets": [
+      {
+        "stop_id": "59312",
+        "stop_name": "Station Radisson"
+      },
+      {
+        "stop_id": "60205",
+        "stop_name": "des Sciences / Ray-Lawson"
+      },
+      {
+        "stop_id": "60206",
+        "stop_name": "de l'Innovation / des Sciences"
+      },
+      {
+        "stop_id": "60209",
+        "stop_name": "de l'Innovation / No 9201"
+      },
+      {
+        "stop_id": "60208",
+        "stop_name": "de l'Innovation / du Parcours"
+      },
+      {
+        "stop_id": "60210",
+        "stop_name": "du Parcours / du Golf"
+      },
+      {
+        "stop_id": "60450",
+        "stop_name": "du Golf / No 9884"
+      },
+      {
+        "stop_id": "60211",
+        "stop_name": "du Golf / de l'Invention"
+      },
+      {
+        "stop_id": "60451",
+        "stop_name": "du Golf / No 10400"
+      },
+      {
+        "stop_id": "60390",
+        "stop_name": "Henri-Bourassa / du Golf"
+      },
+      {
+        "stop_id": "60212",
+        "stop_name": "Rodolphe-Forget / Henri-Bourassa"
+      },
+      {
+        "stop_id": "60213",
+        "stop_name": "Rodolphe-Forget / Robert-Armour"
+      },
+      {
+        "stop_id": "60435",
+        "stop_name": "Rodolphe-Forget / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "52378",
+        "stop_name": "Maurice-Duplessis / J.-J.-Joubert"
+      },
+      {
+        "stop_id": "53977",
+        "stop_name": "Maurice-Duplessis / Jean-Yves-Bigras"
+      },
+      {
+        "stop_id": "54061",
+        "stop_name": "Maurice-Duplessis / 54e Avenue"
+      },
+      {
+        "stop_id": "52655",
+        "stop_name": "Maurice-Duplessis / Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "54271",
+        "stop_name": "Maurice-Duplessis / 63e Avenue"
+      },
+      {
+        "stop_id": "61201",
+        "stop_name": "Maurice-Duplessis / No 10000"
+      },
+      {
+        "stop_id": "54313",
+        "stop_name": "Maurice-Duplessis / 71e Avenue"
+      }
+    ]
+  },
+  {
+    "direction": "Est via Maurice-Duplessis",
+    "arrets": [
+      {
+        "stop_id": "60236",
+        "stop_name": "Station Radisson (Sherbrooke / Des Groseilliers)"
+      },
+      {
+        "stop_id": "54048",
+        "stop_name": "Maurice-Duplessis / 6e Avenue"
+      },
+      {
+        "stop_id": "51553",
+        "stop_name": "Maurice-Duplessis / Pierre-Blanchet"
+      },
+      {
+        "stop_id": "51610",
+        "stop_name": "Maurice-Duplessis / Marc-Aurèle-Fortin"
+      },
+      {
+        "stop_id": "53928",
+        "stop_name": "Maurice-Duplessis / Fernand-Gauthier"
+      },
+      {
+        "stop_id": "51698",
+        "stop_name": "Maurice-Duplessis / La Valinière"
+      },
+      {
+        "stop_id": "51760",
+        "stop_name": "Maurice-Duplessis / No 7860"
+      },
+      {
+        "stop_id": "51811",
+        "stop_name": "Maurice-Duplessis / Armand-Bombardier"
+      },
+      {
+        "stop_id": "51849",
+        "stop_name": "Maurice-Duplessis / Clément-Ader"
+      },
+      {
+        "stop_id": "51907",
+        "stop_name": "Maurice-Duplessis / 27e Avenue"
+      },
+      {
+        "stop_id": "51994",
+        "stop_name": "Maurice-Duplessis / André-Dumas"
+      },
+      {
+        "stop_id": "52073",
+        "stop_name": "Maurice-Duplessis / Rita-Levi-Montalcini"
+      },
+      {
+        "stop_id": "52157",
+        "stop_name": "Maurice-Duplessis / Pierre-Baillargeon"
+      },
+      {
+        "stop_id": "52217",
+        "stop_name": "Maurice-Duplessis / 41e Avenue"
+      },
+      {
+        "stop_id": "52266",
+        "stop_name": "Maurice-Duplessis / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "52378",
+        "stop_name": "Maurice-Duplessis / J.-J.-Joubert"
+      },
+      {
+        "stop_id": "53977",
+        "stop_name": "Maurice-Duplessis / Jean-Yves-Bigras"
+      },
+      {
+        "stop_id": "54061",
+        "stop_name": "Maurice-Duplessis / 54e Avenue"
+      },
+      {
+        "stop_id": "52655",
+        "stop_name": "Maurice-Duplessis / Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "54271",
+        "stop_name": "Maurice-Duplessis / 63e Avenue"
+      },
+      {
+        "stop_id": "61201",
+        "stop_name": "Maurice-Duplessis / No 10000"
+      },
+      {
+        "stop_id": "54313",
+        "stop_name": "Maurice-Duplessis / 71e Avenue"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest via du Golf",
+    "arrets": [
+      {
+        "stop_id": "54313",
+        "stop_name": "Maurice-Duplessis / 71e Avenue"
+      },
+      {
+        "stop_id": "54270",
+        "stop_name": "Maurice-Duplessis / 62e Avenue"
+      },
+      {
+        "stop_id": "54397",
+        "stop_name": "Maurice-Duplessis / Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "54060",
+        "stop_name": "Maurice-Duplessis / 54e Avenue"
+      },
+      {
+        "stop_id": "54062",
+        "stop_name": "Maurice-Duplessis / Jean-Yves-Bigras"
+      },
+      {
+        "stop_id": "52379",
+        "stop_name": "Maurice-Duplessis / J.-J.-Joubert"
+      },
+      {
+        "stop_id": "60434",
+        "stop_name": "Rodolphe-Forget / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "60214",
+        "stop_name": "Rodolphe-Forget / Robert-Armour"
+      },
+      {
+        "stop_id": "60215",
+        "stop_name": "Rodolphe-Forget / Henri-Bourassa"
+      },
+      {
+        "stop_id": "54682",
+        "stop_name": "Henri-Bourassa / No 9050"
+      },
+      {
+        "stop_id": "54683",
+        "stop_name": "Henri-Bourassa / No 8601"
+      },
+      {
+        "stop_id": "60391",
+        "stop_name": "du Golf / Henri-Bourassa"
+      },
+      {
+        "stop_id": "60452",
+        "stop_name": "du Golf / No 10400"
+      },
+      {
+        "stop_id": "60216",
+        "stop_name": "du Golf / de l'Invention"
+      },
+      {
+        "stop_id": "60453",
+        "stop_name": "du Golf / No 9884"
+      },
+      {
+        "stop_id": "60217",
+        "stop_name": "du Golf / du Parcours"
+      },
+      {
+        "stop_id": "60218",
+        "stop_name": "du Parcours / de l'Innovation"
+      },
+      {
+        "stop_id": "60220",
+        "stop_name": "de l'Innovation / du Parcours"
+      },
+      {
+        "stop_id": "60221",
+        "stop_name": "de l'Innovation / des Sciences"
+      },
+      {
+        "stop_id": "60223",
+        "stop_name": "des Sciences / Ray-Lawson"
+      },
+      {
+        "stop_id": "54620",
+        "stop_name": "Roi-René / de Châteauneuf"
+      },
+      {
+        "stop_id": "60236",
+        "stop_name": "Station Radisson (Sherbrooke / Des Groseilliers)"
+      }
+    ]
+  }
+]

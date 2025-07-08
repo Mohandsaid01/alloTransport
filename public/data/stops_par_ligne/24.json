@@ -1,0 +1,457 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "52819",
+        "stop_name": "Montgomery / Sherbrooke"
+      },
+      {
+        "stop_id": "52811",
+        "stop_name": "Sherbrooke / Hogan"
+      },
+      {
+        "stop_id": "52771",
+        "stop_name": "Sherbrooke / Gascon"
+      },
+      {
+        "stop_id": "52766",
+        "stop_name": "Sherbrooke / D'Iberville"
+      },
+      {
+        "stop_id": "52741",
+        "stop_name": "Sherbrooke / Fullum"
+      },
+      {
+        "stop_id": "52735",
+        "stop_name": "Sherbrooke / Parthenais"
+      },
+      {
+        "stop_id": "52719",
+        "stop_name": "Sherbrooke / De Lorimier"
+      },
+      {
+        "stop_id": "52700",
+        "stop_name": "Sherbrooke / Dorion"
+      },
+      {
+        "stop_id": "52677",
+        "stop_name": "Sherbrooke / Émile-Duployé"
+      },
+      {
+        "stop_id": "52652",
+        "stop_name": "Sherbrooke / Plessis"
+      },
+      {
+        "stop_id": "52636",
+        "stop_name": "Sherbrooke / Cherrier"
+      },
+      {
+        "stop_id": "52590",
+        "stop_name": "Cherrier / du Parc-La Fontaine"
+      },
+      {
+        "stop_id": "52531",
+        "stop_name": "Cherrier / Saint-Hubert"
+      },
+      {
+        "stop_id": "52559",
+        "stop_name": "Station Sherbrooke (Édicule Ouest)"
+      },
+      {
+        "stop_id": "52569",
+        "stop_name": "Sherbrooke / Saint-Denis"
+      },
+      {
+        "stop_id": "52542",
+        "stop_name": "Sherbrooke / de l'Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "52509",
+        "stop_name": "Sherbrooke / Saint-Laurent"
+      },
+      {
+        "stop_id": "52487",
+        "stop_name": "Sherbrooke / Saint-Urbain"
+      },
+      {
+        "stop_id": "52458",
+        "stop_name": "Sherbrooke / Jeanne-Mance"
+      },
+      {
+        "stop_id": "52430",
+        "stop_name": "Sherbrooke / Hutchison"
+      },
+      {
+        "stop_id": "59314",
+        "stop_name": "Sherbrooke / Aylmer"
+      },
+      {
+        "stop_id": "52368",
+        "stop_name": "Sherbrooke / University"
+      },
+      {
+        "stop_id": "52314",
+        "stop_name": "Sherbrooke / Mansfield"
+      },
+      {
+        "stop_id": "52278",
+        "stop_name": "Sherbrooke / Peel"
+      },
+      {
+        "stop_id": "52203",
+        "stop_name": "Sherbrooke / de la Montagne"
+      },
+      {
+        "stop_id": "52166",
+        "stop_name": "Sherbrooke / Redpath"
+      },
+      {
+        "stop_id": "52114",
+        "stop_name": "Sherbrooke / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "52095",
+        "stop_name": "Sherbrooke / Saint-Mathieu"
+      },
+      {
+        "stop_id": "52065",
+        "stop_name": "Sherbrooke / Saint-Marc"
+      },
+      {
+        "stop_id": "52008",
+        "stop_name": "Sherbrooke / Chomedey"
+      },
+      {
+        "stop_id": "51950",
+        "stop_name": "Sherbrooke / Atwater"
+      },
+      {
+        "stop_id": "51952",
+        "stop_name": "Collège Dawson (Sherbrooke / No 3040)"
+      },
+      {
+        "stop_id": "56289",
+        "stop_name": "Sherbrooke / Wood"
+      },
+      {
+        "stop_id": "56285",
+        "stop_name": "Sherbrooke / Mount-Pleasant"
+      },
+      {
+        "stop_id": "56279",
+        "stop_name": "Sherbrooke / Kitchener"
+      },
+      {
+        "stop_id": "56277",
+        "stop_name": "Sherbrooke / Redfern"
+      },
+      {
+        "stop_id": "56273",
+        "stop_name": "Sherbrooke / Metcalfe"
+      },
+      {
+        "stop_id": "56266",
+        "stop_name": "Sherbrooke / Strathcona"
+      },
+      {
+        "stop_id": "56262",
+        "stop_name": "Sherbrooke / Lansdowne"
+      },
+      {
+        "stop_id": "56256",
+        "stop_name": "Sherbrooke / Victoria"
+      },
+      {
+        "stop_id": "56251",
+        "stop_name": "Sherbrooke / Claremont"
+      },
+      {
+        "stop_id": "51495",
+        "stop_name": "Sherbrooke / de Vendôme"
+      },
+      {
+        "stop_id": "51461",
+        "stop_name": "Sherbrooke / Décarie"
+      },
+      {
+        "stop_id": "51370",
+        "stop_name": "Décarie / Côte-Saint-Antoine"
+      },
+      {
+        "stop_id": "51325",
+        "stop_name": "Décarie / Notre-Dame-de-Grâce"
+      },
+      {
+        "stop_id": "51280",
+        "stop_name": "Décarie / Duquette"
+      },
+      {
+        "stop_id": "51243",
+        "stop_name": "Station Villa-Maria (Décarie / de Monkland)"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest destination Station Sherbrooke",
+    "arrets": [
+      {
+        "stop_id": "52819",
+        "stop_name": "Montgomery / Sherbrooke"
+      },
+      {
+        "stop_id": "52811",
+        "stop_name": "Sherbrooke / Hogan"
+      },
+      {
+        "stop_id": "52771",
+        "stop_name": "Sherbrooke / Gascon"
+      },
+      {
+        "stop_id": "52766",
+        "stop_name": "Sherbrooke / D'Iberville"
+      },
+      {
+        "stop_id": "52741",
+        "stop_name": "Sherbrooke / Fullum"
+      },
+      {
+        "stop_id": "52735",
+        "stop_name": "Sherbrooke / Parthenais"
+      },
+      {
+        "stop_id": "52719",
+        "stop_name": "Sherbrooke / De Lorimier"
+      },
+      {
+        "stop_id": "52700",
+        "stop_name": "Sherbrooke / Dorion"
+      },
+      {
+        "stop_id": "52677",
+        "stop_name": "Sherbrooke / Émile-Duployé"
+      },
+      {
+        "stop_id": "52652",
+        "stop_name": "Sherbrooke / Plessis"
+      },
+      {
+        "stop_id": "52636",
+        "stop_name": "Sherbrooke / Cherrier"
+      },
+      {
+        "stop_id": "52590",
+        "stop_name": "Cherrier / du Parc-La Fontaine"
+      },
+      {
+        "stop_id": "52531",
+        "stop_name": "Cherrier / Saint-Hubert"
+      },
+      {
+        "stop_id": "52559",
+        "stop_name": "Station Sherbrooke (Édicule Ouest)"
+      },
+      {
+        "stop_id": "50123",
+        "stop_name": "Sherbrooke / du Parc-La-Fontaine"
+      },
+      {
+        "stop_id": "52508",
+        "stop_name": "Station Sherbrooke (Édicule Est )"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "52508",
+        "stop_name": "Station Sherbrooke (Édicule Est )"
+      },
+      {
+        "stop_id": "52532",
+        "stop_name": "Cherrier / Saint-Hubert"
+      },
+      {
+        "stop_id": "52592",
+        "stop_name": "Cherrier / du Parc-La-Fontaine"
+      },
+      {
+        "stop_id": "52647",
+        "stop_name": "Sherbrooke / Panet"
+      },
+      {
+        "stop_id": "52653",
+        "stop_name": "Sherbrooke / Plessis"
+      },
+      {
+        "stop_id": "54019",
+        "stop_name": "Sherbrooke / De Champlain (Hôpital Notre-Dame)"
+      },
+      {
+        "stop_id": "52683",
+        "stop_name": "Sherbrooke / Papineau"
+      },
+      {
+        "stop_id": "52701",
+        "stop_name": "Sherbrooke / Dorion"
+      },
+      {
+        "stop_id": "52720",
+        "stop_name": "Sherbrooke / De Lorimier"
+      },
+      {
+        "stop_id": "52737",
+        "stop_name": "Sherbrooke / Parthenais"
+      },
+      {
+        "stop_id": "52742",
+        "stop_name": "Sherbrooke / Fullum"
+      },
+      {
+        "stop_id": "52765",
+        "stop_name": "Sherbrooke / D'Iberville"
+      },
+      {
+        "stop_id": "52772",
+        "stop_name": "Sherbrooke / Gascon"
+      },
+      {
+        "stop_id": "52756",
+        "stop_name": "Rachel / Montgomery"
+      },
+      {
+        "stop_id": "52819",
+        "stop_name": "Montgomery / Sherbrooke"
+      },
+      {
+        "stop_id": "51241",
+        "stop_name": "Station Villa-Maria"
+      },
+      {
+        "stop_id": "51281",
+        "stop_name": "Décarie / Duquette"
+      },
+      {
+        "stop_id": "51326",
+        "stop_name": "Décarie / Notre-Dame-de-Grâce"
+      },
+      {
+        "stop_id": "51372",
+        "stop_name": "Décarie / Côte-Saint-Antoine"
+      },
+      {
+        "stop_id": "51462",
+        "stop_name": "Décarie / Sherbrooke"
+      },
+      {
+        "stop_id": "51496",
+        "stop_name": "Sherbrooke / de Vendôme"
+      },
+      {
+        "stop_id": "56253",
+        "stop_name": "Sherbrooke / Claremont"
+      },
+      {
+        "stop_id": "56258",
+        "stop_name": "Sherbrooke / Grosvenor"
+      },
+      {
+        "stop_id": "56263",
+        "stop_name": "Sherbrooke / Arlington"
+      },
+      {
+        "stop_id": "56267",
+        "stop_name": "Sherbrooke / Strathcona"
+      },
+      {
+        "stop_id": "56274",
+        "stop_name": "Sherbrooke / Metcalfe"
+      },
+      {
+        "stop_id": "56278",
+        "stop_name": "Sherbrooke / Redfern"
+      },
+      {
+        "stop_id": "56281",
+        "stop_name": "Sherbrooke / Clarke"
+      },
+      {
+        "stop_id": "56286",
+        "stop_name": "Sherbrooke / Greene"
+      },
+      {
+        "stop_id": "56290",
+        "stop_name": "Sherbrooke / Wood"
+      },
+      {
+        "stop_id": "51951",
+        "stop_name": "Sherbrooke / Atwater"
+      },
+      {
+        "stop_id": "52009",
+        "stop_name": "Sherbrooke / Chomedey"
+      },
+      {
+        "stop_id": "52066",
+        "stop_name": "Sherbrooke / Saint-Marc"
+      },
+      {
+        "stop_id": "52097",
+        "stop_name": "Sherbrooke / Saint-Mathieu"
+      },
+      {
+        "stop_id": "52115",
+        "stop_name": "Sherbrooke / Guy"
+      },
+      {
+        "stop_id": "52167",
+        "stop_name": "Sherbrooke / Bishop"
+      },
+      {
+        "stop_id": "52204",
+        "stop_name": "Sherbrooke / de la Montagne"
+      },
+      {
+        "stop_id": "52277",
+        "stop_name": "Sherbrooke / Peel"
+      },
+      {
+        "stop_id": "52335",
+        "stop_name": "Université McGill (Sherbrooke / McGill College)"
+      },
+      {
+        "stop_id": "52369",
+        "stop_name": "Sherbrooke / Robert-Bourassa"
+      },
+      {
+        "stop_id": "52409",
+        "stop_name": "Sherbrooke / Aylmer"
+      },
+      {
+        "stop_id": "52444",
+        "stop_name": "Sherbrooke / De Bleury"
+      },
+      {
+        "stop_id": "52459",
+        "stop_name": "Sherbrooke / Jeanne-Mance"
+      },
+      {
+        "stop_id": "52488",
+        "stop_name": "Sherbrooke / Saint-Urbain"
+      },
+      {
+        "stop_id": "52510",
+        "stop_name": "Sherbrooke / Saint-Laurent"
+      },
+      {
+        "stop_id": "52543",
+        "stop_name": "Sherbrooke / de l'Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "52570",
+        "stop_name": "Sherbrooke / Saint-Denis"
+      }
+    ]
+  }
+]

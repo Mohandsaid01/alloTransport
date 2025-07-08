@@ -1,0 +1,425 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54200",
+        "stop_name": "Station Viau"
+      },
+      {
+        "stop_id": "53117",
+        "stop_name": "Pierre-De Coubertin / Viau"
+      },
+      {
+        "stop_id": "61588",
+        "stop_name": "Viau / Hochelaga"
+      },
+      {
+        "stop_id": "61589",
+        "stop_name": "Viau / de Rouen"
+      },
+      {
+        "stop_id": "61590",
+        "stop_name": "Viau / Ontario"
+      },
+      {
+        "stop_id": "53245",
+        "stop_name": "Ontario / Leclaire"
+      },
+      {
+        "stop_id": "53231",
+        "stop_name": "Ontario / Bennett"
+      },
+      {
+        "stop_id": "54213",
+        "stop_name": "Ontario / William-David"
+      },
+      {
+        "stop_id": "53216",
+        "stop_name": "Ontario / Letourneux"
+      },
+      {
+        "stop_id": "53189",
+        "stop_name": "Ontario / Pie-IX"
+      },
+      {
+        "stop_id": "53169",
+        "stop_name": "Ontario / d'Orléans"
+      },
+      {
+        "stop_id": "53154",
+        "stop_name": "Place Simon-Valois (Ontario / Valois)"
+      },
+      {
+        "stop_id": "53140",
+        "stop_name": "Ontario / De Chambly"
+      },
+      {
+        "stop_id": "53122",
+        "stop_name": "Ontario / Aylwin"
+      },
+      {
+        "stop_id": "53113",
+        "stop_name": "Ontario / Davidson"
+      },
+      {
+        "stop_id": "53108",
+        "stop_name": "Ontario / Saint-Germain"
+      },
+      {
+        "stop_id": "53089",
+        "stop_name": "Ontario / Moreau"
+      },
+      {
+        "stop_id": "61355",
+        "stop_name": "Ontario / Lespérance"
+      },
+      {
+        "stop_id": "53058",
+        "stop_name": "Ontario / Wurtele"
+      },
+      {
+        "stop_id": "53027",
+        "stop_name": "Ontario / Bercy"
+      },
+      {
+        "stop_id": "53007",
+        "stop_name": "Station Frontenac (Ontario / Frontenac)"
+      },
+      {
+        "stop_id": "52993",
+        "stop_name": "Ontario / Dufresne"
+      },
+      {
+        "stop_id": "52964",
+        "stop_name": "Ontario / Fullum"
+      },
+      {
+        "stop_id": "52935",
+        "stop_name": "Ontario / Parthenais"
+      },
+      {
+        "stop_id": "52896",
+        "stop_name": "Ontario / De Lorimier"
+      },
+      {
+        "stop_id": "52868",
+        "stop_name": "Ontario / Dorion"
+      },
+      {
+        "stop_id": "52841",
+        "stop_name": "Ontario / Papineau"
+      },
+      {
+        "stop_id": "52820",
+        "stop_name": "Ontario / De Champlain"
+      },
+      {
+        "stop_id": "52808",
+        "stop_name": "Ontario / Alexandre-DeSève"
+      },
+      {
+        "stop_id": "52762",
+        "stop_name": "Ontario / de la Visitation"
+      },
+      {
+        "stop_id": "52729",
+        "stop_name": "Ontario / Atateken"
+      },
+      {
+        "stop_id": "52680",
+        "stop_name": "Ontario / Saint-Hubert"
+      },
+      {
+        "stop_id": "52663",
+        "stop_name": "Ontario / Berri"
+      },
+      {
+        "stop_id": "52645",
+        "stop_name": "Ontario / Saint-Denis"
+      },
+      {
+        "stop_id": "52629",
+        "stop_name": "Cégep du Vieux-Montréal (Ontario / Hôtel-de-ville)"
+      },
+      {
+        "stop_id": "52611",
+        "stop_name": "Ontario / Saint-Laurent"
+      },
+      {
+        "stop_id": "52580",
+        "stop_name": "Ontario / Saint-Urbain"
+      },
+      {
+        "stop_id": "52540",
+        "stop_name": "Station Place-des-Arts"
+      },
+      {
+        "stop_id": "52516",
+        "stop_name": "Station Place-des-Arts (Président-Kennedy / De Ble"
+      },
+      {
+        "stop_id": "52438",
+        "stop_name": "du Président-Kennedy / Aylmer"
+      },
+      {
+        "stop_id": "52433",
+        "stop_name": "Station McGill (De Maisonneuve / Robert-Bourassa)"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "52433",
+        "stop_name": "Station McGill (De Maisonneuve / Robert-Bourassa)"
+      },
+      {
+        "stop_id": "52439",
+        "stop_name": "du Président-Kennedy / Aylmer"
+      },
+      {
+        "stop_id": "52517",
+        "stop_name": "Station Place-des-Arts (Pr.-Kennedy/Bleury)"
+      },
+      {
+        "stop_id": "61049",
+        "stop_name": "Jeanne-Mance / du Président-Kennedy"
+      },
+      {
+        "stop_id": "52488",
+        "stop_name": "Sherbrooke / Saint-Urbain"
+      },
+      {
+        "stop_id": "52630",
+        "stop_name": "Ontario / de l'Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "52646",
+        "stop_name": "Ontario / Saint-Denis"
+      },
+      {
+        "stop_id": "52664",
+        "stop_name": "Ontario / Berri"
+      },
+      {
+        "stop_id": "52681",
+        "stop_name": "Ontario / Saint-Hubert"
+      },
+      {
+        "stop_id": "52731",
+        "stop_name": "Ontario / Atateken"
+      },
+      {
+        "stop_id": "52763",
+        "stop_name": "Ontario / de la Visitation"
+      },
+      {
+        "stop_id": "52809",
+        "stop_name": "Ontario / Alexandre-DeSève"
+      },
+      {
+        "stop_id": "52821",
+        "stop_name": "Ontario / De Champlain"
+      },
+      {
+        "stop_id": "52843",
+        "stop_name": "Ontario / Papineau"
+      },
+      {
+        "stop_id": "52869",
+        "stop_name": "Parc des Faubourgs (Ontario/Dorion)"
+      },
+      {
+        "stop_id": "52897",
+        "stop_name": "Ontario / De Lorimier"
+      },
+      {
+        "stop_id": "52937",
+        "stop_name": "Ontario / Parthenais"
+      },
+      {
+        "stop_id": "52965",
+        "stop_name": "Ontario / Fullum"
+      },
+      {
+        "stop_id": "52994",
+        "stop_name": "Ontario / Dufresne"
+      },
+      {
+        "stop_id": "53015",
+        "stop_name": "Station Frontenac (Ontario / du Havre)"
+      },
+      {
+        "stop_id": "53028",
+        "stop_name": "Ontario / Bercy"
+      },
+      {
+        "stop_id": "53059",
+        "stop_name": "Ontario / Wurtele"
+      },
+      {
+        "stop_id": "61359",
+        "stop_name": "Ontario / Lespérance"
+      },
+      {
+        "stop_id": "54091",
+        "stop_name": "Ontario / Préfontaine"
+      },
+      {
+        "stop_id": "53109",
+        "stop_name": "Place des Tisserandes (Ontario / Saint-Germain)"
+      },
+      {
+        "stop_id": "53115",
+        "stop_name": "Ontario / Davidson"
+      },
+      {
+        "stop_id": "53123",
+        "stop_name": "Ontario / Aylwin"
+      },
+      {
+        "stop_id": "53141",
+        "stop_name": "Ontario / De Chambly"
+      },
+      {
+        "stop_id": "53155",
+        "stop_name": "Ontario / Valois"
+      },
+      {
+        "stop_id": "53170",
+        "stop_name": "Ontario / d'Orléans"
+      },
+      {
+        "stop_id": "53191",
+        "stop_name": "Ontario / Pie-IX"
+      },
+      {
+        "stop_id": "53217",
+        "stop_name": "Ontario / Letourneux"
+      },
+      {
+        "stop_id": "54214",
+        "stop_name": "Ontario / William-David"
+      },
+      {
+        "stop_id": "54309",
+        "stop_name": "Ontario / Aird"
+      },
+      {
+        "stop_id": "53246",
+        "stop_name": "Ontario / Leclaire"
+      },
+      {
+        "stop_id": "53262",
+        "stop_name": "Ontario / Saint-Clément"
+      },
+      {
+        "stop_id": "53274",
+        "stop_name": "Viau / Ontario"
+      },
+      {
+        "stop_id": "53223",
+        "stop_name": "Viau / de Rouen"
+      },
+      {
+        "stop_id": "53166",
+        "stop_name": "Viau / Hochelaga"
+      },
+      {
+        "stop_id": "54200",
+        "stop_name": "Station Viau"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest destination Station Frontenac",
+    "arrets": [
+      {
+        "stop_id": "54200",
+        "stop_name": "Station Viau"
+      },
+      {
+        "stop_id": "53117",
+        "stop_name": "Pierre-De Coubertin / Viau"
+      },
+      {
+        "stop_id": "61588",
+        "stop_name": "Viau / Hochelaga"
+      },
+      {
+        "stop_id": "61589",
+        "stop_name": "Viau / de Rouen"
+      },
+      {
+        "stop_id": "61590",
+        "stop_name": "Viau / Ontario"
+      },
+      {
+        "stop_id": "53245",
+        "stop_name": "Ontario / Leclaire"
+      },
+      {
+        "stop_id": "53231",
+        "stop_name": "Ontario / Bennett"
+      },
+      {
+        "stop_id": "54213",
+        "stop_name": "Ontario / William-David"
+      },
+      {
+        "stop_id": "53216",
+        "stop_name": "Ontario / Letourneux"
+      },
+      {
+        "stop_id": "53189",
+        "stop_name": "Ontario / Pie-IX"
+      },
+      {
+        "stop_id": "53169",
+        "stop_name": "Ontario / d'Orléans"
+      },
+      {
+        "stop_id": "53154",
+        "stop_name": "Place Simon-Valois (Ontario / Valois)"
+      },
+      {
+        "stop_id": "53140",
+        "stop_name": "Ontario / De Chambly"
+      },
+      {
+        "stop_id": "53122",
+        "stop_name": "Ontario / Aylwin"
+      },
+      {
+        "stop_id": "53113",
+        "stop_name": "Ontario / Davidson"
+      },
+      {
+        "stop_id": "53108",
+        "stop_name": "Ontario / Saint-Germain"
+      },
+      {
+        "stop_id": "53089",
+        "stop_name": "Ontario / Moreau"
+      },
+      {
+        "stop_id": "61355",
+        "stop_name": "Ontario / Lespérance"
+      },
+      {
+        "stop_id": "53058",
+        "stop_name": "Ontario / Wurtele"
+      },
+      {
+        "stop_id": "53027",
+        "stop_name": "Ontario / Bercy"
+      },
+      {
+        "stop_id": "53016",
+        "stop_name": "Station Frontenac (du Havre / Ontario)"
+      }
+    ]
+  }
+]

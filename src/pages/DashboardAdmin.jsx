@@ -3,24 +3,25 @@ import React, { useState, useContext, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { AuthContext } from '../auth/AuthContext';
 import './DashboardAdmin.css';
+import { FaEdit, FaTrash, FaSave, FaTimes } from 'react-icons/fa';
 
 const DashboardAdmin = () => {
   const [activeSection, setActiveSection] = useState('overview');
   const [users, setUsers] = useState([]);
   const [reports, setReports] = useState([]);
   const [loading, setLoading] = useState(false);
-  
+  const [editingUserId, setEditingUserId] = useState(null);
+  const [editedUser, setEditedUser] = useState({});
+
   const { user, logout } = useContext(AuthContext);
   const navigate = useNavigate();
 
-  // Vérifier si l'utilisateur est admin
   useEffect(() => {
     if (!user || user.role !== 'admin') {
       navigate('/connexion');
     }
   }, [user, navigate]);
 
-  // Charger les utilisateurs
   const loadUsers = async () => {
     setLoading(true);
     try {
@@ -36,11 +37,79 @@ const DashboardAdmin = () => {
     }
   };
 
-  useEffect(() => {
-    if (activeSection === 'users') {
-      loadUsers();
+  const loadReports = async () => {
+    setLoading(true);
+    try {
+      const response = await fetch('http://127.0.0.1:8000/api/incidents');
+      if (response.ok) {
+        const data = await response.json();
+        setReports(data);
+      }
+    } catch (error) {
+      console.error('Erreur chargement incidents:', error);
+    } finally {
+      setLoading(false);
     }
+  };
+
+  useEffect(() => {
+    if (activeSection === 'users') loadUsers();
+    if (activeSection === 'reports') loadReports();
   }, [activeSection]);
+
+  const handleEditClick = (user) => {
+    setEditingUserId(user.id);
+    setEditedUser({ ...user });
+  };
+
+  const handleCancelEdit = () => {
+    setEditingUserId(null);
+    setEditedUser({});
+  };
+
+  const handleChange = (field, value) => {
+    setEditedUser(prev => ({ ...prev, [field]: value }));
+  };
+
+  const handleSaveEdit = async () => {
+    try {
+      const response = await fetch(`http://127.0.0.1:8000/api/clients/${editingUserId}`, {
+        method: 'PUT',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(editedUser),
+      });
+      if (response.ok) {
+        alert('Utilisateur mis à jour avec succès');
+        setEditingUserId(null);
+        loadUsers();
+      } else {
+        alert('Erreur de modification');
+      }
+    } catch (error) {
+      console.error(error);
+      alert('Erreur réseau');
+    }
+  };
+
+  const handleDelete = async (id) => {
+    if (window.confirm('Supprimer cet utilisateur ?')) {
+      try {
+        const response = await fetch(`http://127.0.0.1:8000/api/clients/${id}`, {
+          method: 'DELETE',
+        });
+        if (response.ok) {
+          loadUsers();
+        } else {
+          alert("Erreur lors de la suppression");
+        }
+      } catch (error) {
+        console.error(error);
+        alert("Erreur réseau");
+      }
+    }
+  };
 
   const handleLogout = () => {
     logout();
@@ -48,15 +117,15 @@ const DashboardAdmin = () => {
   };
 
   const menuItems = [
-    { id: 'overview', label: 'Vue d\'ensemble' },
+    { id: 'overview', label: "Vue d'ensemble" },
     { id: 'users', label: 'Gestion des utilisateurs' },
-    { id: 'reports', label: 'Rapports d\'incidents' },
+    { id: 'reports', label: "Rapports d'incidents" },
     { id: 'finances', label: 'Finances' },
-    { id: 'system', label: 'Configuration système' }
+    { id: 'system', label: 'Configuration système' },
   ];
 
   const renderContent = () => {
-    switch(activeSection) {
+    switch (activeSection) {
       case 'overview':
         return (
           <div className="content-section">
@@ -67,16 +136,16 @@ const DashboardAdmin = () => {
                 <div className="stat-value">{users.length}</div>
               </div>
               <div className="stat-card">
-                <h3>Transactions aujourd'hui</h3>
-                <div className="stat-value">--</div>
-              </div>
-              <div className="stat-card">
-                <h3>Incidents ouverts</h3>
-                <div className="stat-value">--</div>
+                <h3>Rapports d'incidents</h3>
+                <div className="stat-value">{reports.length}</div>
               </div>
               <div className="stat-card">
                 <h3>Revenus du mois</h3>
                 <div className="stat-value">-- $</div>
+              </div>
+              <div className="stat-card">
+                <h3>Cartes actives</h3>
+                <div className="stat-value">--</div>
               </div>
             </div>
           </div>
@@ -86,9 +155,7 @@ const DashboardAdmin = () => {
           <div className="content-section">
             <h2>Gestion des utilisateurs</h2>
             <div className="section-actions">
-              <button className="btn-primary" onClick={loadUsers}>
-                Actualiser la liste
-              </button>
+              <button className="btn-primary" onClick={loadUsers}>Actualiser la liste</button>
               <button className="btn-secondary">Exporter la liste</button>
             </div>
             <div className="table-container">
@@ -104,30 +171,40 @@ const DashboardAdmin = () => {
                 </thead>
                 <tbody>
                   {loading ? (
-                    <tr>
-                      <td colSpan="5" className="no-data">Chargement...</td>
-                    </tr>
+                    <tr><td colSpan="5" className="no-data">Chargement...</td></tr>
                   ) : users.length > 0 ? (
-                    users.map(user => (
-                      <tr key={user.id}>
-                        <td>{user.prenom} {user.nom}</td>
-                        <td>{user.email}</td>
+                    users.map(u => (
+                      <tr key={u.id}>
                         <td>
-                          <span className={`role-badge ${user.role}`}>
-                            {user.role}
-                          </span>
+                          {editingUserId === u.id ? (
+                            <>
+                              <input value={editedUser.prenom || ''} onChange={(e) => handleChange('prenom', e.target.value)} placeholder="Prénom" />
+                              <input value={editedUser.nom || ''} onChange={(e) => handleChange('nom', e.target.value)} placeholder="Nom" />
+                            </>
+                          ) : `${u.prenom} ${u.nom}`}
                         </td>
-                        <td>{user.carte_opus || 'Aucune'}</td>
+                        <td>{editingUserId === u.id ? (
+                          <input value={editedUser.email || ''} onChange={(e) => handleChange('email', e.target.value)} />
+                        ) : u.email}</td>
+                        <td><span className={`role-badge ${u.role}`}>{u.role}</span></td>
+                        <td>{u.carte_opus || 'Aucune'}</td>
                         <td>
-                          <button className="btn-action edit">Modifier</button>
-                          <button className="btn-action delete">Supprimer</button>
+                          {editingUserId === u.id ? (
+                            <>
+                              <button className="btn-action edit" onClick={handleSaveEdit}><FaSave /> Sauvegarder</button>
+                              <button className="btn-action delete" onClick={handleCancelEdit}><FaTimes /> Annuler</button>
+                            </>
+                          ) : (
+                            <>
+                              <button className="btn-action edit" onClick={() => handleEditClick(u)}><FaEdit /> Modifier</button>
+                              <button className="btn-action delete" onClick={() => handleDelete(u.id)}><FaTrash /> Supprimer</button>
+                            </>
+                          )}
                         </td>
                       </tr>
                     ))
                   ) : (
-                    <tr>
-                      <td colSpan="5" className="no-data">Aucun utilisateur trouvé</td>
-                    </tr>
+                    <tr><td colSpan="5" className="no-data">Aucun utilisateur trouvé</td></tr>
                   )}
                 </tbody>
               </table>
@@ -138,29 +215,27 @@ const DashboardAdmin = () => {
         return (
           <div className="content-section">
             <h2>Rapports d'incidents</h2>
-            <div className="filter-bar">
-              <select className="filter-select">
-                <option>Tous les statuts</option>
-                <option>En attente</option>
-                <option>En cours</option>
-                <option>Résolu</option>
-              </select>
-              <select className="filter-select">
-                <option>Toutes les lignes</option>
-                <option>Ligne verte</option>
-                <option>Ligne orange</option>
-                <option>Ligne bleue</option>
-              </select>
-            </div>
             <div className="reports-grid">
-              <div className="report-card">
-                <div className="report-header">
-                  <span className="report-status pending">En attente</span>
-                  <span className="report-date">--</span>
-                </div>
-                <h4>Aucun incident signalé</h4>
-                <p>Aucun rapport d'incident disponible pour le moment</p>
-              </div>
+              {loading ? (
+                <p>Chargement...</p>
+              ) : reports.length > 0 ? (
+                reports.map(r => (
+                  <div key={r.id} className="report-card">
+                    <div className="report-header">
+                      <span className={`report-status ${r.gravite.toLowerCase()}`}>{r.gravite}</span>
+                      <span className="report-date">{r.date_created || '--'}</span>
+                    </div>
+                    <h4>{r.type_incident}</h4>
+                    <p><strong>Ligne :</strong> {r.ligne}</p>
+                    <p><strong>Lieu :</strong> {r.station}</p>
+                    <p>{r.description}</p>
+                    <p><em>{r.email ? `Email: ${r.email}` : "Rapport anonyme"}</em></p>
+
+                  </div>
+                ))
+              ) : (
+                <p>Aucun incident signalé</p>
+              )}
             </div>
           </div>
         );
@@ -203,34 +278,28 @@ const DashboardAdmin = () => {
           </div>
         );
       default:
-        return <div>Section non trouvée</div>;
+        return <div className="content-section">Section inconnue</div>;
     }
   };
 
-  if (!user) {
-    return <div>Chargement...</div>;
-  }
+  if (!user) return <div>Chargement...</div>;
 
   return (
     <div className="dashboard-admin">
       <header className="dashboard-header">
         <h1>Dashboard Administrateur</h1>
         <div className="header-actions">
-          <span className="user-info">
-            {user.prenom} {user.nom} - {user.role}
-          </span>
-          <button className="btn-logout" onClick={handleLogout}>
-            Déconnexion
-          </button>
+          <span className="user-info">{user.prenom} {user.nom} - {user.role}</span>
+          <button className="btn-logout" onClick={handleLogout}>Déconnexion</button>
         </div>
       </header>
-      
+
       <div className="dashboard-content">
         <nav className="sidebar">
           <ul className="nav-menu">
             {menuItems.map(item => (
               <li key={item.id}>
-                <button 
+                <button
                   className={`nav-item ${activeSection === item.id ? 'active' : ''}`}
                   onClick={() => setActiveSection(item.id)}
                 >
@@ -240,10 +309,8 @@ const DashboardAdmin = () => {
             ))}
           </ul>
         </nav>
-        
-        <main className="main-content">
-          {renderContent()}
-        </main>
+
+        <main className="main-content">{renderContent()}</main>
       </div>
     </div>
   );

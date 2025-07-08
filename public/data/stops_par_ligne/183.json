@@ -1,0 +1,224 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "53999",
+        "stop_name": "Terminus Sherbrooke / Gouin"
+      },
+      {
+        "stop_id": "60183",
+        "stop_name": "Gouin / Pierre-Mercure"
+      },
+      {
+        "stop_id": "53578",
+        "stop_name": "Gouin / 134e Avenue"
+      },
+      {
+        "stop_id": "53541",
+        "stop_name": "Gouin / 132e Avenue"
+      },
+      {
+        "stop_id": "53916",
+        "stop_name": "Gouin / No 13200"
+      },
+      {
+        "stop_id": "53973",
+        "stop_name": "Gouin / No 12980"
+      },
+      {
+        "stop_id": "53914",
+        "stop_name": "Collège Saint-Jean-Vianney (Gouin / No 12630)"
+      },
+      {
+        "stop_id": "53910",
+        "stop_name": "Gouin / No 12140"
+      },
+      {
+        "stop_id": "53909",
+        "stop_name": "Gouin / No 12050"
+      },
+      {
+        "stop_id": "53280",
+        "stop_name": "Gouin / 101e Avenue"
+      },
+      {
+        "stop_id": "53199",
+        "stop_name": "Gouin / 94e Avenue"
+      },
+      {
+        "stop_id": "53158",
+        "stop_name": "Gouin / 89e Avenue"
+      },
+      {
+        "stop_id": "53132",
+        "stop_name": "87e Avenue / Perras"
+      },
+      {
+        "stop_id": "53091",
+        "stop_name": "Perras / No 10950"
+      },
+      {
+        "stop_id": "60324",
+        "stop_name": "Perras / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "53060",
+        "stop_name": "Saint-Jean-Baptiste / Émilie-Du Châtelet"
+      },
+      {
+        "stop_id": "53686",
+        "stop_name": "Saint-Jean-Baptiste / No 12120"
+      },
+      {
+        "stop_id": "54371",
+        "stop_name": "Saint-Jean-Baptiste / No 12060"
+      },
+      {
+        "stop_id": "58878",
+        "stop_name": "Saint-Jean-Baptiste / Henri-Bourassa"
+      },
+      {
+        "stop_id": "53382",
+        "stop_name": "Industriel / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "53390",
+        "stop_name": "Industriel / Jean-Viel"
+      },
+      {
+        "stop_id": "53759",
+        "stop_name": "Industriel / Dollard-Desjardins"
+      },
+      {
+        "stop_id": "53687",
+        "stop_name": "Industriel / Jean-Sicard"
+      },
+      {
+        "stop_id": "53406",
+        "stop_name": "Industriel / du Tricentenaire"
+      },
+      {
+        "stop_id": "61734",
+        "stop_name": "Robert-Chevalier / Sherbrooke"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "61734",
+        "stop_name": "Robert-Chevalier / Sherbrooke"
+      },
+      {
+        "stop_id": "53456",
+        "stop_name": "Sherbrooke / du Tricentenaire"
+      },
+      {
+        "stop_id": "54250",
+        "stop_name": "du Tricentenaire / April"
+      },
+      {
+        "stop_id": "54251",
+        "stop_name": "Industriel / Jean-Sicard"
+      },
+      {
+        "stop_id": "53885",
+        "stop_name": "Industriel / Dollard-Desjardins"
+      },
+      {
+        "stop_id": "53389",
+        "stop_name": "Industriel / Jean-Viel"
+      },
+      {
+        "stop_id": "53381",
+        "stop_name": "Industriel / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "53777",
+        "stop_name": "Saint-Jean-Baptiste / Urgel-Charbonneau"
+      },
+      {
+        "stop_id": "61733",
+        "stop_name": "Saint-Jean-Baptiste / Henri-Bourassa"
+      },
+      {
+        "stop_id": "60317",
+        "stop_name": "Saint-Jean-Baptiste / No 12045"
+      },
+      {
+        "stop_id": "60319",
+        "stop_name": "Saint-Jean-Baptiste / Cité des Prairies"
+      },
+      {
+        "stop_id": "60320",
+        "stop_name": "Saint-Jean-Baptiste / Émilie-Du Châtelet"
+      },
+      {
+        "stop_id": "60323",
+        "stop_name": "Saint-Jean-Baptiste / Perras"
+      },
+      {
+        "stop_id": "60395",
+        "stop_name": "Perras / No 10955"
+      },
+      {
+        "stop_id": "53124",
+        "stop_name": "87e Avenue / Gouin"
+      },
+      {
+        "stop_id": "53159",
+        "stop_name": "Gouin / 89e Avenue"
+      },
+      {
+        "stop_id": "53200",
+        "stop_name": "Gouin / 94e Avenue"
+      },
+      {
+        "stop_id": "53907",
+        "stop_name": "Gouin / 101e Avenue"
+      },
+      {
+        "stop_id": "53908",
+        "stop_name": "Gouin / No 12050"
+      },
+      {
+        "stop_id": "53326",
+        "stop_name": "Gouin / No 12140"
+      },
+      {
+        "stop_id": "53913",
+        "stop_name": "Collège Saint-Jean-Vianney (Gouin / No 12630)"
+      },
+      {
+        "stop_id": "53437",
+        "stop_name": "Gouin / No 12980"
+      },
+      {
+        "stop_id": "53915",
+        "stop_name": "Gouin / No 13200"
+      },
+      {
+        "stop_id": "54056",
+        "stop_name": "Gouin / No 13300"
+      },
+      {
+        "stop_id": "53542",
+        "stop_name": "Gouin / 132e Avenue"
+      },
+      {
+        "stop_id": "53577",
+        "stop_name": "Gouin / 134e Avenue"
+      },
+      {
+        "stop_id": "60182",
+        "stop_name": "Gouin / No 16810"
+      },
+      {
+        "stop_id": "53999",
+        "stop_name": "Terminus Sherbrooke / Gouin"
+      }
+    ]
+  }
+]

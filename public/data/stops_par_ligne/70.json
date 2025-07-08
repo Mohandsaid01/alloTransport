@@ -1,0 +1,325 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "60292",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "55594",
+        "stop_name": "Côte-Vertu / Leduc"
+      },
+      {
+        "stop_id": "60460",
+        "stop_name": "Lucien-Thimens / Marcel-Laurin"
+      },
+      {
+        "stop_id": "61111",
+        "stop_name": "Lucien-Thimens / Alexis-Nihon"
+      },
+      {
+        "stop_id": "59640",
+        "stop_name": "Alexis-Nihon / du Périgord"
+      },
+      {
+        "stop_id": "55973",
+        "stop_name": "Alexis-Nihon / de l'Everest"
+      },
+      {
+        "stop_id": "55971",
+        "stop_name": "Alexis-Nihon / Robert-Peary"
+      },
+      {
+        "stop_id": "55969",
+        "stop_name": "Alexis-Nihon / des Harfangs"
+      },
+      {
+        "stop_id": "55967",
+        "stop_name": "Alexis-Nihon / Charles-Darwin"
+      },
+      {
+        "stop_id": "59629",
+        "stop_name": "Square Nelligan"
+      },
+      {
+        "stop_id": "59630",
+        "stop_name": "des Nations / Alexis-Nihon"
+      },
+      {
+        "stop_id": "59632",
+        "stop_name": "des Nations / Ernest-Hemingway"
+      },
+      {
+        "stop_id": "60560",
+        "stop_name": "Poirier / des Harfangs"
+      },
+      {
+        "stop_id": "60561",
+        "stop_name": "Poirier / Cavendish"
+      },
+      {
+        "stop_id": "60563",
+        "stop_name": "Raymond-Lasnier / Cavendish"
+      },
+      {
+        "stop_id": "60594",
+        "stop_name": "Raymond-Lasnier / Beaulac"
+      },
+      {
+        "stop_id": "60565",
+        "stop_name": "Raymond-Lasnier / Émile-Bélanger"
+      },
+      {
+        "stop_id": "60568",
+        "stop_name": "Émile-Bélanger / Poirier"
+      },
+      {
+        "stop_id": "60570",
+        "stop_name": "Beaulac / Poirier"
+      },
+      {
+        "stop_id": "60572",
+        "stop_name": "Beaulac / Thimens"
+      },
+      {
+        "stop_id": "60574",
+        "stop_name": "Bégin / Poirier"
+      },
+      {
+        "stop_id": "55799",
+        "stop_name": "Poirier / Thimens"
+      },
+      {
+        "stop_id": "55787",
+        "stop_name": "Poirier / Cohen"
+      },
+      {
+        "stop_id": "60686",
+        "stop_name": "Poirier / Transcanadienne"
+      },
+      {
+        "stop_id": "55995",
+        "stop_name": "Transcanadienne / No 8401"
+      },
+      {
+        "stop_id": "55993",
+        "stop_name": "Transcanadienne / No 8555"
+      },
+      {
+        "stop_id": "55376",
+        "stop_name": "Transcanadienne / No 8625"
+      },
+      {
+        "stop_id": "55373",
+        "stop_name": "Transcanadienne / No 8885"
+      },
+      {
+        "stop_id": "55992",
+        "stop_name": "Levy / No 5060"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "55992",
+        "stop_name": "Levy / No 5060"
+      },
+      {
+        "stop_id": "55994",
+        "stop_name": "Lévy / No 5030"
+      },
+      {
+        "stop_id": "55949",
+        "stop_name": "Levy / Dobrin"
+      },
+      {
+        "stop_id": "55951",
+        "stop_name": "Levy / Marc-Blain"
+      },
+      {
+        "stop_id": "55952",
+        "stop_name": "Marc-Blain / Cohen"
+      },
+      {
+        "stop_id": "55959",
+        "stop_name": "Cohen / No 2039"
+      },
+      {
+        "stop_id": "55788",
+        "stop_name": "Poirier / Cohen"
+      },
+      {
+        "stop_id": "55419",
+        "stop_name": "Poirier / Thimens"
+      },
+      {
+        "stop_id": "60576",
+        "stop_name": "Bégin / Poirier"
+      },
+      {
+        "stop_id": "60573",
+        "stop_name": "Beaulac / Thimens"
+      },
+      {
+        "stop_id": "60571",
+        "stop_name": "Beaulac / Poirier"
+      },
+      {
+        "stop_id": "60569",
+        "stop_name": "Poirier / Émile-Bélanger"
+      },
+      {
+        "stop_id": "60567",
+        "stop_name": "Émile-Bélanger / Raymond-Lasnier"
+      },
+      {
+        "stop_id": "60593",
+        "stop_name": "Raymond-Lasnier / Beaulac"
+      },
+      {
+        "stop_id": "60564",
+        "stop_name": "Raymond-Lasnier / Cavendish"
+      },
+      {
+        "stop_id": "60562",
+        "stop_name": "Poirier / Cavendish"
+      },
+      {
+        "stop_id": "60577",
+        "stop_name": "Poirier / des Harfangs"
+      },
+      {
+        "stop_id": "59633",
+        "stop_name": "Poirier / Harriet-Quimby"
+      },
+      {
+        "stop_id": "59636",
+        "stop_name": "des Nations / Alexis-Nihon"
+      },
+      {
+        "stop_id": "59637",
+        "stop_name": "Alexis-Nihon / des Appalaches"
+      },
+      {
+        "stop_id": "59638",
+        "stop_name": "Alexis-Nihon / Charles-Darwin"
+      },
+      {
+        "stop_id": "55970",
+        "stop_name": "Alexis-Nihon / des Harfangs"
+      },
+      {
+        "stop_id": "55972",
+        "stop_name": "Alexis-Nihon / Robert-Peary"
+      },
+      {
+        "stop_id": "55974",
+        "stop_name": "Alexis-Nihon / de l'Everest"
+      },
+      {
+        "stop_id": "59639",
+        "stop_name": "Alexis-Nihon / Thimens"
+      },
+      {
+        "stop_id": "61110",
+        "stop_name": "Lucien-Thimens / Alexis-Nihon"
+      },
+      {
+        "stop_id": "60459",
+        "stop_name": "Lucien-Thimens / Marcel-Laurin"
+      },
+      {
+        "stop_id": "55595",
+        "stop_name": "Marcel-Laurin / Côte-Vertu"
+      },
+      {
+        "stop_id": "60292",
+        "stop_name": "Station Côte-Vertu"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest destination Raymond-Lasnier / Beaulac",
+    "arrets": [
+      {
+        "stop_id": "60292",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "55594",
+        "stop_name": "Côte-Vertu / Leduc"
+      },
+      {
+        "stop_id": "60460",
+        "stop_name": "Lucien-Thimens / Marcel-Laurin"
+      },
+      {
+        "stop_id": "61111",
+        "stop_name": "Lucien-Thimens / Alexis-Nihon"
+      },
+      {
+        "stop_id": "59640",
+        "stop_name": "Alexis-Nihon / du Périgord"
+      },
+      {
+        "stop_id": "55973",
+        "stop_name": "Alexis-Nihon / de l'Everest"
+      },
+      {
+        "stop_id": "55971",
+        "stop_name": "Alexis-Nihon / Robert-Peary"
+      },
+      {
+        "stop_id": "55969",
+        "stop_name": "Alexis-Nihon / des Harfangs"
+      },
+      {
+        "stop_id": "55967",
+        "stop_name": "Alexis-Nihon / Charles-Darwin"
+      },
+      {
+        "stop_id": "59629",
+        "stop_name": "Square Nelligan"
+      },
+      {
+        "stop_id": "59630",
+        "stop_name": "des Nations / Alexis-Nihon"
+      },
+      {
+        "stop_id": "59632",
+        "stop_name": "des Nations / Ernest-Hemingway"
+      },
+      {
+        "stop_id": "60560",
+        "stop_name": "Poirier / des Harfangs"
+      },
+      {
+        "stop_id": "60561",
+        "stop_name": "Poirier / Cavendish"
+      },
+      {
+        "stop_id": "60563",
+        "stop_name": "Raymond-Lasnier / Cavendish"
+      },
+      {
+        "stop_id": "60594",
+        "stop_name": "Raymond-Lasnier / Beaulac"
+      },
+      {
+        "stop_id": "60569",
+        "stop_name": "Poirier / Émile-Bélanger"
+      },
+      {
+        "stop_id": "60567",
+        "stop_name": "Émile-Bélanger / Raymond-Lasnier"
+      },
+      {
+        "stop_id": "60593",
+        "stop_name": "Raymond-Lasnier / Beaulac"
+      }
+    ]
+  }
+]

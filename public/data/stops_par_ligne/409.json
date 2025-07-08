@@ -1,0 +1,726 @@
+[
+  {
+    "direction": "Sud via Davignon",
+    "arrets": [
+      {
+        "stop_id": "58307",
+        "stop_name": "Anselme-Lavigne / No 14103"
+      },
+      {
+        "stop_id": "58149",
+        "stop_name": "Anselme-Lavigne / Saint-Jean"
+      },
+      {
+        "stop_id": "60537",
+        "stop_name": "Saint-Jean / Harry-Worth"
+      },
+      {
+        "stop_id": "58135",
+        "stop_name": "Saint-Jean / de Pierrefonds"
+      },
+      {
+        "stop_id": "58143",
+        "stop_name": "de Pierrefonds / René-Émard"
+      },
+      {
+        "stop_id": "58270",
+        "stop_name": "de Pierrefonds / Richmond"
+      },
+      {
+        "stop_id": "58272",
+        "stop_name": "de Pierrefonds / Aragon"
+      },
+      {
+        "stop_id": "58274",
+        "stop_name": "de Pierrefonds / Belleville"
+      },
+      {
+        "stop_id": "58174",
+        "stop_name": "de Pierrefonds / Fredmir"
+      },
+      {
+        "stop_id": "57993",
+        "stop_name": "Fredmir / Greenwood"
+      },
+      {
+        "stop_id": "58183",
+        "stop_name": "Fredmir / Anselme-Lavigne"
+      },
+      {
+        "stop_id": "57868",
+        "stop_name": "Anselme-Lavigne / Buttonwood"
+      },
+      {
+        "stop_id": "57876",
+        "stop_name": "Anselme-Lavigne / Howard"
+      },
+      {
+        "stop_id": "57879",
+        "stop_name": "Anselme-Lavigne / Westpark"
+      },
+      {
+        "stop_id": "57883",
+        "stop_name": "Anselme-Lavigne / Oslo"
+      },
+      {
+        "stop_id": "57887",
+        "stop_name": "Anselme-Lavigne / Greenview"
+      },
+      {
+        "stop_id": "57895",
+        "stop_name": "Anselme-Lavigne / des Sources"
+      },
+      {
+        "stop_id": "57898",
+        "stop_name": "des Sources / Belcourt"
+      },
+      {
+        "stop_id": "58001",
+        "stop_name": "des Sources / 14e Rue"
+      },
+      {
+        "stop_id": "57906",
+        "stop_name": "des Sources / Roger-Pilon"
+      },
+      {
+        "stop_id": "57912",
+        "stop_name": "des Sources / Churchill"
+      },
+      {
+        "stop_id": "57924",
+        "stop_name": "des Sources / Hyman"
+      },
+      {
+        "stop_id": "57933",
+        "stop_name": "de Salaberry / Davignon"
+      },
+      {
+        "stop_id": "57943",
+        "stop_name": "Davignon / de Salaberry"
+      },
+      {
+        "stop_id": "57949",
+        "stop_name": "Davignon / Fountain"
+      },
+      {
+        "stop_id": "57984",
+        "stop_name": "Davignon / Thornton"
+      },
+      {
+        "stop_id": "57953",
+        "stop_name": "Brunswick / Davignon"
+      },
+      {
+        "stop_id": "57494",
+        "stop_name": "Transcanadienne / No 2052"
+      },
+      {
+        "stop_id": "57372",
+        "stop_name": "Transcanadienne / André"
+      },
+      {
+        "stop_id": "57495",
+        "stop_name": "Transcanadienne / No 1600"
+      },
+      {
+        "stop_id": "57386",
+        "stop_name": "Transcanadienne / No 1400"
+      },
+      {
+        "stop_id": "57496",
+        "stop_name": "Transcanadienne / No 1300"
+      },
+      {
+        "stop_id": "55792",
+        "stop_name": "Transcanadienne / Abrams"
+      },
+      {
+        "stop_id": "55366",
+        "stop_name": "Transcanadienne / Halpern"
+      },
+      {
+        "stop_id": "55343",
+        "stop_name": "Transcanadienne Sud / No 9300"
+      },
+      {
+        "stop_id": "55889",
+        "stop_name": "Transcanadienne / No 8150"
+      },
+      {
+        "stop_id": "55452",
+        "stop_name": "Transcanadienne / McArthur"
+      },
+      {
+        "stop_id": "55469",
+        "stop_name": "Transcanadienne / Locke"
+      },
+      {
+        "stop_id": "55946",
+        "stop_name": "Locke / No 500"
+      },
+      {
+        "stop_id": "55512",
+        "stop_name": "Locke / Griffith"
+      },
+      {
+        "stop_id": "55544",
+        "stop_name": "Griffith / Migneron"
+      },
+      {
+        "stop_id": "55553",
+        "stop_name": "Cavendish / Griffith"
+      },
+      {
+        "stop_id": "55600",
+        "stop_name": "Cavendish / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "55621",
+        "stop_name": "Dalton / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "56110",
+        "stop_name": "Passerelle Isabey-Darnley (Côte-de-Liesse/Isabey)"
+      },
+      {
+        "stop_id": "56139",
+        "stop_name": "Côte-de-Liesse / No 5750"
+      },
+      {
+        "stop_id": "56120",
+        "stop_name": "Côte-de-Liesse / No 5430"
+      },
+      {
+        "stop_id": "55827",
+        "stop_name": "Décarie / No 255"
+      },
+      {
+        "stop_id": "55841",
+        "stop_name": "Station Du Collège (Ouimet / Cartier)"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "55841",
+        "stop_name": "Station Du Collège (Ouimet / Cartier)"
+      },
+      {
+        "stop_id": "55826",
+        "stop_name": "Décarie / No 290"
+      },
+      {
+        "stop_id": "55356",
+        "stop_name": "Côte-de-Liesse Nord / No 5415"
+      },
+      {
+        "stop_id": "55843",
+        "stop_name": "Côte-de-Liesse / No 5805"
+      },
+      {
+        "stop_id": "55656",
+        "stop_name": "Transcanadienne / Ward"
+      },
+      {
+        "stop_id": "55579",
+        "stop_name": "Transcanadienne / No 6363"
+      },
+      {
+        "stop_id": "55573",
+        "stop_name": "Transcanadienne / Dr.-Frederik-Philips"
+      },
+      {
+        "stop_id": "55558",
+        "stop_name": "Transcanadienne / No 7101"
+      },
+      {
+        "stop_id": "55473",
+        "stop_name": "Transcanadienne / Bégin"
+      },
+      {
+        "stop_id": "55789",
+        "stop_name": "Transcanadienne / Pomba"
+      },
+      {
+        "stop_id": "55928",
+        "stop_name": "Transcanadienne / No 9379"
+      },
+      {
+        "stop_id": "55365",
+        "stop_name": "Transcanadienne / Halpern"
+      },
+      {
+        "stop_id": "55958",
+        "stop_name": "Transcanadienne / No 9775"
+      },
+      {
+        "stop_id": "57533",
+        "stop_name": "Transcanadienne / No 1255"
+      },
+      {
+        "stop_id": "57387",
+        "stop_name": "Transcanadienne / Sunnybrooke"
+      },
+      {
+        "stop_id": "57492",
+        "stop_name": "Transcanadienne / No 1675"
+      },
+      {
+        "stop_id": "57546",
+        "stop_name": "Transcanadienne / No 1865"
+      },
+      {
+        "stop_id": "57371",
+        "stop_name": "Transcanadienne / Deacon"
+      },
+      {
+        "stop_id": "57947",
+        "stop_name": "des Sources / Brunswick"
+      },
+      {
+        "stop_id": "57930",
+        "stop_name": "des Sources / de Salaberry"
+      },
+      {
+        "stop_id": "57923",
+        "stop_name": "des Sources / Hyman"
+      },
+      {
+        "stop_id": "57910",
+        "stop_name": "des Sources / Sunnydale"
+      },
+      {
+        "stop_id": "57905",
+        "stop_name": "des Sources / Roger-Pilon"
+      },
+      {
+        "stop_id": "58000",
+        "stop_name": "des Sources / 14e Rue"
+      },
+      {
+        "stop_id": "57999",
+        "stop_name": "des Sources / 9e Rue"
+      },
+      {
+        "stop_id": "57896",
+        "stop_name": "Anselme-Lavigne / des Sources"
+      },
+      {
+        "stop_id": "57886",
+        "stop_name": "Anselme-Lavigne / Greenview"
+      },
+      {
+        "stop_id": "57882",
+        "stop_name": "Anselme-Lavigne / Oslo"
+      },
+      {
+        "stop_id": "57878",
+        "stop_name": "Anselme-Lavigne / Drouin"
+      },
+      {
+        "stop_id": "57875",
+        "stop_name": "Anselme-Lavigne / Howard"
+      },
+      {
+        "stop_id": "57989",
+        "stop_name": "Anselme-Lavigne / France"
+      },
+      {
+        "stop_id": "58182",
+        "stop_name": "Anselme-Lavigne / Fredmir"
+      },
+      {
+        "stop_id": "57856",
+        "stop_name": "Fredmir / Cedarcrest"
+      },
+      {
+        "stop_id": "58175",
+        "stop_name": "de Pierrefonds / No 13100"
+      },
+      {
+        "stop_id": "58162",
+        "stop_name": "de Pierrefonds / Belleville"
+      },
+      {
+        "stop_id": "58273",
+        "stop_name": "de Pierrefonds / Fox"
+      },
+      {
+        "stop_id": "58271",
+        "stop_name": "de Pierrefonds / Richmond"
+      },
+      {
+        "stop_id": "58145",
+        "stop_name": "René-Émard / de Pierrefonds"
+      },
+      {
+        "stop_id": "58307",
+        "stop_name": "Anselme-Lavigne / No 14103"
+      }
+    ]
+  },
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "58307",
+        "stop_name": "Anselme-Lavigne / No 14103"
+      },
+      {
+        "stop_id": "58149",
+        "stop_name": "Anselme-Lavigne / Saint-Jean"
+      },
+      {
+        "stop_id": "60537",
+        "stop_name": "Saint-Jean / Harry-Worth"
+      },
+      {
+        "stop_id": "58135",
+        "stop_name": "Saint-Jean / de Pierrefonds"
+      },
+      {
+        "stop_id": "58143",
+        "stop_name": "de Pierrefonds / René-Émard"
+      },
+      {
+        "stop_id": "58270",
+        "stop_name": "de Pierrefonds / Richmond"
+      },
+      {
+        "stop_id": "58272",
+        "stop_name": "de Pierrefonds / Aragon"
+      },
+      {
+        "stop_id": "58274",
+        "stop_name": "de Pierrefonds / Belleville"
+      },
+      {
+        "stop_id": "58174",
+        "stop_name": "de Pierrefonds / Fredmir"
+      },
+      {
+        "stop_id": "57993",
+        "stop_name": "Fredmir / Greenwood"
+      },
+      {
+        "stop_id": "58183",
+        "stop_name": "Fredmir / Anselme-Lavigne"
+      },
+      {
+        "stop_id": "57868",
+        "stop_name": "Anselme-Lavigne / Buttonwood"
+      },
+      {
+        "stop_id": "57876",
+        "stop_name": "Anselme-Lavigne / Howard"
+      },
+      {
+        "stop_id": "57879",
+        "stop_name": "Anselme-Lavigne / Westpark"
+      },
+      {
+        "stop_id": "57883",
+        "stop_name": "Anselme-Lavigne / Oslo"
+      },
+      {
+        "stop_id": "57887",
+        "stop_name": "Anselme-Lavigne / Greenview"
+      },
+      {
+        "stop_id": "57895",
+        "stop_name": "Anselme-Lavigne / des Sources"
+      },
+      {
+        "stop_id": "57898",
+        "stop_name": "des Sources / Belcourt"
+      },
+      {
+        "stop_id": "58001",
+        "stop_name": "des Sources / 14e Rue"
+      },
+      {
+        "stop_id": "57906",
+        "stop_name": "des Sources / Roger-Pilon"
+      },
+      {
+        "stop_id": "57912",
+        "stop_name": "des Sources / Churchill"
+      },
+      {
+        "stop_id": "57924",
+        "stop_name": "des Sources / Hyman"
+      },
+      {
+        "stop_id": "57932",
+        "stop_name": "des Sources / de Salaberry"
+      },
+      {
+        "stop_id": "57945",
+        "stop_name": "des Sources / Brunswick"
+      },
+      {
+        "stop_id": "57494",
+        "stop_name": "Transcanadienne / No 2052"
+      },
+      {
+        "stop_id": "57372",
+        "stop_name": "Transcanadienne / André"
+      },
+      {
+        "stop_id": "57495",
+        "stop_name": "Transcanadienne / No 1600"
+      },
+      {
+        "stop_id": "57386",
+        "stop_name": "Transcanadienne / No 1400"
+      },
+      {
+        "stop_id": "57496",
+        "stop_name": "Transcanadienne / No 1300"
+      },
+      {
+        "stop_id": "55792",
+        "stop_name": "Transcanadienne / Abrams"
+      },
+      {
+        "stop_id": "55366",
+        "stop_name": "Transcanadienne / Halpern"
+      },
+      {
+        "stop_id": "55343",
+        "stop_name": "Transcanadienne Sud / No 9300"
+      },
+      {
+        "stop_id": "55889",
+        "stop_name": "Transcanadienne / No 8150"
+      },
+      {
+        "stop_id": "55452",
+        "stop_name": "Transcanadienne / McArthur"
+      },
+      {
+        "stop_id": "55469",
+        "stop_name": "Transcanadienne / Locke"
+      },
+      {
+        "stop_id": "55946",
+        "stop_name": "Locke / No 500"
+      },
+      {
+        "stop_id": "55512",
+        "stop_name": "Locke / Griffith"
+      },
+      {
+        "stop_id": "55544",
+        "stop_name": "Griffith / Migneron"
+      },
+      {
+        "stop_id": "55553",
+        "stop_name": "Cavendish / Griffith"
+      },
+      {
+        "stop_id": "55600",
+        "stop_name": "Cavendish / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "55621",
+        "stop_name": "Dalton / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "56110",
+        "stop_name": "Passerelle Isabey-Darnley (Côte-de-Liesse/Isabey)"
+      },
+      {
+        "stop_id": "56139",
+        "stop_name": "Côte-de-Liesse / No 5750"
+      },
+      {
+        "stop_id": "56120",
+        "stop_name": "Côte-de-Liesse / No 5430"
+      },
+      {
+        "stop_id": "55827",
+        "stop_name": "Décarie / No 255"
+      },
+      {
+        "stop_id": "55841",
+        "stop_name": "Station Du Collège (Ouimet / Cartier)"
+      }
+    ]
+  },
+  {
+    "direction": "Nord via Davignon",
+    "arrets": [
+      {
+        "stop_id": "55841",
+        "stop_name": "Station Du Collège (Ouimet / Cartier)"
+      },
+      {
+        "stop_id": "55826",
+        "stop_name": "Décarie / No 290"
+      },
+      {
+        "stop_id": "55356",
+        "stop_name": "Côte-de-Liesse Nord / No 5415"
+      },
+      {
+        "stop_id": "55843",
+        "stop_name": "Côte-de-Liesse / No 5805"
+      },
+      {
+        "stop_id": "55656",
+        "stop_name": "Transcanadienne / Ward"
+      },
+      {
+        "stop_id": "55579",
+        "stop_name": "Transcanadienne / No 6363"
+      },
+      {
+        "stop_id": "55573",
+        "stop_name": "Transcanadienne / Dr.-Frederik-Philips"
+      },
+      {
+        "stop_id": "55558",
+        "stop_name": "Transcanadienne / No 7101"
+      },
+      {
+        "stop_id": "55473",
+        "stop_name": "Transcanadienne / Bégin"
+      },
+      {
+        "stop_id": "55789",
+        "stop_name": "Transcanadienne / Pomba"
+      },
+      {
+        "stop_id": "55928",
+        "stop_name": "Transcanadienne / No 9379"
+      },
+      {
+        "stop_id": "55365",
+        "stop_name": "Transcanadienne / Halpern"
+      },
+      {
+        "stop_id": "55958",
+        "stop_name": "Transcanadienne / No 9775"
+      },
+      {
+        "stop_id": "57533",
+        "stop_name": "Transcanadienne / No 1255"
+      },
+      {
+        "stop_id": "57387",
+        "stop_name": "Transcanadienne / Sunnybrooke"
+      },
+      {
+        "stop_id": "57492",
+        "stop_name": "Transcanadienne / No 1675"
+      },
+      {
+        "stop_id": "57546",
+        "stop_name": "Transcanadienne / No 1865"
+      },
+      {
+        "stop_id": "57371",
+        "stop_name": "Transcanadienne / Deacon"
+      },
+      {
+        "stop_id": "57946",
+        "stop_name": "Brunswick / des Sources"
+      },
+      {
+        "stop_id": "57983",
+        "stop_name": "Davignon / Thornton"
+      },
+      {
+        "stop_id": "57948",
+        "stop_name": "Davignon / Fountain"
+      },
+      {
+        "stop_id": "57942",
+        "stop_name": "Davignon / de Salaberry"
+      },
+      {
+        "stop_id": "57931",
+        "stop_name": "de Salaberry / Norgrove"
+      },
+      {
+        "stop_id": "57923",
+        "stop_name": "des Sources / Hyman"
+      },
+      {
+        "stop_id": "57910",
+        "stop_name": "des Sources / Sunnydale"
+      },
+      {
+        "stop_id": "57905",
+        "stop_name": "des Sources / Roger-Pilon"
+      },
+      {
+        "stop_id": "58000",
+        "stop_name": "des Sources / 14e Rue"
+      },
+      {
+        "stop_id": "57999",
+        "stop_name": "des Sources / 9e Rue"
+      },
+      {
+        "stop_id": "57896",
+        "stop_name": "Anselme-Lavigne / des Sources"
+      },
+      {
+        "stop_id": "57886",
+        "stop_name": "Anselme-Lavigne / Greenview"
+      },
+      {
+        "stop_id": "57882",
+        "stop_name": "Anselme-Lavigne / Oslo"
+      },
+      {
+        "stop_id": "57878",
+        "stop_name": "Anselme-Lavigne / Drouin"
+      },
+      {
+        "stop_id": "57875",
+        "stop_name": "Anselme-Lavigne / Howard"
+      },
+      {
+        "stop_id": "57989",
+        "stop_name": "Anselme-Lavigne / France"
+      },
+      {
+        "stop_id": "58182",
+        "stop_name": "Anselme-Lavigne / Fredmir"
+      },
+      {
+        "stop_id": "57856",
+        "stop_name": "Fredmir / Cedarcrest"
+      },
+      {
+        "stop_id": "58175",
+        "stop_name": "de Pierrefonds / No 13100"
+      },
+      {
+        "stop_id": "58162",
+        "stop_name": "de Pierrefonds / Belleville"
+      },
+      {
+        "stop_id": "58273",
+        "stop_name": "de Pierrefonds / Fox"
+      },
+      {
+        "stop_id": "58271",
+        "stop_name": "de Pierrefonds / Richmond"
+      },
+      {
+        "stop_id": "58145",
+        "stop_name": "René-Émard / de Pierrefonds"
+      },
+      {
+        "stop_id": "58307",
+        "stop_name": "Anselme-Lavigne / No 14103"
+      }
+    ]
+  }
+]

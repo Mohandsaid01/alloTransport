@@ -1,0 +1,300 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "51616",
+        "stop_name": "26e Avenue / Gouin"
+      },
+      {
+        "stop_id": "51690",
+        "stop_name": "27e Avenue / Octave-Pelletier"
+      },
+      {
+        "stop_id": "53694",
+        "stop_name": "Perras / 25e Avenue"
+      },
+      {
+        "stop_id": "54000",
+        "stop_name": "Armand-Bombardier / Perras"
+      },
+      {
+        "stop_id": "51670",
+        "stop_name": "Armand-Bombardier / Philippe-Lebon"
+      },
+      {
+        "stop_id": "51723",
+        "stop_name": "Armand-Bombardier / André-Ampère"
+      },
+      {
+        "stop_id": "51767",
+        "stop_name": "Armand-Bombardier / Jean-Vincent"
+      },
+      {
+        "stop_id": "51810",
+        "stop_name": "Armand-Bombardier / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "51877",
+        "stop_name": "Armand-Bombardier / Blaise-Pascal"
+      },
+      {
+        "stop_id": "52025",
+        "stop_name": "Armand-Bombardier / Henri-Bourassa"
+      },
+      {
+        "stop_id": "51931",
+        "stop_name": "Henri-Bourassa / Marco-Polo"
+      },
+      {
+        "stop_id": "54721",
+        "stop_name": "L.-J.- Forget / Henri-Bourassa"
+      },
+      {
+        "stop_id": "54717",
+        "stop_name": "Larrey / L.-J.-Forget"
+      },
+      {
+        "stop_id": "54524",
+        "stop_name": "Larrey / Mirabeau"
+      },
+      {
+        "stop_id": "54692",
+        "stop_name": "Colbert / Larrey"
+      },
+      {
+        "stop_id": "54512",
+        "stop_name": "Colbert / No 10700"
+      },
+      {
+        "stop_id": "54535",
+        "stop_name": "Colbert / Ravenel"
+      },
+      {
+        "stop_id": "54537",
+        "stop_name": "Colbert / Bombardier"
+      },
+      {
+        "stop_id": "54529",
+        "stop_name": "Bombardier / Renaude-Lapointe"
+      },
+      {
+        "stop_id": "54519",
+        "stop_name": "des Galeries-d'Anjou / Bombardier"
+      },
+      {
+        "stop_id": "54523",
+        "stop_name": "des Galeries-d'Anjou / M.-B.-Jodoin"
+      },
+      {
+        "stop_id": "54532",
+        "stop_name": "des Galeries-d'Anjou / de l'Alsace"
+      },
+      {
+        "stop_id": "54536",
+        "stop_name": "des Galeries-d'Anjou / Giraud"
+      },
+      {
+        "stop_id": "54551",
+        "stop_name": "des Galeries-d'Anjou / Jarry"
+      },
+      {
+        "stop_id": "54564",
+        "stop_name": "des Galeries-d'Anjou / de la Pléiade"
+      },
+      {
+        "stop_id": "54581",
+        "stop_name": "des Galeries-d'Anjou / Jean-Talon"
+      },
+      {
+        "stop_id": "54584",
+        "stop_name": "des Galeries-d'Anjou / Jean-Talon"
+      },
+      {
+        "stop_id": "54686",
+        "stop_name": "des Galeries d'Anjou / Entrée des Halles"
+      },
+      {
+        "stop_id": "54595",
+        "stop_name": "des Galeries-d'Anjou / Bélanger"
+      },
+      {
+        "stop_id": "54603",
+        "stop_name": "des Galeries-d'Anjou / Saint-Zotique"
+      },
+      {
+        "stop_id": "54617",
+        "stop_name": "des Galeries-d'Anjou / Beaubien"
+      },
+      {
+        "stop_id": "54635",
+        "stop_name": "des Galeries-d'Anjou / des Jalesnes"
+      },
+      {
+        "stop_id": "54651",
+        "stop_name": "des Galeries d'Anjou / de la Malicorne"
+      },
+      {
+        "stop_id": "54654",
+        "stop_name": "Radisson / des Galeries-d'Anjou"
+      },
+      {
+        "stop_id": "53135",
+        "stop_name": "Radisson / Davis"
+      },
+      {
+        "stop_id": "53184",
+        "stop_name": "Station Radisson"
+      },
+      {
+        "stop_id": "59034",
+        "stop_name": "Station Radisson"
+      },
+      {
+        "stop_id": "62246",
+        "stop_name": "Minicut / Renaude-Lapointe"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "59034",
+        "stop_name": "Station Radisson"
+      },
+      {
+        "stop_id": "53144",
+        "stop_name": "Des Groseilliers / Davis"
+      },
+      {
+        "stop_id": "54653",
+        "stop_name": "Radisson / des Galeries-d'Anjou"
+      },
+      {
+        "stop_id": "54650",
+        "stop_name": "des Galeries-d'Anjou / de Malicorne"
+      },
+      {
+        "stop_id": "54634",
+        "stop_name": "des Galeries-d'Anjou / des Jalesnes"
+      },
+      {
+        "stop_id": "54615",
+        "stop_name": "des Galeries-d'Anjou / Beaubien"
+      },
+      {
+        "stop_id": "54602",
+        "stop_name": "des Galeries-d'Anjou / Saint-Zotique"
+      },
+      {
+        "stop_id": "54594",
+        "stop_name": "des Galeries-d'Anjou / Bélanger"
+      },
+      {
+        "stop_id": "54685",
+        "stop_name": "Les Galeries d'Anjou / Centre Commercial"
+      },
+      {
+        "stop_id": "54580",
+        "stop_name": "des Galeries-d'Anjou / Jean-Talon"
+      },
+      {
+        "stop_id": "54565",
+        "stop_name": "des Galeries-d'Anjou / de Belfroy"
+      },
+      {
+        "stop_id": "54549",
+        "stop_name": "des Galeries-d'Anjou / Jarry"
+      },
+      {
+        "stop_id": "54540",
+        "stop_name": "des Galeries-d'Anjou / Fontevrault"
+      },
+      {
+        "stop_id": "54533",
+        "stop_name": "des Galeries-d'Anjou / de l'Alsace"
+      },
+      {
+        "stop_id": "54522",
+        "stop_name": "des Galeries-d'Anjou / M.-B.-Jodoin"
+      },
+      {
+        "stop_id": "54516",
+        "stop_name": "des Galeries-d'Anjou / Bombardier"
+      },
+      {
+        "stop_id": "54528",
+        "stop_name": "Bombardier / Renaude-Lapointe"
+      },
+      {
+        "stop_id": "54534",
+        "stop_name": "Colbert / Ravenel"
+      },
+      {
+        "stop_id": "54687",
+        "stop_name": "Colbert / No 10700"
+      },
+      {
+        "stop_id": "54520",
+        "stop_name": "Colbert / Larrey"
+      },
+      {
+        "stop_id": "54525",
+        "stop_name": "Larrey / Mirabeau"
+      },
+      {
+        "stop_id": "54731",
+        "stop_name": "Larrey / L.-J.-Forget"
+      },
+      {
+        "stop_id": "54515",
+        "stop_name": "L.-J.- Forget / Henri-Bourassa"
+      },
+      {
+        "stop_id": "51932",
+        "stop_name": "Henri-Bourassa / Marco-Polo"
+      },
+      {
+        "stop_id": "52026",
+        "stop_name": "Armand-Bombardier / Henri-Bourassa"
+      },
+      {
+        "stop_id": "51878",
+        "stop_name": "Armand-Bombardier / Blaise-Pascal"
+      },
+      {
+        "stop_id": "61888",
+        "stop_name": "Armand-Bombardier / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "51766",
+        "stop_name": "Armand-Bombardier / Jean-Vincent"
+      },
+      {
+        "stop_id": "51722",
+        "stop_name": "Armand-Bombardier / André-Ampère"
+      },
+      {
+        "stop_id": "51669",
+        "stop_name": "Armand-Bombardier / Philippe-Lebon"
+      },
+      {
+        "stop_id": "51619",
+        "stop_name": "Armand-Bombardier / Perras"
+      },
+      {
+        "stop_id": "51691",
+        "stop_name": "Perras / 25e Avenue"
+      },
+      {
+        "stop_id": "51689",
+        "stop_name": "27e Avenue / Octave-Pelletier"
+      },
+      {
+        "stop_id": "51616",
+        "stop_name": "26e Avenue / Gouin"
+      }
+    ]
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "61691",
+        "stop_name": "Gare Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "60339",
+        "stop_name": "Maurice-Duplessis / 87e Avenue"
+      },
+      {
+        "stop_id": "53248",
+        "stop_name": "89e Avenue / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "54259",
+        "stop_name": "Rolland-Jeanneau / Armand-Chaput"
+      },
+      {
+        "stop_id": "54244",
+        "stop_name": "Centre de détention Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "54245",
+        "stop_name": "Armand-Chaput / No 11380"
+      },
+      {
+        "stop_id": "54261",
+        "stop_name": "Henri-Bourassa / No 10905 (Institut P.-Pinel)"
+      },
+      {
+        "stop_id": "54246",
+        "stop_name": "Henri-Bourassa / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "54471",
+        "stop_name": "Henri-Bourassa / No 10605"
+      },
+      {
+        "stop_id": "54408",
+        "stop_name": "Henri-Bourassa / Marien"
+      },
+      {
+        "stop_id": "50122",
+        "stop_name": "Henri-Bourassa / No 9875"
+      },
+      {
+        "stop_id": "52907",
+        "stop_name": "Henri-Bourassa / Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "52859",
+        "stop_name": "Henri-Bourassa / 57e Avenue"
+      },
+      {
+        "stop_id": "52802",
+        "stop_name": "Henri-Bourassa / 54e Avenue"
+      },
+      {
+        "stop_id": "54367",
+        "stop_name": "Henri-Bourassa / No 9275"
+      },
+      {
+        "stop_id": "54472",
+        "stop_name": "Henri-Bourassa / No 9225"
+      },
+      {
+        "stop_id": "54733",
+        "stop_name": "Henri-Bourassa / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "54682",
+        "stop_name": "Henri-Bourassa / No 9050"
+      },
+      {
+        "stop_id": "54683",
+        "stop_name": "Henri-Bourassa / No 8601"
+      },
+      {
+        "stop_id": "54684",
+        "stop_name": "Henri-Bourassa / No 8255"
+      },
+      {
+        "stop_id": "52027",
+        "stop_name": "Ray-Lawson / Henri-Bourassa"
+      },
+      {
+        "stop_id": "54539",
+        "stop_name": "Ray-Lawson / 6e Croissant"
+      },
+      {
+        "stop_id": "54545",
+        "stop_name": "Ray-Lawson / 5e Croissant"
+      },
+      {
+        "stop_id": "54555",
+        "stop_name": "Ray-Lawson / Jules-Léger"
+      },
+      {
+        "stop_id": "54568",
+        "stop_name": "Ray-Lawson / Ernest-Cormier"
+      },
+      {
+        "stop_id": "54587",
+        "stop_name": "Ray-Lawson / Grenache"
+      },
+      {
+        "stop_id": "54716",
+        "stop_name": "Ray-Lawson / Place Upton"
+      },
+      {
+        "stop_id": "54597",
+        "stop_name": "Ray-Lawson / Jarry"
+      },
+      {
+        "stop_id": "54620",
+        "stop_name": "Roi-René / de Châteauneuf"
+      },
+      {
+        "stop_id": "53196",
+        "stop_name": "Station Radisson (Sherbrooke / Des Groseilliers)"
+      },
+      {
+        "stop_id": "61230",
+        "stop_name": "Station Radisson (Des Groseilliers / Sherbrooke)"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "61230",
+        "stop_name": "Station Radisson (Des Groseilliers / Sherbrooke)"
+      },
+      {
+        "stop_id": "54596",
+        "stop_name": "Ray-Lawson / Jarry"
+      },
+      {
+        "stop_id": "54715",
+        "stop_name": "Ray-Lawson / Upton"
+      },
+      {
+        "stop_id": "54586",
+        "stop_name": "Ray-Lawson / Grenache"
+      },
+      {
+        "stop_id": "54567",
+        "stop_name": "Ray-Lawson / Ernest-Cormier"
+      },
+      {
+        "stop_id": "54554",
+        "stop_name": "Ray-Lawson / Jules-Léger"
+      },
+      {
+        "stop_id": "54544",
+        "stop_name": "Ray-Lawson / 5e Croissant"
+      },
+      {
+        "stop_id": "54538",
+        "stop_name": "Ray-Lawson / 6e Croissant"
+      },
+      {
+        "stop_id": "54743",
+        "stop_name": "Ray-Lawson / Henri-Bourassa"
+      },
+      {
+        "stop_id": "53785",
+        "stop_name": "Henri-Bourassa / No 8255"
+      },
+      {
+        "stop_id": "53926",
+        "stop_name": "Henri-Bourassa / No 8601"
+      },
+      {
+        "stop_id": "54513",
+        "stop_name": "Henri-Bourassa / No 9050"
+      },
+      {
+        "stop_id": "54734",
+        "stop_name": "Henri-Bourassa / Rodolphe-Forget"
+      },
+      {
+        "stop_id": "54481",
+        "stop_name": "Henri-Bourassa / No 9225"
+      },
+      {
+        "stop_id": "52803",
+        "stop_name": "Henri-Bourassa / 54e Avenue"
+      },
+      {
+        "stop_id": "52860",
+        "stop_name": "Henri-Bourassa / 57e Avenue"
+      },
+      {
+        "stop_id": "52909",
+        "stop_name": "Henri-Bourassa / Broadway"
+      },
+      {
+        "stop_id": "54406",
+        "stop_name": "Henri-Bourassa / No 9850"
+      },
+      {
+        "stop_id": "54409",
+        "stop_name": "Henri-Bourassa / Marien"
+      },
+      {
+        "stop_id": "54470",
+        "stop_name": "Henri-Bourassa / No 10605"
+      },
+      {
+        "stop_id": "54241",
+        "stop_name": "Henri-Bourassa / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "54258",
+        "stop_name": "Henri-Bourassa / No 10905 (Institut  P.-Pinel)"
+      },
+      {
+        "stop_id": "54242",
+        "stop_name": "Armand-Chaput / No 11410"
+      },
+      {
+        "stop_id": "54243",
+        "stop_name": "Centre Rivière-des-Prairies (A.-Chaput/No 11900)"
+      },
+      {
+        "stop_id": "61273",
+        "stop_name": "Armand-Chaput / Rolland-Jeanneau"
+      },
+      {
+        "stop_id": "53247",
+        "stop_name": "89e Avenue / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "61606",
+        "stop_name": "Gare Rivière-des-Prairies"
+      }
+    ]
+  }
+]

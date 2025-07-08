@@ -1,0 +1,348 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "50389",
+        "stop_name": "De Saint-Firmin / Gouin"
+      },
+      {
+        "stop_id": "50414",
+        "stop_name": "De Saint-Firmin / Henri-Bourassa"
+      },
+      {
+        "stop_id": "50463",
+        "stop_name": "De Saint-Firmin / Prieur"
+      },
+      {
+        "stop_id": "50485",
+        "stop_name": "Fleury / Charton"
+      },
+      {
+        "stop_id": "62368",
+        "stop_name": "Papineau / Fleury"
+      },
+      {
+        "stop_id": "50517",
+        "stop_name": "Papineau / Sauriol"
+      },
+      {
+        "stop_id": "50557",
+        "stop_name": "Papineau / Sauvé"
+      },
+      {
+        "stop_id": "61723",
+        "stop_name": "Papineau / Charland"
+      },
+      {
+        "stop_id": "50647",
+        "stop_name": "Papineau / de Louvain"
+      },
+      {
+        "stop_id": "61595",
+        "stop_name": "Papineau / Lecocq"
+      },
+      {
+        "stop_id": "50805",
+        "stop_name": "Papineau / Legendre"
+      },
+      {
+        "stop_id": "50877",
+        "stop_name": "Papineau / Émile-Journault"
+      },
+      {
+        "stop_id": "50984",
+        "stop_name": "Papineau / François-H.-Prévost"
+      },
+      {
+        "stop_id": "54396",
+        "stop_name": "Papineau / Barnabé-Larocque"
+      },
+      {
+        "stop_id": "54305",
+        "stop_name": "Papineau / Jacques-Casault"
+      },
+      {
+        "stop_id": "51108",
+        "stop_name": "Papineau / Crémazie (coin Nord-Ouest)"
+      },
+      {
+        "stop_id": "51110",
+        "stop_name": "Papineau / Crémazie (coin Sud-Ouest)"
+      },
+      {
+        "stop_id": "51217",
+        "stop_name": "Papineau / Jarry"
+      },
+      {
+        "stop_id": "51275",
+        "stop_name": "Papineau / Tillemont"
+      },
+      {
+        "stop_id": "51303",
+        "stop_name": "Papineau / Villeray"
+      },
+      {
+        "stop_id": "51324",
+        "stop_name": "Papineau / L.-O.-David"
+      },
+      {
+        "stop_id": "51384",
+        "stop_name": "Papineau / Everett"
+      },
+      {
+        "stop_id": "51452",
+        "stop_name": "Station Fabre (Papineau / Jean-Talon)"
+      },
+      {
+        "stop_id": "51536",
+        "stop_name": "Papineau / Bélanger"
+      },
+      {
+        "stop_id": "51604",
+        "stop_name": "Papineau / Saint-Zotique"
+      },
+      {
+        "stop_id": "51678",
+        "stop_name": "Papineau / Beaubien"
+      },
+      {
+        "stop_id": "51769",
+        "stop_name": "Papineau / de Bellechasse"
+      },
+      {
+        "stop_id": "51821",
+        "stop_name": "Papineau / Rosemont"
+      },
+      {
+        "stop_id": "52024",
+        "stop_name": "Papineau / Masson"
+      },
+      {
+        "stop_id": "52120",
+        "stop_name": "Papineau / Laurier"
+      },
+      {
+        "stop_id": "52144",
+        "stop_name": "Papineau / Saint-Joseph"
+      },
+      {
+        "stop_id": "52200",
+        "stop_name": "Papineau / Gilford"
+      },
+      {
+        "stop_id": "52307",
+        "stop_name": "Papineau / du Mont-Royal"
+      },
+      {
+        "stop_id": "52389",
+        "stop_name": "Papineau / Marie-Anne"
+      },
+      {
+        "stop_id": "52476",
+        "stop_name": "Papineau / Rachel"
+      },
+      {
+        "stop_id": "52565",
+        "stop_name": "Papineau / Gauthier"
+      },
+      {
+        "stop_id": "52682",
+        "stop_name": "Papineau / Sherbrooke"
+      },
+      {
+        "stop_id": "52842",
+        "stop_name": "Papineau / Ontario"
+      },
+      {
+        "stop_id": "53813",
+        "stop_name": "Papineau / La Fontaine"
+      },
+      {
+        "stop_id": "53002",
+        "stop_name": "Papineau / De Maisonneuve"
+      },
+      {
+        "stop_id": "53022",
+        "stop_name": "Papineau / Sainte-Catherine"
+      },
+      {
+        "stop_id": "53009",
+        "stop_name": "Station Papineau (Cartier / Sainte-Catherine)"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "53009",
+        "stop_name": "Station Papineau (Cartier / Sainte-Catherine)"
+      },
+      {
+        "stop_id": "53010",
+        "stop_name": "De Lorimier / Logan"
+      },
+      {
+        "stop_id": "52895",
+        "stop_name": "De Lorimier / Ontario"
+      },
+      {
+        "stop_id": "52813",
+        "stop_name": "De Lorimier / de Rouen"
+      },
+      {
+        "stop_id": "61295",
+        "stop_name": "De Lorimier / Sherbrooke"
+      },
+      {
+        "stop_id": "52637",
+        "stop_name": "De Lorimier / Gauthier"
+      },
+      {
+        "stop_id": "52478",
+        "stop_name": "Papineau / Rachel"
+      },
+      {
+        "stop_id": "52388",
+        "stop_name": "Papineau / Marie-Anne"
+      },
+      {
+        "stop_id": "52305",
+        "stop_name": "Papineau / du Mont-Royal"
+      },
+      {
+        "stop_id": "52199",
+        "stop_name": "Papineau / Gilford"
+      },
+      {
+        "stop_id": "52142",
+        "stop_name": "Papineau / Saint-Joseph"
+      },
+      {
+        "stop_id": "62131",
+        "stop_name": "Papineau / Laurier"
+      },
+      {
+        "stop_id": "52022",
+        "stop_name": "Papineau / Masson"
+      },
+      {
+        "stop_id": "51904",
+        "stop_name": "Papineau / escalier des Carrières"
+      },
+      {
+        "stop_id": "51819",
+        "stop_name": "Papineau / Rosemont"
+      },
+      {
+        "stop_id": "51768",
+        "stop_name": "Papineau / de Bellechasse"
+      },
+      {
+        "stop_id": "51676",
+        "stop_name": "Papineau / Beaubien"
+      },
+      {
+        "stop_id": "51603",
+        "stop_name": "Papineau / Saint-Zotique"
+      },
+      {
+        "stop_id": "51534",
+        "stop_name": "Papineau / Bélanger"
+      },
+      {
+        "stop_id": "51451",
+        "stop_name": "Station Fabre (Papineau / Jean-Talon)"
+      },
+      {
+        "stop_id": "51383",
+        "stop_name": "Papineau / Everett"
+      },
+      {
+        "stop_id": "51323",
+        "stop_name": "Papineau / L.-O.-David"
+      },
+      {
+        "stop_id": "51301",
+        "stop_name": "Papineau / Villeray"
+      },
+      {
+        "stop_id": "51274",
+        "stop_name": "Papineau / Tillemont"
+      },
+      {
+        "stop_id": "51215",
+        "stop_name": "Papineau / Jarry"
+      },
+      {
+        "stop_id": "51107",
+        "stop_name": "Papineau / Crémazie (coin Sud-Est)"
+      },
+      {
+        "stop_id": "62057",
+        "stop_name": "Papineau / Jacques-Casault"
+      },
+      {
+        "stop_id": "54395",
+        "stop_name": "Papineau / Barnabé-Larocque"
+      },
+      {
+        "stop_id": "50983",
+        "stop_name": "Papineau / François-H.-Prévost"
+      },
+      {
+        "stop_id": "50876",
+        "stop_name": "Papineau / Émile-Journault"
+      },
+      {
+        "stop_id": "50804",
+        "stop_name": "Papineau / Legendre"
+      },
+      {
+        "stop_id": "61556",
+        "stop_name": "Stade de soccer de Montréal (Papineau / Lecocq)"
+      },
+      {
+        "stop_id": "50646",
+        "stop_name": "Papineau / de Louvain"
+      },
+      {
+        "stop_id": "50610",
+        "stop_name": "Papineau / Charland"
+      },
+      {
+        "stop_id": "50555",
+        "stop_name": "Papineau / Sauvé"
+      },
+      {
+        "stop_id": "50516",
+        "stop_name": "Papineau / Sauriol"
+      },
+      {
+        "stop_id": "50470",
+        "stop_name": "Papineau / Fleury"
+      },
+      {
+        "stop_id": "50431",
+        "stop_name": "Papineau / Prieur"
+      },
+      {
+        "stop_id": "50399",
+        "stop_name": "Papineau / Henri-Bourassa"
+      },
+      {
+        "stop_id": "50401",
+        "stop_name": "Papineau / Henri-Bourassa"
+      },
+      {
+        "stop_id": "50376",
+        "stop_name": "Gouin / Séguin"
+      },
+      {
+        "stop_id": "50389",
+        "stop_name": "De Saint-Firmin / Gouin"
+      }
+    ]
+  }
+]

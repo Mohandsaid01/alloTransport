@@ -1,0 +1,240 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "58050",
+        "stop_name": "Chevremont / Jacques-Bizard"
+      },
+      {
+        "stop_id": "58044",
+        "stop_name": "Chevremont / Lacombe"
+      },
+      {
+        "stop_id": "58042",
+        "stop_name": "Chevremont / Ouimet"
+      },
+      {
+        "stop_id": "58040",
+        "stop_name": "Chevremont / De Tonty"
+      },
+      {
+        "stop_id": "58039",
+        "stop_name": "Chevremont / de l'Église"
+      },
+      {
+        "stop_id": "58066",
+        "stop_name": "Centre socioculturel (de l'Église / No 490)"
+      },
+      {
+        "stop_id": "58046",
+        "stop_name": "de l'Église / Cherrier"
+      },
+      {
+        "stop_id": "58048",
+        "stop_name": "Cherrier / Dollard"
+      },
+      {
+        "stop_id": "58063",
+        "stop_name": "Cherrier / des Prés"
+      },
+      {
+        "stop_id": "58055",
+        "stop_name": "Cherrier / Lachapelle"
+      },
+      {
+        "stop_id": "58082",
+        "stop_name": "Gouin / Laframboise"
+      },
+      {
+        "stop_id": "58109",
+        "stop_name": "Gouin / Paiement"
+      },
+      {
+        "stop_id": "58266",
+        "stop_name": "de Pierrefonds / Jacques-Bizard"
+      },
+      {
+        "stop_id": "58245",
+        "stop_name": "de Pierrefonds / Harry-Worth"
+      },
+      {
+        "stop_id": "58143",
+        "stop_name": "de Pierrefonds / René-Émard"
+      },
+      {
+        "stop_id": "58270",
+        "stop_name": "de Pierrefonds / Richmond"
+      },
+      {
+        "stop_id": "58174",
+        "stop_name": "de Pierrefonds / Fredmir"
+      },
+      {
+        "stop_id": "58247",
+        "stop_name": "de Pierrefonds / Perron"
+      },
+      {
+        "stop_id": "58275",
+        "stop_name": "de Pierrefonds / Westpark"
+      },
+      {
+        "stop_id": "58200",
+        "stop_name": "de Pierrefonds / des Sources"
+      },
+      {
+        "stop_id": "61986",
+        "stop_name": "Gare Roxboro-Pierrefonds"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "61986",
+        "stop_name": "Gare Roxboro-Pierrefonds"
+      },
+      {
+        "stop_id": "58196",
+        "stop_name": "des Sources / Gouin"
+      },
+      {
+        "stop_id": "58199",
+        "stop_name": "des Sources / de Pierrefonds"
+      },
+      {
+        "stop_id": "58188",
+        "stop_name": "de Pierrefonds / Westpark"
+      },
+      {
+        "stop_id": "58246",
+        "stop_name": "de Pierrefonds / Perron"
+      },
+      {
+        "stop_id": "58173",
+        "stop_name": "de Pierrefonds / Fredmir"
+      },
+      {
+        "stop_id": "58271",
+        "stop_name": "de Pierrefonds / Richmond"
+      },
+      {
+        "stop_id": "58141",
+        "stop_name": "de Pierrefonds / René-Émard"
+      },
+      {
+        "stop_id": "58244",
+        "stop_name": "de Pierrefonds / Harry-Worth"
+      },
+      {
+        "stop_id": "58124",
+        "stop_name": "de Pierrefonds / Jacques-Bizard"
+      },
+      {
+        "stop_id": "58110",
+        "stop_name": "Gouin / Paiement"
+      },
+      {
+        "stop_id": "58116",
+        "stop_name": "Gouin / Laframboise"
+      },
+      {
+        "stop_id": "58056",
+        "stop_name": "Cherrier / Lachapelle"
+      },
+      {
+        "stop_id": "58062",
+        "stop_name": "Cherrier / des Prés"
+      },
+      {
+        "stop_id": "58047",
+        "stop_name": "Cherrier / Saint-Charles"
+      },
+      {
+        "stop_id": "58045",
+        "stop_name": "Cherrier / de l'Église"
+      },
+      {
+        "stop_id": "58065",
+        "stop_name": "École Jacques-Bizard (de l'Église / No 515)"
+      },
+      {
+        "stop_id": "58038",
+        "stop_name": "de l'Église / Chevremont"
+      },
+      {
+        "stop_id": "58041",
+        "stop_name": "Chevremont / De Tonty"
+      },
+      {
+        "stop_id": "58043",
+        "stop_name": "Chevremont / Ouimet"
+      },
+      {
+        "stop_id": "58064",
+        "stop_name": "Chevremont / Aimé-Lecavalier"
+      },
+      {
+        "stop_id": "58049",
+        "stop_name": "Chevremont / Jacques-Bizard"
+      },
+      {
+        "stop_id": "58034",
+        "stop_name": "Chevremont / No 3250"
+      },
+      {
+        "stop_id": "58051",
+        "stop_name": "Chèvremont / Jules-Janvril"
+      },
+      {
+        "stop_id": "58052",
+        "stop_name": "Chevremont / Beaulieu"
+      },
+      {
+        "stop_id": "58053",
+        "stop_name": "Chevremont / Joncaire"
+      },
+      {
+        "stop_id": "58058",
+        "stop_name": "Chevremont / Saint-Malo"
+      },
+      {
+        "stop_id": "58035",
+        "stop_name": "Chèvremont / du Triolet"
+      },
+      {
+        "stop_id": "58036",
+        "stop_name": "du Triolet / Cherrier"
+      },
+      {
+        "stop_id": "58061",
+        "stop_name": "Cherrier / Pierre-Foretier"
+      },
+      {
+        "stop_id": "58060",
+        "stop_name": "Cherrier / Léon-Brisebois"
+      },
+      {
+        "stop_id": "58037",
+        "stop_name": "Cherrier / Denis"
+      },
+      {
+        "stop_id": "58059",
+        "stop_name": "Cherrier / Poudrette"
+      },
+      {
+        "stop_id": "58057",
+        "stop_name": "Cherrier / Pierre-Boileau"
+      },
+      {
+        "stop_id": "58054",
+        "stop_name": "Cherrier / Jacques-Bizard"
+      },
+      {
+        "stop_id": "58050",
+        "stop_name": "Chevremont / Jacques-Bizard"
+      }
+    ]
+  }
+]

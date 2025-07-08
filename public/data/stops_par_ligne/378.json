@@ -1,0 +1,544 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "61626",
+        "stop_name": "YUL Aéroport Montréal-Trudeau"
+      },
+      {
+        "stop_id": "57506",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "57525",
+        "stop_name": "Michel-Jasmin / O'Connell"
+      },
+      {
+        "stop_id": "57524",
+        "stop_name": "Michel-Jasmin / Orly"
+      },
+      {
+        "stop_id": "57523",
+        "stop_name": "Michel-Jasmin / Lépine"
+      },
+      {
+        "stop_id": "57362",
+        "stop_name": "Côte-de-Liesse / No 11450"
+      },
+      {
+        "stop_id": "57313",
+        "stop_name": "Côte-de-Liesse / 55e Avenue"
+      },
+      {
+        "stop_id": "57314",
+        "stop_name": "Côte-de-Liesse / 46e Avenue"
+      },
+      {
+        "stop_id": "57312",
+        "stop_name": "Côte-de-Liesse / 43e Avenue"
+      },
+      {
+        "stop_id": "57311",
+        "stop_name": "Côte-de-Liesse / 32e Avenue"
+      },
+      {
+        "stop_id": "57343",
+        "stop_name": "Côte-de-Liesse / No 9500"
+      },
+      {
+        "stop_id": "57357",
+        "stop_name": "Côte-de-Liesse / No 9432"
+      },
+      {
+        "stop_id": "55468",
+        "stop_name": "Côte-de-Liesse / Graveline"
+      },
+      {
+        "stop_id": "55907",
+        "stop_name": "Côte-de-Liesse / No 8180"
+      },
+      {
+        "stop_id": "55480",
+        "stop_name": "Côte-de-Liesse / Montée de Liesse"
+      },
+      {
+        "stop_id": "55851",
+        "stop_name": "Côte-de-Liesse / No 7520"
+      },
+      {
+        "stop_id": "55520",
+        "stop_name": "Côte-de-Liesse / Hickmore"
+      },
+      {
+        "stop_id": "55541",
+        "stop_name": "Côte-de-Liesse / Barr"
+      },
+      {
+        "stop_id": "55842",
+        "stop_name": "Passerelle Barr (Côte-de-Liesse / No 6600)"
+      },
+      {
+        "stop_id": "55844",
+        "stop_name": "Côte-de-Liesse / No 6400"
+      },
+      {
+        "stop_id": "55601",
+        "stop_name": "Côte-de-Liesse / Cavendish"
+      },
+      {
+        "stop_id": "55622",
+        "stop_name": "Côte-de-Liesse / Dalton"
+      },
+      {
+        "stop_id": "56110",
+        "stop_name": "Passerelle Isabey-Darnley (Côte-de-Liesse/Isabey)"
+      },
+      {
+        "stop_id": "56139",
+        "stop_name": "Côte-de-Liesse / No 5750"
+      },
+      {
+        "stop_id": "56120",
+        "stop_name": "Côte-de-Liesse / No 5430"
+      },
+      {
+        "stop_id": "55827",
+        "stop_name": "Décarie / No 255"
+      },
+      {
+        "stop_id": "55717",
+        "stop_name": "Station Du Collège (Décarie / Cartier)"
+      },
+      {
+        "stop_id": "55703",
+        "stop_name": "Station Du Collège (Décarie / du Collège)"
+      },
+      {
+        "stop_id": "55675",
+        "stop_name": "Décarie / de l'Église"
+      },
+      {
+        "stop_id": "55658",
+        "stop_name": "Décarie / Decelles"
+      },
+      {
+        "stop_id": "61323",
+        "stop_name": "Décarie / Côte-Vertu"
+      },
+      {
+        "stop_id": "55650",
+        "stop_name": "Côte-Vertu / Saint-Germain"
+      },
+      {
+        "stop_id": "55662",
+        "stop_name": "Côte-Vertu / Sainte-Croix"
+      },
+      {
+        "stop_id": "55688",
+        "stop_name": "Côte-Vertu / Dutrisac"
+      },
+      {
+        "stop_id": "55712",
+        "stop_name": "Côte-Vertu / Montpellier"
+      },
+      {
+        "stop_id": "55720",
+        "stop_name": "Côte-Vertu / Muir"
+      },
+      {
+        "stop_id": "55730",
+        "stop_name": "Côte-Vertu / Jules-Poitras"
+      },
+      {
+        "stop_id": "55734",
+        "stop_name": "Côte-Vertu / Grimard"
+      },
+      {
+        "stop_id": "55865",
+        "stop_name": "Côte-Vertu / No 100"
+      },
+      {
+        "stop_id": "53682",
+        "stop_name": "Sauvé / Elzéar-Soucy"
+      },
+      {
+        "stop_id": "50328",
+        "stop_name": "Sauvé / de l'Acadie"
+      },
+      {
+        "stop_id": "50342",
+        "stop_name": "Sauvé / Meilleur"
+      },
+      {
+        "stop_id": "50354",
+        "stop_name": "Sauvé / Tolhurst"
+      },
+      {
+        "stop_id": "50370",
+        "stop_name": "Sauvé / Waverly"
+      },
+      {
+        "stop_id": "50382",
+        "stop_name": "Sauvé / Clark"
+      },
+      {
+        "stop_id": "50393",
+        "stop_name": "Sauvé / Grande Allée"
+      },
+      {
+        "stop_id": "50404",
+        "stop_name": "Sauvé / Laverdure"
+      },
+      {
+        "stop_id": "50438",
+        "stop_name": "Station Sauvé (Édicule Sud)"
+      },
+      {
+        "stop_id": "50443",
+        "stop_name": "Sauvé / Lajeunesse"
+      },
+      {
+        "stop_id": "50447",
+        "stop_name": "Sauvé / Millen"
+      },
+      {
+        "stop_id": "50469",
+        "stop_name": "Sauvé / Saint-Hubert"
+      },
+      {
+        "stop_id": "50488",
+        "stop_name": "Sauvé / Georges-Baril"
+      },
+      {
+        "stop_id": "50493",
+        "stop_name": "Sauvé / Chambord"
+      },
+      {
+        "stop_id": "50505",
+        "stop_name": "Sauvé / Christophe-Colomb"
+      },
+      {
+        "stop_id": "50528",
+        "stop_name": "Sauvé / Curotte"
+      },
+      {
+        "stop_id": "50543",
+        "stop_name": "Sauvé / Garnier"
+      },
+      {
+        "stop_id": "50558",
+        "stop_name": "Sauvé / Papineau"
+      },
+      {
+        "stop_id": "50572",
+        "stop_name": "Sauvé / Charton"
+      },
+      {
+        "stop_id": "50595",
+        "stop_name": "Sauvé / De Lorimier"
+      },
+      {
+        "stop_id": "50617",
+        "stop_name": "Sauvé / Parthenais"
+      },
+      {
+        "stop_id": "50634",
+        "stop_name": "Sauvé / de Lille"
+      },
+      {
+        "stop_id": "50667",
+        "stop_name": "Sauvé / D'Iberville"
+      },
+      {
+        "stop_id": "50686",
+        "stop_name": "Sauvé / Sackville"
+      },
+      {
+        "stop_id": "50719",
+        "stop_name": "Sauvé / Larose"
+      },
+      {
+        "stop_id": "54216",
+        "stop_name": "Saint-Michel / Sauvé"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54216",
+        "stop_name": "Saint-Michel / Sauvé"
+      },
+      {
+        "stop_id": "50802",
+        "stop_name": "Charland / J.-J.-Gagnier"
+      },
+      {
+        "stop_id": "50754",
+        "stop_name": "Charland / Sackville"
+      },
+      {
+        "stop_id": "50731",
+        "stop_name": "Charland / D'Iberville"
+      },
+      {
+        "stop_id": "50704",
+        "stop_name": "Charland / de Lille"
+      },
+      {
+        "stop_id": "50625",
+        "stop_name": "Sauvé / Rancourt"
+      },
+      {
+        "stop_id": "50616",
+        "stop_name": "Sauvé / Parthenais"
+      },
+      {
+        "stop_id": "50594",
+        "stop_name": "Sauvé / De Lorimier"
+      },
+      {
+        "stop_id": "50571",
+        "stop_name": "Sauvé / Charton"
+      },
+      {
+        "stop_id": "50556",
+        "stop_name": "Sauvé / Papineau"
+      },
+      {
+        "stop_id": "50542",
+        "stop_name": "Sauvé / Garnier"
+      },
+      {
+        "stop_id": "50527",
+        "stop_name": "Sauvé / Curotte"
+      },
+      {
+        "stop_id": "50503",
+        "stop_name": "Sauvé / Christophe-Colomb"
+      },
+      {
+        "stop_id": "50492",
+        "stop_name": "Sauvé / Chambord"
+      },
+      {
+        "stop_id": "50487",
+        "stop_name": "Sauvé / Georges-Baril"
+      },
+      {
+        "stop_id": "50467",
+        "stop_name": "Sauvé / Saint-Hubert"
+      },
+      {
+        "stop_id": "50446",
+        "stop_name": "Sauvé / Millen"
+      },
+      {
+        "stop_id": "50442",
+        "stop_name": "Sauvé / Lajeunesse"
+      },
+      {
+        "stop_id": "50439",
+        "stop_name": "Station Sauvé (Édicule Nord)"
+      },
+      {
+        "stop_id": "50403",
+        "stop_name": "Sauvé / Laverdure"
+      },
+      {
+        "stop_id": "50391",
+        "stop_name": "Sauvé / Saint-Laurent"
+      },
+      {
+        "stop_id": "50373",
+        "stop_name": "Sauvé / Saint-Urbain"
+      },
+      {
+        "stop_id": "50365",
+        "stop_name": "Sauvé / de l'Esplanade"
+      },
+      {
+        "stop_id": "50353",
+        "stop_name": "Sauvé / Tolhurst"
+      },
+      {
+        "stop_id": "50346",
+        "stop_name": "Sauvé / Verville"
+      },
+      {
+        "stop_id": "50341",
+        "stop_name": "Sauvé / Meilleur"
+      },
+      {
+        "stop_id": "50325",
+        "stop_name": "Sauvé / de l'Acadie (côté est)"
+      },
+      {
+        "stop_id": "50330",
+        "stop_name": "Sauvé / de l'Acadie (Côté ouest)"
+      },
+      {
+        "stop_id": "53681",
+        "stop_name": "Sauvé / Elzéar-Soucy"
+      },
+      {
+        "stop_id": "55736",
+        "stop_name": "Côte-Vertu / Lebeau"
+      },
+      {
+        "stop_id": "55733",
+        "stop_name": "Côte-Vertu / Grimard"
+      },
+      {
+        "stop_id": "55728",
+        "stop_name": "Côte-Vertu / Jules-Poitras"
+      },
+      {
+        "stop_id": "55718",
+        "stop_name": "Côte-Vertu / Muir"
+      },
+      {
+        "stop_id": "55707",
+        "stop_name": "Côte-Vertu / Champigny"
+      },
+      {
+        "stop_id": "55696",
+        "stop_name": "Côte-Vertu / Barré"
+      },
+      {
+        "stop_id": "55689",
+        "stop_name": "Côte-Vertu / Dutrisac"
+      },
+      {
+        "stop_id": "55661",
+        "stop_name": "Côte-Vertu / Sainte-Croix"
+      },
+      {
+        "stop_id": "55649",
+        "stop_name": "Côte-Vertu / Saint-Germain"
+      },
+      {
+        "stop_id": "60295",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "55677",
+        "stop_name": "Décarie / de l'Église"
+      },
+      {
+        "stop_id": "55825",
+        "stop_name": "Décarie / Beaudet"
+      },
+      {
+        "stop_id": "55706",
+        "stop_name": "Station Du Collège (Décarie / du Collège)"
+      },
+      {
+        "stop_id": "55723",
+        "stop_name": "Station Du Collège (Décarie / Saint-Louis)"
+      },
+      {
+        "stop_id": "55826",
+        "stop_name": "Décarie / No 290"
+      },
+      {
+        "stop_id": "55356",
+        "stop_name": "Côte-de-Liesse Nord / No 5415"
+      },
+      {
+        "stop_id": "55843",
+        "stop_name": "Côte-de-Liesse / No 5805"
+      },
+      {
+        "stop_id": "55655",
+        "stop_name": "Passerelle Isabey-Darnley (Côte-de-Liesse/Isabey)"
+      },
+      {
+        "stop_id": "55855",
+        "stop_name": "Côte-de-Liesse / No 6015"
+      },
+      {
+        "stop_id": "55602",
+        "stop_name": "Côte-de-Liesse / Cavendish"
+      },
+      {
+        "stop_id": "55779",
+        "stop_name": "Côte-de-Liesse / No 6395"
+      },
+      {
+        "stop_id": "55860",
+        "stop_name": "Passerelle Barr (Côte-de-Liesse / No 6665)"
+      },
+      {
+        "stop_id": "55521",
+        "stop_name": "Côte-de-Liesse Nord / McArthur"
+      },
+      {
+        "stop_id": "60711",
+        "stop_name": "Côte-de-Liesse / Griffith"
+      },
+      {
+        "stop_id": "55856",
+        "stop_name": "Côte-de-Liesse / Montée de Liesse"
+      },
+      {
+        "stop_id": "55482",
+        "stop_name": "Côte-de-Liesse / No 8305"
+      },
+      {
+        "stop_id": "55780",
+        "stop_name": "Côte-de-Liesse / No 8585"
+      },
+      {
+        "stop_id": "57489",
+        "stop_name": "Côte-de-Liesse / Autoroute Chomedey"
+      },
+      {
+        "stop_id": "57490",
+        "stop_name": "Côte-de-Liesse / Renaud"
+      },
+      {
+        "stop_id": "57526",
+        "stop_name": "Côte-de-Liesse / No 9551"
+      },
+      {
+        "stop_id": "57488",
+        "stop_name": "Côte-de-Liesse / No 10161"
+      },
+      {
+        "stop_id": "57487",
+        "stop_name": "Côte-de-Liesse / Riddle"
+      },
+      {
+        "stop_id": "57542",
+        "stop_name": "Côte-de-Liesse / No 10525"
+      },
+      {
+        "stop_id": "57565",
+        "stop_name": "Côte-de-Liesse / No 10755"
+      },
+      {
+        "stop_id": "57117",
+        "stop_name": "Côte-de-Liesse / Calais"
+      },
+      {
+        "stop_id": "57480",
+        "stop_name": "Côte-de-Liesse / Halpern"
+      },
+      {
+        "stop_id": "57477",
+        "stop_name": "Côte-de-Liesse / Avoca"
+      },
+      {
+        "stop_id": "57527",
+        "stop_name": "Côte-de-Liesse Nord / No 12055"
+      },
+      {
+        "stop_id": "61626",
+        "stop_name": "YUL Aéroport Montréal-Trudeau"
+      }
+    ]
+  }
+]

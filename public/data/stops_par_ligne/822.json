@@ -1,0 +1,59 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "62138",
+        "stop_name": "du Trianon / Joseph-Daoust (Terminus Radisson Sud"
+      },
+      {
+        "stop_id": "53980",
+        "stop_name": "Hochelaga / No 7401 (Hôpital L.-H.-La Fontaine)"
+      },
+      {
+        "stop_id": "53371",
+        "stop_name": "Haig / Ontario"
+      },
+      {
+        "stop_id": "53432",
+        "stop_name": "Haig / Notre-Dame"
+      },
+      {
+        "stop_id": "61913",
+        "stop_name": "des Futailles / No 1947"
+      },
+      {
+        "stop_id": "54340",
+        "stop_name": "Tellier / des Futailles"
+      },
+      {
+        "stop_id": "54365",
+        "stop_name": "De Boucherville / Hector-Barsalou"
+      },
+      {
+        "stop_id": "53499",
+        "stop_name": "De Boucherville / Notre-Dame"
+      },
+      {
+        "stop_id": "53431",
+        "stop_name": "Notre-Dame / Haig"
+      },
+      {
+        "stop_id": "53370",
+        "stop_name": "Haig / Ontario"
+      },
+      {
+        "stop_id": "62038",
+        "stop_name": "Hochelaga / Langelier"
+      },
+      {
+        "stop_id": "60440",
+        "stop_name": "Station Langelier (Sherbrooke / Langelier)"
+      },
+      {
+        "stop_id": "62344",
+        "stop_name": "Sherbrooke / du Trianon"
+      }
+    ]
+  }
+]

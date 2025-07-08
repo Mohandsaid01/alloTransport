@@ -1,0 +1,296 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "58050",
+        "stop_name": "Chevremont / Jacques-Bizard"
+      },
+      {
+        "stop_id": "58044",
+        "stop_name": "Chevremont / Lacombe"
+      },
+      {
+        "stop_id": "58042",
+        "stop_name": "Chevremont / Ouimet"
+      },
+      {
+        "stop_id": "58040",
+        "stop_name": "Chevremont / De Tonty"
+      },
+      {
+        "stop_id": "58039",
+        "stop_name": "Chevremont / de l'Église"
+      },
+      {
+        "stop_id": "58066",
+        "stop_name": "Centre socioculturel (de l'Église / No 490)"
+      },
+      {
+        "stop_id": "58046",
+        "stop_name": "de l'Église / Cherrier"
+      },
+      {
+        "stop_id": "58048",
+        "stop_name": "Cherrier / Dollard"
+      },
+      {
+        "stop_id": "58063",
+        "stop_name": "Cherrier / des Prés"
+      },
+      {
+        "stop_id": "58055",
+        "stop_name": "Cherrier / Lachapelle"
+      },
+      {
+        "stop_id": "58117",
+        "stop_name": "Jacques-Bizard / Gouin"
+      },
+      {
+        "stop_id": "58265",
+        "stop_name": "de Pierrefonds / Jacques-Bizard"
+      },
+      {
+        "stop_id": "58126",
+        "stop_name": "Jacques-Bizard / Labelle"
+      },
+      {
+        "stop_id": "58128",
+        "stop_name": "Jacques-Bizard / Fernand"
+      },
+      {
+        "stop_id": "58300",
+        "stop_name": "Jacques-Bizard / Highland"
+      },
+      {
+        "stop_id": "58131",
+        "stop_name": "Jacques-Bizard / Oakwood"
+      },
+      {
+        "stop_id": "57844",
+        "stop_name": "Sommerset / Nisko"
+      },
+      {
+        "stop_id": "57846",
+        "stop_name": "Sommerset / Garland"
+      },
+      {
+        "stop_id": "57848",
+        "stop_name": "Sommerset / Chapleau"
+      },
+      {
+        "stop_id": "57850",
+        "stop_name": "Sommerset / Roosevelt"
+      },
+      {
+        "stop_id": "57832",
+        "stop_name": "Sommerset / de Salaberry"
+      },
+      {
+        "stop_id": "57838",
+        "stop_name": "de Salaberry / Walworth"
+      },
+      {
+        "stop_id": "57839",
+        "stop_name": "de Salaberry / Devon"
+      },
+      {
+        "stop_id": "57840",
+        "stop_name": "De Salaberry / Boyer"
+      },
+      {
+        "stop_id": "57841",
+        "stop_name": "de Salaberry / Saint-Jean"
+      },
+      {
+        "stop_id": "57858",
+        "stop_name": "Saint-Jean / Devon"
+      },
+      {
+        "stop_id": "57616",
+        "stop_name": "Saint-Jean / Labrosse"
+      },
+      {
+        "stop_id": "57620",
+        "stop_name": "Saint-Jean / Brunswick"
+      },
+      {
+        "stop_id": "57821",
+        "stop_name": "Terminus Fairview"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "57821",
+        "stop_name": "Terminus Fairview"
+      },
+      {
+        "stop_id": "57981",
+        "stop_name": "Saint-Jean / Blue Haven"
+      },
+      {
+        "stop_id": "57980",
+        "stop_name": "de Salaberry / Hasting"
+      },
+      {
+        "stop_id": "57835",
+        "stop_name": "De Salaberry / Boyer"
+      },
+      {
+        "stop_id": "57836",
+        "stop_name": "de Salaberry / Devon"
+      },
+      {
+        "stop_id": "57979",
+        "stop_name": "de Salaberry / Walworth"
+      },
+      {
+        "stop_id": "57837",
+        "stop_name": "de Salaberry / Sommerset"
+      },
+      {
+        "stop_id": "57849",
+        "stop_name": "Sommerset / Roosevelt"
+      },
+      {
+        "stop_id": "57847",
+        "stop_name": "Sommerset / Chapleau"
+      },
+      {
+        "stop_id": "57845",
+        "stop_name": "Sommerset / Garland"
+      },
+      {
+        "stop_id": "57843",
+        "stop_name": "Sommerset / Shakespeare"
+      },
+      {
+        "stop_id": "58132",
+        "stop_name": "Jacques-Bizard / Oakwood"
+      },
+      {
+        "stop_id": "58129",
+        "stop_name": "Jacques-Bizard / Highland"
+      },
+      {
+        "stop_id": "58127",
+        "stop_name": "Jacques-Bizard / Fernand"
+      },
+      {
+        "stop_id": "58125",
+        "stop_name": "Jacques-Bizard / Labelle"
+      },
+      {
+        "stop_id": "58123",
+        "stop_name": "Jacques-Bizard / de Pierrefonds"
+      },
+      {
+        "stop_id": "58267",
+        "stop_name": "Jacques-Bizard / de Pierrefonds"
+      },
+      {
+        "stop_id": "58114",
+        "stop_name": "Jacques-Bizard / Gouin"
+      },
+      {
+        "stop_id": "58056",
+        "stop_name": "Cherrier / Lachapelle"
+      },
+      {
+        "stop_id": "58062",
+        "stop_name": "Cherrier / des Prés"
+      },
+      {
+        "stop_id": "58047",
+        "stop_name": "Cherrier / Saint-Charles"
+      },
+      {
+        "stop_id": "58045",
+        "stop_name": "Cherrier / de l'Église"
+      },
+      {
+        "stop_id": "58065",
+        "stop_name": "École Jacques-Bizard (de l'Église / No 515)"
+      },
+      {
+        "stop_id": "58038",
+        "stop_name": "de l'Église / Chevremont"
+      },
+      {
+        "stop_id": "58041",
+        "stop_name": "Chevremont / De Tonty"
+      },
+      {
+        "stop_id": "58043",
+        "stop_name": "Chevremont / Ouimet"
+      },
+      {
+        "stop_id": "58064",
+        "stop_name": "Chevremont / Aimé-Lecavalier"
+      },
+      {
+        "stop_id": "58049",
+        "stop_name": "Chevremont / Jacques-Bizard"
+      },
+      {
+        "stop_id": "58034",
+        "stop_name": "Chevremont / No 3250"
+      },
+      {
+        "stop_id": "58051",
+        "stop_name": "Chèvremont / Jules-Janvril"
+      },
+      {
+        "stop_id": "58052",
+        "stop_name": "Chevremont / Beaulieu"
+      },
+      {
+        "stop_id": "58053",
+        "stop_name": "Chevremont / Joncaire"
+      },
+      {
+        "stop_id": "58058",
+        "stop_name": "Chevremont / Saint-Malo"
+      },
+      {
+        "stop_id": "58035",
+        "stop_name": "Chèvremont / du Triolet"
+      },
+      {
+        "stop_id": "58036",
+        "stop_name": "du Triolet / Cherrier"
+      },
+      {
+        "stop_id": "58061",
+        "stop_name": "Cherrier / Pierre-Foretier"
+      },
+      {
+        "stop_id": "58060",
+        "stop_name": "Cherrier / Léon-Brisebois"
+      },
+      {
+        "stop_id": "58037",
+        "stop_name": "Cherrier / Denis"
+      },
+      {
+        "stop_id": "58059",
+        "stop_name": "Cherrier / Poudrette"
+      },
+      {
+        "stop_id": "58057",
+        "stop_name": "Cherrier / Pierre-Boileau"
+      },
+      {
+        "stop_id": "58054",
+        "stop_name": "Cherrier / Jacques-Bizard"
+      },
+      {
+        "stop_id": "58050",
+        "stop_name": "Chevremont / Jacques-Bizard"
+      }
+    ]
+  }
+]

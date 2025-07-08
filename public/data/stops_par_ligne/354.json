@@ -1,0 +1,160 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "58582",
+        "stop_name": "Gare Sainte-Anne-de-Bellevue"
+      },
+      {
+        "stop_id": "58558",
+        "stop_name": "Sainte-Anne / Saint-Charles"
+      },
+      {
+        "stop_id": "58556",
+        "stop_name": "Sainte-Anne / de l'Église"
+      },
+      {
+        "stop_id": "58560",
+        "stop_name": "Sainte-Anne / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "58565",
+        "stop_name": "Sainte-Anne / Lalonde"
+      },
+      {
+        "stop_id": "58583",
+        "stop_name": "Sainte-Anne / Perrault"
+      },
+      {
+        "stop_id": "58568",
+        "stop_name": "Maple / Lakeshore"
+      },
+      {
+        "stop_id": "58554",
+        "stop_name": "Maple / Autoroute 20"
+      },
+      {
+        "stop_id": "58524",
+        "stop_name": "Gare Baie-D'Urfé"
+      },
+      {
+        "stop_id": "58489",
+        "stop_name": "Gare Beaurepaire (sortie 45 / Woodland)"
+      },
+      {
+        "stop_id": "58484",
+        "stop_name": "Gare Beaconsfield"
+      },
+      {
+        "stop_id": "58482",
+        "stop_name": "Gare Beaconsfield"
+      },
+      {
+        "stop_id": "57825",
+        "stop_name": "Autoroute 20 / Cartier"
+      },
+      {
+        "stop_id": "57772",
+        "stop_name": "Autoroute 20 / Saint-Jean"
+      },
+      {
+        "stop_id": "57789",
+        "stop_name": "Gare Pointe-Claire"
+      },
+      {
+        "stop_id": "61125",
+        "stop_name": "des Sources / Cardinal"
+      },
+      {
+        "stop_id": "57379",
+        "stop_name": "Cardinal / Strathmore"
+      },
+      {
+        "stop_id": "57394",
+        "stop_name": "Cardinal / Neptune"
+      },
+      {
+        "stop_id": "57421",
+        "stop_name": "Gare Pine Beach (Cardinal / Pine Beach)"
+      },
+      {
+        "stop_id": "57535",
+        "stop_name": "Cardinal / Stuart-Graham"
+      },
+      {
+        "stop_id": "57507",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "56297",
+        "stop_name": "Station Atwater (Atwater / Sainte-Catherine)"
+      },
+      {
+        "stop_id": "60238",
+        "stop_name": "Station Atwater (Tupper / Atwater)"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "60238",
+        "stop_name": "Station Atwater (Tupper / Atwater)"
+      },
+      {
+        "stop_id": "57540",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "57534",
+        "stop_name": "Cardinal / Stuart-Graham"
+      },
+      {
+        "stop_id": "57420",
+        "stop_name": "Gare Pine Beach (Cardinal / Westwood)"
+      },
+      {
+        "stop_id": "57392",
+        "stop_name": "Cardinal / Neptune"
+      },
+      {
+        "stop_id": "60402",
+        "stop_name": "Cardinal / Strathmore"
+      },
+      {
+        "stop_id": "57779",
+        "stop_name": "Cardinal / des Sources"
+      },
+      {
+        "stop_id": "57790",
+        "stop_name": "Gare Pointe-Claire"
+      },
+      {
+        "stop_id": "57811",
+        "stop_name": "Autoroute 20 Ouest / Saint-Jean"
+      },
+      {
+        "stop_id": "57824",
+        "stop_name": "Autoroute 20 / Cartier"
+      },
+      {
+        "stop_id": "58493",
+        "stop_name": "Gare Beaconsfield"
+      },
+      {
+        "stop_id": "62142",
+        "stop_name": "Gare Beaurepaire"
+      },
+      {
+        "stop_id": "58526",
+        "stop_name": "Gare Baie-D'Urfé"
+      },
+      {
+        "stop_id": "58582",
+        "stop_name": "Gare Sainte-Anne-de-Bellevue"
+      }
+    ]
+  }
+]

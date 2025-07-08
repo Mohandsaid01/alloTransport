@@ -1,0 +1,236 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "58296",
+        "stop_name": "du Château-Pierrefonds / Oka"
+      },
+      {
+        "stop_id": "58259",
+        "stop_name": "du Château-Pierrefonds / du Manoir"
+      },
+      {
+        "stop_id": "58233",
+        "stop_name": "du Château-Pierrefonds / de Pierrefonds"
+      },
+      {
+        "stop_id": "58230",
+        "stop_name": "du Château-Pierrefonds / Meloche"
+      },
+      {
+        "stop_id": "58228",
+        "stop_name": "du Château-Pierrefonds / Antoine-Faucon"
+      },
+      {
+        "stop_id": "58224",
+        "stop_name": "Antoine-Faucon / des Cageux"
+      },
+      {
+        "stop_id": "58226",
+        "stop_name": "Antoine-Faucon / Grilli"
+      },
+      {
+        "stop_id": "58221",
+        "stop_name": "Antoine-Faucon / Henri-Daoust"
+      },
+      {
+        "stop_id": "58106",
+        "stop_name": "Antoine-Faucon / Biroleau"
+      },
+      {
+        "stop_id": "58112",
+        "stop_name": "Antoine-Faucon / Saint-Charles"
+      },
+      {
+        "stop_id": "58382",
+        "stop_name": "Saint-Charles / du Barry"
+      },
+      {
+        "stop_id": "58349",
+        "stop_name": "Brunswick / du Merlot"
+      },
+      {
+        "stop_id": "58377",
+        "stop_name": "Brunswick / Dubonnet"
+      },
+      {
+        "stop_id": "58375",
+        "stop_name": "Brunswick / Jonquille"
+      },
+      {
+        "stop_id": "58373",
+        "stop_name": "Brunswick / Charles E.-Frosst"
+      },
+      {
+        "stop_id": "58371",
+        "stop_name": "Brunswick / De Salaberry"
+      },
+      {
+        "stop_id": "58383",
+        "stop_name": "De Salaberry / Acres"
+      },
+      {
+        "stop_id": "58368",
+        "stop_name": "De Salaberry / Médoc"
+      },
+      {
+        "stop_id": "57978",
+        "stop_name": "de Salaberry / Sommerset"
+      },
+      {
+        "stop_id": "57838",
+        "stop_name": "de Salaberry / Walworth"
+      },
+      {
+        "stop_id": "57839",
+        "stop_name": "de Salaberry / Devon"
+      },
+      {
+        "stop_id": "57840",
+        "stop_name": "De Salaberry / Boyer"
+      },
+      {
+        "stop_id": "57841",
+        "stop_name": "de Salaberry / Saint-Jean"
+      },
+      {
+        "stop_id": "57858",
+        "stop_name": "Saint-Jean / Devon"
+      },
+      {
+        "stop_id": "57616",
+        "stop_name": "Saint-Jean / Labrosse"
+      },
+      {
+        "stop_id": "57608",
+        "stop_name": "Labrosse / Grandview"
+      },
+      {
+        "stop_id": "57823",
+        "stop_name": "Brunswick / Terminus Fairview"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "57823",
+        "stop_name": "Brunswick / Terminus Fairview"
+      },
+      {
+        "stop_id": "57981",
+        "stop_name": "Saint-Jean / Blue Haven"
+      },
+      {
+        "stop_id": "57980",
+        "stop_name": "de Salaberry / Hasting"
+      },
+      {
+        "stop_id": "57835",
+        "stop_name": "De Salaberry / Boyer"
+      },
+      {
+        "stop_id": "57836",
+        "stop_name": "de Salaberry / Devon"
+      },
+      {
+        "stop_id": "57979",
+        "stop_name": "de Salaberry / Walworth"
+      },
+      {
+        "stop_id": "57837",
+        "stop_name": "de Salaberry / Sommerset"
+      },
+      {
+        "stop_id": "58367",
+        "stop_name": "de Salaberry / Berkshire"
+      },
+      {
+        "stop_id": "58384",
+        "stop_name": "De Salaberry / Acres"
+      },
+      {
+        "stop_id": "58370",
+        "stop_name": "de Salaberry / Brunswick"
+      },
+      {
+        "stop_id": "58372",
+        "stop_name": "Brunswick / Argyle"
+      },
+      {
+        "stop_id": "58374",
+        "stop_name": "Brunswick / Jonquille"
+      },
+      {
+        "stop_id": "58376",
+        "stop_name": "Brunswick / Jonquille"
+      },
+      {
+        "stop_id": "58347",
+        "stop_name": "Brunswick / du Merlot"
+      },
+      {
+        "stop_id": "58381",
+        "stop_name": "Saint-Charles / du Barry"
+      },
+      {
+        "stop_id": "58113",
+        "stop_name": "Antoine-Faucon / Saint-Charles"
+      },
+      {
+        "stop_id": "58105",
+        "stop_name": "Antoine-Faucon / Biroleau"
+      },
+      {
+        "stop_id": "58220",
+        "stop_name": "Antoine-Faucon / Henri-Daoust"
+      },
+      {
+        "stop_id": "58225",
+        "stop_name": "Antoine-Faucon / Grilli"
+      },
+      {
+        "stop_id": "58223",
+        "stop_name": "Antoine-Faucon / des Cageux"
+      },
+      {
+        "stop_id": "58227",
+        "stop_name": "Antoine-Faucon / du Château-Pierrefonds"
+      },
+      {
+        "stop_id": "58229",
+        "stop_name": "du Château-Pierrefonds / Meloche"
+      },
+      {
+        "stop_id": "58231",
+        "stop_name": "du Château-Pierrefonds / Rousson"
+      },
+      {
+        "stop_id": "58239",
+        "stop_name": "de Pierrefonds / Prével"
+      },
+      {
+        "stop_id": "58243",
+        "stop_name": "des Cageux / Legault"
+      },
+      {
+        "stop_id": "58249",
+        "stop_name": "des Cageux / Gouin"
+      },
+      {
+        "stop_id": "58087",
+        "stop_name": "Gouin / Coursol"
+      },
+      {
+        "stop_id": "58286",
+        "stop_name": "Usine de filtration de Pierrefonds"
+      },
+      {
+        "stop_id": "58296",
+        "stop_name": "du Château-Pierrefonds / Oka"
+      }
+    ]
+  }
+]

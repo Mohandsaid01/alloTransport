@@ -1,0 +1,808 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "50507",
+        "stop_name": "Station Namur (Jean-Talon / Décarie)"
+      },
+      {
+        "stop_id": "50475",
+        "stop_name": "Décarie / Paré"
+      },
+      {
+        "stop_id": "50435",
+        "stop_name": "Décarie / Ferrier"
+      },
+      {
+        "stop_id": "50410",
+        "stop_name": "Décarie / de la Savane"
+      },
+      {
+        "stop_id": "50377",
+        "stop_name": "Station De la Savane (Décarie / de Sorel)"
+      },
+      {
+        "stop_id": "56023",
+        "stop_name": "Décarie / Duncan"
+      },
+      {
+        "stop_id": "55827",
+        "stop_name": "Décarie / No 255"
+      },
+      {
+        "stop_id": "55717",
+        "stop_name": "Station Du Collège (Décarie / Cartier)"
+      },
+      {
+        "stop_id": "55703",
+        "stop_name": "Station Du Collège (Décarie / du Collège)"
+      },
+      {
+        "stop_id": "55675",
+        "stop_name": "Décarie / de l'Église"
+      },
+      {
+        "stop_id": "55658",
+        "stop_name": "Décarie / Decelles"
+      },
+      {
+        "stop_id": "55640",
+        "stop_name": "Station Côte-Vertu (Décarie / Côte-Vertu)"
+      },
+      {
+        "stop_id": "60394",
+        "stop_name": "Rochon / Cardinal"
+      },
+      {
+        "stop_id": "55574",
+        "stop_name": "Cardinal / Tassé"
+      },
+      {
+        "stop_id": "55548",
+        "stop_name": "Cardinal / Deguire"
+      },
+      {
+        "stop_id": "55531",
+        "stop_name": "Deguire / Grenet"
+      },
+      {
+        "stop_id": "55868",
+        "stop_name": "Grenet / Bombardier"
+      },
+      {
+        "stop_id": "55504",
+        "stop_name": "Grenet / Poirier"
+      },
+      {
+        "stop_id": "55490",
+        "stop_name": "Grenet / Cambridge"
+      },
+      {
+        "stop_id": "55476",
+        "stop_name": "Grenet / Oxford"
+      },
+      {
+        "stop_id": "55470",
+        "stop_name": "Grenet / Laval"
+      },
+      {
+        "stop_id": "55457",
+        "stop_name": "Grenet / Henri-Bourassa"
+      },
+      {
+        "stop_id": "50191",
+        "stop_name": "Gare Bois-Franc (Grenet / Ranger)"
+      },
+      {
+        "stop_id": "50183",
+        "stop_name": "Grenet / de Louisbourg"
+      },
+      {
+        "stop_id": "53758",
+        "stop_name": "Grenet / No 11940"
+      },
+      {
+        "stop_id": "50171",
+        "stop_name": "Grenet / De Salaberry"
+      },
+      {
+        "stop_id": "50161",
+        "stop_name": "Grenet / Legault"
+      },
+      {
+        "stop_id": "50154",
+        "stop_name": "Grenet / De Mésy"
+      },
+      {
+        "stop_id": "50151",
+        "stop_name": "Grenet / Gouin"
+      },
+      {
+        "stop_id": "50144",
+        "stop_name": "Gouin / Laurentien"
+      },
+      {
+        "stop_id": "50142",
+        "stop_name": "Gouin / Cousineau"
+      },
+      {
+        "stop_id": "50140",
+        "stop_name": "Gouin / de Somerset"
+      },
+      {
+        "stop_id": "50138",
+        "stop_name": "Gouin / du Golf"
+      },
+      {
+        "stop_id": "50136",
+        "stop_name": "Gouin / Henri-D'Arles"
+      },
+      {
+        "stop_id": "50134",
+        "stop_name": "Gouin / Olivier"
+      },
+      {
+        "stop_id": "50132",
+        "stop_name": "Gouin / de Beauséjour"
+      },
+      {
+        "stop_id": "50128",
+        "stop_name": "Gouin / Toupin"
+      },
+      {
+        "stop_id": "50127",
+        "stop_name": "Gouin / Albert-Prévost"
+      },
+      {
+        "stop_id": "50126",
+        "stop_name": "Gouin / Antoine-Berthelet"
+      },
+      {
+        "stop_id": "50125",
+        "stop_name": "Gouin / Wilfrid-Lazure"
+      },
+      {
+        "stop_id": "53770",
+        "stop_name": "Gouin / Résidence Saraguay"
+      },
+      {
+        "stop_id": "53690",
+        "stop_name": "Gouin / LeMesurier"
+      },
+      {
+        "stop_id": "54020",
+        "stop_name": "Gouin / Wood"
+      },
+      {
+        "stop_id": "50124",
+        "stop_name": "Gouin / du Ruisseau"
+      },
+      {
+        "stop_id": "58287",
+        "stop_name": "Gouin / No 9409"
+      },
+      {
+        "stop_id": "58219",
+        "stop_name": "Gouin / Wilfrid"
+      },
+      {
+        "stop_id": "58217",
+        "stop_name": "Gouin / d'Orléans"
+      },
+      {
+        "stop_id": "58216",
+        "stop_name": "Gouin / Hortie"
+      },
+      {
+        "stop_id": "58215",
+        "stop_name": "Gouin / Laurin"
+      },
+      {
+        "stop_id": "58213",
+        "stop_name": "Gouin / Alexander"
+      },
+      {
+        "stop_id": "58212",
+        "stop_name": "Gouin / Robitaille"
+      },
+      {
+        "stop_id": "58211",
+        "stop_name": "Gare Sunnybrooke (Gouin / de Lucerne)"
+      },
+      {
+        "stop_id": "58210",
+        "stop_name": "Gouin / Deslauriers"
+      },
+      {
+        "stop_id": "58209",
+        "stop_name": "Gouin / Dollard"
+      },
+      {
+        "stop_id": "58017",
+        "stop_name": "Gouin / 1re Rue"
+      },
+      {
+        "stop_id": "58012",
+        "stop_name": "Gouin / 2e Rue"
+      },
+      {
+        "stop_id": "58252",
+        "stop_name": "Gouin / No 10376"
+      },
+      {
+        "stop_id": "58324",
+        "stop_name": "Gouin / Le Boulevard"
+      },
+      {
+        "stop_id": "58019",
+        "stop_name": "Gouin / 2e Avenue"
+      },
+      {
+        "stop_id": "58003",
+        "stop_name": "Gouin / 4e Avenue"
+      },
+      {
+        "stop_id": "58207",
+        "stop_name": "Gouin / Meighen"
+      },
+      {
+        "stop_id": "58020",
+        "stop_name": "Gouin / 8e Avenue"
+      },
+      {
+        "stop_id": "58203",
+        "stop_name": "Gouin / de Pierrefonds"
+      },
+      {
+        "stop_id": "58196",
+        "stop_name": "des Sources / Gouin"
+      },
+      {
+        "stop_id": "58304",
+        "stop_name": "de Pierrefonds / No 11700"
+      },
+      {
+        "stop_id": "58302",
+        "stop_name": "de Pierrefonds / No 11950"
+      },
+      {
+        "stop_id": "58197",
+        "stop_name": "de Pierrefonds / Saint-Barnabas"
+      },
+      {
+        "stop_id": "58188",
+        "stop_name": "de Pierrefonds / Westpark"
+      },
+      {
+        "stop_id": "58246",
+        "stop_name": "de Pierrefonds / Perron"
+      },
+      {
+        "stop_id": "58173",
+        "stop_name": "de Pierrefonds / Fredmir"
+      },
+      {
+        "stop_id": "58162",
+        "stop_name": "de Pierrefonds / Belleville"
+      },
+      {
+        "stop_id": "58273",
+        "stop_name": "de Pierrefonds / Fox"
+      },
+      {
+        "stop_id": "58271",
+        "stop_name": "de Pierrefonds / Richmond"
+      },
+      {
+        "stop_id": "58141",
+        "stop_name": "de Pierrefonds / René-Émard"
+      },
+      {
+        "stop_id": "60536",
+        "stop_name": "Saint-Jean / Harry-Worth"
+      },
+      {
+        "stop_id": "57997",
+        "stop_name": "Saint-Jean / Jolicoeur"
+      },
+      {
+        "stop_id": "57851",
+        "stop_name": "Saint-Jean / Harris"
+      },
+      {
+        "stop_id": "57853",
+        "stop_name": "Saint-Jean / Shakespeare"
+      },
+      {
+        "stop_id": "57855",
+        "stop_name": "Saint-Jean / Westminster"
+      },
+      {
+        "stop_id": "57833",
+        "stop_name": "Saint-Jean / de Salaberry"
+      },
+      {
+        "stop_id": "57858",
+        "stop_name": "Saint-Jean / Devon"
+      },
+      {
+        "stop_id": "57616",
+        "stop_name": "Saint-Jean / Labrosse"
+      },
+      {
+        "stop_id": "61309",
+        "stop_name": "Saint-Jean / Brunswick"
+      },
+      {
+        "stop_id": "57649",
+        "stop_name": "Hymus / Saint-Jean"
+      },
+      {
+        "stop_id": "57637",
+        "stop_name": "Hymus / Paprican"
+      },
+      {
+        "stop_id": "57622",
+        "stop_name": "Hymus / Alston"
+      },
+      {
+        "stop_id": "57614",
+        "stop_name": "Hymus / No 285"
+      },
+      {
+        "stop_id": "60652",
+        "stop_name": "Hymus / No 300"
+      },
+      {
+        "stop_id": "57603",
+        "stop_name": "Hymus / Stillview"
+      },
+      {
+        "stop_id": "58365",
+        "stop_name": "Hymus / André-Brunet"
+      },
+      {
+        "stop_id": "58363",
+        "stop_name": "Hymus / Eaton"
+      },
+      {
+        "stop_id": "58360",
+        "stop_name": "Hymus / du Châteauneuf"
+      },
+      {
+        "stop_id": "58357",
+        "stop_name": "Hymus / de la Caravelle"
+      },
+      {
+        "stop_id": "58356",
+        "stop_name": "Hymus / No 16889"
+      },
+      {
+        "stop_id": "58378",
+        "stop_name": "Saint-Charles / Hymus"
+      },
+      {
+        "stop_id": "58355",
+        "stop_name": "Saint-Charles / Kirkland"
+      },
+      {
+        "stop_id": "58391",
+        "stop_name": "Saint-Charles / No 2768"
+      },
+      {
+        "stop_id": "58462",
+        "stop_name": "Saint-Charles / Creswell"
+      },
+      {
+        "stop_id": "58466",
+        "stop_name": "Saint-Charles / Sherbrooke"
+      },
+      {
+        "stop_id": "58485",
+        "stop_name": "Gare Beaconsfield"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "58485",
+        "stop_name": "Gare Beaconsfield"
+      },
+      {
+        "stop_id": "58467",
+        "stop_name": "Saint-Charles / Sherbrooke"
+      },
+      {
+        "stop_id": "58461",
+        "stop_name": "Saint-Charles / Creswell"
+      },
+      {
+        "stop_id": "58390",
+        "stop_name": "Saint-Charles / No 2755"
+      },
+      {
+        "stop_id": "58354",
+        "stop_name": "Saint-Charles / Kirkland"
+      },
+      {
+        "stop_id": "58351",
+        "stop_name": "Saint-Charles / Hymus"
+      },
+      {
+        "stop_id": "58386",
+        "stop_name": "Hymus / No 16889"
+      },
+      {
+        "stop_id": "58358",
+        "stop_name": "Hymus / de la Caravelle"
+      },
+      {
+        "stop_id": "58361",
+        "stop_name": "Hymus / du Châteauneuf"
+      },
+      {
+        "stop_id": "58364",
+        "stop_name": "Hymus / Eaton"
+      },
+      {
+        "stop_id": "58366",
+        "stop_name": "Hymus / André-Brunet"
+      },
+      {
+        "stop_id": "57604",
+        "stop_name": "Hymus / Stillview"
+      },
+      {
+        "stop_id": "60651",
+        "stop_name": "Hymus / No 300"
+      },
+      {
+        "stop_id": "57623",
+        "stop_name": "Hymus / Alston"
+      },
+      {
+        "stop_id": "57636",
+        "stop_name": "Hymus / Paprican"
+      },
+      {
+        "stop_id": "57648",
+        "stop_name": "Hymus / Saint-Jean"
+      },
+      {
+        "stop_id": "57808",
+        "stop_name": "Saint-Jean / Holiday"
+      },
+      {
+        "stop_id": "57792",
+        "stop_name": "Saint-Jean / Complexe Pointe-Claire"
+      },
+      {
+        "stop_id": "57981",
+        "stop_name": "Saint-Jean / Blue Haven"
+      },
+      {
+        "stop_id": "57834",
+        "stop_name": "Saint-Jean / de Salaberry"
+      },
+      {
+        "stop_id": "57854",
+        "stop_name": "Saint-Jean / Lake"
+      },
+      {
+        "stop_id": "57852",
+        "stop_name": "Saint-Jean / Roger-Pilon"
+      },
+      {
+        "stop_id": "57994",
+        "stop_name": "Saint-Jean / Ernest"
+      },
+      {
+        "stop_id": "58147",
+        "stop_name": "Saint-Jean / Anselme-Lavigne"
+      },
+      {
+        "stop_id": "60537",
+        "stop_name": "Saint-Jean / Harry-Worth"
+      },
+      {
+        "stop_id": "58135",
+        "stop_name": "Saint-Jean / de Pierrefonds"
+      },
+      {
+        "stop_id": "58143",
+        "stop_name": "de Pierrefonds / René-Émard"
+      },
+      {
+        "stop_id": "58270",
+        "stop_name": "de Pierrefonds / Richmond"
+      },
+      {
+        "stop_id": "58272",
+        "stop_name": "de Pierrefonds / Aragon"
+      },
+      {
+        "stop_id": "58274",
+        "stop_name": "de Pierrefonds / Belleville"
+      },
+      {
+        "stop_id": "58174",
+        "stop_name": "de Pierrefonds / Fredmir"
+      },
+      {
+        "stop_id": "58247",
+        "stop_name": "de Pierrefonds / Perron"
+      },
+      {
+        "stop_id": "58275",
+        "stop_name": "de Pierrefonds / Westpark"
+      },
+      {
+        "stop_id": "58276",
+        "stop_name": "de Pierrefonds / Saint-Barnabas"
+      },
+      {
+        "stop_id": "58301",
+        "stop_name": "de Pierrefonds / No 11950"
+      },
+      {
+        "stop_id": "58303",
+        "stop_name": "de Pierrefonds / No 11700"
+      },
+      {
+        "stop_id": "58200",
+        "stop_name": "de Pierrefonds / des Sources"
+      },
+      {
+        "stop_id": "58202",
+        "stop_name": "de Pierrefonds / Gouin"
+      },
+      {
+        "stop_id": "58013",
+        "stop_name": "Gouin / 6e Avenue"
+      },
+      {
+        "stop_id": "58208",
+        "stop_name": "Gare Roxboro-Pierrefonds"
+      },
+      {
+        "stop_id": "58004",
+        "stop_name": "Gouin / 4e Avenue"
+      },
+      {
+        "stop_id": "58018",
+        "stop_name": "Gouin / 2e Avenue"
+      },
+      {
+        "stop_id": "58014",
+        "stop_name": "Gouin / The Boulevard"
+      },
+      {
+        "stop_id": "58251",
+        "stop_name": "Gouin / No 10376"
+      },
+      {
+        "stop_id": "58015",
+        "stop_name": "Gouin / 2e Rue"
+      },
+      {
+        "stop_id": "58016",
+        "stop_name": "Gouin / 1re Rue"
+      },
+      {
+        "stop_id": "58278",
+        "stop_name": "Gouin / Dollard"
+      },
+      {
+        "stop_id": "58279",
+        "stop_name": "Gouin / Deslauriers"
+      },
+      {
+        "stop_id": "58235",
+        "stop_name": "Gare Sunnybrooke (Gouin / Sunnybrooke)"
+      },
+      {
+        "stop_id": "58280",
+        "stop_name": "Gouin / Robitaille"
+      },
+      {
+        "stop_id": "58214",
+        "stop_name": "Gouin / Alexander"
+      },
+      {
+        "stop_id": "58281",
+        "stop_name": "Gouin / Hortie"
+      },
+      {
+        "stop_id": "58218",
+        "stop_name": "Gouin / d'Orléans"
+      },
+      {
+        "stop_id": "58282",
+        "stop_name": "Gouin / Wilfrid"
+      },
+      {
+        "stop_id": "58283",
+        "stop_name": "Gouin / Autoroute 13"
+      },
+      {
+        "stop_id": "54064",
+        "stop_name": "Gouin / Camille"
+      },
+      {
+        "stop_id": "53766",
+        "stop_name": "Gouin / Wood"
+      },
+      {
+        "stop_id": "53691",
+        "stop_name": "Gouin / LeMesurier"
+      },
+      {
+        "stop_id": "53771",
+        "stop_name": "Gouin / Résidence Saraguay"
+      },
+      {
+        "stop_id": "53767",
+        "stop_name": "Gouin / Joseph-Saucier"
+      },
+      {
+        "stop_id": "53768",
+        "stop_name": "Gouin / Antoine-Berthelet"
+      },
+      {
+        "stop_id": "53769",
+        "stop_name": "Gouin / Albert-Prévost"
+      },
+      {
+        "stop_id": "50129",
+        "stop_name": "Gouin / Toupin"
+      },
+      {
+        "stop_id": "50133",
+        "stop_name": "Gouin / de Beauséjour"
+      },
+      {
+        "stop_id": "50135",
+        "stop_name": "Gouin / Olivier"
+      },
+      {
+        "stop_id": "50137",
+        "stop_name": "Gouin / Henri-D'Arles"
+      },
+      {
+        "stop_id": "50139",
+        "stop_name": "Gouin / du Golf"
+      },
+      {
+        "stop_id": "50141",
+        "stop_name": "Gouin / de Somerset"
+      },
+      {
+        "stop_id": "50145",
+        "stop_name": "Gouin / Cousineau"
+      },
+      {
+        "stop_id": "50146",
+        "stop_name": "Gouin / Lachapelle"
+      },
+      {
+        "stop_id": "50155",
+        "stop_name": "Grenet / De Mésy"
+      },
+      {
+        "stop_id": "50162",
+        "stop_name": "Grenet / Legault"
+      },
+      {
+        "stop_id": "50173",
+        "stop_name": "Grenet / De Salaberry"
+      },
+      {
+        "stop_id": "50177",
+        "stop_name": "Grenet / No 11940"
+      },
+      {
+        "stop_id": "50184",
+        "stop_name": "Grenet / de Louisbourg"
+      },
+      {
+        "stop_id": "50192",
+        "stop_name": "Grenet / Ranger"
+      },
+      {
+        "stop_id": "55459",
+        "stop_name": "Grenet / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55471",
+        "stop_name": "Grenet / Laval"
+      },
+      {
+        "stop_id": "55477",
+        "stop_name": "Grenet / Oxford"
+      },
+      {
+        "stop_id": "55491",
+        "stop_name": "Grenet / Cambridge"
+      },
+      {
+        "stop_id": "55505",
+        "stop_name": "Grenet / Poirier"
+      },
+      {
+        "stop_id": "55867",
+        "stop_name": "Grenet / Bombardier"
+      },
+      {
+        "stop_id": "55532",
+        "stop_name": "Grenet / Deguire"
+      },
+      {
+        "stop_id": "55542",
+        "stop_name": "Deguire / Crevier"
+      },
+      {
+        "stop_id": "55569",
+        "stop_name": "Crevier / Tassé"
+      },
+      {
+        "stop_id": "55590",
+        "stop_name": "Crevier / Rochon"
+      },
+      {
+        "stop_id": "55615",
+        "stop_name": "Rochon / Gohier"
+      },
+      {
+        "stop_id": "55890",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "55677",
+        "stop_name": "Décarie / de l'Église"
+      },
+      {
+        "stop_id": "55825",
+        "stop_name": "Décarie / Beaudet"
+      },
+      {
+        "stop_id": "55706",
+        "stop_name": "Station Du Collège (Décarie / du Collège)"
+      },
+      {
+        "stop_id": "55723",
+        "stop_name": "Station Du Collège (Décarie / Saint-Louis)"
+      },
+      {
+        "stop_id": "55826",
+        "stop_name": "Décarie / No 290"
+      },
+      {
+        "stop_id": "56116",
+        "stop_name": "Décarie / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "56105",
+        "stop_name": "Décarie / No 8400"
+      },
+      {
+        "stop_id": "50398",
+        "stop_name": "Décarie / Royalmount"
+      },
+      {
+        "stop_id": "50436",
+        "stop_name": "Décarie / Ferrier"
+      },
+      {
+        "stop_id": "50477",
+        "stop_name": "Décarie / Paré"
+      },
+      {
+        "stop_id": "50507",
+        "stop_name": "Station Namur (Jean-Talon / Décarie)"
+      }
+    ]
+  }
+]

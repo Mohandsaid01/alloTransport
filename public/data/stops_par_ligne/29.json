@@ -1,0 +1,272 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "53035",
+        "stop_name": "Station Joliette (Joliette / Hochelaga)"
+      },
+      {
+        "stop_id": "53011",
+        "stop_name": "Hochelaga / Davidson"
+      },
+      {
+        "stop_id": "52999",
+        "stop_name": "Hochelaga / Saint-Germain"
+      },
+      {
+        "stop_id": "52966",
+        "stop_name": "Station Préfontaine (Édicule Nord)"
+      },
+      {
+        "stop_id": "52917",
+        "stop_name": "Hochelaga / Wurtele"
+      },
+      {
+        "stop_id": "52888",
+        "stop_name": "Hochelaga / Hogan"
+      },
+      {
+        "stop_id": "52878",
+        "stop_name": "Hochelaga / du Havre"
+      },
+      {
+        "stop_id": "52770",
+        "stop_name": "Frontenac / Sherbrooke"
+      },
+      {
+        "stop_id": "52715",
+        "stop_name": "Rachel / Frontenac"
+      },
+      {
+        "stop_id": "52639",
+        "stop_name": "Rachel / Fullum"
+      },
+      {
+        "stop_id": "52613",
+        "stop_name": "Rachel / Parthenais"
+      },
+      {
+        "stop_id": "52562",
+        "stop_name": "Rachel / De Lorimier"
+      },
+      {
+        "stop_id": "52525",
+        "stop_name": "Rachel / Dorion"
+      },
+      {
+        "stop_id": "61023",
+        "stop_name": "Rachel / Marquette"
+      },
+      {
+        "stop_id": "52435",
+        "stop_name": "Rachel / Fabre"
+      },
+      {
+        "stop_id": "52403",
+        "stop_name": "Rachel / De Lanaudière"
+      },
+      {
+        "stop_id": "52354",
+        "stop_name": "Rachel / De La Roche"
+      },
+      {
+        "stop_id": "52296",
+        "stop_name": "Rachel / de Mentana"
+      },
+      {
+        "stop_id": "52260",
+        "stop_name": "Rachel / Saint-Hubert"
+      },
+      {
+        "stop_id": "52206",
+        "stop_name": "Rachel / Saint-Denis"
+      },
+      {
+        "stop_id": "52151",
+        "stop_name": "Rachel / de l'Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "52104",
+        "stop_name": "Rachel / Saint-Laurent"
+      },
+      {
+        "stop_id": "52076",
+        "stop_name": "Saint-Urbain / Rachel"
+      },
+      {
+        "stop_id": "52139",
+        "stop_name": "Saint-Urbain / Duluth"
+      },
+      {
+        "stop_id": "52211",
+        "stop_name": "Hôpital Hôtel-Dieu de Montréal (St-Urbain / St-Cut"
+      },
+      {
+        "stop_id": "54140",
+        "stop_name": "Saint-Urbain / Roy"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54140",
+        "stop_name": "Saint-Urbain / Roy"
+      },
+      {
+        "stop_id": "52291",
+        "stop_name": "Saint-Laurent / Roy"
+      },
+      {
+        "stop_id": "52226",
+        "stop_name": "Saint-Laurent / Napoléon"
+      },
+      {
+        "stop_id": "52172",
+        "stop_name": "Saint-Laurent / Duluth"
+      },
+      {
+        "stop_id": "52103",
+        "stop_name": "Saint-Laurent / Rachel"
+      },
+      {
+        "stop_id": "52152",
+        "stop_name": "Rachel / de l'Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "52208",
+        "stop_name": "Rachel / Saint-Denis"
+      },
+      {
+        "stop_id": "52261",
+        "stop_name": "Rachel / Saint-Hubert"
+      },
+      {
+        "stop_id": "52297",
+        "stop_name": "Rachel / de Mentana"
+      },
+      {
+        "stop_id": "52355",
+        "stop_name": "Rachel / De La Roche"
+      },
+      {
+        "stop_id": "52404",
+        "stop_name": "Rachel / Calixa-Lavallée"
+      },
+      {
+        "stop_id": "52436",
+        "stop_name": "Rachel / Fabre"
+      },
+      {
+        "stop_id": "52477",
+        "stop_name": "Rachel / Papineau"
+      },
+      {
+        "stop_id": "52526",
+        "stop_name": "Rachel / de Bordeaux"
+      },
+      {
+        "stop_id": "52564",
+        "stop_name": "Rachel / De Lorimier"
+      },
+      {
+        "stop_id": "52614",
+        "stop_name": "Rachel / Parthenais"
+      },
+      {
+        "stop_id": "52640",
+        "stop_name": "Rachel / Fullum"
+      },
+      {
+        "stop_id": "52688",
+        "stop_name": "Rachel / D'Iberville"
+      },
+      {
+        "stop_id": "52764",
+        "stop_name": "D'Iberville / Sherbrooke"
+      },
+      {
+        "stop_id": "52858",
+        "stop_name": "Hochelaga / Frontenac"
+      },
+      {
+        "stop_id": "52877",
+        "stop_name": "Hochelaga / Gascon"
+      },
+      {
+        "stop_id": "52889",
+        "stop_name": "Hochelaga / Hogan"
+      },
+      {
+        "stop_id": "53750",
+        "stop_name": "Hochelaga / Florian"
+      },
+      {
+        "stop_id": "52967",
+        "stop_name": "Station Préfontaine (Édicule Sud)"
+      },
+      {
+        "stop_id": "53000",
+        "stop_name": "Hochelaga / Saint-Germain"
+      },
+      {
+        "stop_id": "53012",
+        "stop_name": "Hochelaga / Davidson"
+      },
+      {
+        "stop_id": "53021",
+        "stop_name": "Aylwin / Hochelaga"
+      },
+      {
+        "stop_id": "53076",
+        "stop_name": "Aylwin / de Rouen"
+      },
+      {
+        "stop_id": "53068",
+        "stop_name": "Davidson / de Rouen"
+      },
+      {
+        "stop_id": "53114",
+        "stop_name": "Davidson / Ontario"
+      },
+      {
+        "stop_id": "53145",
+        "stop_name": "Davidson / La Fontaine"
+      },
+      {
+        "stop_id": "53179",
+        "stop_name": "Davidson / Adam"
+      },
+      {
+        "stop_id": "53212",
+        "stop_name": "Davidson / Sainte-Catherine"
+      },
+      {
+        "stop_id": "53227",
+        "stop_name": "Sainte-Catherine / Aylwin"
+      },
+      {
+        "stop_id": "53194",
+        "stop_name": "Joliette / Adam"
+      },
+      {
+        "stop_id": "53163",
+        "stop_name": "Joliette / La Fontaine"
+      },
+      {
+        "stop_id": "53127",
+        "stop_name": "Joliette / Ontario"
+      },
+      {
+        "stop_id": "53084",
+        "stop_name": "Joliette / de Rouen"
+      },
+      {
+        "stop_id": "53035",
+        "stop_name": "Station Joliette (Joliette / Hochelaga)"
+      }
+    ]
+  }
+]

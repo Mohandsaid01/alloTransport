@@ -1,0 +1,248 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "60870",
+        "stop_name": "Terminus Lafleur / Newman"
+      },
+      {
+        "stop_id": "57055",
+        "stop_name": "Lafleur / Numéro 225"
+      },
+      {
+        "stop_id": "56761",
+        "stop_name": "Bergevin / des Oblats"
+      },
+      {
+        "stop_id": "56733",
+        "stop_name": "Bergevin / No 318"
+      },
+      {
+        "stop_id": "56755",
+        "stop_name": "Bergevin / Jean-Milot"
+      },
+      {
+        "stop_id": "56763",
+        "stop_name": "Jean-Milot / des Oblats"
+      },
+      {
+        "stop_id": "56782",
+        "stop_name": "Jean-Milot / Lafleur"
+      },
+      {
+        "stop_id": "62297",
+        "stop_name": "Jean-Milot / Comte"
+      },
+      {
+        "stop_id": "56817",
+        "stop_name": "Newman / 90e Avenue"
+      },
+      {
+        "stop_id": "56834",
+        "stop_name": "Newman / Dollard"
+      },
+      {
+        "stop_id": "56832",
+        "stop_name": "Dollard / Gloria"
+      },
+      {
+        "stop_id": "56844",
+        "stop_name": "Dollard / Réjane"
+      },
+      {
+        "stop_id": "57105",
+        "stop_name": "Dollard / Chartrand"
+      },
+      {
+        "stop_id": "56873",
+        "stop_name": "Dollard / John-F.-Kennedy"
+      },
+      {
+        "stop_id": "57067",
+        "stop_name": "Jean-Brillon / Marie-Claire"
+      },
+      {
+        "stop_id": "56888",
+        "stop_name": "Jean-Brillon / Rancourt"
+      },
+      {
+        "stop_id": "56909",
+        "stop_name": "Jean-Brillon / Patrice"
+      },
+      {
+        "stop_id": "56914",
+        "stop_name": "Jean-Brillon / Boursier"
+      },
+      {
+        "stop_id": "56925",
+        "stop_name": "Jean-Brillon / Shevchenko"
+      },
+      {
+        "stop_id": "56932",
+        "stop_name": "Jean-Brillon / Bernie"
+      },
+      {
+        "stop_id": "56940",
+        "stop_name": "Jean-Brillon / Thierry"
+      },
+      {
+        "stop_id": "56941",
+        "stop_name": "Jean-Brillon / Lapierre"
+      },
+      {
+        "stop_id": "56956",
+        "stop_name": "Lapierre / Jean-Chevalier"
+      },
+      {
+        "stop_id": "56966",
+        "stop_name": "Lapierre / Leclerc"
+      },
+      {
+        "stop_id": "57058",
+        "stop_name": "Cégep André-Laurendeau"
+      },
+      {
+        "stop_id": "57001",
+        "stop_name": "De La Vérendrye / Ducas"
+      },
+      {
+        "stop_id": "53896",
+        "stop_name": "Parc Angrignon"
+      },
+      {
+        "stop_id": "51785",
+        "stop_name": "des Trinitaires / D'Aragon"
+      },
+      {
+        "stop_id": "51687",
+        "stop_name": "des Trinitaires / Jogues"
+      },
+      {
+        "stop_id": "51611",
+        "stop_name": "des Trinitaires / Lamont"
+      },
+      {
+        "stop_id": "54106",
+        "stop_name": "Station Angrignon"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54106",
+        "stop_name": "Station Angrignon"
+      },
+      {
+        "stop_id": "51688",
+        "stop_name": "des Trinitaires / Jogues"
+      },
+      {
+        "stop_id": "51762",
+        "stop_name": "des Trinitaires / Dumas"
+      },
+      {
+        "stop_id": "53897",
+        "stop_name": "Parc Angrignon"
+      },
+      {
+        "stop_id": "57000",
+        "stop_name": "De La Vérendrye / Ducas"
+      },
+      {
+        "stop_id": "57059",
+        "stop_name": "Cégep André-Laurendeau"
+      },
+      {
+        "stop_id": "56965",
+        "stop_name": "Lapierre / Leclerc"
+      },
+      {
+        "stop_id": "56955",
+        "stop_name": "Lapierre / Jean-Chevalier"
+      },
+      {
+        "stop_id": "56942",
+        "stop_name": "Jean-Brillon / Lapierre"
+      },
+      {
+        "stop_id": "56939",
+        "stop_name": "Jean-Brillon / Thierry"
+      },
+      {
+        "stop_id": "56931",
+        "stop_name": "Jean-Brillon / Bernie"
+      },
+      {
+        "stop_id": "56923",
+        "stop_name": "Jean-Brillon / Shevchenko"
+      },
+      {
+        "stop_id": "57056",
+        "stop_name": "Jean-Brillon / Maurice"
+      },
+      {
+        "stop_id": "56908",
+        "stop_name": "Jean-Brillon / Patrice"
+      },
+      {
+        "stop_id": "56887",
+        "stop_name": "Jean-Brillon / Rancourt"
+      },
+      {
+        "stop_id": "56878",
+        "stop_name": "Jean-Brillon / Dollard"
+      },
+      {
+        "stop_id": "56858",
+        "stop_name": "Dollard / David-Boyer"
+      },
+      {
+        "stop_id": "56843",
+        "stop_name": "Dollard / Réjane"
+      },
+      {
+        "stop_id": "56836",
+        "stop_name": "Newman / Dollard"
+      },
+      {
+        "stop_id": "56811",
+        "stop_name": "Newman / Jean-Milot"
+      },
+      {
+        "stop_id": "62298",
+        "stop_name": "Jean-Milot / d'Amour"
+      },
+      {
+        "stop_id": "56784",
+        "stop_name": "Jean-Milot / Lafleur"
+      },
+      {
+        "stop_id": "56764",
+        "stop_name": "Jean-Milot / Louis-Fortier"
+      },
+      {
+        "stop_id": "59778",
+        "stop_name": "Bergevin / Jean-Milot"
+      },
+      {
+        "stop_id": "56732",
+        "stop_name": "Bergevin / No 318"
+      },
+      {
+        "stop_id": "56762",
+        "stop_name": "Bergevin / des Oblats"
+      },
+      {
+        "stop_id": "56734",
+        "stop_name": "Lafleur / Numéro 220"
+      },
+      {
+        "stop_id": "60870",
+        "stop_name": "Terminus Lafleur / Newman"
+      }
+    ]
+  }
+]

@@ -1,0 +1,400 @@
+[
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "52947",
+        "stop_name": "Saint-Laurent / Saint-Jacques"
+      },
+      {
+        "stop_id": "52918",
+        "stop_name": "Saint-Laurent / Saint-Antoine"
+      },
+      {
+        "stop_id": "52806",
+        "stop_name": "Saint-Laurent / De la Gauchetière"
+      },
+      {
+        "stop_id": "52780",
+        "stop_name": "Saint-Laurent / René-Lévesque"
+      },
+      {
+        "stop_id": "52710",
+        "stop_name": "Saint-Laurent / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52649",
+        "stop_name": "Station Saint-Laurent / De Maisonneuve"
+      },
+      {
+        "stop_id": "52610",
+        "stop_name": "Saint-Laurent / Ontario"
+      },
+      {
+        "stop_id": "52511",
+        "stop_name": "Saint-Laurent / Sherbrooke"
+      },
+      {
+        "stop_id": "52400",
+        "stop_name": "Saint-Laurent / Prince-Arthur"
+      },
+      {
+        "stop_id": "52291",
+        "stop_name": "Saint-Laurent / Roy"
+      },
+      {
+        "stop_id": "52226",
+        "stop_name": "Saint-Laurent / Napoléon"
+      },
+      {
+        "stop_id": "52172",
+        "stop_name": "Saint-Laurent / Duluth"
+      },
+      {
+        "stop_id": "52103",
+        "stop_name": "Saint-Laurent / Rachel"
+      },
+      {
+        "stop_id": "52039",
+        "stop_name": "Saint-Laurent / Marie-Anne"
+      },
+      {
+        "stop_id": "51971",
+        "stop_name": "Saint-Laurent / du Mont-Royal"
+      },
+      {
+        "stop_id": "51875",
+        "stop_name": "Saint-Laurent / Villeneuve"
+      },
+      {
+        "stop_id": "51827",
+        "stop_name": "Saint-Laurent / Saint-Joseph"
+      },
+      {
+        "stop_id": "51786",
+        "stop_name": "Saint-Laurent / Laurier"
+      },
+      {
+        "stop_id": "51748",
+        "stop_name": "Saint-Laurent / Fairmount"
+      },
+      {
+        "stop_id": "51705",
+        "stop_name": "Saint-Laurent / Maguire"
+      },
+      {
+        "stop_id": "51641",
+        "stop_name": "Saint-Laurent / Saint-Viateur"
+      },
+      {
+        "stop_id": "51572",
+        "stop_name": "Saint-Laurent / Bernard"
+      },
+      {
+        "stop_id": "51505",
+        "stop_name": "Saint-Laurent / de Bellechasse"
+      },
+      {
+        "stop_id": "51440",
+        "stop_name": "Saint-Laurent / Beaubien"
+      },
+      {
+        "stop_id": "51369",
+        "stop_name": "Saint-Laurent / Saint-Zotique"
+      },
+      {
+        "stop_id": "54280",
+        "stop_name": "Saint-Laurent / Bélanger"
+      },
+      {
+        "stop_id": "51249",
+        "stop_name": "Saint-Laurent / Jean-Talon"
+      },
+      {
+        "stop_id": "51205",
+        "stop_name": "Station De Castelnau"
+      },
+      {
+        "stop_id": "51149",
+        "stop_name": "Saint-Laurent / Faillon"
+      },
+      {
+        "stop_id": "51067",
+        "stop_name": "Saint-Laurent / Villeray"
+      },
+      {
+        "stop_id": "51006",
+        "stop_name": "Saint-Laurent / Gounod"
+      },
+      {
+        "stop_id": "50934",
+        "stop_name": "Saint-Laurent / Jarry"
+      },
+      {
+        "stop_id": "50868",
+        "stop_name": "Saint-Laurent / Guizot"
+      },
+      {
+        "stop_id": "50785",
+        "stop_name": "Saint-Laurent / de Liège"
+      },
+      {
+        "stop_id": "50668",
+        "stop_name": "Saint-Laurent / Crémazie"
+      },
+      {
+        "stop_id": "50619",
+        "stop_name": "Saint-Laurent / De Beauharnois"
+      },
+      {
+        "stop_id": "50562",
+        "stop_name": "Saint-Laurent / Legendre"
+      },
+      {
+        "stop_id": "61028",
+        "stop_name": "Chabanel / Clark"
+      },
+      {
+        "stop_id": "54352",
+        "stop_name": "de l'Esplanade / Chabanel"
+      },
+      {
+        "stop_id": "54353",
+        "stop_name": "de l'Esplanade / de Louvain"
+      },
+      {
+        "stop_id": "60401",
+        "stop_name": "de Louvain / Saint-Laurent"
+      },
+      {
+        "stop_id": "50422",
+        "stop_name": "Saint-Laurent / de Port-Royal"
+      },
+      {
+        "stop_id": "50390",
+        "stop_name": "Saint-Laurent / Sauvé"
+      },
+      {
+        "stop_id": "50355",
+        "stop_name": "Saint-Laurent / Sauriol"
+      },
+      {
+        "stop_id": "50336",
+        "stop_name": "Saint-Laurent / Fleury"
+      },
+      {
+        "stop_id": "50309",
+        "stop_name": "Saint-Laurent / Prieur"
+      },
+      {
+        "stop_id": "50294",
+        "stop_name": "Saint-Laurent / Henri-Bourassa"
+      },
+      {
+        "stop_id": "62371",
+        "stop_name": "Henri-Bourassa / Laverdure"
+      },
+      {
+        "stop_id": "50303",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50314",
+        "stop_name": "Millen / Henri-Bourassa"
+      }
+    ]
+  },
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "50314",
+        "stop_name": "Millen / Henri-Bourassa"
+      },
+      {
+        "stop_id": "50301",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50299",
+        "stop_name": "Henri-Bourassa / Laverdure"
+      },
+      {
+        "stop_id": "50298",
+        "stop_name": "Saint-Laurent / Henri-Bourassa"
+      },
+      {
+        "stop_id": "50310",
+        "stop_name": "Saint-Laurent / Prieur"
+      },
+      {
+        "stop_id": "50338",
+        "stop_name": "Saint-Laurent / Fleury"
+      },
+      {
+        "stop_id": "50356",
+        "stop_name": "Saint-Laurent / Sauriol"
+      },
+      {
+        "stop_id": "50392",
+        "stop_name": "Saint-Laurent / Sauvé"
+      },
+      {
+        "stop_id": "50423",
+        "stop_name": "Saint-Laurent / de Port-Royal"
+      },
+      {
+        "stop_id": "50455",
+        "stop_name": "Saint-Laurent / de Louvain"
+      },
+      {
+        "stop_id": "50519",
+        "stop_name": "Saint-Laurent / Chabanel"
+      },
+      {
+        "stop_id": "50564",
+        "stop_name": "Saint-Laurent / Legendre"
+      },
+      {
+        "stop_id": "50620",
+        "stop_name": "Saint-Laurent / De Beauharnois"
+      },
+      {
+        "stop_id": "50670",
+        "stop_name": "Saint-Laurent / Crémazie"
+      },
+      {
+        "stop_id": "50786",
+        "stop_name": "Saint-Laurent / de Liège"
+      },
+      {
+        "stop_id": "50869",
+        "stop_name": "Saint-Laurent / Guizot"
+      },
+      {
+        "stop_id": "50936",
+        "stop_name": "Saint-Laurent / Jarry"
+      },
+      {
+        "stop_id": "51007",
+        "stop_name": "Saint-Laurent / Gounod"
+      },
+      {
+        "stop_id": "51068",
+        "stop_name": "Saint-Laurent / Villeray"
+      },
+      {
+        "stop_id": "51150",
+        "stop_name": "Saint-Laurent / Gary-Carter"
+      },
+      {
+        "stop_id": "51206",
+        "stop_name": "Station De Castelnau"
+      },
+      {
+        "stop_id": "51228",
+        "stop_name": "Clark / Jean-Talon"
+      },
+      {
+        "stop_id": "53983",
+        "stop_name": "Clark / Mozart"
+      },
+      {
+        "stop_id": "53984",
+        "stop_name": "Clark / Saint-Zotique"
+      },
+      {
+        "stop_id": "51411",
+        "stop_name": "Clark / Beaubien"
+      },
+      {
+        "stop_id": "53790",
+        "stop_name": "Clark / Voie ferrée"
+      },
+      {
+        "stop_id": "51555",
+        "stop_name": "Saint-Urbain / Bernard"
+      },
+      {
+        "stop_id": "51624",
+        "stop_name": "Saint-Urbain / Saint-Viateur"
+      },
+      {
+        "stop_id": "51721",
+        "stop_name": "Saint-Urbain / Fairmount"
+      },
+      {
+        "stop_id": "51764",
+        "stop_name": "Saint-Urbain / Laurier"
+      },
+      {
+        "stop_id": "51797",
+        "stop_name": "Saint-Urbain / Saint-Joseph"
+      },
+      {
+        "stop_id": "51848",
+        "stop_name": "Saint-Urbain / Villeneuve"
+      },
+      {
+        "stop_id": "51938",
+        "stop_name": "Saint-Urbain / du Mont-Royal"
+      },
+      {
+        "stop_id": "52012",
+        "stop_name": "Saint-Urbain / Marie-Anne"
+      },
+      {
+        "stop_id": "52076",
+        "stop_name": "Saint-Urbain / Rachel"
+      },
+      {
+        "stop_id": "52139",
+        "stop_name": "Saint-Urbain / Duluth"
+      },
+      {
+        "stop_id": "52211",
+        "stop_name": "Hôpital Hôtel-Dieu de Montréal (St-Urbain / St-Cut"
+      },
+      {
+        "stop_id": "52282",
+        "stop_name": "Saint-Urbain / des Pins"
+      },
+      {
+        "stop_id": "52363",
+        "stop_name": "Saint-Urbain / Prince-Arthur"
+      },
+      {
+        "stop_id": "52486",
+        "stop_name": "Saint-Urbain / Sherbrooke"
+      },
+      {
+        "stop_id": "52581",
+        "stop_name": "Station Place-des-Arts (Saint-Urbain / Président-K"
+      },
+      {
+        "stop_id": "52670",
+        "stop_name": "Saint-Urbain / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52746",
+        "stop_name": "Saint-Urbain / René-Lévesque"
+      },
+      {
+        "stop_id": "52807",
+        "stop_name": "Saint-Urbain / De La Gauchetière"
+      },
+      {
+        "stop_id": "52851",
+        "stop_name": "Station Place-d'Armes (Saint-Urbain / Viger)"
+      },
+      {
+        "stop_id": "53811",
+        "stop_name": "Notre-Dame / Saint-Sulpice"
+      },
+      {
+        "stop_id": "52947",
+        "stop_name": "Saint-Laurent / Saint-Jacques"
+      }
+    ]
+  }
+]

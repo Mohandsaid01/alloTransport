@@ -1,0 +1,188 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "57506",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "57467",
+        "stop_name": "Bouchard / Racine"
+      },
+      {
+        "stop_id": "57511",
+        "stop_name": "Bouchard / Poste de pompiers"
+      },
+      {
+        "stop_id": "57475",
+        "stop_name": "Bouchard / George-V"
+      },
+      {
+        "stop_id": "57513",
+        "stop_name": "Bouchard / No 215"
+      },
+      {
+        "stop_id": "57514",
+        "stop_name": "Bouchard / No 200"
+      },
+      {
+        "stop_id": "57483",
+        "stop_name": "Bouchard / Bourke"
+      },
+      {
+        "stop_id": "57126",
+        "stop_name": "Victoria / 54e Avenue"
+      },
+      {
+        "stop_id": "57137",
+        "stop_name": "Victoria / 51e Avenue"
+      },
+      {
+        "stop_id": "57153",
+        "stop_name": "Victoria / 49e Avenue"
+      },
+      {
+        "stop_id": "57166",
+        "stop_name": "Victoria / 44e Avenue"
+      },
+      {
+        "stop_id": "57178",
+        "stop_name": "Victoria / 40e Avenue"
+      },
+      {
+        "stop_id": "57185",
+        "stop_name": "Victoria / 36e Avenue"
+      },
+      {
+        "stop_id": "57190",
+        "stop_name": "Victoria / 33e Avenue"
+      },
+      {
+        "stop_id": "57338",
+        "stop_name": "Victoria / 28e Avenue"
+      },
+      {
+        "stop_id": "57216",
+        "stop_name": "Victoria / 21e Avenue"
+      },
+      {
+        "stop_id": "57226",
+        "stop_name": "Victoria / 18e Avenue"
+      },
+      {
+        "stop_id": "61047",
+        "stop_name": "Victoria / 15e Avenue"
+      },
+      {
+        "stop_id": "57249",
+        "stop_name": "Victoria / 10e Avenue"
+      },
+      {
+        "stop_id": "57262",
+        "stop_name": "Victoria / 6e Avenue"
+      },
+      {
+        "stop_id": "57278",
+        "stop_name": "William-MacDonald / George-V"
+      },
+      {
+        "stop_id": "61330",
+        "stop_name": "Station Lionel-Groulx / Saint-Jacques"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "61331",
+        "stop_name": "Station Lionel-Groulx / Saint-Jacques"
+      },
+      {
+        "stop_id": "56472",
+        "stop_name": "Notre-Dame / Saint-Pierre"
+      },
+      {
+        "stop_id": "57272",
+        "stop_name": "Victoria / 1re Avenue"
+      },
+      {
+        "stop_id": "57261",
+        "stop_name": "Victoria / 6e Avenue"
+      },
+      {
+        "stop_id": "57247",
+        "stop_name": "Victoria / 10e Avenue"
+      },
+      {
+        "stop_id": "61048",
+        "stop_name": "Victoria / 15e Avenue"
+      },
+      {
+        "stop_id": "57225",
+        "stop_name": "Victoria / 18e Avenue"
+      },
+      {
+        "stop_id": "57215",
+        "stop_name": "Victoria / 21e Avenue"
+      },
+      {
+        "stop_id": "62348",
+        "stop_name": "Victoria / 25e Avenue"
+      },
+      {
+        "stop_id": "57341",
+        "stop_name": "Victoria / 28e Avenue"
+      },
+      {
+        "stop_id": "57189",
+        "stop_name": "Victoria / 34e Avenue"
+      },
+      {
+        "stop_id": "57184",
+        "stop_name": "Victoria / Saint-Antoine"
+      },
+      {
+        "stop_id": "57177",
+        "stop_name": "Victoria / 40e Avenue"
+      },
+      {
+        "stop_id": "57165",
+        "stop_name": "Victoria / 44e Avenue"
+      },
+      {
+        "stop_id": "57152",
+        "stop_name": "Victoria / 48e Avenue"
+      },
+      {
+        "stop_id": "57136",
+        "stop_name": "Victoria / Meadowbrook"
+      },
+      {
+        "stop_id": "57125",
+        "stop_name": "Victoria / 54e Avenue"
+      },
+      {
+        "stop_id": "57484",
+        "stop_name": "Bouchard / Galland"
+      },
+      {
+        "stop_id": "57481",
+        "stop_name": "Bouchard / No 205"
+      },
+      {
+        "stop_id": "57476",
+        "stop_name": "Bouchard / No 215"
+      },
+      {
+        "stop_id": "57474",
+        "stop_name": "Bouchard / George-V"
+      },
+      {
+        "stop_id": "61317",
+        "stop_name": "Terminus Dorval"
+      }
+    ]
+  }
+]

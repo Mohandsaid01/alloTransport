@@ -1,0 +1,525 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54069",
+        "stop_name": "Station Laurier Sud (Rivard / Gilford)"
+      },
+      {
+        "stop_id": "51919",
+        "stop_name": "Saint-Joseph / Saint-Denis"
+      },
+      {
+        "stop_id": "51855",
+        "stop_name": "Saint-Joseph / De Bullion"
+      },
+      {
+        "stop_id": "51828",
+        "stop_name": "Saint-Joseph / Saint-Laurent"
+      },
+      {
+        "stop_id": "51763",
+        "stop_name": "Laurier / Saint-Urbain"
+      },
+      {
+        "stop_id": "51710",
+        "stop_name": "Laurier / du Parc"
+      },
+      {
+        "stop_id": "51713",
+        "stop_name": "Laurier / du Parc"
+      },
+      {
+        "stop_id": "56210",
+        "stop_name": "Laurier / De L'Épée"
+      },
+      {
+        "stop_id": "56206",
+        "stop_name": "Côte-Sainte-Catherine / Outremont"
+      },
+      {
+        "stop_id": "56204",
+        "stop_name": "Côte-Sainte-Catherine / Stuart"
+      },
+      {
+        "stop_id": "56200",
+        "stop_name": "Côte-Sainte-Catherine / Les Hautvilliers"
+      },
+      {
+        "stop_id": "56194",
+        "stop_name": "Côte-Sainte-Catherine / Rockland"
+      },
+      {
+        "stop_id": "56187",
+        "stop_name": "de la Côte-Sainte-Catherine / Claude-Champagne"
+      },
+      {
+        "stop_id": "56178",
+        "stop_name": "Vincent-D'Indy / Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "51387",
+        "stop_name": "Station Édouard-Montpetit"
+      },
+      {
+        "stop_id": "50114",
+        "stop_name": "Édouard-Montpetit / No 2141"
+      },
+      {
+        "stop_id": "51318",
+        "stop_name": "Édouard-Montpetit / de Stirling"
+      },
+      {
+        "stop_id": "51286",
+        "stop_name": "Édouard-Montpetit / Woodbury"
+      },
+      {
+        "stop_id": "53878",
+        "stop_name": "Station Université-de-Montréal"
+      },
+      {
+        "stop_id": "51247",
+        "stop_name": "Édouard-Montpetit / Louis-Colin"
+      },
+      {
+        "stop_id": "51213",
+        "stop_name": "Édouard-Montpetit / McKenna"
+      },
+      {
+        "stop_id": "51168",
+        "stop_name": "Édouard-Montpetit / Decelles"
+      },
+      {
+        "stop_id": "51230",
+        "stop_name": "Decelles / Jean-Brillant"
+      },
+      {
+        "stop_id": "51278",
+        "stop_name": "Decelles / Queen-Mary"
+      },
+      {
+        "stop_id": "51252",
+        "stop_name": "Queen-Mary / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "51254",
+        "stop_name": "Queen-Mary / Queen-Mary"
+      },
+      {
+        "stop_id": "53678",
+        "stop_name": "Queen-Mary / Frère-André (Oratoire St-Joseph)"
+      },
+      {
+        "stop_id": "51176",
+        "stop_name": "Queen-Mary / Cedar Crescent"
+      },
+      {
+        "stop_id": "51145",
+        "stop_name": "Queen-Mary / Roslyn"
+      },
+      {
+        "stop_id": "51117",
+        "stop_name": "Queen-Mary / Victoria"
+      },
+      {
+        "stop_id": "51081",
+        "stop_name": "Queen-Mary / Ponsard"
+      },
+      {
+        "stop_id": "54074",
+        "stop_name": "Station Snowdon (Queen-Mary / de Westbury)"
+      },
+      {
+        "stop_id": "51031",
+        "stop_name": "Queen-Mary / Trans Island"
+      },
+      {
+        "stop_id": "51003",
+        "stop_name": "Queen-Mary / Coolbrook"
+      },
+      {
+        "stop_id": "50966",
+        "stop_name": "Queen-Mary / Clanranald"
+      },
+      {
+        "stop_id": "56327",
+        "stop_name": "Queen-Mary / Macdonald"
+      },
+      {
+        "stop_id": "56323",
+        "stop_name": "Queen-Mary / Stratford"
+      },
+      {
+        "stop_id": "56322",
+        "stop_name": "Fielding / Côte-Saint-Luc"
+      },
+      {
+        "stop_id": "50827",
+        "stop_name": "Fielding / Hingston"
+      },
+      {
+        "stop_id": "50797",
+        "stop_name": "Fielding / Grand Boulevard"
+      },
+      {
+        "stop_id": "50761",
+        "stop_name": "Fielding / West Hill"
+      },
+      {
+        "stop_id": "50725",
+        "stop_name": "Fielding / Cavendish"
+      },
+      {
+        "stop_id": "50688",
+        "stop_name": "Fielding / Walkley"
+      },
+      {
+        "stop_id": "50661",
+        "stop_name": "Fielding / Rosedale"
+      },
+      {
+        "stop_id": "50622",
+        "stop_name": "Fielding / Coronation"
+      },
+      {
+        "stop_id": "50613",
+        "stop_name": "Fielding / Saint-Ignatius"
+      },
+      {
+        "stop_id": "50596",
+        "stop_name": "Fielding / Doherty"
+      },
+      {
+        "stop_id": "50577",
+        "stop_name": "Fielding / O'Bryan"
+      },
+      {
+        "stop_id": "50650",
+        "stop_name": "West Broadway / Somerled"
+      },
+      {
+        "stop_id": "50717",
+        "stop_name": "West Broadway / de Terrebonne"
+      },
+      {
+        "stop_id": "50764",
+        "stop_name": "West Broadway / Sherbrooke"
+      },
+      {
+        "stop_id": "50747",
+        "stop_name": "Sherbrooke / Patricia"
+      },
+      {
+        "stop_id": "50110",
+        "stop_name": "Gare Montréal-Ouest (Elmhurst / Sherbrooke)"
+      }
+    ]
+  },
+  {
+    "direction": "Est destination Station Snowdon",
+    "arrets": [
+      {
+        "stop_id": "50110",
+        "stop_name": "Gare Montréal-Ouest (Elmhurst / Sherbrooke)"
+      },
+      {
+        "stop_id": "53792",
+        "stop_name": "Sherbrooke / Westmore"
+      },
+      {
+        "stop_id": "50766",
+        "stop_name": "West Broadway / Sherbrooke"
+      },
+      {
+        "stop_id": "50716",
+        "stop_name": "West Broadway / de Terrebonne"
+      },
+      {
+        "stop_id": "50648",
+        "stop_name": "West Broadway / Somerled"
+      },
+      {
+        "stop_id": "50576",
+        "stop_name": "West Broadway / Fielding"
+      },
+      {
+        "stop_id": "50597",
+        "stop_name": "Fielding / Doherty"
+      },
+      {
+        "stop_id": "50614",
+        "stop_name": "Fielding / Saint-Ignatius"
+      },
+      {
+        "stop_id": "50623",
+        "stop_name": "Fielding / Coronation"
+      },
+      {
+        "stop_id": "50662",
+        "stop_name": "Fielding / Rosedale"
+      },
+      {
+        "stop_id": "50689",
+        "stop_name": "Fielding / Walkley"
+      },
+      {
+        "stop_id": "50727",
+        "stop_name": "Fielding / Cavendish"
+      },
+      {
+        "stop_id": "50762",
+        "stop_name": "Fielding / West Hill"
+      },
+      {
+        "stop_id": "50799",
+        "stop_name": "Fielding / Grand Boulevard"
+      },
+      {
+        "stop_id": "50828",
+        "stop_name": "Fielding / Hingston"
+      },
+      {
+        "stop_id": "56332",
+        "stop_name": "Fielding / Côte-Saint-Luc"
+      },
+      {
+        "stop_id": "56319",
+        "stop_name": "Ellerdale / Queen-Mary"
+      },
+      {
+        "stop_id": "56324",
+        "stop_name": "Queen-Mary / Stratford"
+      },
+      {
+        "stop_id": "56328",
+        "stop_name": "Queen-Mary / Macdonald"
+      },
+      {
+        "stop_id": "50986",
+        "stop_name": "Queen-Mary / Earnscliffe"
+      },
+      {
+        "stop_id": "51020",
+        "stop_name": "Queen-Mary / Décarie"
+      },
+      {
+        "stop_id": "51032",
+        "stop_name": "Queen-Mary / Trans Island"
+      },
+      {
+        "stop_id": "51051",
+        "stop_name": "Station Snowdon (Queen-Mary / Circle)"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "50110",
+        "stop_name": "Gare Montréal-Ouest (Elmhurst / Sherbrooke)"
+      },
+      {
+        "stop_id": "53792",
+        "stop_name": "Sherbrooke / Westmore"
+      },
+      {
+        "stop_id": "50766",
+        "stop_name": "West Broadway / Sherbrooke"
+      },
+      {
+        "stop_id": "50716",
+        "stop_name": "West Broadway / de Terrebonne"
+      },
+      {
+        "stop_id": "50648",
+        "stop_name": "West Broadway / Somerled"
+      },
+      {
+        "stop_id": "50576",
+        "stop_name": "West Broadway / Fielding"
+      },
+      {
+        "stop_id": "50597",
+        "stop_name": "Fielding / Doherty"
+      },
+      {
+        "stop_id": "50614",
+        "stop_name": "Fielding / Saint-Ignatius"
+      },
+      {
+        "stop_id": "50623",
+        "stop_name": "Fielding / Coronation"
+      },
+      {
+        "stop_id": "50662",
+        "stop_name": "Fielding / Rosedale"
+      },
+      {
+        "stop_id": "50689",
+        "stop_name": "Fielding / Walkley"
+      },
+      {
+        "stop_id": "50727",
+        "stop_name": "Fielding / Cavendish"
+      },
+      {
+        "stop_id": "50762",
+        "stop_name": "Fielding / West Hill"
+      },
+      {
+        "stop_id": "50799",
+        "stop_name": "Fielding / Grand Boulevard"
+      },
+      {
+        "stop_id": "50828",
+        "stop_name": "Fielding / Hingston"
+      },
+      {
+        "stop_id": "56332",
+        "stop_name": "Fielding / Côte-Saint-Luc"
+      },
+      {
+        "stop_id": "56319",
+        "stop_name": "Ellerdale / Queen-Mary"
+      },
+      {
+        "stop_id": "56324",
+        "stop_name": "Queen-Mary / Stratford"
+      },
+      {
+        "stop_id": "56328",
+        "stop_name": "Queen-Mary / Macdonald"
+      },
+      {
+        "stop_id": "50986",
+        "stop_name": "Queen-Mary / Earnscliffe"
+      },
+      {
+        "stop_id": "51020",
+        "stop_name": "Queen-Mary / Décarie"
+      },
+      {
+        "stop_id": "51032",
+        "stop_name": "Queen-Mary / Trans Island"
+      },
+      {
+        "stop_id": "51051",
+        "stop_name": "Station Snowdon (Queen-Mary / Circle)"
+      },
+      {
+        "stop_id": "51086",
+        "stop_name": "Queen-Mary / Lemieux"
+      },
+      {
+        "stop_id": "51119",
+        "stop_name": "Queen-Mary / Victoria"
+      },
+      {
+        "stop_id": "51146",
+        "stop_name": "Queen-Mary / Roslyn"
+      },
+      {
+        "stop_id": "51175",
+        "stop_name": "Queen-Mary / Cedar Crescent"
+      },
+      {
+        "stop_id": "53677",
+        "stop_name": "Queen-Mary / du Frère-André (Oratoire St-Joseph)"
+      },
+      {
+        "stop_id": "51267",
+        "stop_name": "Queen-Mary / Gatineau"
+      },
+      {
+        "stop_id": "51229",
+        "stop_name": "Decelles / Jean-Brillant"
+      },
+      {
+        "stop_id": "51167",
+        "stop_name": "Decelles / Édouard-Montpetit"
+      },
+      {
+        "stop_id": "51214",
+        "stop_name": "Édouard-Montpetit / McKenna"
+      },
+      {
+        "stop_id": "51248",
+        "stop_name": "Édouard-Montpetit / Louis-Colin"
+      },
+      {
+        "stop_id": "53877",
+        "stop_name": "Station Université-de-Montréal"
+      },
+      {
+        "stop_id": "51287",
+        "stop_name": "Édouard-Montpetit / Woodbury"
+      },
+      {
+        "stop_id": "51319",
+        "stop_name": "Édouard-Montpetit / de Stirling"
+      },
+      {
+        "stop_id": "51388",
+        "stop_name": "Station Édouard-Montpetit"
+      },
+      {
+        "stop_id": "56184",
+        "stop_name": "Vincent-d'Indy / Willowdale"
+      },
+      {
+        "stop_id": "56175",
+        "stop_name": "Vincent-D'Indy / Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "56188",
+        "stop_name": "Côte-Sainte-Catherine / Dunlop"
+      },
+      {
+        "stop_id": "56196",
+        "stop_name": "de la Côte-Sainte-Catherine / Courcelette"
+      },
+      {
+        "stop_id": "56199",
+        "stop_name": "Côte-Sainte-Catherine / Pagnuelo"
+      },
+      {
+        "stop_id": "56205",
+        "stop_name": "Côte-Sainte-Catherine / Stuart"
+      },
+      {
+        "stop_id": "56207",
+        "stop_name": "Côte-Sainte-Catherine / Outremont"
+      },
+      {
+        "stop_id": "56211",
+        "stop_name": "Laurier / Querbes"
+      },
+      {
+        "stop_id": "51712",
+        "stop_name": "Laurier / du Parc"
+      },
+      {
+        "stop_id": "51765",
+        "stop_name": "Laurier / Saint-Urbain"
+      },
+      {
+        "stop_id": "51829",
+        "stop_name": "Saint-Joseph / Saint-Laurent"
+      },
+      {
+        "stop_id": "51856",
+        "stop_name": "Saint-Joseph / De Bullion"
+      },
+      {
+        "stop_id": "51921",
+        "stop_name": "Saint-Joseph / Saint-Denis"
+      },
+      {
+        "stop_id": "51948",
+        "stop_name": "Station Laurier (Saint-Joseph / Berri)"
+      }
+    ]
+  }
+]

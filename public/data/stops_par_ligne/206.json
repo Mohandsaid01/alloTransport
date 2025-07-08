@@ -1,0 +1,260 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "57800",
+        "stop_name": "Terminus Fairview"
+      },
+      {
+        "stop_id": "57981",
+        "stop_name": "Saint-Jean / Blue Haven"
+      },
+      {
+        "stop_id": "57870",
+        "stop_name": "Blue Haven / des Pins"
+      },
+      {
+        "stop_id": "57872",
+        "stop_name": "Blue Haven / Jourdain"
+      },
+      {
+        "stop_id": "57863",
+        "stop_name": "Blue Haven / Viking"
+      },
+      {
+        "stop_id": "57861",
+        "stop_name": "Blue Haven / Lake"
+      },
+      {
+        "stop_id": "57866",
+        "stop_name": "Lake / Hemingway"
+      },
+      {
+        "stop_id": "57859",
+        "stop_name": "Hemingway / Greenfield"
+      },
+      {
+        "stop_id": "57857",
+        "stop_name": "Baffin / Roger-Pilon"
+      },
+      {
+        "stop_id": "57865",
+        "stop_name": "Roger-Pilon / Tecumseh"
+      },
+      {
+        "stop_id": "57873",
+        "stop_name": "Roger-Pilon / Fredmir"
+      },
+      {
+        "stop_id": "57881",
+        "stop_name": "Roger-Pilon / Manuel"
+      },
+      {
+        "stop_id": "57889",
+        "stop_name": "Roger-Pilon / Westpark"
+      },
+      {
+        "stop_id": "57884",
+        "stop_name": "Westpark / Wilson"
+      },
+      {
+        "stop_id": "57877",
+        "stop_name": "Westpark / Anselme-Lavigne"
+      },
+      {
+        "stop_id": "57883",
+        "stop_name": "Anselme-Lavigne / Oslo"
+      },
+      {
+        "stop_id": "57887",
+        "stop_name": "Anselme-Lavigne / Greenview"
+      },
+      {
+        "stop_id": "57895",
+        "stop_name": "Anselme-Lavigne / des Sources"
+      },
+      {
+        "stop_id": "57898",
+        "stop_name": "des Sources / Belcourt"
+      },
+      {
+        "stop_id": "58002",
+        "stop_name": "14e Rue / 19e Avenue"
+      },
+      {
+        "stop_id": "58005",
+        "stop_name": "14e Rue / 18e Avenue"
+      },
+      {
+        "stop_id": "58009",
+        "stop_name": "14e Rue / 15e Avenue"
+      },
+      {
+        "stop_id": "58025",
+        "stop_name": "14e Rue / 13e Avenue"
+      },
+      {
+        "stop_id": "58011",
+        "stop_name": "11e Avenue / 14e Rue"
+      },
+      {
+        "stop_id": "57998",
+        "stop_name": "11e Avenue / 11e Rue"
+      },
+      {
+        "stop_id": "58027",
+        "stop_name": "11e Avenue / 9e Rue"
+      },
+      {
+        "stop_id": "58022",
+        "stop_name": "Centre-Commercial / 4e Avenue"
+      },
+      {
+        "stop_id": "58019",
+        "stop_name": "Gouin / 2e Avenue"
+      },
+      {
+        "stop_id": "61983",
+        "stop_name": "Gare Roxboro-Pierrefonds"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "61983",
+        "stop_name": "Gare Roxboro-Pierrefonds"
+      },
+      {
+        "stop_id": "58004",
+        "stop_name": "Gouin / 4e Avenue"
+      },
+      {
+        "stop_id": "58018",
+        "stop_name": "Gouin / 2e Avenue"
+      },
+      {
+        "stop_id": "58023",
+        "stop_name": "Centre-Commercial / 4e Avenue"
+      },
+      {
+        "stop_id": "58028",
+        "stop_name": "11e Avenue / 9e Rue"
+      },
+      {
+        "stop_id": "58029",
+        "stop_name": "11e Avenue / 11e Rue"
+      },
+      {
+        "stop_id": "58010",
+        "stop_name": "14e Rue / 11e Avenue"
+      },
+      {
+        "stop_id": "58026",
+        "stop_name": "14e Rue / 13e Avenue"
+      },
+      {
+        "stop_id": "58008",
+        "stop_name": "14e Rue / 15e Avenue"
+      },
+      {
+        "stop_id": "58007",
+        "stop_name": "14e Rue / 17e Avenue"
+      },
+      {
+        "stop_id": "58006",
+        "stop_name": "14e Rue / des Sources"
+      },
+      {
+        "stop_id": "57999",
+        "stop_name": "des Sources / 9e Rue"
+      },
+      {
+        "stop_id": "57896",
+        "stop_name": "Anselme-Lavigne / des Sources"
+      },
+      {
+        "stop_id": "57886",
+        "stop_name": "Anselme-Lavigne / Greenview"
+      },
+      {
+        "stop_id": "57882",
+        "stop_name": "Anselme-Lavigne / Oslo"
+      },
+      {
+        "stop_id": "57878",
+        "stop_name": "Anselme-Lavigne / Drouin"
+      },
+      {
+        "stop_id": "57885",
+        "stop_name": "Westpark / Wilson"
+      },
+      {
+        "stop_id": "57888",
+        "stop_name": "Westpark / Roger-Pilon"
+      },
+      {
+        "stop_id": "57880",
+        "stop_name": "Roger-Pilon / Manuel"
+      },
+      {
+        "stop_id": "57874",
+        "stop_name": "Roger-Pilon / Fredmir"
+      },
+      {
+        "stop_id": "57986",
+        "stop_name": "Roger-Pilon / Tecumseh"
+      },
+      {
+        "stop_id": "57987",
+        "stop_name": "Baffin / Roger-Pilon"
+      },
+      {
+        "stop_id": "57860",
+        "stop_name": "Hemingway / Greenfield"
+      },
+      {
+        "stop_id": "57867",
+        "stop_name": "Lake / Autumn"
+      },
+      {
+        "stop_id": "57862",
+        "stop_name": "Blue Haven / Lake"
+      },
+      {
+        "stop_id": "57864",
+        "stop_name": "Blue Haven / Viking"
+      },
+      {
+        "stop_id": "57871",
+        "stop_name": "Blue Haven / Jourdain"
+      },
+      {
+        "stop_id": "57869",
+        "stop_name": "Blue Haven / des Pins"
+      },
+      {
+        "stop_id": "57988",
+        "stop_name": "Blue Haven / des Cèdres"
+      },
+      {
+        "stop_id": "57858",
+        "stop_name": "Saint-Jean / Devon"
+      },
+      {
+        "stop_id": "57616",
+        "stop_name": "Saint-Jean / Labrosse"
+      },
+      {
+        "stop_id": "57620",
+        "stop_name": "Saint-Jean / Brunswick"
+      },
+      {
+        "stop_id": "57800",
+        "stop_name": "Terminus Fairview"
+      }
+    ]
+  }
+]

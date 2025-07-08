@@ -1,0 +1,398 @@
+[
+  {
+    "direction": "Ouest destination Pierrefonds / Château-Pierrefonds",
+    "arrets": [
+      {
+        "stop_id": "55829",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "57818",
+        "stop_name": "Fairview / Brunswick"
+      },
+      {
+        "stop_id": "60415",
+        "stop_name": "Terminus Fairview / Brunswick"
+      },
+      {
+        "stop_id": "57981",
+        "stop_name": "Saint-Jean / Blue Haven"
+      },
+      {
+        "stop_id": "57834",
+        "stop_name": "Saint-Jean / de Salaberry"
+      },
+      {
+        "stop_id": "57854",
+        "stop_name": "Saint-Jean / Lake"
+      },
+      {
+        "stop_id": "57852",
+        "stop_name": "Saint-Jean / Roger-Pilon"
+      },
+      {
+        "stop_id": "57994",
+        "stop_name": "Saint-Jean / Ernest"
+      },
+      {
+        "stop_id": "58147",
+        "stop_name": "Saint-Jean / Anselme-Lavigne"
+      },
+      {
+        "stop_id": "60537",
+        "stop_name": "Saint-Jean / Harry-Worth"
+      },
+      {
+        "stop_id": "58137",
+        "stop_name": "de Pierrefonds / Saint-Jean"
+      },
+      {
+        "stop_id": "58244",
+        "stop_name": "de Pierrefonds / Harry-Worth"
+      },
+      {
+        "stop_id": "58237",
+        "stop_name": "de Pierrefonds / Esther-Blondin"
+      },
+      {
+        "stop_id": "58124",
+        "stop_name": "de Pierrefonds / Jacques-Bizard"
+      },
+      {
+        "stop_id": "58118",
+        "stop_name": "de Pierrefonds / Paiement"
+      },
+      {
+        "stop_id": "58103",
+        "stop_name": "de Pierrefonds / Sainte-Anne"
+      },
+      {
+        "stop_id": "58093",
+        "stop_name": "de Pierrefonds / Saint-Charles"
+      },
+      {
+        "stop_id": "58089",
+        "stop_name": "de Pierrefonds / Nanterre"
+      },
+      {
+        "stop_id": "58240",
+        "stop_name": "de Pierrefonds / des Cageux"
+      },
+      {
+        "stop_id": "58249",
+        "stop_name": "des Cageux / Gouin"
+      },
+      {
+        "stop_id": "58286",
+        "stop_name": "Usine de filtration de Pierrefonds"
+      },
+      {
+        "stop_id": "61374",
+        "stop_name": "du Château-Pierrefonds / Oka"
+      },
+      {
+        "stop_id": "60414",
+        "stop_name": "de Pierrefonds / du Château-Pierrefonds"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest destination Usine de filtration",
+    "arrets": [
+      {
+        "stop_id": "55829",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "57818",
+        "stop_name": "Fairview / Brunswick"
+      },
+      {
+        "stop_id": "60415",
+        "stop_name": "Terminus Fairview / Brunswick"
+      },
+      {
+        "stop_id": "57981",
+        "stop_name": "Saint-Jean / Blue Haven"
+      },
+      {
+        "stop_id": "57834",
+        "stop_name": "Saint-Jean / de Salaberry"
+      },
+      {
+        "stop_id": "57854",
+        "stop_name": "Saint-Jean / Lake"
+      },
+      {
+        "stop_id": "57852",
+        "stop_name": "Saint-Jean / Roger-Pilon"
+      },
+      {
+        "stop_id": "57994",
+        "stop_name": "Saint-Jean / Ernest"
+      },
+      {
+        "stop_id": "58147",
+        "stop_name": "Saint-Jean / Anselme-Lavigne"
+      },
+      {
+        "stop_id": "60537",
+        "stop_name": "Saint-Jean / Harry-Worth"
+      },
+      {
+        "stop_id": "58137",
+        "stop_name": "de Pierrefonds / Saint-Jean"
+      },
+      {
+        "stop_id": "58244",
+        "stop_name": "de Pierrefonds / Harry-Worth"
+      },
+      {
+        "stop_id": "58237",
+        "stop_name": "de Pierrefonds / Esther-Blondin"
+      },
+      {
+        "stop_id": "58124",
+        "stop_name": "de Pierrefonds / Jacques-Bizard"
+      },
+      {
+        "stop_id": "58118",
+        "stop_name": "de Pierrefonds / Paiement"
+      },
+      {
+        "stop_id": "58103",
+        "stop_name": "de Pierrefonds / Sainte-Anne"
+      },
+      {
+        "stop_id": "58093",
+        "stop_name": "de Pierrefonds / Saint-Charles"
+      },
+      {
+        "stop_id": "58089",
+        "stop_name": "de Pierrefonds / Nanterre"
+      },
+      {
+        "stop_id": "58240",
+        "stop_name": "de Pierrefonds / des Cageux"
+      },
+      {
+        "stop_id": "58249",
+        "stop_name": "des Cageux / Gouin"
+      },
+      {
+        "stop_id": "58286",
+        "stop_name": "Usine de filtration de Pierrefonds"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "58286",
+        "stop_name": "Usine de filtration de Pierrefonds"
+      },
+      {
+        "stop_id": "61374",
+        "stop_name": "du Château-Pierrefonds / Oka"
+      },
+      {
+        "stop_id": "60414",
+        "stop_name": "de Pierrefonds / du Château-Pierrefonds"
+      },
+      {
+        "stop_id": "58239",
+        "stop_name": "de Pierrefonds / Prével"
+      },
+      {
+        "stop_id": "58241",
+        "stop_name": "de Pierrefonds / des Cageux"
+      },
+      {
+        "stop_id": "58083",
+        "stop_name": "de Pierrefonds / Nanterre"
+      },
+      {
+        "stop_id": "58095",
+        "stop_name": "de Pierrefonds / Saint-Charles"
+      },
+      {
+        "stop_id": "58264",
+        "stop_name": "de Pierrefonds / Sainte-Anne"
+      },
+      {
+        "stop_id": "58119",
+        "stop_name": "de Pierrefonds / Paiement"
+      },
+      {
+        "stop_id": "58266",
+        "stop_name": "de Pierrefonds / Jacques-Bizard"
+      },
+      {
+        "stop_id": "58236",
+        "stop_name": "de Pierrefonds / Esther-Blondin"
+      },
+      {
+        "stop_id": "58245",
+        "stop_name": "de Pierrefonds / Harry-Worth"
+      },
+      {
+        "stop_id": "58136",
+        "stop_name": "de Pierrefonds / Saint-Jean"
+      },
+      {
+        "stop_id": "60536",
+        "stop_name": "Saint-Jean / Harry-Worth"
+      },
+      {
+        "stop_id": "57997",
+        "stop_name": "Saint-Jean / Jolicoeur"
+      },
+      {
+        "stop_id": "57851",
+        "stop_name": "Saint-Jean / Harris"
+      },
+      {
+        "stop_id": "57853",
+        "stop_name": "Saint-Jean / Shakespeare"
+      },
+      {
+        "stop_id": "57855",
+        "stop_name": "Saint-Jean / Westminster"
+      },
+      {
+        "stop_id": "57833",
+        "stop_name": "Saint-Jean / de Salaberry"
+      },
+      {
+        "stop_id": "57858",
+        "stop_name": "Saint-Jean / Devon"
+      },
+      {
+        "stop_id": "57616",
+        "stop_name": "Saint-Jean / Labrosse"
+      },
+      {
+        "stop_id": "57620",
+        "stop_name": "Saint-Jean / Brunswick"
+      },
+      {
+        "stop_id": "57794",
+        "stop_name": "Terminus Fairview"
+      },
+      {
+        "stop_id": "60288",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "61312",
+        "stop_name": "de Pierrefonds / Winnie-Wakefield"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest destination Pierrefonds / Winnie-Wakefield",
+    "arrets": [
+      {
+        "stop_id": "55829",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "57818",
+        "stop_name": "Fairview / Brunswick"
+      },
+      {
+        "stop_id": "60415",
+        "stop_name": "Terminus Fairview / Brunswick"
+      },
+      {
+        "stop_id": "57981",
+        "stop_name": "Saint-Jean / Blue Haven"
+      },
+      {
+        "stop_id": "57834",
+        "stop_name": "Saint-Jean / de Salaberry"
+      },
+      {
+        "stop_id": "57854",
+        "stop_name": "Saint-Jean / Lake"
+      },
+      {
+        "stop_id": "57852",
+        "stop_name": "Saint-Jean / Roger-Pilon"
+      },
+      {
+        "stop_id": "57994",
+        "stop_name": "Saint-Jean / Ernest"
+      },
+      {
+        "stop_id": "58147",
+        "stop_name": "Saint-Jean / Anselme-Lavigne"
+      },
+      {
+        "stop_id": "60537",
+        "stop_name": "Saint-Jean / Harry-Worth"
+      },
+      {
+        "stop_id": "58137",
+        "stop_name": "de Pierrefonds / Saint-Jean"
+      },
+      {
+        "stop_id": "58244",
+        "stop_name": "de Pierrefonds / Harry-Worth"
+      },
+      {
+        "stop_id": "58237",
+        "stop_name": "de Pierrefonds / Esther-Blondin"
+      },
+      {
+        "stop_id": "58124",
+        "stop_name": "de Pierrefonds / Jacques-Bizard"
+      },
+      {
+        "stop_id": "58118",
+        "stop_name": "de Pierrefonds / Paiement"
+      },
+      {
+        "stop_id": "58103",
+        "stop_name": "de Pierrefonds / Sainte-Anne"
+      },
+      {
+        "stop_id": "58093",
+        "stop_name": "de Pierrefonds / Saint-Charles"
+      },
+      {
+        "stop_id": "58089",
+        "stop_name": "de Pierrefonds / Nanterre"
+      },
+      {
+        "stop_id": "58240",
+        "stop_name": "de Pierrefonds / des Cageux"
+      },
+      {
+        "stop_id": "58238",
+        "stop_name": "de Pierrefonds / de Riva-Bella"
+      },
+      {
+        "stop_id": "58232",
+        "stop_name": "de Pierrefonds / du Château-Pierrefonds"
+      },
+      {
+        "stop_id": "61256",
+        "stop_name": "de Pierrefonds / Winnie-Wakefield"
+      },
+      {
+        "stop_id": "61258",
+        "stop_name": "de Pierrefonds / du Palomino"
+      },
+      {
+        "stop_id": "61257",
+        "stop_name": "de Pierrefonds / du Palomino"
+      },
+      {
+        "stop_id": "61312",
+        "stop_name": "de Pierrefonds / Winnie-Wakefield"
+      }
+    ]
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "60293",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "55613",
+        "stop_name": "Décarie / Rochon"
+      },
+      {
+        "stop_id": "55588",
+        "stop_name": "Décarie / Tassé"
+      },
+      {
+        "stop_id": "55565",
+        "stop_name": "Décarie / Deguire"
+      },
+      {
+        "stop_id": "55535",
+        "stop_name": "Poirier / du Painter Circle"
+      },
+      {
+        "stop_id": "55562",
+        "stop_name": "O'Brien / Poirier"
+      },
+      {
+        "stop_id": "55527",
+        "stop_name": "O'Brien / Cléroux"
+      },
+      {
+        "stop_id": "55510",
+        "stop_name": "Henri-Bourassa / Saint-Germain"
+      },
+      {
+        "stop_id": "55492",
+        "stop_name": "Henri-Bourassa / de la Sorbonne"
+      },
+      {
+        "stop_id": "55474",
+        "stop_name": "Henri-Bourassa / de Londres"
+      },
+      {
+        "stop_id": "55458",
+        "stop_name": "Henri-Bourassa / Grenet"
+      },
+      {
+        "stop_id": "55449",
+        "stop_name": "Henri-Bourassa / Marcel-Laurin"
+      },
+      {
+        "stop_id": "55819",
+        "stop_name": "Laurentien / de Louisbourg"
+      },
+      {
+        "stop_id": "53795",
+        "stop_name": "Keller / Laurentien"
+      },
+      {
+        "stop_id": "55957",
+        "stop_name": "Keller / No 1947"
+      },
+      {
+        "stop_id": "55435",
+        "stop_name": "Keller / Somerset"
+      },
+      {
+        "stop_id": "55429",
+        "stop_name": "Keller / Carroll"
+      },
+      {
+        "stop_id": "55421",
+        "stop_name": "Keller / Jean-Bouillet"
+      },
+      {
+        "stop_id": "55413",
+        "stop_name": "Keller / de Beauséjour"
+      },
+      {
+        "stop_id": "55407",
+        "stop_name": "Keller / Toupin"
+      },
+      {
+        "stop_id": "55404",
+        "stop_name": "Toupin / Robitaille"
+      },
+      {
+        "stop_id": "55400",
+        "stop_name": "Toupin / Machabée"
+      },
+      {
+        "stop_id": "55390",
+        "stop_name": "Toupin / L'Heureux"
+      },
+      {
+        "stop_id": "50133",
+        "stop_name": "Gouin / de Beauséjour"
+      },
+      {
+        "stop_id": "50137",
+        "stop_name": "Gouin / Henri-D'Arles"
+      },
+      {
+        "stop_id": "61681",
+        "stop_name": "Jean-Bourdon / Louis-Jadon"
+      }
+    ]
+  },
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "61681",
+        "stop_name": "Jean-Bourdon / Louis-Jadon"
+      },
+      {
+        "stop_id": "61682",
+        "stop_name": "Jean-Bourdon / de Beauséjour"
+      },
+      {
+        "stop_id": "50131",
+        "stop_name": "de Beauséjour / Gouin"
+      },
+      {
+        "stop_id": "50130",
+        "stop_name": "Toupin / Gouin"
+      },
+      {
+        "stop_id": "55391",
+        "stop_name": "Toupin / L'Heureux"
+      },
+      {
+        "stop_id": "55399",
+        "stop_name": "Toupin / Métivier"
+      },
+      {
+        "stop_id": "55401",
+        "stop_name": "Toupin / Trépanier"
+      },
+      {
+        "stop_id": "55405",
+        "stop_name": "Toupin / Baker"
+      },
+      {
+        "stop_id": "55414",
+        "stop_name": "Keller / de Beauséjour"
+      },
+      {
+        "stop_id": "55422",
+        "stop_name": "Keller / Jean-Bouillet"
+      },
+      {
+        "stop_id": "55430",
+        "stop_name": "Keller / Carroll"
+      },
+      {
+        "stop_id": "55434",
+        "stop_name": "Keller / Somerset"
+      },
+      {
+        "stop_id": "55956",
+        "stop_name": "Keller / No 1947"
+      },
+      {
+        "stop_id": "53794",
+        "stop_name": "Keller / Laurentien"
+      },
+      {
+        "stop_id": "50182",
+        "stop_name": "de Louisbourg / Ranger"
+      },
+      {
+        "stop_id": "50185",
+        "stop_name": "de Louisbourg / Grenet"
+      },
+      {
+        "stop_id": "50192",
+        "stop_name": "Grenet / Ranger"
+      },
+      {
+        "stop_id": "55461",
+        "stop_name": "Henri-Bourassa / Grenet"
+      },
+      {
+        "stop_id": "55475",
+        "stop_name": "Henri-Bourassa / de Londres"
+      },
+      {
+        "stop_id": "55493",
+        "stop_name": "Henri-Bourassa / de la Sorbonne"
+      },
+      {
+        "stop_id": "55508",
+        "stop_name": "Henri-Bourassa / O'Brien"
+      },
+      {
+        "stop_id": "55528",
+        "stop_name": "O'Brien / Cléroux"
+      },
+      {
+        "stop_id": "55560",
+        "stop_name": "O'Brien / Poirier"
+      },
+      {
+        "stop_id": "55537",
+        "stop_name": "Décarie / Poirier"
+      },
+      {
+        "stop_id": "55566",
+        "stop_name": "Décarie / Deguire"
+      },
+      {
+        "stop_id": "55589",
+        "stop_name": "Décarie / Tassé"
+      },
+      {
+        "stop_id": "55614",
+        "stop_name": "Décarie / Rochon"
+      },
+      {
+        "stop_id": "61654",
+        "stop_name": "Station Côte-Vertu"
+      }
+    ]
+  }
+]

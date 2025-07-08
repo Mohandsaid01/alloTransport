@@ -1,0 +1,108 @@
+[
+  {
+    "direction": "Station Saint-Michel",
+    "arrets": [
+      {
+        "stop_id": "9999495",
+        "stop_name": "Station Snowdon"
+      },
+      {
+        "stop_id": "55",
+        "stop_name": "Station Côte-des-Neiges"
+      },
+      {
+        "stop_id": "56",
+        "stop_name": "Station Université-de-Montréal"
+      },
+      {
+        "stop_id": "57",
+        "stop_name": "Station Édouard-Montpetit"
+      },
+      {
+        "stop_id": "58",
+        "stop_name": "Station Outremont"
+      },
+      {
+        "stop_id": "59",
+        "stop_name": "Station Acadie"
+      },
+      {
+        "stop_id": "60",
+        "stop_name": "Station Parc"
+      },
+      {
+        "stop_id": "61",
+        "stop_name": "Station De Castelnau"
+      },
+      {
+        "stop_id": "9999055",
+        "stop_name": "Station Jean-Talon"
+      },
+      {
+        "stop_id": "62",
+        "stop_name": "Station Fabre"
+      },
+      {
+        "stop_id": "63",
+        "stop_name": "Station D'Iberville"
+      },
+      {
+        "stop_id": "64",
+        "stop_name": "Station Saint-Michel"
+      }
+    ]
+  },
+  {
+    "direction": "Station Snowdon",
+    "arrets": [
+      {
+        "stop_id": "64",
+        "stop_name": "Station Saint-Michel"
+      },
+      {
+        "stop_id": "63",
+        "stop_name": "Station D'Iberville"
+      },
+      {
+        "stop_id": "62",
+        "stop_name": "Station Fabre"
+      },
+      {
+        "stop_id": "9999055",
+        "stop_name": "Station Jean-Talon"
+      },
+      {
+        "stop_id": "61",
+        "stop_name": "Station De Castelnau"
+      },
+      {
+        "stop_id": "60",
+        "stop_name": "Station Parc"
+      },
+      {
+        "stop_id": "59",
+        "stop_name": "Station Acadie"
+      },
+      {
+        "stop_id": "58",
+        "stop_name": "Station Outremont"
+      },
+      {
+        "stop_id": "57",
+        "stop_name": "Station Édouard-Montpetit"
+      },
+      {
+        "stop_id": "56",
+        "stop_name": "Station Université-de-Montréal"
+      },
+      {
+        "stop_id": "55",
+        "stop_name": "Station Côte-des-Neiges"
+      },
+      {
+        "stop_id": "9999495",
+        "stop_name": "Station Snowdon"
+      }
+    ]
+  }
+]

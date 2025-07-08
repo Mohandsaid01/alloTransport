@@ -1,0 +1,228 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "56308",
+        "stop_name": "Station Atwater (Tupper / Atwater)"
+      },
+      {
+        "stop_id": "52086",
+        "stop_name": "Atwater / Dorchester"
+      },
+      {
+        "stop_id": "56304",
+        "stop_name": "Atwater / Saint-Antoine"
+      },
+      {
+        "stop_id": "61561",
+        "stop_name": "Station Lionel-Groulx (Saint-Jacques / Atwater)"
+      },
+      {
+        "stop_id": "52245",
+        "stop_name": "Atwater / Notre-Dame"
+      },
+      {
+        "stop_id": "52289",
+        "stop_name": "Atwater / Sainte-Émilie"
+      },
+      {
+        "stop_id": "56604",
+        "stop_name": "Henri-Duhamel / de Verdun"
+      },
+      {
+        "stop_id": "56709",
+        "stop_name": "LaSalle / Caisse"
+      },
+      {
+        "stop_id": "56624",
+        "stop_name": "de Rushbrooke / LaSalle"
+      },
+      {
+        "stop_id": "56707",
+        "stop_name": "Station LaSalle"
+      },
+      {
+        "stop_id": "56714",
+        "stop_name": "Caisse / de Verdun"
+      },
+      {
+        "stop_id": "56713",
+        "stop_name": "Joseph / Strathmore"
+      },
+      {
+        "stop_id": "56574",
+        "stop_name": "Joseph / Regina"
+      },
+      {
+        "stop_id": "56570",
+        "stop_name": "Dupuis / Claude"
+      },
+      {
+        "stop_id": "56563",
+        "stop_name": "Bannantyne / Hickson"
+      },
+      {
+        "stop_id": "56561",
+        "stop_name": "Bannantyne / de l'Église"
+      },
+      {
+        "stop_id": "56557",
+        "stop_name": "Bannantyne / Galt"
+      },
+      {
+        "stop_id": "56555",
+        "stop_name": "Bannantyne / Rielle"
+      },
+      {
+        "stop_id": "56553",
+        "stop_name": "Bannantyne / 1re Avenue"
+      },
+      {
+        "stop_id": "56550",
+        "stop_name": "Bannantyne / 4e Avenue"
+      },
+      {
+        "stop_id": "56548",
+        "stop_name": "Bannantyne / Desmarchais"
+      },
+      {
+        "stop_id": "56544",
+        "stop_name": "Bannantyne / Woodland"
+      },
+      {
+        "stop_id": "56542",
+        "stop_name": "Bannantyne / Moffat"
+      },
+      {
+        "stop_id": "56540",
+        "stop_name": "Bannantyne / Brown"
+      },
+      {
+        "stop_id": "56538",
+        "stop_name": "Bannantyne / Allard"
+      },
+      {
+        "stop_id": "56537",
+        "stop_name": "Bannantyne / Rolland"
+      },
+      {
+        "stop_id": "56703",
+        "stop_name": "Parc Hadley (Bannantyne / Stephens)"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "56703",
+        "stop_name": "Parc Hadley (Bannantyne / Stephens)"
+      },
+      {
+        "stop_id": "56539",
+        "stop_name": "Bannantyne / Allard"
+      },
+      {
+        "stop_id": "56541",
+        "stop_name": "Bannantyne / Brault"
+      },
+      {
+        "stop_id": "56543",
+        "stop_name": "Bannantyne / Moffat"
+      },
+      {
+        "stop_id": "56546",
+        "stop_name": "Bannantyne / Woodland"
+      },
+      {
+        "stop_id": "56549",
+        "stop_name": "Bannantyne / Desmarchais"
+      },
+      {
+        "stop_id": "56551",
+        "stop_name": "Bannantyne / 4e Avenue"
+      },
+      {
+        "stop_id": "56554",
+        "stop_name": "Bannantyne / 1re Avenue"
+      },
+      {
+        "stop_id": "56556",
+        "stop_name": "Bannantyne / Rielle"
+      },
+      {
+        "stop_id": "56559",
+        "stop_name": "Bannantyne / Galt"
+      },
+      {
+        "stop_id": "56562",
+        "stop_name": "Bannantyne / de l'Église"
+      },
+      {
+        "stop_id": "56564",
+        "stop_name": "Bannantyne / Hickson"
+      },
+      {
+        "stop_id": "56569",
+        "stop_name": "Dupuis / Newmarch"
+      },
+      {
+        "stop_id": "56575",
+        "stop_name": "Joseph / Regina"
+      },
+      {
+        "stop_id": "56599",
+        "stop_name": "Strathmore / de Verdun"
+      },
+      {
+        "stop_id": "56622",
+        "stop_name": "Strathmore / LaSalle"
+      },
+      {
+        "stop_id": "61207",
+        "stop_name": "Station LaSalle"
+      },
+      {
+        "stop_id": "56601",
+        "stop_name": "Caisse / de Verdun"
+      },
+      {
+        "stop_id": "56605",
+        "stop_name": "de Verdun / Henri-Duhamel"
+      },
+      {
+        "stop_id": "53894",
+        "stop_name": "Atwater / du Centre"
+      },
+      {
+        "stop_id": "52290",
+        "stop_name": "Atwater / Sainte-Émilie"
+      },
+      {
+        "stop_id": "52243",
+        "stop_name": "Atwater / Notre-Dame"
+      },
+      {
+        "stop_id": "54181",
+        "stop_name": "Station Lionel-Groulx (Atwater / Lionel-Groulx)"
+      },
+      {
+        "stop_id": "52193",
+        "stop_name": "Station Lionel-Groulx"
+      },
+      {
+        "stop_id": "56303",
+        "stop_name": "Atwater / Saint-Antoine"
+      },
+      {
+        "stop_id": "52085",
+        "stop_name": "Atwater / du Souvenir"
+      },
+      {
+        "stop_id": "56297",
+        "stop_name": "Station Atwater (Atwater / Sainte-Catherine)"
+      }
+    ]
+  }
+]

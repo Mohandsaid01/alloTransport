@@ -1,0 +1,400 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54696",
+        "stop_name": "Centre de transport Anjou"
+      },
+      {
+        "stop_id": "54717",
+        "stop_name": "Larrey / L.-J.-Forget"
+      },
+      {
+        "stop_id": "54524",
+        "stop_name": "Larrey / Mirabeau"
+      },
+      {
+        "stop_id": "54692",
+        "stop_name": "Colbert / Larrey"
+      },
+      {
+        "stop_id": "54512",
+        "stop_name": "Colbert / No 10700"
+      },
+      {
+        "stop_id": "54535",
+        "stop_name": "Colbert / Ravenel"
+      },
+      {
+        "stop_id": "54537",
+        "stop_name": "Colbert / Bombardier"
+      },
+      {
+        "stop_id": "54529",
+        "stop_name": "Bombardier / Renaude-Lapointe"
+      },
+      {
+        "stop_id": "54517",
+        "stop_name": "Bombardier / des Galeries-d'Anjou"
+      },
+      {
+        "stop_id": "54913",
+        "stop_name": "Bombardier / Champ-d'Eau"
+      },
+      {
+        "stop_id": "54906",
+        "stop_name": "Bombardier / Pascal-Gagnon"
+      },
+      {
+        "stop_id": "54899",
+        "stop_name": "Bombardier / No 6630"
+      },
+      {
+        "stop_id": "54887",
+        "stop_name": "Bombardier / Langelier"
+      },
+      {
+        "stop_id": "54897",
+        "stop_name": "Langelier / Belherbe"
+      },
+      {
+        "stop_id": "54911",
+        "stop_name": "Langelier / P.-E.-Lamarche"
+      },
+      {
+        "stop_id": "54923",
+        "stop_name": "Langelier / Robert"
+      },
+      {
+        "stop_id": "54912",
+        "stop_name": "Robert / Bonnivet"
+      },
+      {
+        "stop_id": "54894",
+        "stop_name": "Robert / Albanel"
+      },
+      {
+        "stop_id": "54891",
+        "stop_name": "Robert / Carrel"
+      },
+      {
+        "stop_id": "54882",
+        "stop_name": "Robert / Aimé-Renaud"
+      },
+      {
+        "stop_id": "54871",
+        "stop_name": "Robert / Lacordaire"
+      },
+      {
+        "stop_id": "54840",
+        "stop_name": "Robert / Nevers"
+      },
+      {
+        "stop_id": "54818",
+        "stop_name": "Robert / Viau"
+      },
+      {
+        "stop_id": "54805",
+        "stop_name": "Robert / D'Artagnan"
+      },
+      {
+        "stop_id": "54803",
+        "stop_name": "Robert / Narbonne"
+      },
+      {
+        "stop_id": "54800",
+        "stop_name": "Robert / Provencher"
+      },
+      {
+        "stop_id": "54813",
+        "stop_name": "Provencher / Compiègne"
+      },
+      {
+        "stop_id": "54823",
+        "stop_name": "Provencher / Jean-Rivard"
+      },
+      {
+        "stop_id": "54831",
+        "stop_name": "Provencher / d'Assise"
+      },
+      {
+        "stop_id": "54843",
+        "stop_name": "25e Avenue / Jarry"
+      },
+      {
+        "stop_id": "51530",
+        "stop_name": "Jarry / Pie-IX"
+      },
+      {
+        "stop_id": "51524",
+        "stop_name": "Jarry / 22e Avenue"
+      },
+      {
+        "stop_id": "51493",
+        "stop_name": "Jarry / 20e Avenue"
+      },
+      {
+        "stop_id": "51468",
+        "stop_name": "17e Avenue / Jarry"
+      },
+      {
+        "stop_id": "51539",
+        "stop_name": "17e Avenue / Crémazie"
+      },
+      {
+        "stop_id": "53688",
+        "stop_name": "Crémazie / Musset"
+      },
+      {
+        "stop_id": "51470",
+        "stop_name": "Crémazie / Saint-Michel"
+      },
+      {
+        "stop_id": "51419",
+        "stop_name": "Crémazie / 6e Avenue"
+      },
+      {
+        "stop_id": "51342",
+        "stop_name": "Crémazie / D'Iberville"
+      },
+      {
+        "stop_id": "51234",
+        "stop_name": "Crémazie / De Lorimier"
+      },
+      {
+        "stop_id": "51200",
+        "stop_name": "Crémazie / Chabot"
+      },
+      {
+        "stop_id": "51177",
+        "stop_name": "Crémazie / Papineau"
+      },
+      {
+        "stop_id": "51106",
+        "stop_name": "Crémazie / Fabre"
+      },
+      {
+        "stop_id": "51039",
+        "stop_name": "Crémazie / Chambord"
+      },
+      {
+        "stop_id": "50961",
+        "stop_name": "Crémazie / Christophe-Colomb"
+      },
+      {
+        "stop_id": "53950",
+        "stop_name": "Collège André-Grasset"
+      },
+      {
+        "stop_id": "50857",
+        "stop_name": "Crémazie / Saint-Hubert"
+      },
+      {
+        "stop_id": "50812",
+        "stop_name": "Crémazie / Foucher"
+      },
+      {
+        "stop_id": "50794",
+        "stop_name": "Station Crémazie Nord (Crémazie / Lajeunesse)"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54206",
+        "stop_name": "Station Crémazie Sud (Crémazie / Lajeunesse)"
+      },
+      {
+        "stop_id": "50813",
+        "stop_name": "Crémazie / Foucher"
+      },
+      {
+        "stop_id": "50859",
+        "stop_name": "Crémazie / Saint-Hubert"
+      },
+      {
+        "stop_id": "50976",
+        "stop_name": "de Liège / Christophe-Colomb"
+      },
+      {
+        "stop_id": "50977",
+        "stop_name": "Crémazie / Christophe-Colomb"
+      },
+      {
+        "stop_id": "51040",
+        "stop_name": "Crémazie / Chambord"
+      },
+      {
+        "stop_id": "51105",
+        "stop_name": "Crémazie / Fabre"
+      },
+      {
+        "stop_id": "51178",
+        "stop_name": "Crémazie / Papineau"
+      },
+      {
+        "stop_id": "51223",
+        "stop_name": "Crémazie / de Bordeaux"
+      },
+      {
+        "stop_id": "51343",
+        "stop_name": "Crémazie / Molson"
+      },
+      {
+        "stop_id": "51420",
+        "stop_name": "Crémazie / 6e Avenue"
+      },
+      {
+        "stop_id": "51472",
+        "stop_name": "Crémazie / Saint-Michel"
+      },
+      {
+        "stop_id": "53689",
+        "stop_name": "Crémazie / Musset"
+      },
+      {
+        "stop_id": "51541",
+        "stop_name": "17e Avenue / Crémazie"
+      },
+      {
+        "stop_id": "51465",
+        "stop_name": "17e Avenue / Jarry"
+      },
+      {
+        "stop_id": "51494",
+        "stop_name": "Jarry / 19e Avenue"
+      },
+      {
+        "stop_id": "51532",
+        "stop_name": "Jarry / Pie-IX"
+      },
+      {
+        "stop_id": "51548",
+        "stop_name": "Jarry / 23e Avenue"
+      },
+      {
+        "stop_id": "54845",
+        "stop_name": "25e Avenue / Jarry"
+      },
+      {
+        "stop_id": "54830",
+        "stop_name": "Provencher / d'Assise"
+      },
+      {
+        "stop_id": "54822",
+        "stop_name": "Provencher / Jean-Rivard"
+      },
+      {
+        "stop_id": "54812",
+        "stop_name": "Provencher / Compiègne"
+      },
+      {
+        "stop_id": "61503",
+        "stop_name": "Robert / Cluny"
+      },
+      {
+        "stop_id": "54804",
+        "stop_name": "Robert / Narbonne"
+      },
+      {
+        "stop_id": "54806",
+        "stop_name": "Robert / D'Artagnan"
+      },
+      {
+        "stop_id": "54820",
+        "stop_name": "Robert / Viau"
+      },
+      {
+        "stop_id": "54841",
+        "stop_name": "Robert / Nevers"
+      },
+      {
+        "stop_id": "54873",
+        "stop_name": "Robert / Lacordaire"
+      },
+      {
+        "stop_id": "54883",
+        "stop_name": "Robert / Aimé-Renaud"
+      },
+      {
+        "stop_id": "54890",
+        "stop_name": "Robert / des Sables"
+      },
+      {
+        "stop_id": "54895",
+        "stop_name": "Robert / Albanel"
+      },
+      {
+        "stop_id": "55028",
+        "stop_name": "Robert / de Honfleur"
+      },
+      {
+        "stop_id": "54915",
+        "stop_name": "Robert / de Guyenne"
+      },
+      {
+        "stop_id": "54924",
+        "stop_name": "Langelier / de Louvois"
+      },
+      {
+        "stop_id": "54910",
+        "stop_name": "Langelier / P.-E.-Lamarche"
+      },
+      {
+        "stop_id": "54896",
+        "stop_name": "Langelier / Belherbe"
+      },
+      {
+        "stop_id": "54886",
+        "stop_name": "Langelier / Bombardier"
+      },
+      {
+        "stop_id": "54900",
+        "stop_name": "Bombardier / No 6630"
+      },
+      {
+        "stop_id": "54908",
+        "stop_name": "Bombardier / Pascal-Gagnon"
+      },
+      {
+        "stop_id": "54914",
+        "stop_name": "Bombardier / Champ-d'Eau"
+      },
+      {
+        "stop_id": "54518",
+        "stop_name": "Bombardier / des Galeries-d'Anjou"
+      },
+      {
+        "stop_id": "54528",
+        "stop_name": "Bombardier / Renaude-Lapointe"
+      },
+      {
+        "stop_id": "54534",
+        "stop_name": "Colbert / Ravenel"
+      },
+      {
+        "stop_id": "54687",
+        "stop_name": "Colbert / No 10700"
+      },
+      {
+        "stop_id": "54520",
+        "stop_name": "Colbert / Larrey"
+      },
+      {
+        "stop_id": "54525",
+        "stop_name": "Larrey / Mirabeau"
+      },
+      {
+        "stop_id": "54527",
+        "stop_name": "Larrey / No 8150"
+      },
+      {
+        "stop_id": "54696",
+        "stop_name": "Centre de transport Anjou"
+      }
+    ]
+  }
+]

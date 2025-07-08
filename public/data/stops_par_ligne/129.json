@@ -1,0 +1,706 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "50898",
+        "stop_name": "Clanranald / Isabella"
+      },
+      {
+        "stop_id": "54208",
+        "stop_name": "Clanranald / Dupuis"
+      },
+      {
+        "stop_id": "50728",
+        "stop_name": "Clanranald / Bourret"
+      },
+      {
+        "stop_id": "53882",
+        "stop_name": "Bourret / Coolbrook"
+      },
+      {
+        "stop_id": "54322",
+        "stop_name": "Décarie / Lucy"
+      },
+      {
+        "stop_id": "50846",
+        "stop_name": "Côte-Sainte-Catherine / Trans Island"
+      },
+      {
+        "stop_id": "50873",
+        "stop_name": "Côte-Sainte-Catherine / de Westbury"
+      },
+      {
+        "stop_id": "50885",
+        "stop_name": "Côte-Sainte-Catherine / Lemieux"
+      },
+      {
+        "stop_id": "50926",
+        "stop_name": "Station Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "50960",
+        "stop_name": "Côte-Sainte-Catherine / Lavoie"
+      },
+      {
+        "stop_id": "51005",
+        "stop_name": "Côte-Sainte-Catherine / Légaré"
+      },
+      {
+        "stop_id": "51048",
+        "stop_name": "de la Côte-Sainte-Catherine / de la Côte-des-Neige"
+      },
+      {
+        "stop_id": "51088",
+        "stop_name": "Côte-Sainte-Catherine / Decelles"
+      },
+      {
+        "stop_id": "53818",
+        "stop_name": "de la Côte-Sainte-Catherine / No 3200"
+      },
+      {
+        "stop_id": "51161",
+        "stop_name": "Côte-Sainte-Catherine / Hudson"
+      },
+      {
+        "stop_id": "51193",
+        "stop_name": "Côte-Sainte-Catherine / de Darlington"
+      },
+      {
+        "stop_id": "51222",
+        "stop_name": "Côte-Sainte-Catherine / Woodbury"
+      },
+      {
+        "stop_id": "56167",
+        "stop_name": "Côte-Sainte-Catherine / Wilderton"
+      },
+      {
+        "stop_id": "56174",
+        "stop_name": "Côte-Sainte-Catherine / Hazelwood"
+      },
+      {
+        "stop_id": "56177",
+        "stop_name": "Côte-Sainte-Catherine / Vincent-D'Indy"
+      },
+      {
+        "stop_id": "56188",
+        "stop_name": "Côte-Sainte-Catherine / Dunlop"
+      },
+      {
+        "stop_id": "56196",
+        "stop_name": "de la Côte-Sainte-Catherine / Courcelette"
+      },
+      {
+        "stop_id": "56199",
+        "stop_name": "Côte-Sainte-Catherine / Pagnuelo"
+      },
+      {
+        "stop_id": "56205",
+        "stop_name": "Côte-Sainte-Catherine / Stuart"
+      },
+      {
+        "stop_id": "56207",
+        "stop_name": "Côte-Sainte-Catherine / Outremont"
+      },
+      {
+        "stop_id": "56209",
+        "stop_name": "Côte-Sainte-Catherine / Laurier"
+      },
+      {
+        "stop_id": "56213",
+        "stop_name": "Côte-Sainte-Catherine / Saint-Joseph"
+      },
+      {
+        "stop_id": "56214",
+        "stop_name": "Côte-Sainte-Catherine / McNider"
+      },
+      {
+        "stop_id": "56217",
+        "stop_name": "Côte-Sainte-Catherine / du Mont-Royal"
+      },
+      {
+        "stop_id": "53703",
+        "stop_name": "Monument Sir-George-Étienne-Cartier"
+      },
+      {
+        "stop_id": "60664",
+        "stop_name": "du Parc / des Pins"
+      },
+      {
+        "stop_id": "52250",
+        "stop_name": "du Parc / Léo-Pariseau"
+      },
+      {
+        "stop_id": "52298",
+        "stop_name": "du Parc / Prince-Arthur"
+      },
+      {
+        "stop_id": "52365",
+        "stop_name": "du Parc / Milton"
+      },
+      {
+        "stop_id": "52443",
+        "stop_name": "du Parc / Sherbrooke"
+      },
+      {
+        "stop_id": "52534",
+        "stop_name": "Station Place-des-Arts (De Bleury / De Maisonneuve"
+      },
+      {
+        "stop_id": "52608",
+        "stop_name": "De Bleury / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52679",
+        "stop_name": "De Bleury / René-Lévesque"
+      },
+      {
+        "stop_id": "52779",
+        "stop_name": "De Bleury / Viger"
+      },
+      {
+        "stop_id": "59308",
+        "stop_name": "Saint-Antoine / Saint-Urbain"
+      },
+      {
+        "stop_id": "60541",
+        "stop_name": "Saint-Antoine / Champ-de-Mars"
+      },
+      {
+        "stop_id": "59309",
+        "stop_name": "Saint-Antoine / Gosford"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "59309",
+        "stop_name": "Saint-Antoine / Gosford"
+      },
+      {
+        "stop_id": "52968",
+        "stop_name": "Notre-Dame / Saint-Gabriel"
+      },
+      {
+        "stop_id": "52918",
+        "stop_name": "Saint-Laurent / Saint-Antoine"
+      },
+      {
+        "stop_id": "52780",
+        "stop_name": "Saint-Laurent / René-Lévesque"
+      },
+      {
+        "stop_id": "52710",
+        "stop_name": "Saint-Laurent / Sainte-Catherine"
+      },
+      {
+        "stop_id": "61049",
+        "stop_name": "Jeanne-Mance / du Président-Kennedy"
+      },
+      {
+        "stop_id": "52442",
+        "stop_name": "Sherbrooke / De Bleury"
+      },
+      {
+        "stop_id": "50111",
+        "stop_name": "du Parc / Milton"
+      },
+      {
+        "stop_id": "50112",
+        "stop_name": "du Parc / Prince-Arthur"
+      },
+      {
+        "stop_id": "50115",
+        "stop_name": "du Parc / Léo-Pariseau"
+      },
+      {
+        "stop_id": "60663",
+        "stop_name": "du Parc / des Pins"
+      },
+      {
+        "stop_id": "53702",
+        "stop_name": "Monument Sir-George-Étienne-Cartier"
+      },
+      {
+        "stop_id": "56216",
+        "stop_name": "Côte-Sainte-Catherine / du Mont-Royal"
+      },
+      {
+        "stop_id": "56215",
+        "stop_name": "Côte-Sainte-Catherine / McNider"
+      },
+      {
+        "stop_id": "56212",
+        "stop_name": "Côte-Sainte-Catherine / Saint-Joseph"
+      },
+      {
+        "stop_id": "56208",
+        "stop_name": "Côte-Sainte-Catherine / Laurier"
+      },
+      {
+        "stop_id": "56206",
+        "stop_name": "Côte-Sainte-Catherine / Outremont"
+      },
+      {
+        "stop_id": "56204",
+        "stop_name": "Côte-Sainte-Catherine / Stuart"
+      },
+      {
+        "stop_id": "56200",
+        "stop_name": "Côte-Sainte-Catherine / Les Hautvilliers"
+      },
+      {
+        "stop_id": "56194",
+        "stop_name": "Côte-Sainte-Catherine / Rockland"
+      },
+      {
+        "stop_id": "56187",
+        "stop_name": "de la Côte-Sainte-Catherine / Claude-Champagne"
+      },
+      {
+        "stop_id": "56176",
+        "stop_name": "Côte-Sainte-Catherine / Vincent-D'Indy"
+      },
+      {
+        "stop_id": "51271",
+        "stop_name": "Côte-Sainte-Catherine / Déom"
+      },
+      {
+        "stop_id": "56166",
+        "stop_name": "Côte-Sainte-Catherine / Wilderton"
+      },
+      {
+        "stop_id": "51221",
+        "stop_name": "Côte-Sainte-Catherine / Woodbury"
+      },
+      {
+        "stop_id": "51192",
+        "stop_name": "Côte-Sainte-Catherine / de Darlington"
+      },
+      {
+        "stop_id": "51160",
+        "stop_name": "Côte-Sainte-Catherine / Hudson"
+      },
+      {
+        "stop_id": "53819",
+        "stop_name": "de la Côte-Sainte-Catherine / No 3175"
+      },
+      {
+        "stop_id": "51087",
+        "stop_name": "Côte-Sainte-Catherine / Decelles"
+      },
+      {
+        "stop_id": "51046",
+        "stop_name": "de la Côte-Sainte-Catherine / de la Côte-des-Neige"
+      },
+      {
+        "stop_id": "51049",
+        "stop_name": "de la Côte-Sainte-Catherine / No 3755"
+      },
+      {
+        "stop_id": "51004",
+        "stop_name": "Côte-Sainte-Catherine / Légaré"
+      },
+      {
+        "stop_id": "50959",
+        "stop_name": "Côte-Sainte-Catherine / Lavoie"
+      },
+      {
+        "stop_id": "50924",
+        "stop_name": "Station Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "50884",
+        "stop_name": "Côte-Sainte-Catherine / Lemieux"
+      },
+      {
+        "stop_id": "50872",
+        "stop_name": "Côte-Sainte-Catherine / de Westbury"
+      },
+      {
+        "stop_id": "50847",
+        "stop_name": "Côte-Sainte-Catherine / Décarie"
+      },
+      {
+        "stop_id": "53881",
+        "stop_name": "Décarie / Dupuis"
+      },
+      {
+        "stop_id": "50832",
+        "stop_name": "Earnscliffe / Dupuis"
+      },
+      {
+        "stop_id": "50917",
+        "stop_name": "Earnscliffe / Isabella"
+      },
+      {
+        "stop_id": "50898",
+        "stop_name": "Clanranald / Isabella"
+      }
+    ]
+  },
+  {
+    "direction": "Nord destination Décarie / Lucy",
+    "arrets": [
+      {
+        "stop_id": "52968",
+        "stop_name": "Notre-Dame / Saint-Gabriel"
+      },
+      {
+        "stop_id": "52918",
+        "stop_name": "Saint-Laurent / Saint-Antoine"
+      },
+      {
+        "stop_id": "52780",
+        "stop_name": "Saint-Laurent / René-Lévesque"
+      },
+      {
+        "stop_id": "52710",
+        "stop_name": "Saint-Laurent / Sainte-Catherine"
+      },
+      {
+        "stop_id": "61049",
+        "stop_name": "Jeanne-Mance / du Président-Kennedy"
+      },
+      {
+        "stop_id": "52442",
+        "stop_name": "Sherbrooke / De Bleury"
+      },
+      {
+        "stop_id": "50111",
+        "stop_name": "du Parc / Milton"
+      },
+      {
+        "stop_id": "50112",
+        "stop_name": "du Parc / Prince-Arthur"
+      },
+      {
+        "stop_id": "50115",
+        "stop_name": "du Parc / Léo-Pariseau"
+      },
+      {
+        "stop_id": "60663",
+        "stop_name": "du Parc / des Pins"
+      },
+      {
+        "stop_id": "53702",
+        "stop_name": "Monument Sir-George-Étienne-Cartier"
+      },
+      {
+        "stop_id": "56216",
+        "stop_name": "Côte-Sainte-Catherine / du Mont-Royal"
+      },
+      {
+        "stop_id": "56215",
+        "stop_name": "Côte-Sainte-Catherine / McNider"
+      },
+      {
+        "stop_id": "56212",
+        "stop_name": "Côte-Sainte-Catherine / Saint-Joseph"
+      },
+      {
+        "stop_id": "56208",
+        "stop_name": "Côte-Sainte-Catherine / Laurier"
+      },
+      {
+        "stop_id": "56206",
+        "stop_name": "Côte-Sainte-Catherine / Outremont"
+      },
+      {
+        "stop_id": "56204",
+        "stop_name": "Côte-Sainte-Catherine / Stuart"
+      },
+      {
+        "stop_id": "56200",
+        "stop_name": "Côte-Sainte-Catherine / Les Hautvilliers"
+      },
+      {
+        "stop_id": "56194",
+        "stop_name": "Côte-Sainte-Catherine / Rockland"
+      },
+      {
+        "stop_id": "56187",
+        "stop_name": "de la Côte-Sainte-Catherine / Claude-Champagne"
+      },
+      {
+        "stop_id": "56176",
+        "stop_name": "Côte-Sainte-Catherine / Vincent-D'Indy"
+      },
+      {
+        "stop_id": "51271",
+        "stop_name": "Côte-Sainte-Catherine / Déom"
+      },
+      {
+        "stop_id": "56166",
+        "stop_name": "Côte-Sainte-Catherine / Wilderton"
+      },
+      {
+        "stop_id": "51221",
+        "stop_name": "Côte-Sainte-Catherine / Woodbury"
+      },
+      {
+        "stop_id": "51192",
+        "stop_name": "Côte-Sainte-Catherine / de Darlington"
+      },
+      {
+        "stop_id": "51160",
+        "stop_name": "Côte-Sainte-Catherine / Hudson"
+      },
+      {
+        "stop_id": "53819",
+        "stop_name": "de la Côte-Sainte-Catherine / No 3175"
+      },
+      {
+        "stop_id": "51087",
+        "stop_name": "Côte-Sainte-Catherine / Decelles"
+      },
+      {
+        "stop_id": "51046",
+        "stop_name": "de la Côte-Sainte-Catherine / de la Côte-des-Neige"
+      },
+      {
+        "stop_id": "51049",
+        "stop_name": "de la Côte-Sainte-Catherine / No 3755"
+      },
+      {
+        "stop_id": "51004",
+        "stop_name": "Côte-Sainte-Catherine / Légaré"
+      },
+      {
+        "stop_id": "50959",
+        "stop_name": "Côte-Sainte-Catherine / Lavoie"
+      },
+      {
+        "stop_id": "50924",
+        "stop_name": "Station Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "50884",
+        "stop_name": "Côte-Sainte-Catherine / Lemieux"
+      },
+      {
+        "stop_id": "50872",
+        "stop_name": "Côte-Sainte-Catherine / de Westbury"
+      },
+      {
+        "stop_id": "50847",
+        "stop_name": "Côte-Sainte-Catherine / Décarie"
+      },
+      {
+        "stop_id": "53881",
+        "stop_name": "Décarie / Dupuis"
+      },
+      {
+        "stop_id": "50832",
+        "stop_name": "Earnscliffe / Dupuis"
+      },
+      {
+        "stop_id": "50917",
+        "stop_name": "Earnscliffe / Isabella"
+      },
+      {
+        "stop_id": "50898",
+        "stop_name": "Clanranald / Isabella"
+      },
+      {
+        "stop_id": "54208",
+        "stop_name": "Clanranald / Dupuis"
+      },
+      {
+        "stop_id": "50728",
+        "stop_name": "Clanranald / Bourret"
+      },
+      {
+        "stop_id": "53882",
+        "stop_name": "Bourret / Coolbrook"
+      },
+      {
+        "stop_id": "54322",
+        "stop_name": "Décarie / Lucy"
+      },
+      {
+        "stop_id": "59309",
+        "stop_name": "Saint-Antoine / Gosford"
+      }
+    ]
+  },
+  {
+    "direction": "Sud destination Notre-Dame / St-Gabriel",
+    "arrets": [
+      {
+        "stop_id": "54322",
+        "stop_name": "Décarie / Lucy"
+      },
+      {
+        "stop_id": "50846",
+        "stop_name": "Côte-Sainte-Catherine / Trans Island"
+      },
+      {
+        "stop_id": "50873",
+        "stop_name": "Côte-Sainte-Catherine / de Westbury"
+      },
+      {
+        "stop_id": "50885",
+        "stop_name": "Côte-Sainte-Catherine / Lemieux"
+      },
+      {
+        "stop_id": "50926",
+        "stop_name": "Station Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "50960",
+        "stop_name": "Côte-Sainte-Catherine / Lavoie"
+      },
+      {
+        "stop_id": "51005",
+        "stop_name": "Côte-Sainte-Catherine / Légaré"
+      },
+      {
+        "stop_id": "51048",
+        "stop_name": "de la Côte-Sainte-Catherine / de la Côte-des-Neige"
+      },
+      {
+        "stop_id": "51088",
+        "stop_name": "Côte-Sainte-Catherine / Decelles"
+      },
+      {
+        "stop_id": "53818",
+        "stop_name": "de la Côte-Sainte-Catherine / No 3200"
+      },
+      {
+        "stop_id": "51161",
+        "stop_name": "Côte-Sainte-Catherine / Hudson"
+      },
+      {
+        "stop_id": "51193",
+        "stop_name": "Côte-Sainte-Catherine / de Darlington"
+      },
+      {
+        "stop_id": "51222",
+        "stop_name": "Côte-Sainte-Catherine / Woodbury"
+      },
+      {
+        "stop_id": "56167",
+        "stop_name": "Côte-Sainte-Catherine / Wilderton"
+      },
+      {
+        "stop_id": "56174",
+        "stop_name": "Côte-Sainte-Catherine / Hazelwood"
+      },
+      {
+        "stop_id": "56177",
+        "stop_name": "Côte-Sainte-Catherine / Vincent-D'Indy"
+      },
+      {
+        "stop_id": "56188",
+        "stop_name": "Côte-Sainte-Catherine / Dunlop"
+      },
+      {
+        "stop_id": "56196",
+        "stop_name": "de la Côte-Sainte-Catherine / Courcelette"
+      },
+      {
+        "stop_id": "56199",
+        "stop_name": "Côte-Sainte-Catherine / Pagnuelo"
+      },
+      {
+        "stop_id": "56205",
+        "stop_name": "Côte-Sainte-Catherine / Stuart"
+      },
+      {
+        "stop_id": "56207",
+        "stop_name": "Côte-Sainte-Catherine / Outremont"
+      },
+      {
+        "stop_id": "56209",
+        "stop_name": "Côte-Sainte-Catherine / Laurier"
+      },
+      {
+        "stop_id": "56213",
+        "stop_name": "Côte-Sainte-Catherine / Saint-Joseph"
+      },
+      {
+        "stop_id": "56214",
+        "stop_name": "Côte-Sainte-Catherine / McNider"
+      },
+      {
+        "stop_id": "56217",
+        "stop_name": "Côte-Sainte-Catherine / du Mont-Royal"
+      },
+      {
+        "stop_id": "53703",
+        "stop_name": "Monument Sir-George-Étienne-Cartier"
+      },
+      {
+        "stop_id": "60664",
+        "stop_name": "du Parc / des Pins"
+      },
+      {
+        "stop_id": "52250",
+        "stop_name": "du Parc / Léo-Pariseau"
+      },
+      {
+        "stop_id": "52298",
+        "stop_name": "du Parc / Prince-Arthur"
+      },
+      {
+        "stop_id": "52365",
+        "stop_name": "du Parc / Milton"
+      },
+      {
+        "stop_id": "52443",
+        "stop_name": "du Parc / Sherbrooke"
+      },
+      {
+        "stop_id": "52534",
+        "stop_name": "Station Place-des-Arts (De Bleury / De Maisonneuve"
+      },
+      {
+        "stop_id": "52608",
+        "stop_name": "De Bleury / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52679",
+        "stop_name": "De Bleury / René-Lévesque"
+      },
+      {
+        "stop_id": "52779",
+        "stop_name": "De Bleury / Viger"
+      },
+      {
+        "stop_id": "59308",
+        "stop_name": "Saint-Antoine / Saint-Urbain"
+      },
+      {
+        "stop_id": "60541",
+        "stop_name": "Saint-Antoine / Champ-de-Mars"
+      },
+      {
+        "stop_id": "59309",
+        "stop_name": "Saint-Antoine / Gosford"
+      },
+      {
+        "stop_id": "52968",
+        "stop_name": "Notre-Dame / Saint-Gabriel"
+      },
+      {
+        "stop_id": "50898",
+        "stop_name": "Clanranald / Isabella"
+      },
+      {
+        "stop_id": "54208",
+        "stop_name": "Clanranald / Dupuis"
+      },
+      {
+        "stop_id": "50728",
+        "stop_name": "Clanranald / Bourret"
+      },
+      {
+        "stop_id": "53882",
+        "stop_name": "Bourret / Coolbrook"
+      }
+    ]
+  }
+]

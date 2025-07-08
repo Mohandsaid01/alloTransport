@@ -1,0 +1,568 @@
+[
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "60888",
+        "stop_name": "Auto Plaza / Brunswick"
+      },
+      {
+        "stop_id": "57607",
+        "stop_name": "Labrosse / No 1000"
+      },
+      {
+        "stop_id": "57981",
+        "stop_name": "Saint-Jean / Blue Haven"
+      },
+      {
+        "stop_id": "57834",
+        "stop_name": "Saint-Jean / de Salaberry"
+      },
+      {
+        "stop_id": "57854",
+        "stop_name": "Saint-Jean / Lake"
+      },
+      {
+        "stop_id": "57852",
+        "stop_name": "Saint-Jean / Roger-Pilon"
+      },
+      {
+        "stop_id": "57994",
+        "stop_name": "Saint-Jean / Ernest"
+      },
+      {
+        "stop_id": "58147",
+        "stop_name": "Saint-Jean / Anselme-Lavigne"
+      },
+      {
+        "stop_id": "58289",
+        "stop_name": "René-Émard / Anselme-Lavigne"
+      },
+      {
+        "stop_id": "58310",
+        "stop_name": "René-Émard / No 4600"
+      },
+      {
+        "stop_id": "58140",
+        "stop_name": "René-Émard / de Pierrefonds"
+      },
+      {
+        "stop_id": "58134",
+        "stop_name": "Gouin / Saint-Jean"
+      },
+      {
+        "stop_id": "58130",
+        "stop_name": "Gouin / Aumais"
+      },
+      {
+        "stop_id": "58121",
+        "stop_name": "Gouin / Saint-Pierre"
+      },
+      {
+        "stop_id": "58115",
+        "stop_name": "Gouin / Jacques-Bizard"
+      },
+      {
+        "stop_id": "58082",
+        "stop_name": "Gouin / Laframboise"
+      },
+      {
+        "stop_id": "58109",
+        "stop_name": "Gouin / Paiement"
+      },
+      {
+        "stop_id": "58070",
+        "stop_name": "Gouin / Saint-Joseph"
+      },
+      {
+        "stop_id": "58074",
+        "stop_name": "Gouin / de la Caserne"
+      },
+      {
+        "stop_id": "58099",
+        "stop_name": "Gouin / Sainte-Anne"
+      },
+      {
+        "stop_id": "58077",
+        "stop_name": "Gouin / No 16407"
+      },
+      {
+        "stop_id": "58067",
+        "stop_name": "Gouin / Lavigne"
+      },
+      {
+        "stop_id": "58092",
+        "stop_name": "Saint-Charles / Gouin"
+      },
+      {
+        "stop_id": "58094",
+        "stop_name": "Saint-Charles / de Pierrefonds"
+      },
+      {
+        "stop_id": "58102",
+        "stop_name": "Saint-Charles / Saint-Denis"
+      },
+      {
+        "stop_id": "58107",
+        "stop_name": "Saint-Charles / Maher"
+      },
+      {
+        "stop_id": "58111",
+        "stop_name": "Saint-Charles / Antoine-Faucon"
+      },
+      {
+        "stop_id": "58105",
+        "stop_name": "Antoine-Faucon / Biroleau"
+      },
+      {
+        "stop_id": "58222",
+        "stop_name": "Henri-Daoust / Antoine-Faucon"
+      },
+      {
+        "stop_id": "58341",
+        "stop_name": "Henri-Daoust / Harmony"
+      },
+      {
+        "stop_id": "58343",
+        "stop_name": "Brunswick / Henri-Daoust"
+      },
+      {
+        "stop_id": "58345",
+        "stop_name": "Brunswick / Shannon"
+      },
+      {
+        "stop_id": "58348",
+        "stop_name": "Brunswick / Saint-Charles"
+      },
+      {
+        "stop_id": "58350",
+        "stop_name": "Saint-Charles / Sainte-Marie"
+      },
+      {
+        "stop_id": "58352",
+        "stop_name": "Saint-Charles / Hymus"
+      },
+      {
+        "stop_id": "58355",
+        "stop_name": "Saint-Charles / Kirkland"
+      },
+      {
+        "stop_id": "58391",
+        "stop_name": "Saint-Charles / No 2768"
+      },
+      {
+        "stop_id": "58462",
+        "stop_name": "Saint-Charles / Creswell"
+      },
+      {
+        "stop_id": "58466",
+        "stop_name": "Saint-Charles / Sherbrooke"
+      },
+      {
+        "stop_id": "58482",
+        "stop_name": "Gare Beaconsfield"
+      },
+      {
+        "stop_id": "58471",
+        "stop_name": "Saint-Charles / Prairie"
+      },
+      {
+        "stop_id": "58477",
+        "stop_name": "Beaconsfield / Claude"
+      },
+      {
+        "stop_id": "58478",
+        "stop_name": "Beaconsfield / Hyde Park"
+      },
+      {
+        "stop_id": "58480",
+        "stop_name": "Beaconsfield / Lakeshore"
+      },
+      {
+        "stop_id": "57619",
+        "stop_name": "Bord-du-Lac / Pointe-Claire"
+      },
+      {
+        "stop_id": "57632",
+        "stop_name": "Bord-du-Lac / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "57803",
+        "stop_name": "Bord-du-Lac / Sainte-Anne"
+      },
+      {
+        "stop_id": "57643",
+        "stop_name": "Lanthier / Cartier"
+      },
+      {
+        "stop_id": "57785",
+        "stop_name": "Cartier / No 117"
+      },
+      {
+        "stop_id": "57770",
+        "stop_name": "Cartier / de Val-Soleil"
+      },
+      {
+        "stop_id": "57601",
+        "stop_name": "Cartier / Autoroute 20"
+      },
+      {
+        "stop_id": "57772",
+        "stop_name": "Autoroute 20 / Saint-Jean"
+      },
+      {
+        "stop_id": "57807",
+        "stop_name": "Saint-Jean / Autoroute 20 (nord)"
+      },
+      {
+        "stop_id": "57665",
+        "stop_name": "Saint-Jean / Drake"
+      },
+      {
+        "stop_id": "57658",
+        "stop_name": "Saint-Jean / Douglas-Shand"
+      },
+      {
+        "stop_id": "57784",
+        "stop_name": "Douglas-Shand / Maywood"
+      },
+      {
+        "stop_id": "57690",
+        "stop_name": "Saint-Louis / Cavell"
+      },
+      {
+        "stop_id": "57699",
+        "stop_name": "Saint-Louis / Perrier"
+      },
+      {
+        "stop_id": "57688",
+        "stop_name": "Hastings / Braebrook"
+      },
+      {
+        "stop_id": "57680",
+        "stop_name": "Hastings / Westcliffe"
+      },
+      {
+        "stop_id": "57666",
+        "stop_name": "Hastings / de Newton Square"
+      },
+      {
+        "stop_id": "57662",
+        "stop_name": "Hastings / Hymus"
+      },
+      {
+        "stop_id": "57656",
+        "stop_name": "Hymus / Carlisle"
+      },
+      {
+        "stop_id": "57808",
+        "stop_name": "Saint-Jean / Holiday"
+      },
+      {
+        "stop_id": "57609",
+        "stop_name": "Labrosse / No 1000"
+      },
+      {
+        "stop_id": "57608",
+        "stop_name": "Labrosse / Grandview"
+      },
+      {
+        "stop_id": "60889",
+        "stop_name": "Brunswick / Terminus Fairview"
+      },
+      {
+        "stop_id": "57797",
+        "stop_name": "Terminus Fairview"
+      },
+      {
+        "stop_id": "60415",
+        "stop_name": "Terminus Fairview / Brunswick"
+      }
+    ]
+  },
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "60889",
+        "stop_name": "Brunswick / Terminus Fairview"
+      },
+      {
+        "stop_id": "57621",
+        "stop_name": "Brunswick / Saint-Jean"
+      },
+      {
+        "stop_id": "57657",
+        "stop_name": "Hymus / Carlisle"
+      },
+      {
+        "stop_id": "57664",
+        "stop_name": "Hymus / Hastings"
+      },
+      {
+        "stop_id": "57667",
+        "stop_name": "Hastings / de Newton Square"
+      },
+      {
+        "stop_id": "57681",
+        "stop_name": "Hastings / Westcliffe"
+      },
+      {
+        "stop_id": "57805",
+        "stop_name": "Hastings / Dieppe"
+      },
+      {
+        "stop_id": "57698",
+        "stop_name": "Hornell / Saint-Louis"
+      },
+      {
+        "stop_id": "57689",
+        "stop_name": "Saint-Louis / Cavell"
+      },
+      {
+        "stop_id": "57675",
+        "stop_name": "Saint-Louis / Maywood"
+      },
+      {
+        "stop_id": "57774",
+        "stop_name": "École Pointe-Claire"
+      },
+      {
+        "stop_id": "57778",
+        "stop_name": "École John-Rennie (Douglas-Shand / Saint-Jean)"
+      },
+      {
+        "stop_id": "57668",
+        "stop_name": "Saint-Jean / Springdale"
+      },
+      {
+        "stop_id": "57769",
+        "stop_name": "Cartier / Salisbury"
+      },
+      {
+        "stop_id": "57771",
+        "stop_name": "Cartier / de Val-Soleil"
+      },
+      {
+        "stop_id": "57635",
+        "stop_name": "Cartier / No 117"
+      },
+      {
+        "stop_id": "57642",
+        "stop_name": "Cartier / Lanthier"
+      },
+      {
+        "stop_id": "57641",
+        "stop_name": "de Lourdes / Bord-du-Lac"
+      },
+      {
+        "stop_id": "57802",
+        "stop_name": "Bord-du-Lac / Sainte-Anne"
+      },
+      {
+        "stop_id": "57631",
+        "stop_name": "Bord-du-Lac / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "57618",
+        "stop_name": "Bord-du-Lac / Pointe-Claire"
+      },
+      {
+        "stop_id": "58479",
+        "stop_name": "Lakeshore / Beaconsfield"
+      },
+      {
+        "stop_id": "58490",
+        "stop_name": "Beaconsfield / Hyde Park"
+      },
+      {
+        "stop_id": "58476",
+        "stop_name": "Beaconsfield / Claude"
+      },
+      {
+        "stop_id": "58474",
+        "stop_name": "Saint-Charles / Beaconsfield"
+      },
+      {
+        "stop_id": "58481",
+        "stop_name": "Gare Beaconsfield (Saint-Charles / Amherst)"
+      },
+      {
+        "stop_id": "58467",
+        "stop_name": "Saint-Charles / Sherbrooke"
+      },
+      {
+        "stop_id": "58461",
+        "stop_name": "Saint-Charles / Creswell"
+      },
+      {
+        "stop_id": "58390",
+        "stop_name": "Saint-Charles / No 2755"
+      },
+      {
+        "stop_id": "58354",
+        "stop_name": "Saint-Charles / Kirkland"
+      },
+      {
+        "stop_id": "58351",
+        "stop_name": "Saint-Charles / Hymus"
+      },
+      {
+        "stop_id": "58379",
+        "stop_name": "Saint-Charles / Sainte-Marie"
+      },
+      {
+        "stop_id": "58346",
+        "stop_name": "Brunswick / Valérie"
+      },
+      {
+        "stop_id": "58344",
+        "stop_name": "Brunswick / Shannon"
+      },
+      {
+        "stop_id": "58342",
+        "stop_name": "Brunswick / Henri-Daoust"
+      },
+      {
+        "stop_id": "58380",
+        "stop_name": "Henri-Daoust / Dragon"
+      },
+      {
+        "stop_id": "58100",
+        "stop_name": "Henri-Daoust / Antoine-Faucon"
+      },
+      {
+        "stop_id": "58106",
+        "stop_name": "Antoine-Faucon / Biroleau"
+      },
+      {
+        "stop_id": "58112",
+        "stop_name": "Antoine-Faucon / Saint-Charles"
+      },
+      {
+        "stop_id": "58108",
+        "stop_name": "Saint-Charles / Oakwood"
+      },
+      {
+        "stop_id": "58101",
+        "stop_name": "Saint-Charles / Duval"
+      },
+      {
+        "stop_id": "58097",
+        "stop_name": "Saint-Charles / de Pierrefonds"
+      },
+      {
+        "stop_id": "58091",
+        "stop_name": "Saint-Charles / Gouin"
+      },
+      {
+        "stop_id": "58072",
+        "stop_name": "Gouin / de Jouvence"
+      },
+      {
+        "stop_id": "58068",
+        "stop_name": "Gouin / Lavigne"
+      },
+      {
+        "stop_id": "58076",
+        "stop_name": "Gouin / No 16407"
+      },
+      {
+        "stop_id": "58079",
+        "stop_name": "Gouin / No 16180"
+      },
+      {
+        "stop_id": "58073",
+        "stop_name": "Gouin / No 16056"
+      },
+      {
+        "stop_id": "58080",
+        "stop_name": "Gouin / No 15905"
+      },
+      {
+        "stop_id": "58071",
+        "stop_name": "Gouin / Saint-Joseph"
+      },
+      {
+        "stop_id": "58078",
+        "stop_name": "Cégep Gérald-Godin (Gouin / Du Pont)"
+      },
+      {
+        "stop_id": "58116",
+        "stop_name": "Gouin / Laframboise"
+      },
+      {
+        "stop_id": "58122",
+        "stop_name": "Gouin / Saint-Pierre"
+      },
+      {
+        "stop_id": "58234",
+        "stop_name": "Gouin / Aumais"
+      },
+      {
+        "stop_id": "58133",
+        "stop_name": "Gouin / Saint-Jean"
+      },
+      {
+        "stop_id": "58143",
+        "stop_name": "de Pierrefonds / René-Émard"
+      },
+      {
+        "stop_id": "58309",
+        "stop_name": "René-Émard / No 4600"
+      },
+      {
+        "stop_id": "58157",
+        "stop_name": "René-Émard / Anselme-Lavigne"
+      },
+      {
+        "stop_id": "58148",
+        "stop_name": "Anselme-Lavigne / Saint-Jean"
+      },
+      {
+        "stop_id": "57997",
+        "stop_name": "Saint-Jean / Jolicoeur"
+      },
+      {
+        "stop_id": "57851",
+        "stop_name": "Saint-Jean / Harris"
+      },
+      {
+        "stop_id": "57853",
+        "stop_name": "Saint-Jean / Shakespeare"
+      },
+      {
+        "stop_id": "57855",
+        "stop_name": "Saint-Jean / Westminster"
+      },
+      {
+        "stop_id": "57833",
+        "stop_name": "Saint-Jean / de Salaberry"
+      },
+      {
+        "stop_id": "57858",
+        "stop_name": "Saint-Jean / Devon"
+      },
+      {
+        "stop_id": "57616",
+        "stop_name": "Saint-Jean / Labrosse"
+      },
+      {
+        "stop_id": "57620",
+        "stop_name": "Saint-Jean / Brunswick"
+      },
+      {
+        "stop_id": "60888",
+        "stop_name": "Auto Plaza / Brunswick"
+      },
+      {
+        "stop_id": "60415",
+        "stop_name": "Terminus Fairview / Brunswick"
+      },
+      {
+        "stop_id": "57797",
+        "stop_name": "Terminus Fairview"
+      }
+    ]
+  }
+]

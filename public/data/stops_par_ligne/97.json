@@ -1,0 +1,296 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54010",
+        "stop_name": "Parc du Mont-Royal"
+      },
+      {
+        "stop_id": "51883",
+        "stop_name": "du Mont-Royal / du Parc"
+      },
+      {
+        "stop_id": "51884",
+        "stop_name": "du Mont-Royal / Jeanne-Mance"
+      },
+      {
+        "stop_id": "51939",
+        "stop_name": "du Mont-Royal / Saint-Urbain"
+      },
+      {
+        "stop_id": "51966",
+        "stop_name": "du Mont-Royal / Saint-Laurent"
+      },
+      {
+        "stop_id": "52006",
+        "stop_name": "du Mont-Royal / De Bullion"
+      },
+      {
+        "stop_id": "52036",
+        "stop_name": "du Mont-Royal / Henri-Julien"
+      },
+      {
+        "stop_id": "52057",
+        "stop_name": "du Mont-Royal / Saint-Denis"
+      },
+      {
+        "stop_id": "52084",
+        "stop_name": "Station Mont-Royal (du Mont-Royal / Berri)"
+      },
+      {
+        "stop_id": "52138",
+        "stop_name": "du Mont-Royal / de Mentana"
+      },
+      {
+        "stop_id": "52162",
+        "stop_name": "du Mont-Royal / Christophe-Colomb"
+      },
+      {
+        "stop_id": "52185",
+        "stop_name": "du Mont-Royal / De La Roche"
+      },
+      {
+        "stop_id": "52230",
+        "stop_name": "du Mont-Royal / De Lanaudière"
+      },
+      {
+        "stop_id": "52274",
+        "stop_name": "du Mont-Royal / Fabre"
+      },
+      {
+        "stop_id": "52308",
+        "stop_name": "du Mont-Royal / Papineau"
+      },
+      {
+        "stop_id": "52352",
+        "stop_name": "du Mont-Royal / Chabot"
+      },
+      {
+        "stop_id": "52383",
+        "stop_name": "du Mont-Royal / De Lorimier"
+      },
+      {
+        "stop_id": "52418",
+        "stop_name": "du Mont-Royal / Parthenais"
+      },
+      {
+        "stop_id": "52468",
+        "stop_name": "du Mont-Royal / Fullum"
+      },
+      {
+        "stop_id": "52524",
+        "stop_name": "du Mont-Royal / D'Iberville"
+      },
+      {
+        "stop_id": "52586",
+        "stop_name": "D'Iberville / Marie-Anne"
+      },
+      {
+        "stop_id": "52714",
+        "stop_name": "Rachel / Frontenac"
+      },
+      {
+        "stop_id": "52756",
+        "stop_name": "Rachel / Montgomery"
+      },
+      {
+        "stop_id": "60657",
+        "stop_name": "Rachel / Molson"
+      },
+      {
+        "stop_id": "50113",
+        "stop_name": "Rachel / André-Laurendeau"
+      },
+      {
+        "stop_id": "52769",
+        "stop_name": "Rachel / Dézéry"
+      },
+      {
+        "stop_id": "52823",
+        "stop_name": "Rachel / Davidson"
+      },
+      {
+        "stop_id": "53825",
+        "stop_name": "Saint-Michel / William-Tremblay"
+      },
+      {
+        "stop_id": "54052",
+        "stop_name": "Saint-Michel / du Mont-Royal"
+      },
+      {
+        "stop_id": "52699",
+        "stop_name": "du Mont-Royal / Moïse-Picard"
+      },
+      {
+        "stop_id": "52738",
+        "stop_name": "du Mont-Royal / De Chambly"
+      },
+      {
+        "stop_id": "52773",
+        "stop_name": "du Mont-Royal / Bourbonnière"
+      },
+      {
+        "stop_id": "52833",
+        "stop_name": "du Mont-Royal / Pie-IX"
+      },
+      {
+        "stop_id": "52951",
+        "stop_name": "Pie-IX / Sherbrooke"
+      },
+      {
+        "stop_id": "53018",
+        "stop_name": "Station Pie-IX (Pie-IX / Pierre-De Coubertin)"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "62145",
+        "stop_name": "Station Pie-IX (P.-De Coubertin/Pie-IX)"
+      },
+      {
+        "stop_id": "62339",
+        "stop_name": "Bourbonnière / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "52956",
+        "stop_name": "Bourbonnière / Sherbrooke"
+      },
+      {
+        "stop_id": "54009",
+        "stop_name": "Bourbonnière / Rachel"
+      },
+      {
+        "stop_id": "52774",
+        "stop_name": "du Mont-Royal / Bourbonnière"
+      },
+      {
+        "stop_id": "52734",
+        "stop_name": "du Mont-Royal / De Chambly"
+      },
+      {
+        "stop_id": "52684",
+        "stop_name": "du Mont-Royal / Moïse-Picard"
+      },
+      {
+        "stop_id": "52638",
+        "stop_name": "du Mont-Royal / Euclide-Brien"
+      },
+      {
+        "stop_id": "53826",
+        "stop_name": "Saint-Michel / William-Tremblay"
+      },
+      {
+        "stop_id": "52810",
+        "stop_name": "Rachel / Saint-Michel"
+      },
+      {
+        "stop_id": "52768",
+        "stop_name": "Rachel / Midway"
+      },
+      {
+        "stop_id": "53791",
+        "stop_name": "Rachel / André-Laurendeau"
+      },
+      {
+        "stop_id": "60658",
+        "stop_name": "Rachel / Molson"
+      },
+      {
+        "stop_id": "52755",
+        "stop_name": "Rachel / Bercy"
+      },
+      {
+        "stop_id": "52713",
+        "stop_name": "Rachel / Frontenac"
+      },
+      {
+        "stop_id": "52616",
+        "stop_name": "Frontenac / Hogan"
+      },
+      {
+        "stop_id": "52504",
+        "stop_name": "du Mont-Royal / Frontenac"
+      },
+      {
+        "stop_id": "52453",
+        "stop_name": "du Mont-Royal / Fullum"
+      },
+      {
+        "stop_id": "52417",
+        "stop_name": "du Mont-Royal / Parthenais"
+      },
+      {
+        "stop_id": "52381",
+        "stop_name": "du Mont-Royal / De Lorimier"
+      },
+      {
+        "stop_id": "52351",
+        "stop_name": "du Mont-Royal / Chabot"
+      },
+      {
+        "stop_id": "52306",
+        "stop_name": "du Mont-Royal / Papineau"
+      },
+      {
+        "stop_id": "52273",
+        "stop_name": "du Mont-Royal / Fabre"
+      },
+      {
+        "stop_id": "52232",
+        "stop_name": "du Mont-Royal / De Lanaudière"
+      },
+      {
+        "stop_id": "52184",
+        "stop_name": "du Mont-Royal / De La Roche"
+      },
+      {
+        "stop_id": "52160",
+        "stop_name": "du Mont-Royal / Christophe-Colomb"
+      },
+      {
+        "stop_id": "52137",
+        "stop_name": "du Mont-Royal / de Mentana"
+      },
+      {
+        "stop_id": "52100",
+        "stop_name": "du Mont-Royal / Saint-Hubert"
+      },
+      {
+        "stop_id": "58725",
+        "stop_name": "Station Mont-Royal (du Mont-Royal / Berri)"
+      },
+      {
+        "stop_id": "52055",
+        "stop_name": "du Mont-Royal / Saint-Denis"
+      },
+      {
+        "stop_id": "52035",
+        "stop_name": "du Mont-Royal / Henri-Julien"
+      },
+      {
+        "stop_id": "52005",
+        "stop_name": "du Mont-Royal / De Bullion"
+      },
+      {
+        "stop_id": "51972",
+        "stop_name": "du Mont-Royal / Saint-Laurent"
+      },
+      {
+        "stop_id": "51937",
+        "stop_name": "du Mont-Royal / Saint-Urbain"
+      },
+      {
+        "stop_id": "54079",
+        "stop_name": "du Mont-Royal / Jeanne-Mance"
+      },
+      {
+        "stop_id": "54010",
+        "stop_name": "Parc du Mont-Royal"
+      }
+    ]
+  }
+]

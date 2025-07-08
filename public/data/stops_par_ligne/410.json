@@ -1,0 +1,316 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "53672",
+        "stop_name": "100e Avenue / Bureau"
+      },
+      {
+        "stop_id": "53716",
+        "stop_name": "Sainte-Maria-Goretti / 100e Avenue"
+      },
+      {
+        "stop_id": "53670",
+        "stop_name": "Sainte-Maria-Goretti / 96e Avenue"
+      },
+      {
+        "stop_id": "53879",
+        "stop_name": "Sainte-Maria-Goretti / 93e Avenue"
+      },
+      {
+        "stop_id": "53660",
+        "stop_name": "Sainte-Maria-Goretti / Terrasse Maria-Goretti"
+      },
+      {
+        "stop_id": "53654",
+        "stop_name": "Notre-Dame / Antoine-Chaudillon"
+      },
+      {
+        "stop_id": "54378",
+        "stop_name": "Notre-Dame / No 15657"
+      },
+      {
+        "stop_id": "53642",
+        "stop_name": "Notre-Dame / 81e Avenue"
+      },
+      {
+        "stop_id": "53634",
+        "stop_name": "Notre-Dame / Bellevue"
+      },
+      {
+        "stop_id": "53627",
+        "stop_name": "Notre-Dame / Beausoleil"
+      },
+      {
+        "stop_id": "53617",
+        "stop_name": "Notre-Dame / 67e Avenue"
+      },
+      {
+        "stop_id": "54147",
+        "stop_name": "Notre-Dame / Antoine-Bazinet"
+      },
+      {
+        "stop_id": "53600",
+        "stop_name": "Notre-Dame / 58e Avenue"
+      },
+      {
+        "stop_id": "53596",
+        "stop_name": "Notre-Dame / 54e Avenue"
+      },
+      {
+        "stop_id": "53593",
+        "stop_name": "Notre-Dame / De La Rousselière"
+      },
+      {
+        "stop_id": "53602",
+        "stop_name": "Notre-Dame / 43e Avenue"
+      },
+      {
+        "stop_id": "53615",
+        "stop_name": "Notre-Dame / 36e Avenue"
+      },
+      {
+        "stop_id": "53629",
+        "stop_name": "Notre-Dame / 32e Avenue"
+      },
+      {
+        "stop_id": "53668",
+        "stop_name": "Notre-Dame / 24e Avenue"
+      },
+      {
+        "stop_id": "53656",
+        "stop_name": "Notre-Dame / 16e Avenue"
+      },
+      {
+        "stop_id": "53649",
+        "stop_name": "Notre-Dame / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "53624",
+        "stop_name": "Notre-Dame / 3e Avenue"
+      },
+      {
+        "stop_id": "54462",
+        "stop_name": "Notre-Dame / Broadway"
+      },
+      {
+        "stop_id": "54510",
+        "stop_name": "Notre-Dame / Gonthier"
+      },
+      {
+        "stop_id": "53449",
+        "stop_name": "Notre-Dame / Des Ormeaux"
+      },
+      {
+        "stop_id": "53489",
+        "stop_name": "Notre-Dame / Georges-Bizet"
+      },
+      {
+        "stop_id": "53845",
+        "stop_name": "René-Lévesque / De Champlain"
+      },
+      {
+        "stop_id": "53031",
+        "stop_name": "René-Lévesque / Panet"
+      },
+      {
+        "stop_id": "52980",
+        "stop_name": "René-Lévesque / Atateken"
+      },
+      {
+        "stop_id": "52881",
+        "stop_name": "René-Lévesque / Saint-Denis (CHUM)"
+      },
+      {
+        "stop_id": "52783",
+        "stop_name": "René-Lévesque / Saint-Laurent"
+      },
+      {
+        "stop_id": "52745",
+        "stop_name": "René-Lévesque / Saint-Urbain"
+      },
+      {
+        "stop_id": "52697",
+        "stop_name": "René-Lévesque / Jeanne-Mance"
+      },
+      {
+        "stop_id": "52625",
+        "stop_name": "Place du Frère-André"
+      },
+      {
+        "stop_id": "52587",
+        "stop_name": "René-Lévesque / Robert-Bourassa"
+      },
+      {
+        "stop_id": "52529",
+        "stop_name": "René-Lévesque / Mansfield"
+      },
+      {
+        "stop_id": "52483",
+        "stop_name": "René-Lévesque / Peel"
+      },
+      {
+        "stop_id": "52416",
+        "stop_name": "René-Lévesque / de la Montagne"
+      },
+      {
+        "stop_id": "54175",
+        "stop_name": "Lucien-L'Allier / René-Lévesque"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "52415",
+        "stop_name": "de la Montagne / René-Lévesque"
+      },
+      {
+        "stop_id": "61807",
+        "stop_name": "René-Lévesque / Stanley"
+      },
+      {
+        "stop_id": "52530",
+        "stop_name": "René-Lévesque / Mansfield"
+      },
+      {
+        "stop_id": "53918",
+        "stop_name": "René-Lévesque / Union"
+      },
+      {
+        "stop_id": "52627",
+        "stop_name": "Basilique St-Patrick (R.-Lévesque / St-Alexandre)"
+      },
+      {
+        "stop_id": "60683",
+        "stop_name": "René-Lévesque / Jeanne-Mance"
+      },
+      {
+        "stop_id": "52782",
+        "stop_name": "René-Lévesque / Saint-Laurent"
+      },
+      {
+        "stop_id": "52882",
+        "stop_name": "René-Lévesque / Saint-Denis (CHUM)"
+      },
+      {
+        "stop_id": "52982",
+        "stop_name": "René-Lévesque / Atateken"
+      },
+      {
+        "stop_id": "53032",
+        "stop_name": "René-Lévesque / Panet"
+      },
+      {
+        "stop_id": "53073",
+        "stop_name": "René-Lévesque / Papineau (Maison Radio-Canada)"
+      },
+      {
+        "stop_id": "53488",
+        "stop_name": "Notre-Dame / Georges-Bizet"
+      },
+      {
+        "stop_id": "53451",
+        "stop_name": "Notre-Dame / Pierre-Tétreault"
+      },
+      {
+        "stop_id": "53468",
+        "stop_name": "Notre-Dame / Hector"
+      },
+      {
+        "stop_id": "54463",
+        "stop_name": "Notre-Dame / Broadway"
+      },
+      {
+        "stop_id": "53625",
+        "stop_name": "Notre-Dame / 3e Avenue"
+      },
+      {
+        "stop_id": "53651",
+        "stop_name": "Notre-Dame / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "53657",
+        "stop_name": "Notre-Dame / 16e Avenue"
+      },
+      {
+        "stop_id": "53666",
+        "stop_name": "Notre-Dame / du Tricentenaire"
+      },
+      {
+        "stop_id": "53630",
+        "stop_name": "Notre-Dame / 32e Avenue"
+      },
+      {
+        "stop_id": "53616",
+        "stop_name": "Notre-Dame / 36e Avenue"
+      },
+      {
+        "stop_id": "53603",
+        "stop_name": "Notre-Dame / 43e Avenue"
+      },
+      {
+        "stop_id": "53595",
+        "stop_name": "Notre-Dame / De La Rousselière"
+      },
+      {
+        "stop_id": "53599",
+        "stop_name": "Notre-Dame / 54e Avenue"
+      },
+      {
+        "stop_id": "53601",
+        "stop_name": "Notre-Dame / 57e Avenue"
+      },
+      {
+        "stop_id": "53605",
+        "stop_name": "Notre-Dame / 60e Avenue"
+      },
+      {
+        "stop_id": "53618",
+        "stop_name": "Notre-Dame / 67e Avenue"
+      },
+      {
+        "stop_id": "53641",
+        "stop_name": "Notre-Dame / Beausoleil"
+      },
+      {
+        "stop_id": "53640",
+        "stop_name": "Notre-Dame / Bellevue"
+      },
+      {
+        "stop_id": "53644",
+        "stop_name": "Notre-Dame / 81e Avenue"
+      },
+      {
+        "stop_id": "54379",
+        "stop_name": "Notre-Dame / 83e Avenue"
+      },
+      {
+        "stop_id": "53655",
+        "stop_name": "Notre-Dame / 86e Avenue"
+      },
+      {
+        "stop_id": "53846",
+        "stop_name": "Notre-Dame / Raoul-Jobin"
+      },
+      {
+        "stop_id": "53880",
+        "stop_name": "Sainte-Maria-Goretti / 93e Avenue"
+      },
+      {
+        "stop_id": "53671",
+        "stop_name": "Sainte-Maria-Goretti / 96e Avenue"
+      },
+      {
+        "stop_id": "53715",
+        "stop_name": "Sainte-Maria-Goretti / 100e Avenue"
+      },
+      {
+        "stop_id": "53672",
+        "stop_name": "100e Avenue / Bureau"
+      }
+    ]
+  }
+]

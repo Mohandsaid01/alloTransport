@@ -1,0 +1,316 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "51533",
+        "stop_name": "Station Beaubien (De Chateaubriand / Beaubien)"
+      },
+      {
+        "stop_id": "51509",
+        "stop_name": "Beaubien / Saint-Denis"
+      },
+      {
+        "stop_id": "51481",
+        "stop_name": "Beaubien / Alma"
+      },
+      {
+        "stop_id": "51441",
+        "stop_name": "Beaubien / Saint-Laurent"
+      },
+      {
+        "stop_id": "51411",
+        "stop_name": "Clark / Beaubien"
+      },
+      {
+        "stop_id": "53790",
+        "stop_name": "Clark / Voie ferrée"
+      },
+      {
+        "stop_id": "51555",
+        "stop_name": "Saint-Urbain / Bernard"
+      },
+      {
+        "stop_id": "51525",
+        "stop_name": "Bernard / de l'Esplanade"
+      },
+      {
+        "stop_id": "51502",
+        "stop_name": "Bernard / du Parc"
+      },
+      {
+        "stop_id": "51475",
+        "stop_name": "Bernard / Durocher"
+      },
+      {
+        "stop_id": "56202",
+        "stop_name": "Bernard / Bloomfield"
+      },
+      {
+        "stop_id": "56197",
+        "stop_name": "Bernard / Outremont"
+      },
+      {
+        "stop_id": "56192",
+        "stop_name": "Outremont / Lajoie"
+      },
+      {
+        "stop_id": "56180",
+        "stop_name": "Outremont / Van Horne"
+      },
+      {
+        "stop_id": "56172",
+        "stop_name": "Van Horne / McEachran"
+      },
+      {
+        "stop_id": "56165",
+        "stop_name": "McEachran / Ducharme"
+      },
+      {
+        "stop_id": "56159",
+        "stop_name": "McEachran / du Manoir"
+      },
+      {
+        "stop_id": "56218",
+        "stop_name": "Bates / Rockland"
+      },
+      {
+        "stop_id": "56156",
+        "stop_name": "Bates / Pratt"
+      },
+      {
+        "stop_id": "56098",
+        "stop_name": "de Vimy / Bates"
+      },
+      {
+        "stop_id": "51103",
+        "stop_name": "Barclay / de Vimy"
+      },
+      {
+        "stop_id": "51054",
+        "stop_name": "Barclay / Wilderton"
+      },
+      {
+        "stop_id": "50994",
+        "stop_name": "Barclay / de Darlington"
+      },
+      {
+        "stop_id": "50947",
+        "stop_name": "Barclay / Hudson"
+      },
+      {
+        "stop_id": "50916",
+        "stop_name": "Barclay / Decelles"
+      },
+      {
+        "stop_id": "50864",
+        "stop_name": "Barclay / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "50807",
+        "stop_name": "Barclay / Légaré"
+      },
+      {
+        "stop_id": "50753",
+        "stop_name": "Barclay / Lavoie"
+      },
+      {
+        "stop_id": "50721",
+        "stop_name": "Station Plamondon (Barclay / Victoria)"
+      },
+      {
+        "stop_id": "50683",
+        "stop_name": "Barclay / Lemieux"
+      },
+      {
+        "stop_id": "50663",
+        "stop_name": "Barclay / de Westbury"
+      },
+      {
+        "stop_id": "50629",
+        "stop_name": "Plamondon / Trans Island"
+      },
+      {
+        "stop_id": "54141",
+        "stop_name": "Vézina / Coolbrook"
+      },
+      {
+        "stop_id": "56220",
+        "stop_name": "Station Outremont (Van Horne / Wiseman)"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54141",
+        "stop_name": "Vézina / Coolbrook"
+      },
+      {
+        "stop_id": "50607",
+        "stop_name": "McLynn / Plamondon"
+      },
+      {
+        "stop_id": "50630",
+        "stop_name": "Plamondon / Décarie"
+      },
+      {
+        "stop_id": "50631",
+        "stop_name": "Plamondon / Trans Island"
+      },
+      {
+        "stop_id": "50680",
+        "stop_name": "Plamondon / Barclay"
+      },
+      {
+        "stop_id": "50697",
+        "stop_name": "Plamondon / Lemieux"
+      },
+      {
+        "stop_id": "50738",
+        "stop_name": "Station Plamondon (Plamondon / Victoria)"
+      },
+      {
+        "stop_id": "50791",
+        "stop_name": "Plamondon / Lavoie"
+      },
+      {
+        "stop_id": "50836",
+        "stop_name": "Plamondon / Légaré"
+      },
+      {
+        "stop_id": "50883",
+        "stop_name": "Plamondon / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "50863",
+        "stop_name": "de la Côte-des-Neiges / Barclay"
+      },
+      {
+        "stop_id": "50839",
+        "stop_name": "Goyer / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "50886",
+        "stop_name": "Goyer / Decelles"
+      },
+      {
+        "stop_id": "50927",
+        "stop_name": "Goyer / Hudson"
+      },
+      {
+        "stop_id": "50969",
+        "stop_name": "Goyer / de Darlington"
+      },
+      {
+        "stop_id": "51023",
+        "stop_name": "Goyer / Wilderton"
+      },
+      {
+        "stop_id": "51002",
+        "stop_name": "Wilderton / de Bedford"
+      },
+      {
+        "stop_id": "50952",
+        "stop_name": "Wilderton / Bates"
+      },
+      {
+        "stop_id": "50116",
+        "stop_name": "Bates / No 240"
+      },
+      {
+        "stop_id": "56097",
+        "stop_name": "Bates / de Vimy"
+      },
+      {
+        "stop_id": "56157",
+        "stop_name": "Bates / Pratt"
+      },
+      {
+        "stop_id": "56158",
+        "stop_name": "Bates / Rockland"
+      },
+      {
+        "stop_id": "56219",
+        "stop_name": "Rockland / No 1000"
+      },
+      {
+        "stop_id": "56162",
+        "stop_name": "Rockland / Ducharme"
+      },
+      {
+        "stop_id": "56222",
+        "stop_name": "Rockland / Van Horne"
+      },
+      {
+        "stop_id": "56173",
+        "stop_name": "Van Horne / McEachran"
+      },
+      {
+        "stop_id": "62052",
+        "stop_name": "Van Horne / Dollard"
+      },
+      {
+        "stop_id": "61990",
+        "stop_name": "Station Outremont (Van Horne / Outremont)"
+      },
+      {
+        "stop_id": "56193",
+        "stop_name": "Outremont / Lajoie"
+      },
+      {
+        "stop_id": "56198",
+        "stop_name": "Outremont / Bernard"
+      },
+      {
+        "stop_id": "56203",
+        "stop_name": "Bernard / De L'Épée"
+      },
+      {
+        "stop_id": "51476",
+        "stop_name": "Bernard / Durocher"
+      },
+      {
+        "stop_id": "51504",
+        "stop_name": "Bernard / du Parc"
+      },
+      {
+        "stop_id": "51526",
+        "stop_name": "Bernard / de l'Esplanade"
+      },
+      {
+        "stop_id": "51556",
+        "stop_name": "Bernard / Saint-Urbain"
+      },
+      {
+        "stop_id": "51571",
+        "stop_name": "Bernard / Saint-Laurent"
+      },
+      {
+        "stop_id": "51505",
+        "stop_name": "Saint-Laurent / de Bellechasse"
+      },
+      {
+        "stop_id": "51440",
+        "stop_name": "Saint-Laurent / Beaubien"
+      },
+      {
+        "stop_id": "51482",
+        "stop_name": "Beaubien / Alma"
+      },
+      {
+        "stop_id": "51511",
+        "stop_name": "Beaubien / Saint-Denis"
+      },
+      {
+        "stop_id": "54014",
+        "stop_name": "Station Beaubien"
+      },
+      {
+        "stop_id": "56221",
+        "stop_name": "Station Outremont (Van Horne / Wiseman)"
+      }
+    ]
+  }
+]

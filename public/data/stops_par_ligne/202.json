@@ -1,0 +1,556 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "57795",
+        "stop_name": "Terminus Fairview"
+      },
+      {
+        "stop_id": "57621",
+        "stop_name": "Brunswick / Saint-Jean"
+      },
+      {
+        "stop_id": "57647",
+        "stop_name": "Saint-Jean / Hymus"
+      },
+      {
+        "stop_id": "57653",
+        "stop_name": "Saint-Jean / Sedgefield"
+      },
+      {
+        "stop_id": "57659",
+        "stop_name": "Saint-Jean / Douglas-Shand"
+      },
+      {
+        "stop_id": "57668",
+        "stop_name": "Saint-Jean / Springdale"
+      },
+      {
+        "stop_id": "57788",
+        "stop_name": "Saint-Jean / Autoroute 20"
+      },
+      {
+        "stop_id": "61262",
+        "stop_name": "Saint-Jean / Autoroute 20"
+      },
+      {
+        "stop_id": "57677",
+        "stop_name": "Lakeview / Saint-Jean"
+      },
+      {
+        "stop_id": "57685",
+        "stop_name": "Lakeview / Longmore"
+      },
+      {
+        "stop_id": "57695",
+        "stop_name": "Lakeview / Lansdowne Gardens"
+      },
+      {
+        "stop_id": "57701",
+        "stop_name": "Lakeview / Fifth"
+      },
+      {
+        "stop_id": "57707",
+        "stop_name": "Lakeview / Lakeshore"
+      },
+      {
+        "stop_id": "57715",
+        "stop_name": "Bord-du-Lac / Lakeside"
+      },
+      {
+        "stop_id": "57723",
+        "stop_name": "Bord-du-Lac / Water's Edge"
+      },
+      {
+        "stop_id": "57735",
+        "stop_name": "Bord-du-Lac / Broadview"
+      },
+      {
+        "stop_id": "57744",
+        "stop_name": "Bord-du-Lac / de la Baie-de-Valois"
+      },
+      {
+        "stop_id": "57748",
+        "stop_name": "Bord-du-Lac / Milroy"
+      },
+      {
+        "stop_id": "57757",
+        "stop_name": "Bord-du-Lac / No 24"
+      },
+      {
+        "stop_id": "57764",
+        "stop_name": "Bord-du-Lac / Lakebreeze"
+      },
+      {
+        "stop_id": "57378",
+        "stop_name": "Bord-du-Lac / de l'Église"
+      },
+      {
+        "stop_id": "57383",
+        "stop_name": "Bord-du-Lac / Lake"
+      },
+      {
+        "stop_id": "57391",
+        "stop_name": "Bord-du-Lac / Thrush"
+      },
+      {
+        "stop_id": "57401",
+        "stop_name": "Bord-du-Lac / Neptune"
+      },
+      {
+        "stop_id": "57415",
+        "stop_name": "Bord-du-Lac / Stream"
+      },
+      {
+        "stop_id": "57410",
+        "stop_name": "Stream / Dawson"
+      },
+      {
+        "stop_id": "57425",
+        "stop_name": "Dawson / Saint-Louis"
+      },
+      {
+        "stop_id": "57433",
+        "stop_name": "Dawson / Thorncrest"
+      },
+      {
+        "stop_id": "57529",
+        "stop_name": "École Dorval-Jean-XXIII (Dawson / No 1301)"
+      },
+      {
+        "stop_id": "57443",
+        "stop_name": "Dawson / Claude"
+      },
+      {
+        "stop_id": "57450",
+        "stop_name": "Dawson / Fénelon"
+      },
+      {
+        "stop_id": "57457",
+        "stop_name": "Dawson / Lepage"
+      },
+      {
+        "stop_id": "57548",
+        "stop_name": "Dawson / Garden"
+      },
+      {
+        "stop_id": "57466",
+        "stop_name": "Dawson / Dorval"
+      },
+      {
+        "stop_id": "57461",
+        "stop_name": "Dorval / Carson"
+      },
+      {
+        "stop_id": "57491",
+        "stop_name": "Dorval / No 352"
+      },
+      {
+        "stop_id": "57537",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "57525",
+        "stop_name": "Michel-Jasmin / O'Connell"
+      },
+      {
+        "stop_id": "57524",
+        "stop_name": "Michel-Jasmin / Orly"
+      },
+      {
+        "stop_id": "57523",
+        "stop_name": "Michel-Jasmin / Lépine"
+      },
+      {
+        "stop_id": "57362",
+        "stop_name": "Côte-de-Liesse / No 11450"
+      },
+      {
+        "stop_id": "57313",
+        "stop_name": "Côte-de-Liesse / 55e Avenue"
+      },
+      {
+        "stop_id": "57314",
+        "stop_name": "Côte-de-Liesse / 46e Avenue"
+      },
+      {
+        "stop_id": "57312",
+        "stop_name": "Côte-de-Liesse / 43e Avenue"
+      },
+      {
+        "stop_id": "57311",
+        "stop_name": "Côte-de-Liesse / 32e Avenue"
+      },
+      {
+        "stop_id": "57343",
+        "stop_name": "Côte-de-Liesse / No 9500"
+      },
+      {
+        "stop_id": "57357",
+        "stop_name": "Côte-de-Liesse / No 9432"
+      },
+      {
+        "stop_id": "55468",
+        "stop_name": "Côte-de-Liesse / Graveline"
+      },
+      {
+        "stop_id": "55907",
+        "stop_name": "Côte-de-Liesse / No 8180"
+      },
+      {
+        "stop_id": "55480",
+        "stop_name": "Côte-de-Liesse / Montée de Liesse"
+      },
+      {
+        "stop_id": "55851",
+        "stop_name": "Côte-de-Liesse / No 7520"
+      },
+      {
+        "stop_id": "55520",
+        "stop_name": "Côte-de-Liesse / Hickmore"
+      },
+      {
+        "stop_id": "55541",
+        "stop_name": "Côte-de-Liesse / Barr"
+      },
+      {
+        "stop_id": "55842",
+        "stop_name": "Passerelle Barr (Côte-de-Liesse / No 6600)"
+      },
+      {
+        "stop_id": "55844",
+        "stop_name": "Côte-de-Liesse / No 6400"
+      },
+      {
+        "stop_id": "55601",
+        "stop_name": "Côte-de-Liesse / Cavendish"
+      },
+      {
+        "stop_id": "55622",
+        "stop_name": "Côte-de-Liesse / Dalton"
+      },
+      {
+        "stop_id": "56110",
+        "stop_name": "Passerelle Isabey-Darnley (Côte-de-Liesse/Isabey)"
+      },
+      {
+        "stop_id": "56139",
+        "stop_name": "Côte-de-Liesse / No 5750"
+      },
+      {
+        "stop_id": "55866",
+        "stop_name": "Authier / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "55942",
+        "stop_name": "Authier / Bourdon"
+      },
+      {
+        "stop_id": "55672",
+        "stop_name": "Ward / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55644",
+        "stop_name": "Saint-Louis / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55670",
+        "stop_name": "Saint-Louis / Gratton"
+      },
+      {
+        "stop_id": "55680",
+        "stop_name": "Saint-Louis / Tait"
+      },
+      {
+        "stop_id": "55702",
+        "stop_name": "Saint-Louis / Crevier"
+      },
+      {
+        "stop_id": "55840",
+        "stop_name": "Station Du Collège (Cartier / Ouimet)"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "55840",
+        "stop_name": "Station Du Collège (Cartier / Ouimet)"
+      },
+      {
+        "stop_id": "55701",
+        "stop_name": "Saint-Louis / Crevier"
+      },
+      {
+        "stop_id": "55691",
+        "stop_name": "Saint-Louis / Marcel-Laurin"
+      },
+      {
+        "stop_id": "55679",
+        "stop_name": "Saint-Louis / Tait"
+      },
+      {
+        "stop_id": "55669",
+        "stop_name": "Saint-Louis / Gratton"
+      },
+      {
+        "stop_id": "55645",
+        "stop_name": "Saint-Louis / Vincent"
+      },
+      {
+        "stop_id": "55673",
+        "stop_name": "Ward / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55943",
+        "stop_name": "Authier / Ward"
+      },
+      {
+        "stop_id": "55710",
+        "stop_name": "Authier / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "55843",
+        "stop_name": "Côte-de-Liesse / No 5805"
+      },
+      {
+        "stop_id": "55655",
+        "stop_name": "Passerelle Isabey-Darnley (Côte-de-Liesse/Isabey)"
+      },
+      {
+        "stop_id": "55855",
+        "stop_name": "Côte-de-Liesse / No 6015"
+      },
+      {
+        "stop_id": "55602",
+        "stop_name": "Côte-de-Liesse / Cavendish"
+      },
+      {
+        "stop_id": "55779",
+        "stop_name": "Côte-de-Liesse / No 6395"
+      },
+      {
+        "stop_id": "55860",
+        "stop_name": "Passerelle Barr (Côte-de-Liesse / No 6665)"
+      },
+      {
+        "stop_id": "55521",
+        "stop_name": "Côte-de-Liesse Nord / McArthur"
+      },
+      {
+        "stop_id": "60711",
+        "stop_name": "Côte-de-Liesse / Griffith"
+      },
+      {
+        "stop_id": "55856",
+        "stop_name": "Côte-de-Liesse / Montée de Liesse"
+      },
+      {
+        "stop_id": "55482",
+        "stop_name": "Côte-de-Liesse / No 8305"
+      },
+      {
+        "stop_id": "55780",
+        "stop_name": "Côte-de-Liesse / No 8585"
+      },
+      {
+        "stop_id": "57489",
+        "stop_name": "Côte-de-Liesse / Autoroute Chomedey"
+      },
+      {
+        "stop_id": "57490",
+        "stop_name": "Côte-de-Liesse / Renaud"
+      },
+      {
+        "stop_id": "57526",
+        "stop_name": "Côte-de-Liesse / No 9551"
+      },
+      {
+        "stop_id": "57488",
+        "stop_name": "Côte-de-Liesse / No 10161"
+      },
+      {
+        "stop_id": "57487",
+        "stop_name": "Côte-de-Liesse / Riddle"
+      },
+      {
+        "stop_id": "57542",
+        "stop_name": "Côte-de-Liesse / No 10525"
+      },
+      {
+        "stop_id": "57565",
+        "stop_name": "Côte-de-Liesse / No 10755"
+      },
+      {
+        "stop_id": "57117",
+        "stop_name": "Côte-de-Liesse / Calais"
+      },
+      {
+        "stop_id": "57480",
+        "stop_name": "Côte-de-Liesse / Halpern"
+      },
+      {
+        "stop_id": "57477",
+        "stop_name": "Côte-de-Liesse / Avoca"
+      },
+      {
+        "stop_id": "57527",
+        "stop_name": "Côte-de-Liesse Nord / No 12055"
+      },
+      {
+        "stop_id": "62026",
+        "stop_name": "Marshall / McMillan"
+      },
+      {
+        "stop_id": "61541",
+        "stop_name": "Mc Millan / No 555"
+      },
+      {
+        "stop_id": "57504",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "57462",
+        "stop_name": "Dorval / Carson"
+      },
+      {
+        "stop_id": "57465",
+        "stop_name": "Dorval / Dawson"
+      },
+      {
+        "stop_id": "57547",
+        "stop_name": "Dawson / Garden"
+      },
+      {
+        "stop_id": "57456",
+        "stop_name": "Dawson / Lepage"
+      },
+      {
+        "stop_id": "57449",
+        "stop_name": "Dawson / Fénelon"
+      },
+      {
+        "stop_id": "57442",
+        "stop_name": "Dawson / Claude"
+      },
+      {
+        "stop_id": "57528",
+        "stop_name": "École Dorval-Jean-XXIII (Dawson / No 1301)"
+      },
+      {
+        "stop_id": "57432",
+        "stop_name": "Dawson / Thorncrest"
+      },
+      {
+        "stop_id": "57424",
+        "stop_name": "Dawson / Saint-Louis"
+      },
+      {
+        "stop_id": "57411",
+        "stop_name": "Dawson / Stream"
+      },
+      {
+        "stop_id": "57399",
+        "stop_name": "Bord-du-Lac / Neptune"
+      },
+      {
+        "stop_id": "57390",
+        "stop_name": "Bord-du-Lac / Thrush"
+      },
+      {
+        "stop_id": "57382",
+        "stop_name": "Bord-du-Lac / Lake"
+      },
+      {
+        "stop_id": "57377",
+        "stop_name": "Bord-du-Lac / de l'Église"
+      },
+      {
+        "stop_id": "57763",
+        "stop_name": "Bord-du-Lac / Lakebreeze"
+      },
+      {
+        "stop_id": "57786",
+        "stop_name": "Bord-du-Lac / No 24"
+      },
+      {
+        "stop_id": "57743",
+        "stop_name": "Bord-du-Lac / de la Baie-de-Valois"
+      },
+      {
+        "stop_id": "57734",
+        "stop_name": "Bord-du-Lac / Broadview"
+      },
+      {
+        "stop_id": "57724",
+        "stop_name": "Bord-du-Lac / Water's Edge"
+      },
+      {
+        "stop_id": "57714",
+        "stop_name": "Bord-du-Lac / Lakeside"
+      },
+      {
+        "stop_id": "57704",
+        "stop_name": "Lakeview / Hillcrest"
+      },
+      {
+        "stop_id": "57700",
+        "stop_name": "Lakeview / Fifth"
+      },
+      {
+        "stop_id": "57694",
+        "stop_name": "Lakeview / Hampton Gardens"
+      },
+      {
+        "stop_id": "57684",
+        "stop_name": "Lakeview / Longmore"
+      },
+      {
+        "stop_id": "57676",
+        "stop_name": "Lakeview / Saint-Jean"
+      },
+      {
+        "stop_id": "57787",
+        "stop_name": "Saint-Jean / Autoroute 20 (sud)"
+      },
+      {
+        "stop_id": "57807",
+        "stop_name": "Saint-Jean / Autoroute 20 (nord)"
+      },
+      {
+        "stop_id": "57665",
+        "stop_name": "Saint-Jean / Drake"
+      },
+      {
+        "stop_id": "57658",
+        "stop_name": "Saint-Jean / Douglas-Shand"
+      },
+      {
+        "stop_id": "57652",
+        "stop_name": "Saint-Jean / Cardiff"
+      },
+      {
+        "stop_id": "57646",
+        "stop_name": "Saint-Jean / Hymus"
+      },
+      {
+        "stop_id": "57808",
+        "stop_name": "Saint-Jean / Holiday"
+      },
+      {
+        "stop_id": "57792",
+        "stop_name": "Saint-Jean / Complexe Pointe-Claire"
+      },
+      {
+        "stop_id": "57767",
+        "stop_name": "Revcon / Place Frontenac"
+      },
+      {
+        "stop_id": "57795",
+        "stop_name": "Terminus Fairview"
+      }
+    ]
+  }
+]

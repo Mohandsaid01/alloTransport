@@ -1,0 +1,96 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "55460",
+        "stop_name": "Grenet / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55477",
+        "stop_name": "Grenet / Oxford"
+      },
+      {
+        "stop_id": "55491",
+        "stop_name": "Grenet / Cambridge"
+      },
+      {
+        "stop_id": "55505",
+        "stop_name": "Grenet / Poirier"
+      },
+      {
+        "stop_id": "55867",
+        "stop_name": "Grenet / Bombardier"
+      },
+      {
+        "stop_id": "55532",
+        "stop_name": "Grenet / Deguire"
+      },
+      {
+        "stop_id": "55542",
+        "stop_name": "Deguire / Crevier"
+      },
+      {
+        "stop_id": "55569",
+        "stop_name": "Crevier / Tassé"
+      },
+      {
+        "stop_id": "55551",
+        "stop_name": "Thimens / Marcel-Laurin"
+      },
+      {
+        "stop_id": "59532",
+        "stop_name": "École secondaire Saint-Laurent"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "59532",
+        "stop_name": "École secondaire Saint-Laurent"
+      },
+      {
+        "stop_id": "55576",
+        "stop_name": "Tassé / Cardinal"
+      },
+      {
+        "stop_id": "55548",
+        "stop_name": "Cardinal / Deguire"
+      },
+      {
+        "stop_id": "55531",
+        "stop_name": "Deguire / Grenet"
+      },
+      {
+        "stop_id": "55868",
+        "stop_name": "Grenet / Bombardier"
+      },
+      {
+        "stop_id": "55504",
+        "stop_name": "Grenet / Poirier"
+      },
+      {
+        "stop_id": "55490",
+        "stop_name": "Grenet / Cambridge"
+      },
+      {
+        "stop_id": "55476",
+        "stop_name": "Grenet / Oxford"
+      },
+      {
+        "stop_id": "55472",
+        "stop_name": "Grenet / Laval"
+      },
+      {
+        "stop_id": "55462",
+        "stop_name": "Laval / Marcel-Laurin"
+      },
+      {
+        "stop_id": "55460",
+        "stop_name": "Grenet / Henri-Bourassa"
+      }
+    ]
+  }
+]

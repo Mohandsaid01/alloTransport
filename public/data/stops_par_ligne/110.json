@@ -1,0 +1,576 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54107",
+        "stop_name": "Station Angrignon"
+      },
+      {
+        "stop_id": "57060",
+        "stop_name": "Newman / Angrignon"
+      },
+      {
+        "stop_id": "56950",
+        "stop_name": "Newman / Guy-Bouchard"
+      },
+      {
+        "stop_id": "56943",
+        "stop_name": "Newman / Senkus"
+      },
+      {
+        "stop_id": "57046",
+        "stop_name": "Newman / No 7214"
+      },
+      {
+        "stop_id": "56918",
+        "stop_name": "Newman / Léger"
+      },
+      {
+        "stop_id": "62324",
+        "stop_name": "Lapierre / Newman"
+      },
+      {
+        "stop_id": "62325",
+        "stop_name": "Lapierre / Chouinard"
+      },
+      {
+        "stop_id": "62326",
+        "stop_name": "Lapierre / Jean-Brillon"
+      },
+      {
+        "stop_id": "56956",
+        "stop_name": "Lapierre / Jean-Chevalier"
+      },
+      {
+        "stop_id": "56966",
+        "stop_name": "Lapierre / Leclerc"
+      },
+      {
+        "stop_id": "57058",
+        "stop_name": "Cégep André-Laurendeau"
+      },
+      {
+        "stop_id": "57086",
+        "stop_name": "De La Vérendrye / Melatti"
+      },
+      {
+        "stop_id": "56973",
+        "stop_name": "Bishop-Power / George"
+      },
+      {
+        "stop_id": "56981",
+        "stop_name": "George / 11e Avenue"
+      },
+      {
+        "stop_id": "56976",
+        "stop_name": "George / Gagné"
+      },
+      {
+        "stop_id": "60242",
+        "stop_name": "George / Albert-Couture"
+      },
+      {
+        "stop_id": "56962",
+        "stop_name": "Raymond / Lévis-Sauvé"
+      },
+      {
+        "stop_id": "57027",
+        "stop_name": "Raymond / Mongeau"
+      },
+      {
+        "stop_id": "56957",
+        "stop_name": "Centrale / 31e Avenue"
+      },
+      {
+        "stop_id": "56952",
+        "stop_name": "Centrale / 35e Avenue"
+      },
+      {
+        "stop_id": "56936",
+        "stop_name": "Centrale / 40e Avenue"
+      },
+      {
+        "stop_id": "56926",
+        "stop_name": "Centrale / 43e Avenue"
+      },
+      {
+        "stop_id": "56910",
+        "stop_name": "Centrale / 63e Avenue"
+      },
+      {
+        "stop_id": "56896",
+        "stop_name": "Champlain / No 8700"
+      },
+      {
+        "stop_id": "56897",
+        "stop_name": "Beyries / Champlain"
+      },
+      {
+        "stop_id": "56894",
+        "stop_name": "Latour / Centrale"
+      },
+      {
+        "stop_id": "56882",
+        "stop_name": "Centrale / 66e Avenue"
+      },
+      {
+        "stop_id": "56876",
+        "stop_name": "67e Avenue / LaSalle"
+      },
+      {
+        "stop_id": "56872",
+        "stop_name": "LaSalle / No 8912"
+      },
+      {
+        "stop_id": "57099",
+        "stop_name": "75e Avenue / LaSalle"
+      },
+      {
+        "stop_id": "57053",
+        "stop_name": "Centrale / 76e Avenue"
+      },
+      {
+        "stop_id": "56823",
+        "stop_name": "Centrale / Duquette"
+      },
+      {
+        "stop_id": "56814",
+        "stop_name": "Centrale / Cavelier-De LaSalle"
+      },
+      {
+        "stop_id": "56792",
+        "stop_name": "Centrale / 90e Avenue"
+      },
+      {
+        "stop_id": "57064",
+        "stop_name": "LaSalle / Orchard"
+      },
+      {
+        "stop_id": "56765",
+        "stop_name": "LaSalle / Lafleur"
+      },
+      {
+        "stop_id": "56756",
+        "stop_name": "LaSalle / Bélanger"
+      },
+      {
+        "stop_id": "57107",
+        "stop_name": "Parc des Saints-Anges"
+      },
+      {
+        "stop_id": "56751",
+        "stop_name": "LaSalle / Stirling"
+      },
+      {
+        "stop_id": "56737",
+        "stop_name": "LaSalle / Dupras"
+      },
+      {
+        "stop_id": "56742",
+        "stop_name": "Airlie / Riverview"
+      },
+      {
+        "stop_id": "56750",
+        "stop_name": "Airlie / Stirling"
+      },
+      {
+        "stop_id": "56747",
+        "stop_name": "Dalmany / Highlands"
+      },
+      {
+        "stop_id": "56745",
+        "stop_name": "Stirling / Beauchamp"
+      },
+      {
+        "stop_id": "56743",
+        "stop_name": "Stirling / Saint-Patrick"
+      },
+      {
+        "stop_id": "56739",
+        "stop_name": "Saint-Patrick / Dupras"
+      },
+      {
+        "stop_id": "56735",
+        "stop_name": "Saint-Patrick / Lacroix"
+      },
+      {
+        "stop_id": "56730",
+        "stop_name": "Saint-Patrick / Lyette"
+      },
+      {
+        "stop_id": "57347",
+        "stop_name": "Saint-Joseph / 8e Avenue"
+      },
+      {
+        "stop_id": "57250",
+        "stop_name": "10e Avenue / Saint-Louis"
+      },
+      {
+        "stop_id": "57251",
+        "stop_name": "10e Avenue / Notre-Dame"
+      },
+      {
+        "stop_id": "57361",
+        "stop_name": "10e Avenue / Victoria"
+      },
+      {
+        "stop_id": "57246",
+        "stop_name": "10e Avenue / Saint-Antoine"
+      },
+      {
+        "stop_id": "57242",
+        "stop_name": "10e Avenue / Provost"
+      },
+      {
+        "stop_id": "57240",
+        "stop_name": "Sherbrooke / 11e Avenue"
+      },
+      {
+        "stop_id": "57234",
+        "stop_name": "Sherbrooke / 14e Avenue"
+      },
+      {
+        "stop_id": "57233",
+        "stop_name": "Duff Court / Roy"
+      },
+      {
+        "stop_id": "57219",
+        "stop_name": "Duff Court / Esther-Blondin"
+      },
+      {
+        "stop_id": "57228",
+        "stop_name": "Duff Court / Roy"
+      },
+      {
+        "stop_id": "57209",
+        "stop_name": "Duff Court / 24e Avenue"
+      },
+      {
+        "stop_id": "57211",
+        "stop_name": "24e Avenue / Sherbrooke"
+      },
+      {
+        "stop_id": "57213",
+        "stop_name": "24e Avenue / Provost"
+      },
+      {
+        "stop_id": "60393",
+        "stop_name": "24e Avenue / Saint-Antoine"
+      },
+      {
+        "stop_id": "57331",
+        "stop_name": "Saint-Antoine / Place d'Accueil"
+      },
+      {
+        "stop_id": "60398",
+        "stop_name": "Saint-Antoine / Place d'Accueil"
+      },
+      {
+        "stop_id": "57358",
+        "stop_name": "28e Avenue / Remembrance"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "57358",
+        "stop_name": "28e Avenue / Remembrance"
+      },
+      {
+        "stop_id": "57286",
+        "stop_name": "Remembrance / 32e Avenue"
+      },
+      {
+        "stop_id": "57198",
+        "stop_name": "32e Avenue / Saint-Antoine"
+      },
+      {
+        "stop_id": "57339",
+        "stop_name": "Saint-Antoine / Place d'Accueil"
+      },
+      {
+        "stop_id": "57282",
+        "stop_name": "Saint-Antoine / Holon"
+      },
+      {
+        "stop_id": "57206",
+        "stop_name": "25e Avenue / Provost"
+      },
+      {
+        "stop_id": "57205",
+        "stop_name": "25e Avenue / Sherbrooke"
+      },
+      {
+        "stop_id": "57342",
+        "stop_name": "25e Avenue / Autoroute 20"
+      },
+      {
+        "stop_id": "57210",
+        "stop_name": "Duff Court / 24e Avenue"
+      },
+      {
+        "stop_id": "57229",
+        "stop_name": "Duff Court / Roy"
+      },
+      {
+        "stop_id": "60425",
+        "stop_name": "Esther-Blondin / Duff Court"
+      },
+      {
+        "stop_id": "57222",
+        "stop_name": "Esther-Blondin / Provost"
+      },
+      {
+        "stop_id": "57231",
+        "stop_name": "Provost / 16e Avenue"
+      },
+      {
+        "stop_id": "57237",
+        "stop_name": "Provost / 12e Avenue"
+      },
+      {
+        "stop_id": "57244",
+        "stop_name": "Provost / 10e Avenue"
+      },
+      {
+        "stop_id": "57245",
+        "stop_name": "10e Avenue / Saint-Antoine"
+      },
+      {
+        "stop_id": "57248",
+        "stop_name": "10e Avenue / Victoria"
+      },
+      {
+        "stop_id": "57252",
+        "stop_name": "10e Avenue / Notre-Dame"
+      },
+      {
+        "stop_id": "57260",
+        "stop_name": "Notre-Dame / 6e Avenue"
+      },
+      {
+        "stop_id": "57315",
+        "stop_name": "6e Avenue / Saint-Louis"
+      },
+      {
+        "stop_id": "57263",
+        "stop_name": "6e Avenue / Saint-Joseph"
+      },
+      {
+        "stop_id": "57054",
+        "stop_name": "Saint-Patrick / Lyette"
+      },
+      {
+        "stop_id": "56736",
+        "stop_name": "Saint-Patrick / Lacroix"
+      },
+      {
+        "stop_id": "56740",
+        "stop_name": "Saint-Patrick / Dupras"
+      },
+      {
+        "stop_id": "56744",
+        "stop_name": "Stirling / Saint-Patrick"
+      },
+      {
+        "stop_id": "56746",
+        "stop_name": "Stirling / Beauchamp"
+      },
+      {
+        "stop_id": "56748",
+        "stop_name": "Stirling / Dalmany"
+      },
+      {
+        "stop_id": "56749",
+        "stop_name": "Stirling / Airlie"
+      },
+      {
+        "stop_id": "56741",
+        "stop_name": "Airlie / Riverview"
+      },
+      {
+        "stop_id": "56738",
+        "stop_name": "Airlie / Dupras"
+      },
+      {
+        "stop_id": "56752",
+        "stop_name": "LaSalle / Stirling"
+      },
+      {
+        "stop_id": "57106",
+        "stop_name": "Parc des Saints-Anges"
+      },
+      {
+        "stop_id": "57091",
+        "stop_name": "LaSalle / Bélanger"
+      },
+      {
+        "stop_id": "56766",
+        "stop_name": "LaSalle / Lafleur"
+      },
+      {
+        "stop_id": "56774",
+        "stop_name": "LaSalle / Orchard"
+      },
+      {
+        "stop_id": "56791",
+        "stop_name": "90e Avenue / Centrale"
+      },
+      {
+        "stop_id": "56813",
+        "stop_name": "Centrale / Cavelier-De LaSalle"
+      },
+      {
+        "stop_id": "56824",
+        "stop_name": "Centrale / Duquette"
+      },
+      {
+        "stop_id": "56725",
+        "stop_name": "Centrale / Terrasse Centrale"
+      },
+      {
+        "stop_id": "57098",
+        "stop_name": "75e Avenue / LaSalle"
+      },
+      {
+        "stop_id": "56870",
+        "stop_name": "LaSalle / No 8912"
+      },
+      {
+        "stop_id": "56871",
+        "stop_name": "68e Avenue / LaSalle"
+      },
+      {
+        "stop_id": "57093",
+        "stop_name": "68e Avenue / Centrale"
+      },
+      {
+        "stop_id": "56883",
+        "stop_name": "Centrale / 66e Avenue"
+      },
+      {
+        "stop_id": "56895",
+        "stop_name": "Latour / Centrale"
+      },
+      {
+        "stop_id": "56898",
+        "stop_name": "Latour / Beyries"
+      },
+      {
+        "stop_id": "57092",
+        "stop_name": "Champlain / No 8700"
+      },
+      {
+        "stop_id": "56911",
+        "stop_name": "Centrale / 63e Avenue"
+      },
+      {
+        "stop_id": "56927",
+        "stop_name": "Centrale / 43e Avenue"
+      },
+      {
+        "stop_id": "56937",
+        "stop_name": "Centrale / 40e Avenue"
+      },
+      {
+        "stop_id": "56954",
+        "stop_name": "Centrale / 35e Avenue"
+      },
+      {
+        "stop_id": "56958",
+        "stop_name": "Centrale / 31e Avenue"
+      },
+      {
+        "stop_id": "57026",
+        "stop_name": "Raymond / Mongeau"
+      },
+      {
+        "stop_id": "56961",
+        "stop_name": "Raymond / Lévis-Sauvé"
+      },
+      {
+        "stop_id": "56967",
+        "stop_name": "George / Gamelin"
+      },
+      {
+        "stop_id": "56977",
+        "stop_name": "George / Gagné"
+      },
+      {
+        "stop_id": "62320",
+        "stop_name": "George / Bishop-Power"
+      },
+      {
+        "stop_id": "56971",
+        "stop_name": "Bishop-Power / Champlain"
+      },
+      {
+        "stop_id": "57087",
+        "stop_name": "Bourdeau / No 7675"
+      },
+      {
+        "stop_id": "57079",
+        "stop_name": "Bourdeau / Thierry"
+      },
+      {
+        "stop_id": "57059",
+        "stop_name": "Cégep André-Laurendeau"
+      },
+      {
+        "stop_id": "56965",
+        "stop_name": "Lapierre / Leclerc"
+      },
+      {
+        "stop_id": "56955",
+        "stop_name": "Lapierre / Jean-Chevalier"
+      },
+      {
+        "stop_id": "62321",
+        "stop_name": "Lapierre / Jean-Brillon"
+      },
+      {
+        "stop_id": "62322",
+        "stop_name": "Lapierre / Chouinard"
+      },
+      {
+        "stop_id": "62323",
+        "stop_name": "Lapierre / Newman"
+      },
+      {
+        "stop_id": "56920",
+        "stop_name": "Newman / Léger"
+      },
+      {
+        "stop_id": "56938",
+        "stop_name": "Newman / No 7214"
+      },
+      {
+        "stop_id": "56945",
+        "stop_name": "Newman / Senkus"
+      },
+      {
+        "stop_id": "56951",
+        "stop_name": "Newman / Guy-Bouchard"
+      },
+      {
+        "stop_id": "56960",
+        "stop_name": "Newman / Angrignon"
+      },
+      {
+        "stop_id": "60633",
+        "stop_name": "Angrignon / Tours Angrignon"
+      },
+      {
+        "stop_id": "54107",
+        "stop_name": "Station Angrignon"
+      },
+      {
+        "stop_id": "62549",
+        "stop_name": "Beyries / Champlain"
+      }
+    ]
+  }
+]

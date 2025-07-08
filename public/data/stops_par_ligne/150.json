@@ -1,0 +1,220 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54117",
+        "stop_name": "Station Papineau (Dorion / Sainte-Catherine)"
+      },
+      {
+        "stop_id": "53065",
+        "stop_name": "Sainte-Catherine / De Lorimier"
+      },
+      {
+        "stop_id": "53105",
+        "stop_name": "De Lorimier / René-Lévesque"
+      },
+      {
+        "stop_id": "53845",
+        "stop_name": "René-Lévesque / De Champlain"
+      },
+      {
+        "stop_id": "53031",
+        "stop_name": "René-Lévesque / Panet"
+      },
+      {
+        "stop_id": "52980",
+        "stop_name": "René-Lévesque / Atateken"
+      },
+      {
+        "stop_id": "52954",
+        "stop_name": "René-Lévesque / Saint-André"
+      },
+      {
+        "stop_id": "52930",
+        "stop_name": "René-Lévesque / Saint-Hubert"
+      },
+      {
+        "stop_id": "52905",
+        "stop_name": "René-Lévesque / Berri"
+      },
+      {
+        "stop_id": "52881",
+        "stop_name": "René-Lévesque / Saint-Denis (CHUM)"
+      },
+      {
+        "stop_id": "52834",
+        "stop_name": "René-Lévesque / de l'Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "52783",
+        "stop_name": "René-Lévesque / Saint-Laurent"
+      },
+      {
+        "stop_id": "52745",
+        "stop_name": "René-Lévesque / Saint-Urbain"
+      },
+      {
+        "stop_id": "52697",
+        "stop_name": "René-Lévesque / Jeanne-Mance"
+      },
+      {
+        "stop_id": "52625",
+        "stop_name": "Place du Frère-André"
+      },
+      {
+        "stop_id": "52587",
+        "stop_name": "René-Lévesque / Robert-Bourassa"
+      },
+      {
+        "stop_id": "52529",
+        "stop_name": "René-Lévesque / Mansfield"
+      },
+      {
+        "stop_id": "52483",
+        "stop_name": "René-Lévesque / Peel"
+      },
+      {
+        "stop_id": "52463",
+        "stop_name": "René-Lévesque / Stanley"
+      },
+      {
+        "stop_id": "52416",
+        "stop_name": "René-Lévesque / de la Montagne"
+      },
+      {
+        "stop_id": "52373",
+        "stop_name": "René-Lévesque / Bishop"
+      },
+      {
+        "stop_id": "52327",
+        "stop_name": "René-Lévesque / Guy"
+      },
+      {
+        "stop_id": "52284",
+        "stop_name": "René-Lévesque / Saint-Mathieu"
+      },
+      {
+        "stop_id": "52198",
+        "stop_name": "René-Lévesque / Seymour"
+      },
+      {
+        "stop_id": "52149",
+        "stop_name": "René-Lévesque / du Sussex"
+      },
+      {
+        "stop_id": "52078",
+        "stop_name": "René-Lévesque / Atwater"
+      },
+      {
+        "stop_id": "56297",
+        "stop_name": "Station Atwater (Atwater / Sainte-Catherine)"
+      },
+      {
+        "stop_id": "54148",
+        "stop_name": "Station Atwater (Ste-Catherine / Lambert-Closse)"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54148",
+        "stop_name": "Station Atwater (Ste-Catherine / Lambert-Closse)"
+      },
+      {
+        "stop_id": "52227",
+        "stop_name": "René-Lévesque / du Fort"
+      },
+      {
+        "stop_id": "52286",
+        "stop_name": "René-Lévesque / Saint-Mathieu"
+      },
+      {
+        "stop_id": "52329",
+        "stop_name": "René-Lévesque / Guy"
+      },
+      {
+        "stop_id": "52374",
+        "stop_name": "René-Lévesque / Bishop"
+      },
+      {
+        "stop_id": "52437",
+        "stop_name": "René-Lévesque / Drummond"
+      },
+      {
+        "stop_id": "61807",
+        "stop_name": "René-Lévesque / Stanley"
+      },
+      {
+        "stop_id": "52530",
+        "stop_name": "René-Lévesque / Mansfield"
+      },
+      {
+        "stop_id": "53918",
+        "stop_name": "René-Lévesque / Union"
+      },
+      {
+        "stop_id": "52627",
+        "stop_name": "Basilique St-Patrick (R.-Lévesque / St-Alexandre)"
+      },
+      {
+        "stop_id": "60683",
+        "stop_name": "René-Lévesque / Jeanne-Mance"
+      },
+      {
+        "stop_id": "52782",
+        "stop_name": "René-Lévesque / Saint-Laurent"
+      },
+      {
+        "stop_id": "52835",
+        "stop_name": "René-Lévesque / de l'Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "60994",
+        "stop_name": "René-Lévesque / Sanguinet (CHUM)"
+      },
+      {
+        "stop_id": "52882",
+        "stop_name": "René-Lévesque / Saint-Denis (CHUM)"
+      },
+      {
+        "stop_id": "54041",
+        "stop_name": "René-Lévesque / Berri"
+      },
+      {
+        "stop_id": "52931",
+        "stop_name": "René-Lévesque / Saint-Hubert"
+      },
+      {
+        "stop_id": "52982",
+        "stop_name": "René-Lévesque / Atateken"
+      },
+      {
+        "stop_id": "53032",
+        "stop_name": "René-Lévesque / Panet"
+      },
+      {
+        "stop_id": "53073",
+        "stop_name": "René-Lévesque / Papineau (Maison Radio-Canada)"
+      },
+      {
+        "stop_id": "53064",
+        "stop_name": "De Lorimier / Sainte-Catherine"
+      },
+      {
+        "stop_id": "53045",
+        "stop_name": "De Lorimier / De Maisonneuve"
+      },
+      {
+        "stop_id": "53034",
+        "stop_name": "Logan / Parthenais"
+      },
+      {
+        "stop_id": "54117",
+        "stop_name": "Station Papineau (Dorion / Sainte-Catherine)"
+      }
+    ]
+  }
+]

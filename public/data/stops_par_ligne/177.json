@@ -1,0 +1,228 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "60284",
+        "stop_name": "Guénette / Bois-Franc"
+      },
+      {
+        "stop_id": "55883",
+        "stop_name": "Guénette / Bois-Franc"
+      },
+      {
+        "stop_id": "55395",
+        "stop_name": "Bois-Franc / Thimens"
+      },
+      {
+        "stop_id": "55387",
+        "stop_name": "Thimens / Cousens"
+      },
+      {
+        "stop_id": "55910",
+        "stop_name": "Thimens / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55899",
+        "stop_name": "Henri-Bourassa / No 8585"
+      },
+      {
+        "stop_id": "55371",
+        "stop_name": "Brabant-Marineau / De Baene"
+      },
+      {
+        "stop_id": "55378",
+        "stop_name": "Brabant-Marineau / Botham"
+      },
+      {
+        "stop_id": "55869",
+        "stop_name": "Cousens / No 4600"
+      },
+      {
+        "stop_id": "55774",
+        "stop_name": "Cousens / Thimens"
+      },
+      {
+        "stop_id": "55864",
+        "stop_name": "Thimens / Bois-Franc"
+      },
+      {
+        "stop_id": "55397",
+        "stop_name": "Thimens / No 5550"
+      },
+      {
+        "stop_id": "55870",
+        "stop_name": "Thimens / Dobrin"
+      },
+      {
+        "stop_id": "55872",
+        "stop_name": "Thimens / No 4900"
+      },
+      {
+        "stop_id": "55871",
+        "stop_name": "Thimens / Poirier"
+      },
+      {
+        "stop_id": "55433",
+        "stop_name": "Thimens / Garand"
+      },
+      {
+        "stop_id": "55800",
+        "stop_name": "Thimens / Pomba"
+      },
+      {
+        "stop_id": "55925",
+        "stop_name": "Thimens / Tees"
+      },
+      {
+        "stop_id": "55441",
+        "stop_name": "Thimens / Bégin"
+      },
+      {
+        "stop_id": "55955",
+        "stop_name": "Côte-Vertu / Bégin"
+      },
+      {
+        "stop_id": "55778",
+        "stop_name": "Côte-Vertu / No 3695"
+      },
+      {
+        "stop_id": "55466",
+        "stop_name": "Côte-Vertu / Beaulac"
+      },
+      {
+        "stop_id": "55463",
+        "stop_name": "Côte-Vertu / No 3200"
+      },
+      {
+        "stop_id": "55487",
+        "stop_name": "Côte-Vertu / Cavendish"
+      },
+      {
+        "stop_id": "55556",
+        "stop_name": "Côte-Vertu / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55596",
+        "stop_name": "Côte-Vertu / Marcel-Laurin"
+      },
+      {
+        "stop_id": "60288",
+        "stop_name": "Station Côte-Vertu"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "60295",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "55594",
+        "stop_name": "Côte-Vertu / Leduc"
+      },
+      {
+        "stop_id": "55554",
+        "stop_name": "Côte-Vertu / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55486",
+        "stop_name": "Côte-Vertu / Cavendish"
+      },
+      {
+        "stop_id": "55488",
+        "stop_name": "Côte-Vertu / Cavendish"
+      },
+      {
+        "stop_id": "55464",
+        "stop_name": "Côte-Vertu / Beaulac"
+      },
+      {
+        "stop_id": "55355",
+        "stop_name": "Côte-Vertu / No 3695"
+      },
+      {
+        "stop_id": "55445",
+        "stop_name": "Côte-Vertu / Bégin"
+      },
+      {
+        "stop_id": "55933",
+        "stop_name": "Bégin / Thimens"
+      },
+      {
+        "stop_id": "55924",
+        "stop_name": "Thimens / Tees"
+      },
+      {
+        "stop_id": "55426",
+        "stop_name": "Thimens / Pomba"
+      },
+      {
+        "stop_id": "55790",
+        "stop_name": "Thimens / Garand"
+      },
+      {
+        "stop_id": "55874",
+        "stop_name": "Thimens / Poirier"
+      },
+      {
+        "stop_id": "55875",
+        "stop_name": "Thimens / Steinberg"
+      },
+      {
+        "stop_id": "55873",
+        "stop_name": "Thimens / Dobrin"
+      },
+      {
+        "stop_id": "55876",
+        "stop_name": "Thimens / No 5555"
+      },
+      {
+        "stop_id": "55394",
+        "stop_name": "Thimens / Bois-Franc"
+      },
+      {
+        "stop_id": "55388",
+        "stop_name": "Centre de transport St-Laurent (Thimens / Cousens)"
+      },
+      {
+        "stop_id": "55389",
+        "stop_name": "Cousens / Thimens"
+      },
+      {
+        "stop_id": "55837",
+        "stop_name": "Cousens / No 4600"
+      },
+      {
+        "stop_id": "55377",
+        "stop_name": "Brabant-Marineau / Botham"
+      },
+      {
+        "stop_id": "55372",
+        "stop_name": "Brabant-Marineau / De Baene"
+      },
+      {
+        "stop_id": "55897",
+        "stop_name": "Henri-Bourassa / No 7900"
+      },
+      {
+        "stop_id": "55379",
+        "stop_name": "Henri-Bourassa / Thimens"
+      },
+      {
+        "stop_id": "55385",
+        "stop_name": "Henri-Bourassa / Guénette"
+      },
+      {
+        "stop_id": "55776",
+        "stop_name": "Guénette / Cousens"
+      },
+      {
+        "stop_id": "60284",
+        "stop_name": "Guénette / Bois-Franc"
+      }
+    ]
+  }
+]

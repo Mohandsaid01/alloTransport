@@ -1,0 +1,484 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "61798",
+        "stop_name": "Station Côte-Vertu (Gohier / Côte-Vertu)"
+      },
+      {
+        "stop_id": "55554",
+        "stop_name": "Côte-Vertu / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55488",
+        "stop_name": "Côte-Vertu / Cavendish"
+      },
+      {
+        "stop_id": "55801",
+        "stop_name": "Place Vertu entrée sud-est (Côte-Vertu/No 3131)"
+      },
+      {
+        "stop_id": "55464",
+        "stop_name": "Côte-Vertu / Beaulac"
+      },
+      {
+        "stop_id": "55355",
+        "stop_name": "Côte-Vertu / No 3695"
+      },
+      {
+        "stop_id": "55445",
+        "stop_name": "Côte-Vertu / Bégin"
+      },
+      {
+        "stop_id": "55785",
+        "stop_name": "Côte-Vertu / No 4045"
+      },
+      {
+        "stop_id": "55432",
+        "stop_name": "Montée de Liesse / Côte-Vertu"
+      },
+      {
+        "stop_id": "55437",
+        "stop_name": "Montée de Liesse / McCaffrey"
+      },
+      {
+        "stop_id": "55346",
+        "stop_name": "Montée de Liesse / No 750"
+      },
+      {
+        "stop_id": "55848",
+        "stop_name": "Montée de Liesse / Reverchon"
+      },
+      {
+        "stop_id": "55845",
+        "stop_name": "Montée de Liesse / No 360"
+      },
+      {
+        "stop_id": "55479",
+        "stop_name": "Montée de Liesse / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "55857",
+        "stop_name": "Montée de Liesse / No 180"
+      },
+      {
+        "stop_id": "55515",
+        "stop_name": "Montée de Liesse / Bourg"
+      },
+      {
+        "stop_id": "55858",
+        "stop_name": "Montée de Liesse / No 110"
+      },
+      {
+        "stop_id": "55539",
+        "stop_name": "Montée de Liesse / Hickmore"
+      },
+      {
+        "stop_id": "55859",
+        "stop_name": "Hickmore / No 4675"
+      },
+      {
+        "stop_id": "55523",
+        "stop_name": "Hickmore / Fisher"
+      },
+      {
+        "stop_id": "57322",
+        "stop_name": "Louis-A.-Amos / 23e Avenue"
+      },
+      {
+        "stop_id": "57170",
+        "stop_name": "Louis-A.-Amos / Courval"
+      },
+      {
+        "stop_id": "57323",
+        "stop_name": "Louis-A.-Amos / Onésime-Gagnon"
+      },
+      {
+        "stop_id": "61005",
+        "stop_name": "Onésime-Gagnon / Joseph-Dubreuil"
+      },
+      {
+        "stop_id": "61006",
+        "stop_name": "32e Avenue / Joseph-Dubreuil"
+      },
+      {
+        "stop_id": "61710",
+        "stop_name": "32e Avenue / No 2111"
+      },
+      {
+        "stop_id": "61007",
+        "stop_name": "32e Avenue / Louis-A.-Amos"
+      },
+      {
+        "stop_id": "57167",
+        "stop_name": "32e Avenue / Onésime-Gagnon"
+      },
+      {
+        "stop_id": "57328",
+        "stop_name": "32e Avenue / Jean-Baptiste-Deschamps"
+      },
+      {
+        "stop_id": "57334",
+        "stop_name": "32e Avenue / No 1212"
+      },
+      {
+        "stop_id": "57335",
+        "stop_name": "Fairway / 32e Avenue"
+      },
+      {
+        "stop_id": "57360",
+        "stop_name": "Fairway / François-Lenoir"
+      },
+      {
+        "stop_id": "57283",
+        "stop_name": "Fairway / Brandon"
+      },
+      {
+        "stop_id": "57150",
+        "stop_name": "Fairway / 46e Avenue"
+      },
+      {
+        "stop_id": "57149",
+        "stop_name": "46e Avenue / No 1800"
+      },
+      {
+        "stop_id": "57140",
+        "stop_name": "46e Avenue / François-Cusson"
+      },
+      {
+        "stop_id": "57132",
+        "stop_name": "50e Avenue / François-Cusson"
+      },
+      {
+        "stop_id": "57133",
+        "stop_name": "50e Avenue / Fairway"
+      },
+      {
+        "stop_id": "57354",
+        "stop_name": "52e Avenue / No 1550"
+      },
+      {
+        "stop_id": "57355",
+        "stop_name": "François-Cusson / No 1875"
+      },
+      {
+        "stop_id": "57560",
+        "stop_name": "Lindsay / No 22"
+      },
+      {
+        "stop_id": "57561",
+        "stop_name": "Lindsay / No 117"
+      },
+      {
+        "stop_id": "57556",
+        "stop_name": "Lépine / Lindsay"
+      },
+      {
+        "stop_id": "57562",
+        "stop_name": "Lépine / No 600"
+      },
+      {
+        "stop_id": "57554",
+        "stop_name": "Guthrie / Lépine"
+      },
+      {
+        "stop_id": "57552",
+        "stop_name": "Guthrie / Meloche"
+      },
+      {
+        "stop_id": "57118",
+        "stop_name": "Guthrie / 55e Avenue"
+      },
+      {
+        "stop_id": "57531",
+        "stop_name": "55e Avenue / No 1177"
+      },
+      {
+        "stop_id": "57530",
+        "stop_name": "55e Avenue / No 920"
+      },
+      {
+        "stop_id": "57126",
+        "stop_name": "Victoria / 54e Avenue"
+      },
+      {
+        "stop_id": "57137",
+        "stop_name": "Victoria / 51e Avenue"
+      },
+      {
+        "stop_id": "57153",
+        "stop_name": "Victoria / 49e Avenue"
+      },
+      {
+        "stop_id": "57166",
+        "stop_name": "Victoria / 44e Avenue"
+      },
+      {
+        "stop_id": "57178",
+        "stop_name": "Victoria / 40e Avenue"
+      },
+      {
+        "stop_id": "57185",
+        "stop_name": "Victoria / 36e Avenue"
+      },
+      {
+        "stop_id": "57190",
+        "stop_name": "Victoria / 33e Avenue"
+      },
+      {
+        "stop_id": "57337",
+        "stop_name": "Remembrance / 28e Avenue"
+      },
+      {
+        "stop_id": "57208",
+        "stop_name": "25e Avenue / Saint-Antoine"
+      },
+      {
+        "stop_id": "57331",
+        "stop_name": "Saint-Antoine / Place d'Accueil"
+      },
+      {
+        "stop_id": "57199",
+        "stop_name": "Saint-Antoine / 32e Avenue"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "57199",
+        "stop_name": "Saint-Antoine / 32e Avenue"
+      },
+      {
+        "stop_id": "57344",
+        "stop_name": "Victoria / 33e Avenue"
+      },
+      {
+        "stop_id": "57189",
+        "stop_name": "Victoria / 34e Avenue"
+      },
+      {
+        "stop_id": "57184",
+        "stop_name": "Victoria / Saint-Antoine"
+      },
+      {
+        "stop_id": "57177",
+        "stop_name": "Victoria / 40e Avenue"
+      },
+      {
+        "stop_id": "57165",
+        "stop_name": "Victoria / 44e Avenue"
+      },
+      {
+        "stop_id": "57152",
+        "stop_name": "Victoria / 48e Avenue"
+      },
+      {
+        "stop_id": "57136",
+        "stop_name": "Victoria / Meadowbrook"
+      },
+      {
+        "stop_id": "57125",
+        "stop_name": "Victoria / 54e Avenue"
+      },
+      {
+        "stop_id": "57330",
+        "stop_name": "55e Avenue / No 920"
+      },
+      {
+        "stop_id": "57329",
+        "stop_name": "55e Avenue / No 1200"
+      },
+      {
+        "stop_id": "57119",
+        "stop_name": "Guthrie / 55e Avenue"
+      },
+      {
+        "stop_id": "57551",
+        "stop_name": "Guthrie / Meloche"
+      },
+      {
+        "stop_id": "57553",
+        "stop_name": "Guthrie / Lépine"
+      },
+      {
+        "stop_id": "57557",
+        "stop_name": "Lépine / No 581"
+      },
+      {
+        "stop_id": "57558",
+        "stop_name": "Lindsay / Lépine"
+      },
+      {
+        "stop_id": "57555",
+        "stop_name": "Lindsay / No 80"
+      },
+      {
+        "stop_id": "57559",
+        "stop_name": "Lindsay / 55e Avenue"
+      },
+      {
+        "stop_id": "57120",
+        "stop_name": "François-Cusson / 52e Avenue"
+      },
+      {
+        "stop_id": "57352",
+        "stop_name": "52e Avenue / No 1550"
+      },
+      {
+        "stop_id": "57353",
+        "stop_name": "Fairway / 50e Avenue"
+      },
+      {
+        "stop_id": "57131",
+        "stop_name": "50e Avenue / François-Cusson"
+      },
+      {
+        "stop_id": "57141",
+        "stop_name": "François-Cusson / 46e Avenue"
+      },
+      {
+        "stop_id": "57148",
+        "stop_name": "46e Avenue / Hormidas-Deslauriers"
+      },
+      {
+        "stop_id": "57151",
+        "stop_name": "Fairway / 46e Avenue"
+      },
+      {
+        "stop_id": "57284",
+        "stop_name": "Fairway / Brandon"
+      },
+      {
+        "stop_id": "57359",
+        "stop_name": "Fairway / François-Lenoir"
+      },
+      {
+        "stop_id": "57336",
+        "stop_name": "Fairway / 32e Avenue"
+      },
+      {
+        "stop_id": "57321",
+        "stop_name": "32e Avenue / No 1212"
+      },
+      {
+        "stop_id": "57327",
+        "stop_name": "32e Avenue / Jean-Baptiste-Deschamps"
+      },
+      {
+        "stop_id": "57326",
+        "stop_name": "32e Avenue / Onésime-Gagnon"
+      },
+      {
+        "stop_id": "61000",
+        "stop_name": "32e Avenue / Louis-A.-Amos"
+      },
+      {
+        "stop_id": "61001",
+        "stop_name": "32e Avenue / No 2080"
+      },
+      {
+        "stop_id": "61708",
+        "stop_name": "32e Avenue / Joseph-Dubreuil"
+      },
+      {
+        "stop_id": "61002",
+        "stop_name": "Joseph-Dubreuil / Onésime-Gagnon"
+      },
+      {
+        "stop_id": "61003",
+        "stop_name": "Louis-A.-Amos / Onésime-Gagnon"
+      },
+      {
+        "stop_id": "57171",
+        "stop_name": "Louis-A.-Amos / Courval"
+      },
+      {
+        "stop_id": "57183",
+        "stop_name": "Louis-A.-Amos / Jean-Baptiste-Deschamps"
+      },
+      {
+        "stop_id": "55524",
+        "stop_name": "Hickmore / Fisher"
+      },
+      {
+        "stop_id": "55882",
+        "stop_name": "Hickmore / No 4675"
+      },
+      {
+        "stop_id": "55540",
+        "stop_name": "Montée de Liesse / Hickmore"
+      },
+      {
+        "stop_id": "55881",
+        "stop_name": "Montée de Liesse / No 110"
+      },
+      {
+        "stop_id": "55514",
+        "stop_name": "Montée de Liesse / Bourg"
+      },
+      {
+        "stop_id": "55481",
+        "stop_name": "Montée de Liesse / Côte-de-Liesse (Sud)"
+      },
+      {
+        "stop_id": "55908",
+        "stop_name": "Montée de Liesse / Côte-de-Liesse (Nord)"
+      },
+      {
+        "stop_id": "55846",
+        "stop_name": "Montée de Liesse / No 360"
+      },
+      {
+        "stop_id": "55849",
+        "stop_name": "Montée de Liesse / Reverchon"
+      },
+      {
+        "stop_id": "55847",
+        "stop_name": "Montée de Liesse / No 750"
+      },
+      {
+        "stop_id": "55439",
+        "stop_name": "Montée de Liesse / McCaffrey"
+      },
+      {
+        "stop_id": "55350",
+        "stop_name": "Côte-Vertu / No 4590"
+      },
+      {
+        "stop_id": "55446",
+        "stop_name": "Côte-Vertu / Bégin"
+      },
+      {
+        "stop_id": "55778",
+        "stop_name": "Côte-Vertu / No 3695"
+      },
+      {
+        "stop_id": "55466",
+        "stop_name": "Côte-Vertu / Beaulac"
+      },
+      {
+        "stop_id": "55463",
+        "stop_name": "Côte-Vertu / No 3200"
+      },
+      {
+        "stop_id": "55487",
+        "stop_name": "Côte-Vertu / Cavendish"
+      },
+      {
+        "stop_id": "55556",
+        "stop_name": "Côte-Vertu / Alexis-Nihon"
+      },
+      {
+        "stop_id": "61798",
+        "stop_name": "Station Côte-Vertu (Gohier / Côte-Vertu)"
+      },
+      {
+        "stop_id": "62028",
+        "stop_name": "Terminus CAE"
+      }
+    ]
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "61573",
+        "stop_name": "Station Du Collège (Saint-Louis / Gohier)"
+      },
+      {
+        "stop_id": "55356",
+        "stop_name": "Côte-de-Liesse Nord / No 5415"
+      },
+      {
+        "stop_id": "55843",
+        "stop_name": "Côte-de-Liesse / No 5805"
+      },
+      {
+        "stop_id": "55655",
+        "stop_name": "Passerelle Isabey-Darnley (Côte-de-Liesse/Isabey)"
+      },
+      {
+        "stop_id": "55855",
+        "stop_name": "Côte-de-Liesse / No 6015"
+      },
+      {
+        "stop_id": "55602",
+        "stop_name": "Côte-de-Liesse / Cavendish"
+      },
+      {
+        "stop_id": "62018",
+        "stop_name": "Migneron / Griffith"
+      },
+      {
+        "stop_id": "55511",
+        "stop_name": "Griffith / Locke"
+      },
+      {
+        "stop_id": "55494",
+        "stop_name": "Griffith / McArthur"
+      },
+      {
+        "stop_id": "62033",
+        "stop_name": "McArthur / Ness"
+      },
+      {
+        "stop_id": "62019",
+        "stop_name": "Hickmore / Merizzi"
+      },
+      {
+        "stop_id": "62376",
+        "stop_name": "Hickmore / Mega"
+      },
+      {
+        "stop_id": "62030",
+        "stop_name": "Hickmore / No 4300"
+      },
+      {
+        "stop_id": "55540",
+        "stop_name": "Montée de Liesse / Hickmore"
+      },
+      {
+        "stop_id": "55881",
+        "stop_name": "Montée de Liesse / No 110"
+      },
+      {
+        "stop_id": "55514",
+        "stop_name": "Montée de Liesse / Bourg"
+      },
+      {
+        "stop_id": "55481",
+        "stop_name": "Montée de Liesse / Côte-de-Liesse (Sud)"
+      },
+      {
+        "stop_id": "55908",
+        "stop_name": "Montée de Liesse / Côte-de-Liesse (Nord)"
+      },
+      {
+        "stop_id": "55482",
+        "stop_name": "Côte-de-Liesse / No 8305"
+      },
+      {
+        "stop_id": "62013",
+        "stop_name": "Terminus CAE"
+      },
+      {
+        "stop_id": "50767",
+        "stop_name": "Station Crémazie Nord (Crémazie / Berri)"
+      },
+      {
+        "stop_id": "53947",
+        "stop_name": "Crémazie / De Gaspé"
+      },
+      {
+        "stop_id": "50669",
+        "stop_name": "Crémazie / Saint-Laurent"
+      },
+      {
+        "stop_id": "50664",
+        "stop_name": "Crémazie / Clark"
+      },
+      {
+        "stop_id": "53985",
+        "stop_name": "Crémazie / de Reims"
+      },
+      {
+        "stop_id": "50656",
+        "stop_name": "Crémazie / de l'Esplanade"
+      },
+      {
+        "stop_id": "50621",
+        "stop_name": "Crémazie / Tolhurst"
+      },
+      {
+        "stop_id": "53949",
+        "stop_name": "Crémazie / de l'Acadie"
+      },
+      {
+        "stop_id": "55854",
+        "stop_name": "Côte-de-Liesse / No 1955"
+      },
+      {
+        "stop_id": "55772",
+        "stop_name": "Côte-de-Liesse Nord / Lebeau"
+      },
+      {
+        "stop_id": "55770",
+        "stop_name": "Côte-de-Liesse / Montpellier"
+      },
+      {
+        "stop_id": "55853",
+        "stop_name": "Côte-de-Liesse / No 3155"
+      },
+      {
+        "stop_id": "55767",
+        "stop_name": "Côte-de-Liesse Nord / Houde"
+      },
+      {
+        "stop_id": "55764",
+        "stop_name": "Côte-de-Liesse Nord / Laperrière"
+      },
+      {
+        "stop_id": "55761",
+        "stop_name": "Côte-de-Liesse Nord / Hébert"
+      },
+      {
+        "stop_id": "55757",
+        "stop_name": "Côte-de-Liesse / Sainte-Croix"
+      },
+      {
+        "stop_id": "55827",
+        "stop_name": "Décarie / No 255"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "62013",
+        "stop_name": "Terminus CAE"
+      },
+      {
+        "stop_id": "55479",
+        "stop_name": "Montée de Liesse / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "55857",
+        "stop_name": "Montée de Liesse / No 180"
+      },
+      {
+        "stop_id": "55515",
+        "stop_name": "Montée de Liesse / Bourg"
+      },
+      {
+        "stop_id": "55858",
+        "stop_name": "Montée de Liesse / No 110"
+      },
+      {
+        "stop_id": "55539",
+        "stop_name": "Montée de Liesse / Hickmore"
+      },
+      {
+        "stop_id": "55538",
+        "stop_name": "Hickmore / No 4500"
+      },
+      {
+        "stop_id": "55988",
+        "stop_name": "Hickmore / No 4300"
+      },
+      {
+        "stop_id": "62017",
+        "stop_name": "Hickmore / No 4200"
+      },
+      {
+        "stop_id": "62016",
+        "stop_name": "Hickmore / No 4200"
+      },
+      {
+        "stop_id": "62015",
+        "stop_name": "Hickmore / Merizzi"
+      },
+      {
+        "stop_id": "62032",
+        "stop_name": "McArthur / Ness"
+      },
+      {
+        "stop_id": "62014",
+        "stop_name": "McArthur / Griffith"
+      },
+      {
+        "stop_id": "55513",
+        "stop_name": "Griffith / Locke"
+      },
+      {
+        "stop_id": "55544",
+        "stop_name": "Griffith / Migneron"
+      },
+      {
+        "stop_id": "55553",
+        "stop_name": "Cavendish / Griffith"
+      },
+      {
+        "stop_id": "55600",
+        "stop_name": "Cavendish / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "55621",
+        "stop_name": "Dalton / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "56110",
+        "stop_name": "Passerelle Isabey-Darnley (Côte-de-Liesse/Isabey)"
+      },
+      {
+        "stop_id": "56139",
+        "stop_name": "Côte-de-Liesse / No 5750"
+      },
+      {
+        "stop_id": "56120",
+        "stop_name": "Côte-de-Liesse / No 5430"
+      },
+      {
+        "stop_id": "50398",
+        "stop_name": "Décarie / Royalmount"
+      },
+      {
+        "stop_id": "50377",
+        "stop_name": "Station De la Savane (Décarie / de Sorel)"
+      },
+      {
+        "stop_id": "56140",
+        "stop_name": "Côte-de-Liesse / Décarie"
+      },
+      {
+        "stop_id": "56141",
+        "stop_name": "Côte-de-Liesse / Lucerne"
+      },
+      {
+        "stop_id": "56142",
+        "stop_name": "Côte-de-Liesse / Graham"
+      },
+      {
+        "stop_id": "56143",
+        "stop_name": "Côte-de-Liesse / Saint-Clare"
+      },
+      {
+        "stop_id": "56144",
+        "stop_name": "Côte-de-Liesse / Macneil"
+      },
+      {
+        "stop_id": "56145",
+        "stop_name": "Côte-de-Liesse / Sunset"
+      },
+      {
+        "stop_id": "56115",
+        "stop_name": "Côte-de-Liesse / Parc Fleming"
+      },
+      {
+        "stop_id": "56118",
+        "stop_name": "Côte-de-Liesse / CHSLD Mont-Royal"
+      },
+      {
+        "stop_id": "56114",
+        "stop_name": "Côte-de-Liesse / Rockland"
+      },
+      {
+        "stop_id": "56119",
+        "stop_name": "Centre Rockland"
+      },
+      {
+        "stop_id": "50561",
+        "stop_name": "Crémazie / de l'Acadie"
+      },
+      {
+        "stop_id": "53948",
+        "stop_name": "Crémazie / de l'Acadie"
+      },
+      {
+        "stop_id": "50579",
+        "stop_name": "Crémazie / d'Outremont"
+      },
+      {
+        "stop_id": "50657",
+        "stop_name": "Crémazie / de l'Esplanade"
+      },
+      {
+        "stop_id": "50681",
+        "stop_name": "Crémazie / de Reims"
+      },
+      {
+        "stop_id": "50665",
+        "stop_name": "Crémazie / Clark"
+      },
+      {
+        "stop_id": "50671",
+        "stop_name": "Crémazie / Saint-Laurent"
+      },
+      {
+        "stop_id": "50720",
+        "stop_name": "Crémazie / Casgrain"
+      },
+      {
+        "stop_id": "50734",
+        "stop_name": "Crémazie / Henri-Julien"
+      },
+      {
+        "stop_id": "50769",
+        "stop_name": "Station Crémazie Sud (Crémazie / Berri)"
+      }
+    ]
+  }
+]

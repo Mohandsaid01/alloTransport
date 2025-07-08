@@ -1,0 +1,80 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "60848",
+        "stop_name": "Station Du Collège (du Collège / Décarie)"
+      },
+      {
+        "stop_id": "55723",
+        "stop_name": "Station Du Collège (Décarie / Saint-Louis)"
+      },
+      {
+        "stop_id": "55645",
+        "stop_name": "Saint-Louis / Vincent"
+      },
+      {
+        "stop_id": "55674",
+        "stop_name": "Alexis-Nihon / Ward"
+      },
+      {
+        "stop_id": "55843",
+        "stop_name": "Côte-de-Liesse / No 5805"
+      },
+      {
+        "stop_id": "55553",
+        "stop_name": "Cavendish / Griffith"
+      },
+      {
+        "stop_id": "55986",
+        "stop_name": "Dalton / Cavendish"
+      },
+      {
+        "stop_id": "56154",
+        "stop_name": "Dalton / No 8423"
+      },
+      {
+        "stop_id": "56155",
+        "stop_name": "Andover / No 5975"
+      },
+      {
+        "stop_id": "56152",
+        "stop_name": "Andover / Darnley"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "56152",
+        "stop_name": "Andover / Darnley"
+      },
+      {
+        "stop_id": "56153",
+        "stop_name": "Andover / Delmeade"
+      },
+      {
+        "stop_id": "55668",
+        "stop_name": "Delmeade / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "56139",
+        "stop_name": "Côte-de-Liesse / No 5750"
+      },
+      {
+        "stop_id": "55671",
+        "stop_name": "Alexis-Nihon / Ward"
+      },
+      {
+        "stop_id": "55644",
+        "stop_name": "Saint-Louis / Alexis-Nihon"
+      },
+      {
+        "stop_id": "60848",
+        "stop_name": "Station Du Collège (du Collège / Décarie)"
+      }
+    ]
+  }
+]

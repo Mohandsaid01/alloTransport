@@ -1,0 +1,36 @@
+[
+  {
+    "direction": "Station Longueuil-Université de Sherbrooke -Zone B",
+    "arrets": [
+      {
+        "stop_id": "9999114",
+        "stop_name": "Station Berri-UQAM"
+      },
+      {
+        "stop_id": "45",
+        "stop_name": "Station Jean-Drapeau"
+      },
+      {
+        "stop_id": "44",
+        "stop_name": "Station Longueuil-Université de Sherbrooke -Zone B"
+      }
+    ]
+  },
+  {
+    "direction": "Station Berri-UQAM",
+    "arrets": [
+      {
+        "stop_id": "44",
+        "stop_name": "Station Longueuil-Université de Sherbrooke -Zone B"
+      },
+      {
+        "stop_id": "45",
+        "stop_name": "Station Jean-Drapeau"
+      },
+      {
+        "stop_id": "9999114",
+        "stop_name": "Station Berri-UQAM"
+      }
+    ]
+  }
+]

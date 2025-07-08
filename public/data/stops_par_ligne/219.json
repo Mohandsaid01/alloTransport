@@ -1,0 +1,308 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "57827",
+        "stop_name": "Brunswick / Auto Plaza"
+      },
+      {
+        "stop_id": "57814",
+        "stop_name": "Brunswick / Plymouth"
+      },
+      {
+        "stop_id": "57831",
+        "stop_name": "Brunswick / Hermitage"
+      },
+      {
+        "stop_id": "58415",
+        "stop_name": "Brunswick / du Syrah"
+      },
+      {
+        "stop_id": "58369",
+        "stop_name": "Brunswick / de Salaberry"
+      },
+      {
+        "stop_id": "58372",
+        "stop_name": "Brunswick / Argyle"
+      },
+      {
+        "stop_id": "58374",
+        "stop_name": "Brunswick / Jonquille"
+      },
+      {
+        "stop_id": "58376",
+        "stop_name": "Brunswick / Jonquille"
+      },
+      {
+        "stop_id": "58346",
+        "stop_name": "Brunswick / Valérie"
+      },
+      {
+        "stop_id": "58344",
+        "stop_name": "Brunswick / Shannon"
+      },
+      {
+        "stop_id": "58342",
+        "stop_name": "Brunswick / Henri-Daoust"
+      },
+      {
+        "stop_id": "58404",
+        "stop_name": "Brunswick / Berne"
+      },
+      {
+        "stop_id": "58406",
+        "stop_name": "Brunswick / Nelligan"
+      },
+      {
+        "stop_id": "58408",
+        "stop_name": "Brunswick / Rougemont"
+      },
+      {
+        "stop_id": "58410",
+        "stop_name": "Houde / Elkas"
+      },
+      {
+        "stop_id": "58398",
+        "stop_name": "Transcanadienne / Houde"
+      },
+      {
+        "stop_id": "58416",
+        "stop_name": "Sainte-Marie / No 18111"
+      },
+      {
+        "stop_id": "58401",
+        "stop_name": "Jean-Yves / Transcanadienne"
+      },
+      {
+        "stop_id": "58400",
+        "stop_name": "Jean-Yves / Cinéma"
+      },
+      {
+        "stop_id": "58337",
+        "stop_name": "Sainte-Marie / Meaney"
+      },
+      {
+        "stop_id": "58333",
+        "stop_name": "Sainte-Marie / de l'Anse-à-l'Orme"
+      },
+      {
+        "stop_id": "60800",
+        "stop_name": "Sainte-Marie / No 19925"
+      },
+      {
+        "stop_id": "58335",
+        "stop_name": "Institut national de santé publique (Sainte-Marie"
+      },
+      {
+        "stop_id": "58413",
+        "stop_name": "Sainte-Marie / Morgan"
+      },
+      {
+        "stop_id": "58551",
+        "stop_name": "Morgan / face à Prestige"
+      },
+      {
+        "stop_id": "58531",
+        "stop_name": "Morgan / Clark-Graham"
+      },
+      {
+        "stop_id": "58547",
+        "stop_name": "Clark-Graham / Weco"
+      },
+      {
+        "stop_id": "58548",
+        "stop_name": "Clark-Graham / Firing"
+      },
+      {
+        "stop_id": "58549",
+        "stop_name": "Clark-Graham / Rafna"
+      },
+      {
+        "stop_id": "58550",
+        "stop_name": "Lee / Clark-Graham"
+      },
+      {
+        "stop_id": "58529",
+        "stop_name": "Lee / Cruickshank"
+      },
+      {
+        "stop_id": "58543",
+        "stop_name": "Cruickshank / Lee"
+      },
+      {
+        "stop_id": "58546",
+        "stop_name": "Cruickshank / Firing"
+      },
+      {
+        "stop_id": "58535",
+        "stop_name": "Firing / Clark-Graham"
+      },
+      {
+        "stop_id": "60674",
+        "stop_name": "Clark-Graham / No 19701"
+      },
+      {
+        "stop_id": "58530",
+        "stop_name": "Clark-Graham / Morgan"
+      },
+      {
+        "stop_id": "58545",
+        "stop_name": "Clark-Graham / No 20275"
+      },
+      {
+        "stop_id": "58534",
+        "stop_name": "Clark-Graham / No 20425"
+      },
+      {
+        "stop_id": "58544",
+        "stop_name": "Clark-Graham / Pirie"
+      },
+      {
+        "stop_id": "58537",
+        "stop_name": "Rond-point Clark-Graham"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "58537",
+        "stop_name": "Rond-point Clark-Graham"
+      },
+      {
+        "stop_id": "58538",
+        "stop_name": "Clark-Graham / Pirie"
+      },
+      {
+        "stop_id": "58539",
+        "stop_name": "Clark-Graham / No 20500"
+      },
+      {
+        "stop_id": "58532",
+        "stop_name": "Clark-Graham / Morgan"
+      },
+      {
+        "stop_id": "58540",
+        "stop_name": "Clark-Graham / Weco"
+      },
+      {
+        "stop_id": "60673",
+        "stop_name": "Clark-Graham / No 19700"
+      },
+      {
+        "stop_id": "58536",
+        "stop_name": "Clark-Graham / Firing"
+      },
+      {
+        "stop_id": "58541",
+        "stop_name": "Clark-Graham / Styrochem"
+      },
+      {
+        "stop_id": "58533",
+        "stop_name": "Lee / Clark-Graham"
+      },
+      {
+        "stop_id": "58542",
+        "stop_name": "Lee / Cruickshank"
+      },
+      {
+        "stop_id": "58527",
+        "stop_name": "Lee / Transcanadienne"
+      },
+      {
+        "stop_id": "58393",
+        "stop_name": "Sainte-Marie / Transcanadienne"
+      },
+      {
+        "stop_id": "58392",
+        "stop_name": "Transcanadienne / Montrose"
+      },
+      {
+        "stop_id": "58394",
+        "stop_name": "Transcanadienne / Daniel"
+      },
+      {
+        "stop_id": "58395",
+        "stop_name": "Transcanadienne / Mountain View"
+      },
+      {
+        "stop_id": "58396",
+        "stop_name": "Transcanadienne / Berne"
+      },
+      {
+        "stop_id": "61601",
+        "stop_name": "Transcanadienne / No 18101"
+      },
+      {
+        "stop_id": "58397",
+        "stop_name": "Houde / Transcanadienne"
+      },
+      {
+        "stop_id": "58411",
+        "stop_name": "Houde / Elkas"
+      },
+      {
+        "stop_id": "58409",
+        "stop_name": "Brunswick / Rougemont"
+      },
+      {
+        "stop_id": "58407",
+        "stop_name": "Brunswick / Nelligan"
+      },
+      {
+        "stop_id": "58405",
+        "stop_name": "Brunswick / Berne"
+      },
+      {
+        "stop_id": "58343",
+        "stop_name": "Brunswick / Henri-Daoust"
+      },
+      {
+        "stop_id": "58345",
+        "stop_name": "Brunswick / Shannon"
+      },
+      {
+        "stop_id": "58414",
+        "stop_name": "Brunswick / Valérie"
+      },
+      {
+        "stop_id": "58349",
+        "stop_name": "Brunswick / du Merlot"
+      },
+      {
+        "stop_id": "58377",
+        "stop_name": "Brunswick / Dubonnet"
+      },
+      {
+        "stop_id": "58375",
+        "stop_name": "Brunswick / Jonquille"
+      },
+      {
+        "stop_id": "58373",
+        "stop_name": "Brunswick / Charles E.-Frosst"
+      },
+      {
+        "stop_id": "58402",
+        "stop_name": "Brunswick / de Salaberry"
+      },
+      {
+        "stop_id": "58403",
+        "stop_name": "Brunswick / du Syrah"
+      },
+      {
+        "stop_id": "57830",
+        "stop_name": "Brunswick / Hermitage"
+      },
+      {
+        "stop_id": "57813",
+        "stop_name": "Brunswick / Fairview"
+      },
+      {
+        "stop_id": "57827",
+        "stop_name": "Brunswick / Auto Plaza"
+      }
+    ]
+  }
+]

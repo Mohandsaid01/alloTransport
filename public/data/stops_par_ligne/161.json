@@ -1,0 +1,392 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "56338",
+        "stop_name": "Kildare / Westminster"
+      },
+      {
+        "stop_id": "56345",
+        "stop_name": "Kildare / McMurray"
+      },
+      {
+        "stop_id": "56348",
+        "stop_name": "Kildare / Melling"
+      },
+      {
+        "stop_id": "56360",
+        "stop_name": "Kildare / Trinity"
+      },
+      {
+        "stop_id": "56366",
+        "stop_name": "Kildare / Parkhaven"
+      },
+      {
+        "stop_id": "56369",
+        "stop_name": "Kildare / Wildwood"
+      },
+      {
+        "stop_id": "56375",
+        "stop_name": "Kildare / Einstein"
+      },
+      {
+        "stop_id": "56383",
+        "stop_name": "Kildare / Kellert"
+      },
+      {
+        "stop_id": "56391",
+        "stop_name": "Kildare / Cavendish"
+      },
+      {
+        "stop_id": "56400",
+        "stop_name": "Cavendish / Heywood"
+      },
+      {
+        "stop_id": "56404",
+        "stop_name": "Fleet / Randall"
+      },
+      {
+        "stop_id": "56408",
+        "stop_name": "Fleet / Pinedale"
+      },
+      {
+        "stop_id": "56310",
+        "stop_name": "Fleet / Minden"
+      },
+      {
+        "stop_id": "56312",
+        "stop_name": "Fleet / Queen-Mary"
+      },
+      {
+        "stop_id": "56329",
+        "stop_name": "Fleet / Netherwood"
+      },
+      {
+        "stop_id": "56315",
+        "stop_name": "Fleet / Finchley"
+      },
+      {
+        "stop_id": "50643",
+        "stop_name": "Fleet / Macdonald"
+      },
+      {
+        "stop_id": "50660",
+        "stop_name": "Van Horne / Clanranald"
+      },
+      {
+        "stop_id": "50703",
+        "stop_name": "Van Horne / Décarie"
+      },
+      {
+        "stop_id": "50722",
+        "stop_name": "Van Horne / Décarie"
+      },
+      {
+        "stop_id": "50745",
+        "stop_name": "Van Horne / de Westbury"
+      },
+      {
+        "stop_id": "50778",
+        "stop_name": "Van Horne / Lemieux"
+      },
+      {
+        "stop_id": "50819",
+        "stop_name": "Station Plamondon (Van Horne / Victoria)"
+      },
+      {
+        "stop_id": "50867",
+        "stop_name": "Van Horne / Lavoie"
+      },
+      {
+        "stop_id": "50902",
+        "stop_name": "Van Horne / Légaré"
+      },
+      {
+        "stop_id": "50943",
+        "stop_name": "Van Horne / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "50974",
+        "stop_name": "Van Horne / Decelles"
+      },
+      {
+        "stop_id": "51022",
+        "stop_name": "Van Horne / Hudson"
+      },
+      {
+        "stop_id": "53975",
+        "stop_name": "Van Horne / Linton"
+      },
+      {
+        "stop_id": "51083",
+        "stop_name": "Van Horne / de Darlington"
+      },
+      {
+        "stop_id": "51124",
+        "stop_name": "Van Horne / Wilderton"
+      },
+      {
+        "stop_id": "51148",
+        "stop_name": "Van Horne / du Boisé"
+      },
+      {
+        "stop_id": "54135",
+        "stop_name": "Van Horne / de Vimy"
+      },
+      {
+        "stop_id": "56161",
+        "stop_name": "Van Horne / Pratt"
+      },
+      {
+        "stop_id": "56164",
+        "stop_name": "Van Horne / Hartland"
+      },
+      {
+        "stop_id": "56170",
+        "stop_name": "Van Horne / Rockland"
+      },
+      {
+        "stop_id": "56173",
+        "stop_name": "Van Horne / McEachran"
+      },
+      {
+        "stop_id": "62052",
+        "stop_name": "Van Horne / Dollard"
+      },
+      {
+        "stop_id": "61990",
+        "stop_name": "Station Outremont (Van Horne / Outremont)"
+      },
+      {
+        "stop_id": "56186",
+        "stop_name": "Van Horne / Bloomfield"
+      },
+      {
+        "stop_id": "56191",
+        "stop_name": "Van Horne / Querbes"
+      },
+      {
+        "stop_id": "51390",
+        "stop_name": "Van Horne / Hutchison"
+      },
+      {
+        "stop_id": "51423",
+        "stop_name": "Van Horne / Jeanne-Mance"
+      },
+      {
+        "stop_id": "51449",
+        "stop_name": "Van Horne / Waverly"
+      },
+      {
+        "stop_id": "51648",
+        "stop_name": "Station Rosemont (Rosemont / De Saint-Vallier)"
+      },
+      {
+        "stop_id": "56221",
+        "stop_name": "Station Outremont (Van Horne / Wiseman)"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "51648",
+        "stop_name": "Station Rosemont (Rosemont / De Saint-Vallier)"
+      },
+      {
+        "stop_id": "51448",
+        "stop_name": "Van Horne / Waverly"
+      },
+      {
+        "stop_id": "51407",
+        "stop_name": "Van Horne / du Parc"
+      },
+      {
+        "stop_id": "56190",
+        "stop_name": "Van Horne / Querbes"
+      },
+      {
+        "stop_id": "56185",
+        "stop_name": "Van Horne / Bloomfield"
+      },
+      {
+        "stop_id": "56181",
+        "stop_name": "Station Outremont (Van Horne / Outremont)"
+      },
+      {
+        "stop_id": "56172",
+        "stop_name": "Van Horne / McEachran"
+      },
+      {
+        "stop_id": "56168",
+        "stop_name": "Van Horne / Rockland"
+      },
+      {
+        "stop_id": "56163",
+        "stop_name": "Van Horne / Hartland"
+      },
+      {
+        "stop_id": "56160",
+        "stop_name": "Van Horne / Pratt"
+      },
+      {
+        "stop_id": "54134",
+        "stop_name": "Van Horne / de Vimy"
+      },
+      {
+        "stop_id": "51147",
+        "stop_name": "Van Horne / Northcrest"
+      },
+      {
+        "stop_id": "51123",
+        "stop_name": "Van Horne / Wilderton"
+      },
+      {
+        "stop_id": "51082",
+        "stop_name": "Van Horne / de Darlington"
+      },
+      {
+        "stop_id": "53976",
+        "stop_name": "Van Horne / Linton"
+      },
+      {
+        "stop_id": "51021",
+        "stop_name": "Van Horne / Hudson"
+      },
+      {
+        "stop_id": "50973",
+        "stop_name": "Van Horne / Decelles"
+      },
+      {
+        "stop_id": "50941",
+        "stop_name": "Van Horne / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "50901",
+        "stop_name": "Van Horne / Légaré"
+      },
+      {
+        "stop_id": "50866",
+        "stop_name": "Van Horne / Lavoie"
+      },
+      {
+        "stop_id": "50820",
+        "stop_name": "Station Plamondon (Van Horne / Victoria)"
+      },
+      {
+        "stop_id": "50777",
+        "stop_name": "Van Horne / Lemieux"
+      },
+      {
+        "stop_id": "50744",
+        "stop_name": "Van Horne / de Westbury"
+      },
+      {
+        "stop_id": "50701",
+        "stop_name": "Van Horne / Décarie"
+      },
+      {
+        "stop_id": "50684",
+        "stop_name": "Van Horne / Coolbrook"
+      },
+      {
+        "stop_id": "50659",
+        "stop_name": "Van Horne / Clanranald"
+      },
+      {
+        "stop_id": "50641",
+        "stop_name": "Van Horne / Macdonald"
+      },
+      {
+        "stop_id": "56314",
+        "stop_name": "Fleet / Finchley"
+      },
+      {
+        "stop_id": "56313",
+        "stop_name": "Fleet / Netherwood"
+      },
+      {
+        "stop_id": "56311",
+        "stop_name": "Fleet / Queen-Mary"
+      },
+      {
+        "stop_id": "56330",
+        "stop_name": "Fleet / Netherwood"
+      },
+      {
+        "stop_id": "56407",
+        "stop_name": "Fleet / Pinedale"
+      },
+      {
+        "stop_id": "56403",
+        "stop_name": "Fleet / Randall"
+      },
+      {
+        "stop_id": "56393",
+        "stop_name": "Kildare / Cavendish"
+      },
+      {
+        "stop_id": "56382",
+        "stop_name": "Kildare / Kellert"
+      },
+      {
+        "stop_id": "56374",
+        "stop_name": "Kildare / Einstein"
+      },
+      {
+        "stop_id": "56368",
+        "stop_name": "Kildare / Caldwell"
+      },
+      {
+        "stop_id": "56364",
+        "stop_name": "Kildare / Parkhaven"
+      },
+      {
+        "stop_id": "56380",
+        "stop_name": "Guelph / Kincourt"
+      },
+      {
+        "stop_id": "56376",
+        "stop_name": "Guelph / Whitehorne"
+      },
+      {
+        "stop_id": "56371",
+        "stop_name": "Guelph / Melling"
+      },
+      {
+        "stop_id": "56362",
+        "stop_name": "Guelph / McMurray"
+      },
+      {
+        "stop_id": "56353",
+        "stop_name": "Guelph / Westminster"
+      },
+      {
+        "stop_id": "61795",
+        "stop_name": "Guelph / Smart"
+      },
+      {
+        "stop_id": "56337",
+        "stop_name": "Guelph / Wentworth"
+      },
+      {
+        "stop_id": "56334",
+        "stop_name": "Kildare / Davies"
+      },
+      {
+        "stop_id": "61794",
+        "stop_name": "Kildare / Smart"
+      },
+      {
+        "stop_id": "56338",
+        "stop_name": "Kildare / Westminster"
+      },
+      {
+        "stop_id": "56220",
+        "stop_name": "Station Outremont (Van Horne / Wiseman)"
+      }
+    ]
+  }
+]

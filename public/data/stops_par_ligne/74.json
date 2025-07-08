@@ -1,0 +1,181 @@
+[
+  {
+    "direction": "Sud via Wellington / Bridge",
+    "arrets": [
+      {
+        "stop_id": "54356",
+        "stop_name": "Station Bonaventure (De La Gauchetière / Mansfield"
+      },
+      {
+        "stop_id": "52732",
+        "stop_name": "Robert-Bourassa / Viger"
+      },
+      {
+        "stop_id": "52754",
+        "stop_name": "Robert-Bourassa / Saint-Jacques"
+      },
+      {
+        "stop_id": "62168",
+        "stop_name": "Robert-Bourassa / Notre-Dame"
+      },
+      {
+        "stop_id": "53919",
+        "stop_name": "Robert-Bourassa / William"
+      },
+      {
+        "stop_id": "54372",
+        "stop_name": "Robert-Bourassa / Ottawa"
+      },
+      {
+        "stop_id": "52971",
+        "stop_name": "Robert-Bourassa / Wellington"
+      },
+      {
+        "stop_id": "52944",
+        "stop_name": "Wellington / Ann"
+      },
+      {
+        "stop_id": "52919",
+        "stop_name": "Wellington / Peel"
+      },
+      {
+        "stop_id": "61735",
+        "stop_name": "Bridge / Wellington"
+      },
+      {
+        "stop_id": "58852",
+        "stop_name": "Bridge / Mill"
+      },
+      {
+        "stop_id": "54312",
+        "stop_name": "des Moulins / Pierre-Dupuy"
+      },
+      {
+        "stop_id": "54401",
+        "stop_name": "Carrie-Derick / Fernand-Seguin"
+      },
+      {
+        "stop_id": "59288",
+        "stop_name": "Carrie-Derick / Fernand-Seguin"
+      },
+      {
+        "stop_id": "61555",
+        "stop_name": "Marc-Cantin / Studios MELS"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "61555",
+        "stop_name": "Marc-Cantin / Studios MELS"
+      },
+      {
+        "stop_id": "61554",
+        "stop_name": "Marc-Cantin / Fernand-Seguin"
+      },
+      {
+        "stop_id": "54314",
+        "stop_name": "des Moulins / Pierre-Dupuy"
+      },
+      {
+        "stop_id": "60204",
+        "stop_name": "Bridge / No 225"
+      },
+      {
+        "stop_id": "53050",
+        "stop_name": "Bridge / Mill"
+      },
+      {
+        "stop_id": "52926",
+        "stop_name": "Wellington / Bridge"
+      },
+      {
+        "stop_id": "52913",
+        "stop_name": "Wellington / Young"
+      },
+      {
+        "stop_id": "52945",
+        "stop_name": "Wellington / Ann"
+      },
+      {
+        "stop_id": "62076",
+        "stop_name": "Robert-Bourassa / Ottawa"
+      },
+      {
+        "stop_id": "52880",
+        "stop_name": "Robert-Bourassa / William"
+      },
+      {
+        "stop_id": "52804",
+        "stop_name": "Robert-Bourassa / Notre-Dame"
+      },
+      {
+        "stop_id": "52752",
+        "stop_name": "Robert-Bourassa / Saint-Jacques"
+      },
+      {
+        "stop_id": "52666",
+        "stop_name": "Robert-Bourassa / De La Gauchetière"
+      },
+      {
+        "stop_id": "62077",
+        "stop_name": "René-Lévesque / Monseigneur-Charbonneau"
+      },
+      {
+        "stop_id": "54356",
+        "stop_name": "Station Bonaventure (De La Gauchetière / Mansfield"
+      }
+    ]
+  },
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "54356",
+        "stop_name": "Station Bonaventure (De La Gauchetière / Mansfield"
+      },
+      {
+        "stop_id": "52732",
+        "stop_name": "Robert-Bourassa / Viger"
+      },
+      {
+        "stop_id": "52754",
+        "stop_name": "Robert-Bourassa / Saint-Jacques"
+      },
+      {
+        "stop_id": "62168",
+        "stop_name": "Robert-Bourassa / Notre-Dame"
+      },
+      {
+        "stop_id": "53919",
+        "stop_name": "Robert-Bourassa / William"
+      },
+      {
+        "stop_id": "54372",
+        "stop_name": "Robert-Bourassa / Ottawa"
+      },
+      {
+        "stop_id": "52971",
+        "stop_name": "Robert-Bourassa / Wellington"
+      },
+      {
+        "stop_id": "54312",
+        "stop_name": "des Moulins / Pierre-Dupuy"
+      },
+      {
+        "stop_id": "54401",
+        "stop_name": "Carrie-Derick / Fernand-Seguin"
+      },
+      {
+        "stop_id": "59288",
+        "stop_name": "Carrie-Derick / Fernand-Seguin"
+      },
+      {
+        "stop_id": "61555",
+        "stop_name": "Marc-Cantin / Studios MELS"
+      }
+    ]
+  }
+]

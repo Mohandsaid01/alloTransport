@@ -1,0 +1,313 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "51096",
+        "stop_name": "Station Parc (Hutchison / Ogilvy)"
+      },
+      {
+        "stop_id": "51140",
+        "stop_name": "Station Parc (Jean-Talon / Hutchison)"
+      },
+      {
+        "stop_id": "51199",
+        "stop_name": "Jean-Talon / Alexandra"
+      },
+      {
+        "stop_id": "51227",
+        "stop_name": "Jean-Talon / Clark"
+      },
+      {
+        "stop_id": "51266",
+        "stop_name": "Jean-Talon / Saint-Dominique"
+      },
+      {
+        "stop_id": "53774",
+        "stop_name": "Jean-Talon / Drolet"
+      },
+      {
+        "stop_id": "51322",
+        "stop_name": "Station Jean-Talon Sud / De Saint-Vallier"
+      },
+      {
+        "stop_id": "51337",
+        "stop_name": "Station Jean-Talon Est / Saint-Hubert"
+      },
+      {
+        "stop_id": "51358",
+        "stop_name": "Jean-Talon / Christophe-Colomb"
+      },
+      {
+        "stop_id": "62397",
+        "stop_name": "Jean-Talon / De Normanville"
+      },
+      {
+        "stop_id": "51413",
+        "stop_name": "Jean-Talon / De Lanaudière"
+      },
+      {
+        "stop_id": "51436",
+        "stop_name": "Station Fabre (Jean-Talon / Fabre)"
+      },
+      {
+        "stop_id": "62398",
+        "stop_name": "Jean-Talon / Papineau"
+      },
+      {
+        "stop_id": "62399",
+        "stop_name": "Jean-Talon / Chabot"
+      },
+      {
+        "stop_id": "62400",
+        "stop_name": "Jean-Talon / De Lorimier"
+      },
+      {
+        "stop_id": "51528",
+        "stop_name": "Jean-Talon / Louis-Hémon"
+      },
+      {
+        "stop_id": "51554",
+        "stop_name": "Station D'Iberville (Jean-Talon / Louis-Hébert)"
+      },
+      {
+        "stop_id": "62401",
+        "stop_name": "Jean-Talon / D'Iberville"
+      },
+      {
+        "stop_id": "51588",
+        "stop_name": "Jean-Talon / 1re Avenue"
+      },
+      {
+        "stop_id": "51609",
+        "stop_name": "Jean-Talon / 8e Avenue"
+      },
+      {
+        "stop_id": "51633",
+        "stop_name": "Jean-Talon / Saint-Michel"
+      },
+      {
+        "stop_id": "51663",
+        "stop_name": "Jean-Talon / 13e Avenue"
+      },
+      {
+        "stop_id": "51693",
+        "stop_name": "Jean-Talon / 15e Avenue"
+      },
+      {
+        "stop_id": "51707",
+        "stop_name": "Jean-Talon / 17e Avenue"
+      },
+      {
+        "stop_id": "61977",
+        "stop_name": "Jean-Talon / 18e Avenue"
+      },
+      {
+        "stop_id": "51759",
+        "stop_name": "20e Avenue / Jean-Talon"
+      },
+      {
+        "stop_id": "54094",
+        "stop_name": "20e Avenue / Everett"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54094",
+        "stop_name": "20e Avenue / Everett"
+      },
+      {
+        "stop_id": "51757",
+        "stop_name": "Jean-Talon / 20e Avenue"
+      },
+      {
+        "stop_id": "51706",
+        "stop_name": "Jean-Talon / 17e Avenue"
+      },
+      {
+        "stop_id": "51692",
+        "stop_name": "Jean-Talon / 15e Avenue"
+      },
+      {
+        "stop_id": "51662",
+        "stop_name": "Jean-Talon / 13e Avenue"
+      },
+      {
+        "stop_id": "51631",
+        "stop_name": "Jean-Talon / Saint-Michel"
+      },
+      {
+        "stop_id": "51608",
+        "stop_name": "Jean-Talon / 8e Avenue"
+      },
+      {
+        "stop_id": "51587",
+        "stop_name": "Jean-Talon / 1re Avenue"
+      },
+      {
+        "stop_id": "51564",
+        "stop_name": "Station D'Iberville (Jean-Talon / D'Iberville)"
+      },
+      {
+        "stop_id": "61886",
+        "stop_name": "Station D'Iberville (Jean-Talon / des Écores)"
+      },
+      {
+        "stop_id": "51527",
+        "stop_name": "Jean-Talon / Louis-Hémon"
+      },
+      {
+        "stop_id": "51498",
+        "stop_name": "Jean-Talon / De Lorimier"
+      },
+      {
+        "stop_id": "51477",
+        "stop_name": "Jean-Talon / Chabot"
+      },
+      {
+        "stop_id": "51454",
+        "stop_name": "Station Fabre (Jean-Talon / Papineau)"
+      },
+      {
+        "stop_id": "51435",
+        "stop_name": "Station Fabre (Jean-Talon / Fabre)"
+      },
+      {
+        "stop_id": "62269",
+        "stop_name": "Jean-Talon / De Lanaudière"
+      },
+      {
+        "stop_id": "51385",
+        "stop_name": "Jean-Talon / De Normanville"
+      },
+      {
+        "stop_id": "51356",
+        "stop_name": "Jean-Talon / Christophe-Colomb"
+      },
+      {
+        "stop_id": "51336",
+        "stop_name": "Station Jean-Talon Est / Saint-Hubert"
+      },
+      {
+        "stop_id": "51330",
+        "stop_name": "Jean-Talon / De Chateaubriand"
+      },
+      {
+        "stop_id": "54095",
+        "stop_name": "Station Jean-Talon Nord (Jean-Talon / Berri)"
+      },
+      {
+        "stop_id": "51296",
+        "stop_name": "Jean-Talon / Henri-Julien"
+      },
+      {
+        "stop_id": "51269",
+        "stop_name": "Jean-Talon / Casgrain"
+      },
+      {
+        "stop_id": "51226",
+        "stop_name": "Jean-Talon / Clark"
+      },
+      {
+        "stop_id": "51198",
+        "stop_name": "Jean-Talon / Alexandra"
+      },
+      {
+        "stop_id": "51096",
+        "stop_name": "Station Parc (Hutchison / Ogilvy)"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest destination Station Jean-Talon",
+    "arrets": [
+      {
+        "stop_id": "54094",
+        "stop_name": "20e Avenue / Everett"
+      },
+      {
+        "stop_id": "51757",
+        "stop_name": "Jean-Talon / 20e Avenue"
+      },
+      {
+        "stop_id": "51706",
+        "stop_name": "Jean-Talon / 17e Avenue"
+      },
+      {
+        "stop_id": "51692",
+        "stop_name": "Jean-Talon / 15e Avenue"
+      },
+      {
+        "stop_id": "51662",
+        "stop_name": "Jean-Talon / 13e Avenue"
+      },
+      {
+        "stop_id": "51631",
+        "stop_name": "Jean-Talon / Saint-Michel"
+      },
+      {
+        "stop_id": "51608",
+        "stop_name": "Jean-Talon / 8e Avenue"
+      },
+      {
+        "stop_id": "51587",
+        "stop_name": "Jean-Talon / 1re Avenue"
+      },
+      {
+        "stop_id": "51564",
+        "stop_name": "Station D'Iberville (Jean-Talon / D'Iberville)"
+      },
+      {
+        "stop_id": "61886",
+        "stop_name": "Station D'Iberville (Jean-Talon / des Écores)"
+      },
+      {
+        "stop_id": "51527",
+        "stop_name": "Jean-Talon / Louis-Hémon"
+      },
+      {
+        "stop_id": "51498",
+        "stop_name": "Jean-Talon / De Lorimier"
+      },
+      {
+        "stop_id": "51477",
+        "stop_name": "Jean-Talon / Chabot"
+      },
+      {
+        "stop_id": "51454",
+        "stop_name": "Station Fabre (Jean-Talon / Papineau)"
+      },
+      {
+        "stop_id": "51435",
+        "stop_name": "Station Fabre (Jean-Talon / Fabre)"
+      },
+      {
+        "stop_id": "62269",
+        "stop_name": "Jean-Talon / De Lanaudière"
+      },
+      {
+        "stop_id": "51385",
+        "stop_name": "Jean-Talon / De Normanville"
+      },
+      {
+        "stop_id": "51356",
+        "stop_name": "Jean-Talon / Christophe-Colomb"
+      },
+      {
+        "stop_id": "51336",
+        "stop_name": "Station Jean-Talon Est / Saint-Hubert"
+      },
+      {
+        "stop_id": "51330",
+        "stop_name": "Jean-Talon / De Chateaubriand"
+      },
+      {
+        "stop_id": "54095",
+        "stop_name": "Station Jean-Talon Nord (Jean-Talon / Berri)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "61232",
+        "stop_name": "Lake / face au Centre civique"
+      },
+      {
+        "stop_id": "57933",
+        "stop_name": "de Salaberry / Davignon"
+      },
+      {
+        "stop_id": "57957",
+        "stop_name": "Brunswick / Deacon"
+      },
+      {
+        "stop_id": "57376",
+        "stop_name": "Saint-Régis / Séville"
+      },
+      {
+        "stop_id": "57384",
+        "stop_name": "Saint-Régis / Sunnybrooke"
+      },
+      {
+        "stop_id": "60807",
+        "stop_name": "Station Côte-Vertu (Gohier / Côte-Vertu)"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "60807",
+        "stop_name": "Station Côte-Vertu (Gohier / Côte-Vertu)"
+      },
+      {
+        "stop_id": "57521",
+        "stop_name": "Saint-Régis / Sunnybrooke"
+      },
+      {
+        "stop_id": "57990",
+        "stop_name": "Saint-Régis / Séville"
+      },
+      {
+        "stop_id": "57955",
+        "stop_name": "Deacon / Brunswick"
+      },
+      {
+        "stop_id": "57931",
+        "stop_name": "de Salaberry / Norgrove"
+      },
+      {
+        "stop_id": "61232",
+        "stop_name": "Lake / face au Centre civique"
+      }
+    ]
+  }
+]

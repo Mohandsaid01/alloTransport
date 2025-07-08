@@ -1,56 +1,62 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import './Horaires.css';
 
-const horairesSimules = [
-  {
-    ligne: '10 - De Lorimier',
-    direction: 'Vers Sud',
-    horaires: ['06:15', '06:45', '07:15', '08:00', '08:30']
-  },
-  {
-    ligne: '24 - Sherbrooke',
-    direction: 'Vers Est',
-    horaires: ['06:30', '07:00', '07:30', '08:00', '08:30']
-  },
-  {
-    ligne: '67 - Saint-Michel',
-    direction: 'Vers Nord',
-    horaires: ['06:10', '06:40', '07:20', '08:10', '08:45']
-  }
-];
-
-//  Ces horaires sont SIMULÉS pour le frontend uniquement.
-//  À remplacer par un appel vers une API backend ou un service GTFS.
-// Exemple futur : 
-// axios.get("/api/horaires?ligne=24")
-//   .then(response => setHoraires(response.data));
-
 const Horaires = () => {
-  const [ligneChoisie, setLigneChoisie] = useState(null);
+  const navigate = useNavigate();
+  const [favoris, setFavoris] = useState([]);
+
+  // Charger les favoris depuis localStorage
+  useEffect(() => {
+    const saved = localStorage.getItem('favoris');
+    if (saved) {
+      setFavoris(JSON.parse(saved));
+    }
+  }, []);
+
+  // Naviguer vers un favori
+  const allerAuFavori = (fav) => {
+    navigate(`/horaires/${fav.mode}/${fav.routeId}`);
+  };
+
+  // Retirer un favori
+  const retirerFavori = (stopId, routeId, mode) => {
+    const newFavoris = favoris.filter(
+      (f) => !(f.stopId === stopId && f.routeId === routeId && f.mode === mode)
+    );
+    setFavoris(newFavoris);
+    localStorage.setItem('favoris', JSON.stringify(newFavoris));
+  };
 
   return (
     <div className="horaires-wrapper">
-      <h2> Horaires des lignes</h2>
-      <p>Choisissez une ligne pour voir les prochains départs :</p>
-
-      <div className="liste-lignes">
-        {horairesSimules.map((ligne, index) => (
-          <button
-            key={index}
-            className="btn-ligne"
-            onClick={() => setLigneChoisie(ligne)}
-          >
-            {ligne.ligne}
-          </button>
-        ))}
+      <h2>Consulter les horaires</h2>
+      <div className="mode-buttons">
+        <button onClick={() => navigate('/horaires/bus')}> Bus</button>
+        <button onClick={() => navigate('/horaires/metro')}> Métro</button>
       </div>
 
-      {ligneChoisie && (
-        <div className="details-horaire">
-          <h3>{ligneChoisie.ligne} ({ligneChoisie.direction})</h3>
+      {favoris.length > 0 && (
+        <div className="favoris-section">
+          <h3> Favoris</h3>
           <ul>
-            {ligneChoisie.horaires.map((heure, idx) => (
-              <li key={idx}> {heure}</li>
+            {favoris.map((f) => (
+              <li key={`${f.mode}-${f.routeId}-${f.stopId}`}>
+                <button onClick={() => allerAuFavori(f)}>
+                  {f.stopName} ({f.mode} - Ligne {f.routeId})
+                  <span
+                    className="etoile favori"
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      retirerFavori(f.stopId, f.routeId, f.mode);
+                    }}
+                    title="Retirer des favoris"
+                    style={{ float: 'right' }}
+                  >
+                    ★
+                  </span>
+                </button>
+              </li>
             ))}
           </ul>
         </div>
@@ -58,4 +64,5 @@ const Horaires = () => {
     </div>
   );
 };
+
 export default Horaires;

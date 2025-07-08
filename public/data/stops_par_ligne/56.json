@@ -1,0 +1,112 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "53827",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50318",
+        "stop_name": "Saint-Hubert / Henri-Bourassa"
+      },
+      {
+        "stop_id": "50345",
+        "stop_name": "Saint-Hubert / Prieur"
+      },
+      {
+        "stop_id": "50385",
+        "stop_name": "Saint-Hubert / Fleury"
+      },
+      {
+        "stop_id": "50421",
+        "stop_name": "Saint-Hubert / Sauriol"
+      },
+      {
+        "stop_id": "50468",
+        "stop_name": "Saint-Hubert / Sauvé"
+      },
+      {
+        "stop_id": "50537",
+        "stop_name": "Saint-Hubert / de Louvain"
+      },
+      {
+        "stop_id": "50586",
+        "stop_name": "Saint-Hubert / Chabanel"
+      },
+      {
+        "stop_id": "50645",
+        "stop_name": "Saint-Hubert / Legendre"
+      },
+      {
+        "stop_id": "50711",
+        "stop_name": "Émile-Journault / De Chateaubriand"
+      },
+      {
+        "stop_id": "50679",
+        "stop_name": "Émile-Journault / Lajeunesse"
+      },
+      {
+        "stop_id": "50792",
+        "stop_name": "Station Crémazie Nord"
+      },
+      {
+        "stop_id": "50678",
+        "stop_name": "Lajeunesse / Émile-Journault"
+      },
+      {
+        "stop_id": "50687",
+        "stop_name": "Émile-Journault / Millen"
+      },
+      {
+        "stop_id": "50710",
+        "stop_name": "Émile-Journault / Saint-Hubert"
+      },
+      {
+        "stop_id": "54385",
+        "stop_name": "Collège Ahuntsic (St-Hubert / Legendre)"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "54385",
+        "stop_name": "Collège Ahuntsic (St-Hubert / Legendre)"
+      },
+      {
+        "stop_id": "50585",
+        "stop_name": "Saint-Hubert / Chabanel"
+      },
+      {
+        "stop_id": "50535",
+        "stop_name": "Saint-Hubert / de Louvain"
+      },
+      {
+        "stop_id": "50466",
+        "stop_name": "Saint-Hubert / Sauvé"
+      },
+      {
+        "stop_id": "50420",
+        "stop_name": "Saint-Hubert / Sauriol"
+      },
+      {
+        "stop_id": "50383",
+        "stop_name": "Saint-Hubert / Fleury"
+      },
+      {
+        "stop_id": "50344",
+        "stop_name": "Saint-Hubert / Prieur"
+      },
+      {
+        "stop_id": "54126",
+        "stop_name": "Saint-Hubert / Henri-Bourassa"
+      },
+      {
+        "stop_id": "54127",
+        "stop_name": "Station Henri-Bourassa"
+      }
+    ]
+  }
+]

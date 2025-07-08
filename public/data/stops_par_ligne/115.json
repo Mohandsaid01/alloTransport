@@ -1,0 +1,192 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "56146",
+        "stop_name": "Kraft-Heinz / Entrée nord"
+      },
+      {
+        "stop_id": "56148",
+        "stop_name": "Kraft-Heinz / Entrée sud"
+      },
+      {
+        "stop_id": "56014",
+        "stop_name": "Devonshire / No 8335"
+      },
+      {
+        "stop_id": "56016",
+        "stop_name": "Devonshire / Royalmount"
+      },
+      {
+        "stop_id": "56013",
+        "stop_name": "Royalmount / Montview"
+      },
+      {
+        "stop_id": "53887",
+        "stop_name": "Royalmount / No 5780"
+      },
+      {
+        "stop_id": "53889",
+        "stop_name": "Royalmount / No 6111"
+      },
+      {
+        "stop_id": "53891",
+        "stop_name": "Royalmount / No 6150"
+      },
+      {
+        "stop_id": "50397",
+        "stop_name": "Royalmount / Paré"
+      },
+      {
+        "stop_id": "53890",
+        "stop_name": "Royalmount / No 6000"
+      },
+      {
+        "stop_id": "53888",
+        "stop_name": "Royalmount / No 5800"
+      },
+      {
+        "stop_id": "56135",
+        "stop_name": "Royalmount / Montview"
+      },
+      {
+        "stop_id": "56108",
+        "stop_name": "Ferrier / Montview"
+      },
+      {
+        "stop_id": "56021",
+        "stop_name": "Ferrier / Devonshire"
+      },
+      {
+        "stop_id": "56026",
+        "stop_name": "Paré / Devonshire"
+      },
+      {
+        "stop_id": "56109",
+        "stop_name": "Paré / No 5530"
+      },
+      {
+        "stop_id": "56010",
+        "stop_name": "Paré / No 5420"
+      },
+      {
+        "stop_id": "50478",
+        "stop_name": "Paré / Décarie"
+      },
+      {
+        "stop_id": "54195",
+        "stop_name": "Station Namur (Jean-Talon / Décarie)"
+      },
+      {
+        "stop_id": "56020",
+        "stop_name": "Devonshire / Ferrier"
+      },
+      {
+        "stop_id": "54262",
+        "stop_name": "Station Namur (Décarie / Jean-Talon)"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54262",
+        "stop_name": "Station Namur (Décarie / Jean-Talon)"
+      },
+      {
+        "stop_id": "50479",
+        "stop_name": "Paré / Décarie"
+      },
+      {
+        "stop_id": "56009",
+        "stop_name": "Paré / No 5415"
+      },
+      {
+        "stop_id": "56011",
+        "stop_name": "Paré / No 5525"
+      },
+      {
+        "stop_id": "56025",
+        "stop_name": "Paré / Devonshire"
+      },
+      {
+        "stop_id": "56022",
+        "stop_name": "Ferrier / Devonshire"
+      },
+      {
+        "stop_id": "56107",
+        "stop_name": "Ferrier / Montview"
+      },
+      {
+        "stop_id": "56012",
+        "stop_name": "Montview / Royalmount"
+      },
+      {
+        "stop_id": "53887",
+        "stop_name": "Royalmount / No 5780"
+      },
+      {
+        "stop_id": "53889",
+        "stop_name": "Royalmount / No 6111"
+      },
+      {
+        "stop_id": "53891",
+        "stop_name": "Royalmount / No 6150"
+      },
+      {
+        "stop_id": "50397",
+        "stop_name": "Royalmount / Paré"
+      },
+      {
+        "stop_id": "53890",
+        "stop_name": "Royalmount / No 6000"
+      },
+      {
+        "stop_id": "53888",
+        "stop_name": "Royalmount / No 5800"
+      },
+      {
+        "stop_id": "56135",
+        "stop_name": "Royalmount / Montview"
+      },
+      {
+        "stop_id": "56017",
+        "stop_name": "Royalmount / Devonshire"
+      },
+      {
+        "stop_id": "56018",
+        "stop_name": "Devonshire / No 8335"
+      },
+      {
+        "stop_id": "56149",
+        "stop_name": "Kraft-Heinz / Entrée sud"
+      },
+      {
+        "stop_id": "56147",
+        "stop_name": "Kraft-Heinz / Entrée nord"
+      },
+      {
+        "stop_id": "56146",
+        "stop_name": "Kraft-Heinz / Entrée nord"
+      },
+      {
+        "stop_id": "54195",
+        "stop_name": "Station Namur (Jean-Talon / Décarie)"
+      },
+      {
+        "stop_id": "50500",
+        "stop_name": "Mountain Sights / Buchan"
+      },
+      {
+        "stop_id": "56019",
+        "stop_name": "Devonshire / Ferrier"
+      },
+      {
+        "stop_id": "56015",
+        "stop_name": "Devonshire / Royalmount"
+      }
+    ]
+  }
+]

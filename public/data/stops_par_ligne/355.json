@@ -1,0 +1,604 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "61545",
+        "stop_name": "Carrefour Henri-Bourassa / Pie-IX"
+      },
+      {
+        "stop_id": "59446",
+        "stop_name": "Pie-IX / Parc Pilon"
+      },
+      {
+        "stop_id": "55077",
+        "stop_name": "Pie-IX / Arthur-Champoux"
+      },
+      {
+        "stop_id": "55085",
+        "stop_name": "Pie-IX / Martial"
+      },
+      {
+        "stop_id": "55103",
+        "stop_name": "Pie-IX / Monselet"
+      },
+      {
+        "stop_id": "55120",
+        "stop_name": "Pie-IX / Prieur"
+      },
+      {
+        "stop_id": "55134",
+        "stop_name": "Pie-IX / Forest"
+      },
+      {
+        "stop_id": "55150",
+        "stop_name": "Pie-IX / Fleury"
+      },
+      {
+        "stop_id": "55309",
+        "stop_name": "Pie-IX / Larin"
+      },
+      {
+        "stop_id": "55179",
+        "stop_name": "Pie-IX / Industriel"
+      },
+      {
+        "stop_id": "50993",
+        "stop_name": "Pie-IX / 55e Rue"
+      },
+      {
+        "stop_id": "51036",
+        "stop_name": "Pie-IX / des Grandes-Prairies"
+      },
+      {
+        "stop_id": "51115",
+        "stop_name": "Pie-IX / 46e Rue"
+      },
+      {
+        "stop_id": "51185",
+        "stop_name": "Pie-IX / 43e Rue"
+      },
+      {
+        "stop_id": "51246",
+        "stop_name": "Pie-IX / 39e Rue"
+      },
+      {
+        "stop_id": "51299",
+        "stop_name": "Pie-IX / Denis-Papin"
+      },
+      {
+        "stop_id": "51367",
+        "stop_name": "Pie-IX / Robert"
+      },
+      {
+        "stop_id": "51425",
+        "stop_name": "Pie-IX / Jean-Rivard"
+      },
+      {
+        "stop_id": "51480",
+        "stop_name": "Pie-IX / D'Hérelle"
+      },
+      {
+        "stop_id": "51531",
+        "stop_name": "Pie-IX / Jarry"
+      },
+      {
+        "stop_id": "51658",
+        "stop_name": "Pie-IX / Villeray"
+      },
+      {
+        "stop_id": "51736",
+        "stop_name": "Pie-IX / Everett"
+      },
+      {
+        "stop_id": "51793",
+        "stop_name": "Pie-IX / Jean-Talon"
+      },
+      {
+        "stop_id": "51867",
+        "stop_name": "Pie-IX / Bélair"
+      },
+      {
+        "stop_id": "51912",
+        "stop_name": "Pie-IX / Bélanger"
+      },
+      {
+        "stop_id": "52015",
+        "stop_name": "Pie-IX / Saint-Zotique"
+      },
+      {
+        "stop_id": "52128",
+        "stop_name": "Pie-IX / Beaubien"
+      },
+      {
+        "stop_id": "52242",
+        "stop_name": "Pie-IX / de Bellechasse"
+      },
+      {
+        "stop_id": "52311",
+        "stop_name": "Pie-IX / Rosemont"
+      },
+      {
+        "stop_id": "52402",
+        "stop_name": "Pie-IX / Dandurand"
+      },
+      {
+        "stop_id": "52496",
+        "stop_name": "Pie-IX / Masson"
+      },
+      {
+        "stop_id": "52596",
+        "stop_name": "Pie-IX / Laurier"
+      },
+      {
+        "stop_id": "52703",
+        "stop_name": "Pie-IX / Saint-Joseph"
+      },
+      {
+        "stop_id": "52832",
+        "stop_name": "Pie-IX / du Mont-Royal"
+      },
+      {
+        "stop_id": "52951",
+        "stop_name": "Pie-IX / Sherbrooke"
+      },
+      {
+        "stop_id": "53018",
+        "stop_name": "Station Pie-IX (Pie-IX / Pierre-De Coubertin)"
+      },
+      {
+        "stop_id": "53087",
+        "stop_name": "Pie-IX / Hochelaga"
+      },
+      {
+        "stop_id": "53126",
+        "stop_name": "Pie-IX / de Rouen"
+      },
+      {
+        "stop_id": "53157",
+        "stop_name": "Pie-IX / No 2050"
+      },
+      {
+        "stop_id": "61583",
+        "stop_name": "Pie-IX / Ontario"
+      },
+      {
+        "stop_id": "53169",
+        "stop_name": "Ontario / d'Orléans"
+      },
+      {
+        "stop_id": "53154",
+        "stop_name": "Place Simon-Valois (Ontario / Valois)"
+      },
+      {
+        "stop_id": "53140",
+        "stop_name": "Ontario / De Chambly"
+      },
+      {
+        "stop_id": "53122",
+        "stop_name": "Ontario / Aylwin"
+      },
+      {
+        "stop_id": "53113",
+        "stop_name": "Ontario / Davidson"
+      },
+      {
+        "stop_id": "53108",
+        "stop_name": "Ontario / Saint-Germain"
+      },
+      {
+        "stop_id": "53089",
+        "stop_name": "Ontario / Moreau"
+      },
+      {
+        "stop_id": "61355",
+        "stop_name": "Ontario / Lespérance"
+      },
+      {
+        "stop_id": "53058",
+        "stop_name": "Ontario / Wurtele"
+      },
+      {
+        "stop_id": "53027",
+        "stop_name": "Ontario / Bercy"
+      },
+      {
+        "stop_id": "53016",
+        "stop_name": "Station Frontenac (du Havre / Ontario)"
+      },
+      {
+        "stop_id": "53075",
+        "stop_name": "du Havre / La Fontaine"
+      },
+      {
+        "stop_id": "53112",
+        "stop_name": "du Havre / De Maisonneuve"
+      },
+      {
+        "stop_id": "53845",
+        "stop_name": "René-Lévesque / De Champlain"
+      },
+      {
+        "stop_id": "53031",
+        "stop_name": "René-Lévesque / Panet"
+      },
+      {
+        "stop_id": "52980",
+        "stop_name": "René-Lévesque / Atateken"
+      },
+      {
+        "stop_id": "52954",
+        "stop_name": "René-Lévesque / Saint-André"
+      },
+      {
+        "stop_id": "52930",
+        "stop_name": "René-Lévesque / Saint-Hubert"
+      },
+      {
+        "stop_id": "52905",
+        "stop_name": "René-Lévesque / Berri"
+      },
+      {
+        "stop_id": "52881",
+        "stop_name": "René-Lévesque / Saint-Denis (CHUM)"
+      },
+      {
+        "stop_id": "52834",
+        "stop_name": "René-Lévesque / de l'Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "52783",
+        "stop_name": "René-Lévesque / Saint-Laurent"
+      },
+      {
+        "stop_id": "52745",
+        "stop_name": "René-Lévesque / Saint-Urbain"
+      },
+      {
+        "stop_id": "52697",
+        "stop_name": "René-Lévesque / Jeanne-Mance"
+      },
+      {
+        "stop_id": "52625",
+        "stop_name": "Place du Frère-André"
+      },
+      {
+        "stop_id": "52587",
+        "stop_name": "René-Lévesque / Robert-Bourassa"
+      },
+      {
+        "stop_id": "52529",
+        "stop_name": "René-Lévesque / Mansfield"
+      },
+      {
+        "stop_id": "52483",
+        "stop_name": "René-Lévesque / Peel"
+      },
+      {
+        "stop_id": "52463",
+        "stop_name": "René-Lévesque / Stanley"
+      },
+      {
+        "stop_id": "52416",
+        "stop_name": "René-Lévesque / de la Montagne"
+      },
+      {
+        "stop_id": "52373",
+        "stop_name": "René-Lévesque / Bishop"
+      },
+      {
+        "stop_id": "52327",
+        "stop_name": "René-Lévesque / Guy"
+      },
+      {
+        "stop_id": "52284",
+        "stop_name": "René-Lévesque / Saint-Mathieu"
+      },
+      {
+        "stop_id": "52198",
+        "stop_name": "René-Lévesque / Seymour"
+      },
+      {
+        "stop_id": "52149",
+        "stop_name": "René-Lévesque / du Sussex"
+      },
+      {
+        "stop_id": "52078",
+        "stop_name": "René-Lévesque / Atwater"
+      },
+      {
+        "stop_id": "56301",
+        "stop_name": "Station Atwater"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "56301",
+        "stop_name": "Station Atwater"
+      },
+      {
+        "stop_id": "52227",
+        "stop_name": "René-Lévesque / du Fort"
+      },
+      {
+        "stop_id": "52286",
+        "stop_name": "René-Lévesque / Saint-Mathieu"
+      },
+      {
+        "stop_id": "52329",
+        "stop_name": "René-Lévesque / Guy"
+      },
+      {
+        "stop_id": "52374",
+        "stop_name": "René-Lévesque / Bishop"
+      },
+      {
+        "stop_id": "52437",
+        "stop_name": "René-Lévesque / Drummond"
+      },
+      {
+        "stop_id": "61807",
+        "stop_name": "René-Lévesque / Stanley"
+      },
+      {
+        "stop_id": "52530",
+        "stop_name": "René-Lévesque / Mansfield"
+      },
+      {
+        "stop_id": "53918",
+        "stop_name": "René-Lévesque / Union"
+      },
+      {
+        "stop_id": "52627",
+        "stop_name": "Basilique St-Patrick (R.-Lévesque / St-Alexandre)"
+      },
+      {
+        "stop_id": "60683",
+        "stop_name": "René-Lévesque / Jeanne-Mance"
+      },
+      {
+        "stop_id": "52782",
+        "stop_name": "René-Lévesque / Saint-Laurent"
+      },
+      {
+        "stop_id": "52835",
+        "stop_name": "René-Lévesque / de l'Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "52882",
+        "stop_name": "René-Lévesque / Saint-Denis (CHUM)"
+      },
+      {
+        "stop_id": "54041",
+        "stop_name": "René-Lévesque / Berri"
+      },
+      {
+        "stop_id": "52931",
+        "stop_name": "René-Lévesque / Saint-Hubert"
+      },
+      {
+        "stop_id": "52982",
+        "stop_name": "René-Lévesque / Atateken"
+      },
+      {
+        "stop_id": "53032",
+        "stop_name": "René-Lévesque / Panet"
+      },
+      {
+        "stop_id": "53073",
+        "stop_name": "René-Lévesque / Papineau (Maison Radio-Canada)"
+      },
+      {
+        "stop_id": "54071",
+        "stop_name": "Frontenac / Mondelet"
+      },
+      {
+        "stop_id": "53092",
+        "stop_name": "Frontenac / Logan"
+      },
+      {
+        "stop_id": "53015",
+        "stop_name": "Station Frontenac (Ontario / du Havre)"
+      },
+      {
+        "stop_id": "53028",
+        "stop_name": "Ontario / Bercy"
+      },
+      {
+        "stop_id": "53059",
+        "stop_name": "Ontario / Wurtele"
+      },
+      {
+        "stop_id": "61359",
+        "stop_name": "Ontario / Lespérance"
+      },
+      {
+        "stop_id": "54091",
+        "stop_name": "Ontario / Préfontaine"
+      },
+      {
+        "stop_id": "53109",
+        "stop_name": "Place des Tisserandes (Ontario / Saint-Germain)"
+      },
+      {
+        "stop_id": "53115",
+        "stop_name": "Ontario / Davidson"
+      },
+      {
+        "stop_id": "53123",
+        "stop_name": "Ontario / Aylwin"
+      },
+      {
+        "stop_id": "53141",
+        "stop_name": "Ontario / De Chambly"
+      },
+      {
+        "stop_id": "53155",
+        "stop_name": "Ontario / Valois"
+      },
+      {
+        "stop_id": "53170",
+        "stop_name": "Ontario / d'Orléans"
+      },
+      {
+        "stop_id": "61701",
+        "stop_name": "Pie-IX / Ontario"
+      },
+      {
+        "stop_id": "53125",
+        "stop_name": "Pie-IX / de Rouen"
+      },
+      {
+        "stop_id": "53085",
+        "stop_name": "Pie-IX / Hochelaga"
+      },
+      {
+        "stop_id": "53019",
+        "stop_name": "Station Pie-IX (Pie-IX / Pierre-De Coubertin)"
+      },
+      {
+        "stop_id": "52959",
+        "stop_name": "Pie-IX / Sherbrooke (coin Sud-Est)"
+      },
+      {
+        "stop_id": "52950",
+        "stop_name": "Pie-IX / Sherbrooke (coin Nord-Est)"
+      },
+      {
+        "stop_id": "52831",
+        "stop_name": "Pie-IX / du Mont-Royal"
+      },
+      {
+        "stop_id": "52702",
+        "stop_name": "Pie-IX / Saint-Joseph"
+      },
+      {
+        "stop_id": "52594",
+        "stop_name": "Pie-IX / Laurier"
+      },
+      {
+        "stop_id": "52495",
+        "stop_name": "Pie-IX / Masson"
+      },
+      {
+        "stop_id": "52401",
+        "stop_name": "Pie-IX / Dandurand"
+      },
+      {
+        "stop_id": "52309",
+        "stop_name": "Pie-IX / Rosemont"
+      },
+      {
+        "stop_id": "52241",
+        "stop_name": "Pie-IX / de Bellechasse"
+      },
+      {
+        "stop_id": "52126",
+        "stop_name": "Pie-IX / Beaubien"
+      },
+      {
+        "stop_id": "52014",
+        "stop_name": "Pie-IX / Saint-Zotique"
+      },
+      {
+        "stop_id": "51866",
+        "stop_name": "Pie-IX / Bélair"
+      },
+      {
+        "stop_id": "51791",
+        "stop_name": "Pie-IX / Jean-Talon"
+      },
+      {
+        "stop_id": "51735",
+        "stop_name": "Pie-IX / Everett"
+      },
+      {
+        "stop_id": "51656",
+        "stop_name": "Pie-IX / Villeray"
+      },
+      {
+        "stop_id": "51529",
+        "stop_name": "Pie-IX / Jarry"
+      },
+      {
+        "stop_id": "51479",
+        "stop_name": "Pie-IX / D'Hérelle"
+      },
+      {
+        "stop_id": "51424",
+        "stop_name": "Pie-IX / Jean-Rivard"
+      },
+      {
+        "stop_id": "51366",
+        "stop_name": "Pie-IX / Robert"
+      },
+      {
+        "stop_id": "51298",
+        "stop_name": "Pie-IX / Denis-Papin"
+      },
+      {
+        "stop_id": "51245",
+        "stop_name": "Pie-IX / 39e Rue"
+      },
+      {
+        "stop_id": "51184",
+        "stop_name": "Pie-IX / 43e Rue"
+      },
+      {
+        "stop_id": "54238",
+        "stop_name": "Pie-IX / 45e Rue"
+      },
+      {
+        "stop_id": "51100",
+        "stop_name": "Pie-IX / 48e Rue"
+      },
+      {
+        "stop_id": "51037",
+        "stop_name": "Pie-IX / 53e Rue"
+      },
+      {
+        "stop_id": "54189",
+        "stop_name": "Pie-IX / 56e Rue"
+      },
+      {
+        "stop_id": "55181",
+        "stop_name": "Pie-IX / Industriel"
+      },
+      {
+        "stop_id": "55157",
+        "stop_name": "Pie-IX / Majeau"
+      },
+      {
+        "stop_id": "55132",
+        "stop_name": "Pie-IX / Forest"
+      },
+      {
+        "stop_id": "55112",
+        "stop_name": "Pie-IX / d'Amiens"
+      },
+      {
+        "stop_id": "55096",
+        "stop_name": "Pie-IX / de Castille"
+      },
+      {
+        "stop_id": "55084",
+        "stop_name": "Pie-IX / de Charleroi"
+      },
+      {
+        "stop_id": "61543",
+        "stop_name": "Pie-IX / Amos"
+      },
+      {
+        "stop_id": "61544",
+        "stop_name": "Carrefour Henri-Bourassa / Pie-IX"
+      },
+      {
+        "stop_id": "61545",
+        "stop_name": "Carrefour Henri-Bourassa / Pie-IX"
+      }
+    ]
+  }
+]

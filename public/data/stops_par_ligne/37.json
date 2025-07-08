@@ -1,0 +1,236 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54111",
+        "stop_name": "Station Angrignon"
+      },
+      {
+        "stop_id": "56727",
+        "stop_name": "Angrignon / Newman"
+      },
+      {
+        "stop_id": "56970",
+        "stop_name": "Carrefour Angrignon (Newman / No 6900)"
+      },
+      {
+        "stop_id": "57085",
+        "stop_name": "Newman / Irwin"
+      },
+      {
+        "stop_id": "53901",
+        "stop_name": "Newman / Joseph-Arthur-Cousineau"
+      },
+      {
+        "stop_id": "51569",
+        "stop_name": "Newman / Résidence Y.-Brunet"
+      },
+      {
+        "stop_id": "51613",
+        "stop_name": "Jolicoeur / Jogues"
+      },
+      {
+        "stop_id": "51668",
+        "stop_name": "Jolicoeur / Dumas"
+      },
+      {
+        "stop_id": "51725",
+        "stop_name": "Jolicoeur / Hamilton"
+      },
+      {
+        "stop_id": "51778",
+        "stop_name": "Jolicoeur / Monk"
+      },
+      {
+        "stop_id": "51837",
+        "stop_name": "Jolicoeur / Hadley"
+      },
+      {
+        "stop_id": "51900",
+        "stop_name": "Jolicoeur / Eadie"
+      },
+      {
+        "stop_id": "51963",
+        "stop_name": "Jolicoeur / Dubois"
+      },
+      {
+        "stop_id": "52050",
+        "stop_name": "Jolicoeur / Angers"
+      },
+      {
+        "stop_id": "61324",
+        "stop_name": "Station Jolicoeur"
+      },
+      {
+        "stop_id": "53951",
+        "stop_name": "De La Vérendrye / Desmarchais"
+      },
+      {
+        "stop_id": "56529",
+        "stop_name": "Woodland / Champlain"
+      },
+      {
+        "stop_id": "56545",
+        "stop_name": "Woodland / Bannantyne"
+      },
+      {
+        "stop_id": "56579",
+        "stop_name": "Woodland / de Verdun"
+      },
+      {
+        "stop_id": "56669",
+        "stop_name": "Wellington / Argyle"
+      },
+      {
+        "stop_id": "56642",
+        "stop_name": "LaSalle / Desmarchais"
+      },
+      {
+        "stop_id": "56647",
+        "stop_name": "LaSalle / 2e Avenue"
+      },
+      {
+        "stop_id": "56651",
+        "stop_name": "LaSalle / Rielle"
+      },
+      {
+        "stop_id": "56649",
+        "stop_name": "LaSalle / Galt"
+      },
+      {
+        "stop_id": "62231",
+        "stop_name": "LaSalle / de l'Église"
+      },
+      {
+        "stop_id": "62232",
+        "stop_name": "LaSalle / Hickson"
+      },
+      {
+        "stop_id": "62233",
+        "stop_name": "LaSalle / Lafleur"
+      },
+      {
+        "stop_id": "56623",
+        "stop_name": "LaSalle / de Rushbrooke"
+      },
+      {
+        "stop_id": "61651",
+        "stop_name": "Station LaSalle (Caisse / de Rushbrooke)"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "56697",
+        "stop_name": "Station LaSalle"
+      },
+      {
+        "stop_id": "56612",
+        "stop_name": "Caisse / LaSalle"
+      },
+      {
+        "stop_id": "56625",
+        "stop_name": "LaSalle / Victor"
+      },
+      {
+        "stop_id": "62237",
+        "stop_name": "LaSalle / Hickson"
+      },
+      {
+        "stop_id": "62238",
+        "stop_name": "LaSalle / de l'Église"
+      },
+      {
+        "stop_id": "56650",
+        "stop_name": "LaSalle / Rielle"
+      },
+      {
+        "stop_id": "56646",
+        "stop_name": "LaSalle / 2e Avenue"
+      },
+      {
+        "stop_id": "56716",
+        "stop_name": "LaSalle / 5e Avenue"
+      },
+      {
+        "stop_id": "56641",
+        "stop_name": "LaSalle / Desmarchais"
+      },
+      {
+        "stop_id": "56705",
+        "stop_name": "LaSalle / Woodland"
+      },
+      {
+        "stop_id": "56581",
+        "stop_name": "Woodland / de Verdun"
+      },
+      {
+        "stop_id": "56547",
+        "stop_name": "Woodland / Bannantyne"
+      },
+      {
+        "stop_id": "56526",
+        "stop_name": "Woodland / Champlain"
+      },
+      {
+        "stop_id": "61326",
+        "stop_name": "Station Jolicoeur (Drake / Holy Cross)"
+      },
+      {
+        "stop_id": "52049",
+        "stop_name": "Jolicoeur / Angers"
+      },
+      {
+        "stop_id": "51961",
+        "stop_name": "Jolicoeur / Laurendeau"
+      },
+      {
+        "stop_id": "51899",
+        "stop_name": "Jolicoeur / Eadie"
+      },
+      {
+        "stop_id": "51836",
+        "stop_name": "Jolicoeur / Hadley"
+      },
+      {
+        "stop_id": "51776",
+        "stop_name": "Jolicoeur / Monk"
+      },
+      {
+        "stop_id": "51724",
+        "stop_name": "Jolicoeur / Hamilton"
+      },
+      {
+        "stop_id": "51667",
+        "stop_name": "Jolicoeur / Dumas"
+      },
+      {
+        "stop_id": "51612",
+        "stop_name": "Jolicoeur / Jogues"
+      },
+      {
+        "stop_id": "51568",
+        "stop_name": "Newman / Jean-Béraud"
+      },
+      {
+        "stop_id": "51547",
+        "stop_name": "Newman / Joseph-Arthur-Cousineau"
+      },
+      {
+        "stop_id": "56969",
+        "stop_name": "Carrefour Angrignon (Newman / No 6767)"
+      },
+      {
+        "stop_id": "60633",
+        "stop_name": "Angrignon / Tours Angrignon"
+      },
+      {
+        "stop_id": "54111",
+        "stop_name": "Station Angrignon"
+      }
+    ]
+  }
+]

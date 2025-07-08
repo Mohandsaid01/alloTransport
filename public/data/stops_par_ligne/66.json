@@ -1,0 +1,441 @@
+[
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "61832",
+        "stop_name": "Guy / Lincoln"
+      },
+      {
+        "stop_id": "52113",
+        "stop_name": "de la Côte-des-Neiges / Sherbrooke"
+      },
+      {
+        "stop_id": "52044",
+        "stop_name": "de la Côte-des-Neiges / Summerhill"
+      },
+      {
+        "stop_id": "51984",
+        "stop_name": "de la Côte-des-Neiges / du Docteur-Penfield"
+      },
+      {
+        "stop_id": "53761",
+        "stop_name": "des Pins / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "51840",
+        "stop_name": "de la Côte-des-Neiges / Cedar"
+      },
+      {
+        "stop_id": "51714",
+        "stop_name": "Le Boulevard / McDougall"
+      },
+      {
+        "stop_id": "51680",
+        "stop_name": "Le Boulevard / de Trafalgar"
+      },
+      {
+        "stop_id": "56269",
+        "stop_name": "The Boulevard / Mount-Pleasant"
+      },
+      {
+        "stop_id": "56264",
+        "stop_name": "The Boulevard / Clarke"
+      },
+      {
+        "stop_id": "56259",
+        "stop_name": "The Boulevard / Westmount"
+      },
+      {
+        "stop_id": "56247",
+        "stop_name": "The Boulevard / Edgehill"
+      },
+      {
+        "stop_id": "56240",
+        "stop_name": "The Boulevard / Renfrew"
+      },
+      {
+        "stop_id": "56233",
+        "stop_name": "The Boulevard / Belmont"
+      },
+      {
+        "stop_id": "56229",
+        "stop_name": "The Boulevard / Lansdowne"
+      },
+      {
+        "stop_id": "56226",
+        "stop_name": "The Boulevard / Grosvenor"
+      },
+      {
+        "stop_id": "56224",
+        "stop_name": "The Boulevard / Victoria"
+      },
+      {
+        "stop_id": "51307",
+        "stop_name": "Côte-Saint-Luc / Bonavista"
+      },
+      {
+        "stop_id": "51237",
+        "stop_name": "Côte-Saint-Luc / No 5105"
+      },
+      {
+        "stop_id": "51179",
+        "stop_name": "Côte-Saint-Luc / Décarie"
+      },
+      {
+        "stop_id": "51158",
+        "stop_name": "Côte-Saint-Luc / de l'Orphelinat"
+      },
+      {
+        "stop_id": "51138",
+        "stop_name": "Côte-Saint-Luc / Earnscliffe"
+      },
+      {
+        "stop_id": "51071",
+        "stop_name": "Côte-Saint-Luc / Clanranald"
+      },
+      {
+        "stop_id": "51010",
+        "stop_name": "Côte-Saint-Luc / Dufferin"
+      },
+      {
+        "stop_id": "56325",
+        "stop_name": "Côte-Saint-Luc / Stratford"
+      },
+      {
+        "stop_id": "56320",
+        "stop_name": "Côte-Saint-Luc / Ellerdale"
+      },
+      {
+        "stop_id": "50776",
+        "stop_name": "Côte-Saint-Luc / Heath"
+      },
+      {
+        "stop_id": "56316",
+        "stop_name": "Côte-Saint-Luc / Grand Boulevard"
+      },
+      {
+        "stop_id": "56414",
+        "stop_name": "Côte-Saint-Luc / Alpine"
+      },
+      {
+        "stop_id": "50677",
+        "stop_name": "Randall / Chester"
+      },
+      {
+        "stop_id": "50637",
+        "stop_name": "Chester / Cavendish"
+      },
+      {
+        "stop_id": "50618",
+        "stop_name": "Chester / Walkley"
+      },
+      {
+        "stop_id": "50569",
+        "stop_name": "Walkley / Côte-Saint-Luc"
+      },
+      {
+        "stop_id": "52285",
+        "stop_name": "Saint-Mathieu / René-Lévesque"
+      },
+      {
+        "stop_id": "52330",
+        "stop_name": "Guy / René-Lévesque"
+      }
+    ]
+  },
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "50569",
+        "stop_name": "Walkley / Côte-Saint-Luc"
+      },
+      {
+        "stop_id": "50606",
+        "stop_name": "Côte-Saint-Luc / Cavendish"
+      },
+      {
+        "stop_id": "50627",
+        "stop_name": "Côte-Saint-Luc / Randall"
+      },
+      {
+        "stop_id": "56415",
+        "stop_name": "Côte-Saint-Luc / West Hill"
+      },
+      {
+        "stop_id": "56317",
+        "stop_name": "Côte-Saint-Luc / Grand Boulevard"
+      },
+      {
+        "stop_id": "50752",
+        "stop_name": "Côte-Saint-Luc / Hingston"
+      },
+      {
+        "stop_id": "56321",
+        "stop_name": "Côte-Saint-Luc / Fielding"
+      },
+      {
+        "stop_id": "50895",
+        "stop_name": "Côte-Saint-Luc / Draper"
+      },
+      {
+        "stop_id": "56326",
+        "stop_name": "Côte-Saint-Luc / Wilson"
+      },
+      {
+        "stop_id": "50999",
+        "stop_name": "Côte-Saint-Luc / Oxford"
+      },
+      {
+        "stop_id": "51090",
+        "stop_name": "Côte-Saint-Luc / Girouard"
+      },
+      {
+        "stop_id": "54077",
+        "stop_name": "Côte-Saint-Luc / de Terrebonne"
+      },
+      {
+        "stop_id": "51182",
+        "stop_name": "Côte-Saint-Luc / Décarie"
+      },
+      {
+        "stop_id": "53944",
+        "stop_name": "Côte-Saint-Luc / No 5105"
+      },
+      {
+        "stop_id": "51306",
+        "stop_name": "Côte-Saint-Luc / Bonavista"
+      },
+      {
+        "stop_id": "51347",
+        "stop_name": "The Boulevard / Victoria"
+      },
+      {
+        "stop_id": "56227",
+        "stop_name": "The Boulevard / Grosvenor"
+      },
+      {
+        "stop_id": "56230",
+        "stop_name": "The Boulevard / Lansdowne"
+      },
+      {
+        "stop_id": "56234",
+        "stop_name": "The Boulevard / Belmont"
+      },
+      {
+        "stop_id": "56241",
+        "stop_name": "The Boulevard / Renfrew"
+      },
+      {
+        "stop_id": "56248",
+        "stop_name": "The Boulevard / Sydenham"
+      },
+      {
+        "stop_id": "56260",
+        "stop_name": "The Boulevard / Westmount"
+      },
+      {
+        "stop_id": "56265",
+        "stop_name": "The Boulevard / Clarke"
+      },
+      {
+        "stop_id": "56268",
+        "stop_name": "The Boulevard / Mount-Pleasant"
+      },
+      {
+        "stop_id": "51681",
+        "stop_name": "Le Boulevard / de Trafalgar"
+      },
+      {
+        "stop_id": "51716",
+        "stop_name": "Le Boulevard / McDougall"
+      },
+      {
+        "stop_id": "51841",
+        "stop_name": "de la Côte-des-Neiges / Cedar"
+      },
+      {
+        "stop_id": "51923",
+        "stop_name": "du Docteur-Penfield / Atwater"
+      },
+      {
+        "stop_id": "51985",
+        "stop_name": "du Docteur-Penfield / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "52045",
+        "stop_name": "de la Côte-des-Neiges / Summerhill"
+      },
+      {
+        "stop_id": "52096",
+        "stop_name": "Saint-Mathieu / Sherbrooke"
+      },
+      {
+        "stop_id": "52147",
+        "stop_name": "Station Guy-Concordia (St-Mathieu/De Maisonneuve)"
+      },
+      {
+        "stop_id": "52196",
+        "stop_name": "Saint-Mathieu / Sainte-Catherine"
+      },
+      {
+        "stop_id": "53762",
+        "stop_name": "Saint-Mathieu / Baile"
+      },
+      {
+        "stop_id": "52285",
+        "stop_name": "Saint-Mathieu / René-Lévesque"
+      },
+      {
+        "stop_id": "52330",
+        "stop_name": "Guy / René-Lévesque"
+      },
+      {
+        "stop_id": "61832",
+        "stop_name": "Guy / Lincoln"
+      }
+    ]
+  },
+  {
+    "direction": "Sud destination St-Mathieu / Baile",
+    "arrets": [
+      {
+        "stop_id": "50569",
+        "stop_name": "Walkley / Côte-Saint-Luc"
+      },
+      {
+        "stop_id": "50606",
+        "stop_name": "Côte-Saint-Luc / Cavendish"
+      },
+      {
+        "stop_id": "50627",
+        "stop_name": "Côte-Saint-Luc / Randall"
+      },
+      {
+        "stop_id": "56415",
+        "stop_name": "Côte-Saint-Luc / West Hill"
+      },
+      {
+        "stop_id": "56317",
+        "stop_name": "Côte-Saint-Luc / Grand Boulevard"
+      },
+      {
+        "stop_id": "50752",
+        "stop_name": "Côte-Saint-Luc / Hingston"
+      },
+      {
+        "stop_id": "56321",
+        "stop_name": "Côte-Saint-Luc / Fielding"
+      },
+      {
+        "stop_id": "50895",
+        "stop_name": "Côte-Saint-Luc / Draper"
+      },
+      {
+        "stop_id": "56326",
+        "stop_name": "Côte-Saint-Luc / Wilson"
+      },
+      {
+        "stop_id": "50999",
+        "stop_name": "Côte-Saint-Luc / Oxford"
+      },
+      {
+        "stop_id": "51090",
+        "stop_name": "Côte-Saint-Luc / Girouard"
+      },
+      {
+        "stop_id": "54077",
+        "stop_name": "Côte-Saint-Luc / de Terrebonne"
+      },
+      {
+        "stop_id": "51182",
+        "stop_name": "Côte-Saint-Luc / Décarie"
+      },
+      {
+        "stop_id": "53944",
+        "stop_name": "Côte-Saint-Luc / No 5105"
+      },
+      {
+        "stop_id": "51306",
+        "stop_name": "Côte-Saint-Luc / Bonavista"
+      },
+      {
+        "stop_id": "51347",
+        "stop_name": "The Boulevard / Victoria"
+      },
+      {
+        "stop_id": "56227",
+        "stop_name": "The Boulevard / Grosvenor"
+      },
+      {
+        "stop_id": "56230",
+        "stop_name": "The Boulevard / Lansdowne"
+      },
+      {
+        "stop_id": "56234",
+        "stop_name": "The Boulevard / Belmont"
+      },
+      {
+        "stop_id": "56241",
+        "stop_name": "The Boulevard / Renfrew"
+      },
+      {
+        "stop_id": "56248",
+        "stop_name": "The Boulevard / Sydenham"
+      },
+      {
+        "stop_id": "56260",
+        "stop_name": "The Boulevard / Westmount"
+      },
+      {
+        "stop_id": "56265",
+        "stop_name": "The Boulevard / Clarke"
+      },
+      {
+        "stop_id": "56268",
+        "stop_name": "The Boulevard / Mount-Pleasant"
+      },
+      {
+        "stop_id": "51681",
+        "stop_name": "Le Boulevard / de Trafalgar"
+      },
+      {
+        "stop_id": "51716",
+        "stop_name": "Le Boulevard / McDougall"
+      },
+      {
+        "stop_id": "51841",
+        "stop_name": "de la Côte-des-Neiges / Cedar"
+      },
+      {
+        "stop_id": "51923",
+        "stop_name": "du Docteur-Penfield / Atwater"
+      },
+      {
+        "stop_id": "51985",
+        "stop_name": "du Docteur-Penfield / de la Côte-des-Neiges"
+      },
+      {
+        "stop_id": "52045",
+        "stop_name": "de la Côte-des-Neiges / Summerhill"
+      },
+      {
+        "stop_id": "52096",
+        "stop_name": "Saint-Mathieu / Sherbrooke"
+      },
+      {
+        "stop_id": "52147",
+        "stop_name": "Station Guy-Concordia (St-Mathieu/De Maisonneuve)"
+      },
+      {
+        "stop_id": "52196",
+        "stop_name": "Saint-Mathieu / Sainte-Catherine"
+      },
+      {
+        "stop_id": "53762",
+        "stop_name": "Saint-Mathieu / Baile"
+      }
+    ]
+  }
+]

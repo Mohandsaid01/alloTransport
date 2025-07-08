@@ -1,0 +1,124 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "54222",
+        "stop_name": "Rousselot / Jarry"
+      },
+      {
+        "stop_id": "54220",
+        "stop_name": "École Georges-Vanier (Jarry / No 1205)"
+      },
+      {
+        "stop_id": "54221",
+        "stop_name": "Christophe-Colomb / Jarry"
+      },
+      {
+        "stop_id": "62178",
+        "stop_name": "Christophe-Colomb / Villeray"
+      },
+      {
+        "stop_id": "62179",
+        "stop_name": "Christophe-Colomb / Everett"
+      },
+      {
+        "stop_id": "62180",
+        "stop_name": "Christophe-Colomb / Jean-Talon"
+      },
+      {
+        "stop_id": "62181",
+        "stop_name": "Christophe-Colomb / Bélanger"
+      },
+      {
+        "stop_id": "62212",
+        "stop_name": "Christophe-Colomb / Saint-Zotique"
+      },
+      {
+        "stop_id": "62182",
+        "stop_name": "Christophe-Colomb / Beaubien"
+      },
+      {
+        "stop_id": "62183",
+        "stop_name": "Christophe-Colomb / de Bellechasse"
+      },
+      {
+        "stop_id": "51727",
+        "stop_name": "Christophe-Colomb / Rosemont"
+      },
+      {
+        "stop_id": "51684",
+        "stop_name": "Rosemont / Saint-Hubert"
+      },
+      {
+        "stop_id": "61653",
+        "stop_name": "Station Rosemont"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "51660",
+        "stop_name": "Station Rosemont"
+      },
+      {
+        "stop_id": "51685",
+        "stop_name": "Rosemont / Saint-Hubert"
+      },
+      {
+        "stop_id": "51729",
+        "stop_name": "Christophe-Colomb / Rosemont"
+      },
+      {
+        "stop_id": "51644",
+        "stop_name": "Christophe-Colomb / de Bellechasse"
+      },
+      {
+        "stop_id": "62184",
+        "stop_name": "Christophe-Colomb / Beaubien"
+      },
+      {
+        "stop_id": "62185",
+        "stop_name": "Christophe-Colomb / Saint-Zotique"
+      },
+      {
+        "stop_id": "62186",
+        "stop_name": "Christophe-Colomb / Bélanger"
+      },
+      {
+        "stop_id": "62187",
+        "stop_name": "Christophe-Colomb / Jean-Talon"
+      },
+      {
+        "stop_id": "62189",
+        "stop_name": "Christophe-Colomb / Everett"
+      },
+      {
+        "stop_id": "62188",
+        "stop_name": "Christophe-Colomb / Villeray"
+      },
+      {
+        "stop_id": "62190",
+        "stop_name": "Christophe-Colomb / Jarry"
+      },
+      {
+        "stop_id": "62191",
+        "stop_name": "Christophe-Colomb / Mistral"
+      },
+      {
+        "stop_id": "54219",
+        "stop_name": "Christophe-Colomb / Crémazie"
+      },
+      {
+        "stop_id": "51066",
+        "stop_name": "Rousselot / Crémazie"
+      },
+      {
+        "stop_id": "54222",
+        "stop_name": "Rousselot / Jarry"
+      }
+    ]
+  }
+]

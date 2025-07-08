@@ -1,0 +1,252 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "54303",
+        "stop_name": "Cirque du Soleil"
+      },
+      {
+        "stop_id": "51338",
+        "stop_name": "du Cirque / Jarry"
+      },
+      {
+        "stop_id": "53773",
+        "stop_name": "D'Iberville / Crémazie"
+      },
+      {
+        "stop_id": "51365",
+        "stop_name": "D'Iberville / Tillemont"
+      },
+      {
+        "stop_id": "51416",
+        "stop_name": "D'Iberville / Villeray"
+      },
+      {
+        "stop_id": "51458",
+        "stop_name": "D'Iberville / L.-O.-David"
+      },
+      {
+        "stop_id": "51513",
+        "stop_name": "D'Iberville / Everett"
+      },
+      {
+        "stop_id": "51565",
+        "stop_name": "Station D'Iberville (D'Iberville / Jean-Talon)"
+      },
+      {
+        "stop_id": "51638",
+        "stop_name": "D'Iberville / Bélanger"
+      },
+      {
+        "stop_id": "51718",
+        "stop_name": "D'Iberville / Saint-Zotique"
+      },
+      {
+        "stop_id": "51804",
+        "stop_name": "D'Iberville / Beaubien"
+      },
+      {
+        "stop_id": "51898",
+        "stop_name": "D'Iberville / de Bellechasse"
+      },
+      {
+        "stop_id": "51957",
+        "stop_name": "D'Iberville / Rosemont"
+      },
+      {
+        "stop_id": "52038",
+        "stop_name": "D'Iberville / Holt"
+      },
+      {
+        "stop_id": "52099",
+        "stop_name": "D'Iberville / Dandurand"
+      },
+      {
+        "stop_id": "52189",
+        "stop_name": "D'Iberville / Masson"
+      },
+      {
+        "stop_id": "52192",
+        "stop_name": "D'Iberville / No 5184"
+      },
+      {
+        "stop_id": "52345",
+        "stop_name": "D'Iberville / Saint-Joseph"
+      },
+      {
+        "stop_id": "52367",
+        "stop_name": "D'Iberville / No 5000"
+      },
+      {
+        "stop_id": "52503",
+        "stop_name": "D'Iberville / du Mont-Royal"
+      },
+      {
+        "stop_id": "52586",
+        "stop_name": "D'Iberville / Marie-Anne"
+      },
+      {
+        "stop_id": "52687",
+        "stop_name": "D'Iberville / Rachel"
+      },
+      {
+        "stop_id": "52764",
+        "stop_name": "D'Iberville / Sherbrooke"
+      },
+      {
+        "stop_id": "61810",
+        "stop_name": "D'Iberville / Hochelaga"
+      },
+      {
+        "stop_id": "61889",
+        "stop_name": "D'Iberville / de Rouen"
+      },
+      {
+        "stop_id": "54040",
+        "stop_name": "Station Frontenac (du Havre / Ontario)"
+      },
+      {
+        "stop_id": "53075",
+        "stop_name": "du Havre / La Fontaine"
+      },
+      {
+        "stop_id": "53112",
+        "stop_name": "du Havre / De Maisonneuve"
+      },
+      {
+        "stop_id": "53136",
+        "stop_name": "du Havre / Sainte-Catherine"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "53136",
+        "stop_name": "du Havre / Sainte-Catherine"
+      },
+      {
+        "stop_id": "54071",
+        "stop_name": "Frontenac / Mondelet"
+      },
+      {
+        "stop_id": "53092",
+        "stop_name": "Frontenac / Logan"
+      },
+      {
+        "stop_id": "53067",
+        "stop_name": "Frontenac / La Fontaine"
+      },
+      {
+        "stop_id": "54038",
+        "stop_name": "Station Frontenac (Frontenac / Ontario)"
+      },
+      {
+        "stop_id": "52934",
+        "stop_name": "Frontenac / de Rouen"
+      },
+      {
+        "stop_id": "52857",
+        "stop_name": "Frontenac / Hochelaga"
+      },
+      {
+        "stop_id": "52770",
+        "stop_name": "Frontenac / Sherbrooke"
+      },
+      {
+        "stop_id": "52712",
+        "stop_name": "Frontenac / Rachel"
+      },
+      {
+        "stop_id": "52616",
+        "stop_name": "Frontenac / Hogan"
+      },
+      {
+        "stop_id": "52502",
+        "stop_name": "Frontenac / du Mont-Royal"
+      },
+      {
+        "stop_id": "52387",
+        "stop_name": "D'Iberville / No 4777"
+      },
+      {
+        "stop_id": "52343",
+        "stop_name": "D'Iberville / Saint-Joseph"
+      },
+      {
+        "stop_id": "52187",
+        "stop_name": "D'Iberville / Masson"
+      },
+      {
+        "stop_id": "54130",
+        "stop_name": "D'Iberville / No 5455"
+      },
+      {
+        "stop_id": "52098",
+        "stop_name": "D'Iberville / Dandurand"
+      },
+      {
+        "stop_id": "52037",
+        "stop_name": "D'Iberville / Holt"
+      },
+      {
+        "stop_id": "51955",
+        "stop_name": "D'Iberville / Rosemont"
+      },
+      {
+        "stop_id": "51897",
+        "stop_name": "D'Iberville / de Bellechasse"
+      },
+      {
+        "stop_id": "51802",
+        "stop_name": "D'Iberville / Beaubien"
+      },
+      {
+        "stop_id": "51717",
+        "stop_name": "D'Iberville / Saint-Zotique"
+      },
+      {
+        "stop_id": "51635",
+        "stop_name": "D'Iberville / Bélanger"
+      },
+      {
+        "stop_id": "51567",
+        "stop_name": "Station D'Iberville (D'Iberville / Jean-Talon)"
+      },
+      {
+        "stop_id": "51512",
+        "stop_name": "D'Iberville / Everett"
+      },
+      {
+        "stop_id": "51457",
+        "stop_name": "D'Iberville / L.-O.-David"
+      },
+      {
+        "stop_id": "51414",
+        "stop_name": "D'Iberville / Villeray"
+      },
+      {
+        "stop_id": "51364",
+        "stop_name": "D'Iberville / Tillemont"
+      },
+      {
+        "stop_id": "53772",
+        "stop_name": "D'Iberville / Crémazie"
+      },
+      {
+        "stop_id": "51315",
+        "stop_name": "D'Iberville / Jarry"
+      },
+      {
+        "stop_id": "51340",
+        "stop_name": "du Cirque / Jarry"
+      },
+      {
+        "stop_id": "54303",
+        "stop_name": "Cirque du Soleil"
+      }
+    ]
+  }
+]

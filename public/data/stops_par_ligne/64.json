@@ -1,0 +1,164 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "50149",
+        "stop_name": "Grenet / De Serres"
+      },
+      {
+        "stop_id": "50148",
+        "stop_name": "Ranger / Gouin"
+      },
+      {
+        "stop_id": "50156",
+        "stop_name": "De Mésy / Grenet"
+      },
+      {
+        "stop_id": "50162",
+        "stop_name": "Grenet / Legault"
+      },
+      {
+        "stop_id": "50173",
+        "stop_name": "Grenet / De Salaberry"
+      },
+      {
+        "stop_id": "50177",
+        "stop_name": "Grenet / No 11940"
+      },
+      {
+        "stop_id": "50184",
+        "stop_name": "Grenet / de Louisbourg"
+      },
+      {
+        "stop_id": "50192",
+        "stop_name": "Grenet / Ranger"
+      },
+      {
+        "stop_id": "55459",
+        "stop_name": "Grenet / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55471",
+        "stop_name": "Grenet / Laval"
+      },
+      {
+        "stop_id": "55477",
+        "stop_name": "Grenet / Oxford"
+      },
+      {
+        "stop_id": "55491",
+        "stop_name": "Grenet / Cambridge"
+      },
+      {
+        "stop_id": "55505",
+        "stop_name": "Grenet / Poirier"
+      },
+      {
+        "stop_id": "55867",
+        "stop_name": "Grenet / Bombardier"
+      },
+      {
+        "stop_id": "55532",
+        "stop_name": "Grenet / Deguire"
+      },
+      {
+        "stop_id": "55542",
+        "stop_name": "Deguire / Crevier"
+      },
+      {
+        "stop_id": "55569",
+        "stop_name": "Crevier / Tassé"
+      },
+      {
+        "stop_id": "55590",
+        "stop_name": "Crevier / Rochon"
+      },
+      {
+        "stop_id": "55615",
+        "stop_name": "Rochon / Gohier"
+      },
+      {
+        "stop_id": "61654",
+        "stop_name": "Station Côte-Vertu"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "60290",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "60394",
+        "stop_name": "Rochon / Cardinal"
+      },
+      {
+        "stop_id": "55574",
+        "stop_name": "Cardinal / Tassé"
+      },
+      {
+        "stop_id": "55548",
+        "stop_name": "Cardinal / Deguire"
+      },
+      {
+        "stop_id": "55531",
+        "stop_name": "Deguire / Grenet"
+      },
+      {
+        "stop_id": "55868",
+        "stop_name": "Grenet / Bombardier"
+      },
+      {
+        "stop_id": "55504",
+        "stop_name": "Grenet / Poirier"
+      },
+      {
+        "stop_id": "55490",
+        "stop_name": "Grenet / Cambridge"
+      },
+      {
+        "stop_id": "55476",
+        "stop_name": "Grenet / Oxford"
+      },
+      {
+        "stop_id": "55470",
+        "stop_name": "Grenet / Laval"
+      },
+      {
+        "stop_id": "55457",
+        "stop_name": "Grenet / Henri-Bourassa"
+      },
+      {
+        "stop_id": "50191",
+        "stop_name": "Gare Bois-Franc (Grenet / Ranger)"
+      },
+      {
+        "stop_id": "50183",
+        "stop_name": "Grenet / de Louisbourg"
+      },
+      {
+        "stop_id": "53758",
+        "stop_name": "Grenet / No 11940"
+      },
+      {
+        "stop_id": "50171",
+        "stop_name": "Grenet / De Salaberry"
+      },
+      {
+        "stop_id": "50161",
+        "stop_name": "Grenet / Legault"
+      },
+      {
+        "stop_id": "50154",
+        "stop_name": "Grenet / De Mésy"
+      },
+      {
+        "stop_id": "50149",
+        "stop_name": "Grenet / De Serres"
+      }
+    ]
+  }
+]

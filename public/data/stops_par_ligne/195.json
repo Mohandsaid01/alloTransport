@@ -1,0 +1,464 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54112",
+        "stop_name": "Station Angrignon"
+      },
+      {
+        "stop_id": "57060",
+        "stop_name": "Newman / Angrignon"
+      },
+      {
+        "stop_id": "56950",
+        "stop_name": "Newman / Guy-Bouchard"
+      },
+      {
+        "stop_id": "56943",
+        "stop_name": "Newman / Senkus"
+      },
+      {
+        "stop_id": "57035",
+        "stop_name": "Carr. Angrignon entrée ouest (Senkus / No 2350)"
+      },
+      {
+        "stop_id": "56905",
+        "stop_name": "Senkus / Carrefour Angrignon"
+      },
+      {
+        "stop_id": "56886",
+        "stop_name": "Cordner / No 7213"
+      },
+      {
+        "stop_id": "56901",
+        "stop_name": "Cordner / Léger"
+      },
+      {
+        "stop_id": "56856",
+        "stop_name": "Cordner / Lapierre"
+      },
+      {
+        "stop_id": "56845",
+        "stop_name": "Cordner / Shirley"
+      },
+      {
+        "stop_id": "56839",
+        "stop_name": "Cordner / Chopin"
+      },
+      {
+        "stop_id": "62280",
+        "stop_name": "Cordner / Ménard"
+      },
+      {
+        "stop_id": "62281",
+        "stop_name": "Cordner / Hardy"
+      },
+      {
+        "stop_id": "62282",
+        "stop_name": "Laplante / Larente"
+      },
+      {
+        "stop_id": "62283",
+        "stop_name": "Clément / Trudeau"
+      },
+      {
+        "stop_id": "56798",
+        "stop_name": "Clément / d'Amour"
+      },
+      {
+        "stop_id": "56789",
+        "stop_name": "Lafleur / Clément"
+      },
+      {
+        "stop_id": "56784",
+        "stop_name": "Jean-Milot / Lafleur"
+      },
+      {
+        "stop_id": "56764",
+        "stop_name": "Jean-Milot / Louis-Fortier"
+      },
+      {
+        "stop_id": "62346",
+        "stop_name": "Jean-Milot / Bergevin"
+      },
+      {
+        "stop_id": "57066",
+        "stop_name": "Bergevin / No 411"
+      },
+      {
+        "stop_id": "62284",
+        "stop_name": "Bergevin / Clément"
+      },
+      {
+        "stop_id": "56739",
+        "stop_name": "Saint-Patrick / Dupras"
+      },
+      {
+        "stop_id": "56735",
+        "stop_name": "Saint-Patrick / Lacroix"
+      },
+      {
+        "stop_id": "56730",
+        "stop_name": "Saint-Patrick / Lyette"
+      },
+      {
+        "stop_id": "57350",
+        "stop_name": "Saint-Louis / 8e Avenue"
+      },
+      {
+        "stop_id": "57351",
+        "stop_name": "Saint-Louis / 10e Avenue"
+      },
+      {
+        "stop_id": "57238",
+        "stop_name": "Saint-Louis / 12e Avenue"
+      },
+      {
+        "stop_id": "57232",
+        "stop_name": "Saint-Louis / 15e Avenue"
+      },
+      {
+        "stop_id": "57227",
+        "stop_name": "Notre-Dame / 16e Avenue"
+      },
+      {
+        "stop_id": "57345",
+        "stop_name": "Notre-Dame / 19e Avenue"
+      },
+      {
+        "stop_id": "57295",
+        "stop_name": "Notre-Dame / 21e Avenue"
+      },
+      {
+        "stop_id": "57293",
+        "stop_name": "Notre-Dame / 25e Avenue"
+      },
+      {
+        "stop_id": "57297",
+        "stop_name": "Notre-Dame / 27e Avenue"
+      },
+      {
+        "stop_id": "57300",
+        "stop_name": "Notre-Dame / 29e Avenue"
+      },
+      {
+        "stop_id": "57193",
+        "stop_name": "34e Avenue / Notre-Dame"
+      },
+      {
+        "stop_id": "57192",
+        "stop_name": "34e Avenue / Broadway"
+      },
+      {
+        "stop_id": "57285",
+        "stop_name": "32e Avenue / Remembrance"
+      },
+      {
+        "stop_id": "57198",
+        "stop_name": "32e Avenue / Saint-Antoine"
+      },
+      {
+        "stop_id": "57196",
+        "stop_name": "Provost / 32e Avenue"
+      },
+      {
+        "stop_id": "57289",
+        "stop_name": "Provost / 36e Avenue"
+      },
+      {
+        "stop_id": "57287",
+        "stop_name": "Provost / 38e Avenue"
+      },
+      {
+        "stop_id": "57179",
+        "stop_name": "Provost / 40e Avenue"
+      },
+      {
+        "stop_id": "57175",
+        "stop_name": "40e Avenue / Sherbrooke"
+      },
+      {
+        "stop_id": "57172",
+        "stop_name": "Sherbrooke / 42e Avenue"
+      },
+      {
+        "stop_id": "57163",
+        "stop_name": "Sherbrooke / 44e Avenue"
+      },
+      {
+        "stop_id": "57159",
+        "stop_name": "Sherbrooke / 46e Avenue"
+      },
+      {
+        "stop_id": "57146",
+        "stop_name": "Sherbrooke / 48e Avenue"
+      },
+      {
+        "stop_id": "57138",
+        "stop_name": "Sherbrooke / Meadowbrook"
+      },
+      {
+        "stop_id": "57129",
+        "stop_name": "Sherbrooke / 53e Avenue"
+      },
+      {
+        "stop_id": "57121",
+        "stop_name": "Sherbrooke / 55e Avenue"
+      },
+      {
+        "stop_id": "57330",
+        "stop_name": "55e Avenue / No 920"
+      },
+      {
+        "stop_id": "57365",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "57528",
+        "stop_name": "École Dorval-Jean-XXIII (Dawson / No 1301)"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "57365",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "57445",
+        "stop_name": "Fénelon / Dumont"
+      },
+      {
+        "stop_id": "57549",
+        "stop_name": "Dumont / Herron"
+      },
+      {
+        "stop_id": "57510",
+        "stop_name": "Herron / Centre Commercial Rond Point"
+      },
+      {
+        "stop_id": "57530",
+        "stop_name": "55e Avenue / No 920"
+      },
+      {
+        "stop_id": "57122",
+        "stop_name": "Sherbrooke / 55e Avenue"
+      },
+      {
+        "stop_id": "57130",
+        "stop_name": "Sherbrooke / 53e Avenue"
+      },
+      {
+        "stop_id": "57139",
+        "stop_name": "Sherbrooke / Meadowbrook"
+      },
+      {
+        "stop_id": "57147",
+        "stop_name": "Sherbrooke / 48e Avenue"
+      },
+      {
+        "stop_id": "57160",
+        "stop_name": "Sherbrooke / 46e Avenue"
+      },
+      {
+        "stop_id": "57164",
+        "stop_name": "Sherbrooke / 44e Avenue"
+      },
+      {
+        "stop_id": "57173",
+        "stop_name": "Sherbrooke / 42e Avenue"
+      },
+      {
+        "stop_id": "57176",
+        "stop_name": "Sherbrooke / 40e Avenue"
+      },
+      {
+        "stop_id": "57180",
+        "stop_name": "40e Avenue / Provost"
+      },
+      {
+        "stop_id": "57288",
+        "stop_name": "Provost / 38e Avenue"
+      },
+      {
+        "stop_id": "57290",
+        "stop_name": "Provost / 36e Avenue"
+      },
+      {
+        "stop_id": "57195",
+        "stop_name": "Provost / 32e Avenue"
+      },
+      {
+        "stop_id": "57200",
+        "stop_name": "32e Avenue / Saint-Antoine"
+      },
+      {
+        "stop_id": "57344",
+        "stop_name": "Victoria / 33e Avenue"
+      },
+      {
+        "stop_id": "57191",
+        "stop_name": "34e Avenue / Broadway"
+      },
+      {
+        "stop_id": "57348",
+        "stop_name": "34e Avenue / Notre-Dame"
+      },
+      {
+        "stop_id": "57299",
+        "stop_name": "Notre-Dame / Dawes"
+      },
+      {
+        "stop_id": "57298",
+        "stop_name": "Notre-Dame / 27e Avenue"
+      },
+      {
+        "stop_id": "57294",
+        "stop_name": "Notre-Dame / 25e Avenue"
+      },
+      {
+        "stop_id": "57296",
+        "stop_name": "Notre-Dame / 23e Avenue"
+      },
+      {
+        "stop_id": "60397",
+        "stop_name": "Notre-Dame / 19e Avenue"
+      },
+      {
+        "stop_id": "57346",
+        "stop_name": "Notre-Dame / 15e Avenue"
+      },
+      {
+        "stop_id": "57239",
+        "stop_name": "Notre-Dame / 12e Avenue"
+      },
+      {
+        "stop_id": "57253",
+        "stop_name": "Notre-Dame / 10e Avenue"
+      },
+      {
+        "stop_id": "57254",
+        "stop_name": "Notre-Dame / 8e Avenue"
+      },
+      {
+        "stop_id": "57260",
+        "stop_name": "Notre-Dame / 6e Avenue"
+      },
+      {
+        "stop_id": "57315",
+        "stop_name": "6e Avenue / Saint-Louis"
+      },
+      {
+        "stop_id": "57263",
+        "stop_name": "6e Avenue / Saint-Joseph"
+      },
+      {
+        "stop_id": "57054",
+        "stop_name": "Saint-Patrick / Lyette"
+      },
+      {
+        "stop_id": "56736",
+        "stop_name": "Saint-Patrick / Lacroix"
+      },
+      {
+        "stop_id": "56740",
+        "stop_name": "Saint-Patrick / Dupras"
+      },
+      {
+        "stop_id": "62275",
+        "stop_name": "Saint-Patrick / Stirling"
+      },
+      {
+        "stop_id": "56758",
+        "stop_name": "Bergevin / Clément"
+      },
+      {
+        "stop_id": "57068",
+        "stop_name": "Bergevin / No 398"
+      },
+      {
+        "stop_id": "57057",
+        "stop_name": "Jean-Milot / Bergevin"
+      },
+      {
+        "stop_id": "56763",
+        "stop_name": "Jean-Milot / des Oblats"
+      },
+      {
+        "stop_id": "56788",
+        "stop_name": "Clément / Lafleur"
+      },
+      {
+        "stop_id": "56799",
+        "stop_name": "Clément / d'Amour"
+      },
+      {
+        "stop_id": "56810",
+        "stop_name": "Clément / Trudeau"
+      },
+      {
+        "stop_id": "62277",
+        "stop_name": "Cordner / Dollard"
+      },
+      {
+        "stop_id": "62278",
+        "stop_name": "Cordner / Hardy"
+      },
+      {
+        "stop_id": "62279",
+        "stop_name": "Cordner / Ménard"
+      },
+      {
+        "stop_id": "56840",
+        "stop_name": "Cordner / Chopin"
+      },
+      {
+        "stop_id": "56846",
+        "stop_name": "Cordner / Shirley"
+      },
+      {
+        "stop_id": "56857",
+        "stop_name": "Cordner / Lapierre"
+      },
+      {
+        "stop_id": "57036",
+        "stop_name": "Cordner / Léger"
+      },
+      {
+        "stop_id": "57042",
+        "stop_name": "Cordner / No 7213"
+      },
+      {
+        "stop_id": "56906",
+        "stop_name": "Cordner / Senkus"
+      },
+      {
+        "stop_id": "56729",
+        "stop_name": "Carr. Angrignon entrée ouest (Senkus / No 2350)"
+      },
+      {
+        "stop_id": "56944",
+        "stop_name": "Senkus / Newman"
+      },
+      {
+        "stop_id": "56951",
+        "stop_name": "Newman / Guy-Bouchard"
+      },
+      {
+        "stop_id": "56960",
+        "stop_name": "Newman / Angrignon"
+      },
+      {
+        "stop_id": "60633",
+        "stop_name": "Angrignon / Tours Angrignon"
+      },
+      {
+        "stop_id": "54112",
+        "stop_name": "Station Angrignon"
+      }
+    ]
+  }
+]

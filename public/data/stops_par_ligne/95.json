@@ -1,0 +1,356 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54719",
+        "stop_name": "des Galeries d'Anjou / Halles d'Anjou"
+      },
+      {
+        "stop_id": "54728",
+        "stop_name": "des Galeries-d'Anjou / Bélanger"
+      },
+      {
+        "stop_id": "54376",
+        "stop_name": "Bélanger / des Halles"
+      },
+      {
+        "stop_id": "52583",
+        "stop_name": "Bélanger / Étienne-Bouchard"
+      },
+      {
+        "stop_id": "52554",
+        "stop_name": "Bélanger / Jean-Milot"
+      },
+      {
+        "stop_id": "52490",
+        "stop_name": "Bélanger / Langelier"
+      },
+      {
+        "stop_id": "55007",
+        "stop_name": "Bélanger / Daveluy"
+      },
+      {
+        "stop_id": "55006",
+        "stop_name": "Bélanger / Dumesnil"
+      },
+      {
+        "stop_id": "55004",
+        "stop_name": "Bélanger / Liénart"
+      },
+      {
+        "stop_id": "55001",
+        "stop_name": "Bélanger / Valdombre"
+      },
+      {
+        "stop_id": "52340",
+        "stop_name": "Bélanger / Lacordaire"
+      },
+      {
+        "stop_id": "52318",
+        "stop_name": "Bélanger / de Pontoise"
+      },
+      {
+        "stop_id": "52279",
+        "stop_name": "Bélanger / Châtelain"
+      },
+      {
+        "stop_id": "52254",
+        "stop_name": "Bélanger / de l'Assomption"
+      },
+      {
+        "stop_id": "52224",
+        "stop_name": "Bélanger / Sagamo"
+      },
+      {
+        "stop_id": "52163",
+        "stop_name": "Bélanger / 40e Avenue"
+      },
+      {
+        "stop_id": "52117",
+        "stop_name": "Bélanger / Viau (Institut de cardiologie)"
+      },
+      {
+        "stop_id": "52091",
+        "stop_name": "Bélanger / 35e Avenue"
+      },
+      {
+        "stop_id": "52063",
+        "stop_name": "Bélanger / 33e Avenue"
+      },
+      {
+        "stop_id": "52030",
+        "stop_name": "Bélanger / 31e Avenue"
+      },
+      {
+        "stop_id": "51998",
+        "stop_name": "Bélanger / 28e Avenue"
+      },
+      {
+        "stop_id": "51967",
+        "stop_name": "Bélanger / 26e Avenue"
+      },
+      {
+        "stop_id": "51940",
+        "stop_name": "Bélanger / 24e Avenue"
+      },
+      {
+        "stop_id": "51911",
+        "stop_name": "Bélanger / Pie-IX"
+      },
+      {
+        "stop_id": "51853",
+        "stop_name": "Bélanger / 19e Avenue"
+      },
+      {
+        "stop_id": "51812",
+        "stop_name": "Bélanger / 16e Avenue"
+      },
+      {
+        "stop_id": "51772",
+        "stop_name": "Bélanger / 13e Avenue"
+      },
+      {
+        "stop_id": "51744",
+        "stop_name": "Bélanger / Saint-Michel"
+      },
+      {
+        "stop_id": "51703",
+        "stop_name": "Bélanger / 9e Avenue"
+      },
+      {
+        "stop_id": "51682",
+        "stop_name": "Bélanger / 6e Avenue"
+      },
+      {
+        "stop_id": "51636",
+        "stop_name": "Bélanger / D'Iberville"
+      },
+      {
+        "stop_id": "51599",
+        "stop_name": "Bélanger / Louis-Hémon"
+      },
+      {
+        "stop_id": "51580",
+        "stop_name": "Bélanger / De Lorimier"
+      },
+      {
+        "stop_id": "51560",
+        "stop_name": "Bélanger / Chabot"
+      },
+      {
+        "stop_id": "51535",
+        "stop_name": "Bélanger / Papineau"
+      },
+      {
+        "stop_id": "51514",
+        "stop_name": "Bélanger / Fabre"
+      },
+      {
+        "stop_id": "51484",
+        "stop_name": "Bélanger / De Lanaudière"
+      },
+      {
+        "stop_id": "51455",
+        "stop_name": "Bélanger / De Normanville"
+      },
+      {
+        "stop_id": "51432",
+        "stop_name": "Bélanger / Christophe-Colomb"
+      },
+      {
+        "stop_id": "51402",
+        "stop_name": "Bélanger / Saint-Hubert"
+      },
+      {
+        "stop_id": "51362",
+        "stop_name": "Bélanger / Saint-Denis"
+      },
+      {
+        "stop_id": "51310",
+        "stop_name": "Saint-Denis / Jean-Talon"
+      },
+      {
+        "stop_id": "54211",
+        "stop_name": "Jean-Talon / De Saint-Vallier"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54212",
+        "stop_name": "Station Jean-Talon (Jean-Talon / De Chateaubriand)"
+      },
+      {
+        "stop_id": "51403",
+        "stop_name": "Bélanger / Saint-Hubert"
+      },
+      {
+        "stop_id": "51434",
+        "stop_name": "Bélanger / Christophe-Colomb"
+      },
+      {
+        "stop_id": "51456",
+        "stop_name": "Bélanger / De Normanville"
+      },
+      {
+        "stop_id": "51485",
+        "stop_name": "Bélanger / De Lanaudière"
+      },
+      {
+        "stop_id": "51515",
+        "stop_name": "Bélanger / Fabre"
+      },
+      {
+        "stop_id": "51537",
+        "stop_name": "Bélanger / Papineau"
+      },
+      {
+        "stop_id": "51561",
+        "stop_name": "Bélanger / Chabot"
+      },
+      {
+        "stop_id": "51582",
+        "stop_name": "Bélanger / De Lorimier"
+      },
+      {
+        "stop_id": "51600",
+        "stop_name": "Bélanger / Louis-Hémon"
+      },
+      {
+        "stop_id": "51637",
+        "stop_name": "Bélanger / D'Iberville"
+      },
+      {
+        "stop_id": "51683",
+        "stop_name": "Bélanger / 6e Avenue"
+      },
+      {
+        "stop_id": "51704",
+        "stop_name": "Bélanger / 9e Avenue"
+      },
+      {
+        "stop_id": "51746",
+        "stop_name": "Bélanger / Saint-Michel"
+      },
+      {
+        "stop_id": "51773",
+        "stop_name": "Bélanger / 13e Avenue"
+      },
+      {
+        "stop_id": "51796",
+        "stop_name": "Bélanger / 15e Avenue"
+      },
+      {
+        "stop_id": "51830",
+        "stop_name": "Bélanger / 17e Avenue"
+      },
+      {
+        "stop_id": "51854",
+        "stop_name": "Bélanger / 19e Avenue"
+      },
+      {
+        "stop_id": "51913",
+        "stop_name": "Bélanger / Pie-IX"
+      },
+      {
+        "stop_id": "51941",
+        "stop_name": "Bélanger / 24e Avenue"
+      },
+      {
+        "stop_id": "51968",
+        "stop_name": "Bélanger / 26e Avenue"
+      },
+      {
+        "stop_id": "51999",
+        "stop_name": "Bélanger / 28e Avenue"
+      },
+      {
+        "stop_id": "52016",
+        "stop_name": "Bélanger / 30e Avenue"
+      },
+      {
+        "stop_id": "52064",
+        "stop_name": "Bélanger / 33e Avenue"
+      },
+      {
+        "stop_id": "52092",
+        "stop_name": "Bélanger / 35e Avenue"
+      },
+      {
+        "stop_id": "52119",
+        "stop_name": "Bélanger / Viau (Institut de cardiologie)"
+      },
+      {
+        "stop_id": "52164",
+        "stop_name": "Bélanger / 40e Avenue"
+      },
+      {
+        "stop_id": "52225",
+        "stop_name": "Bélanger / 43e Avenue"
+      },
+      {
+        "stop_id": "52256",
+        "stop_name": "Bélanger / de l'Assomption"
+      },
+      {
+        "stop_id": "52280",
+        "stop_name": "Bélanger / Châtelain"
+      },
+      {
+        "stop_id": "52319",
+        "stop_name": "Bélanger / de Pontoise"
+      },
+      {
+        "stop_id": "52342",
+        "stop_name": "Bélanger / Lacordaire"
+      },
+      {
+        "stop_id": "55002",
+        "stop_name": "Bélanger / Valdombre"
+      },
+      {
+        "stop_id": "55003",
+        "stop_name": "Bélanger / d'Avila"
+      },
+      {
+        "stop_id": "55005",
+        "stop_name": "Bélanger / Dumesnil"
+      },
+      {
+        "stop_id": "55008",
+        "stop_name": "Bélanger / Daveluy"
+      },
+      {
+        "stop_id": "52492",
+        "stop_name": "Bélanger / Langelier"
+      },
+      {
+        "stop_id": "52555",
+        "stop_name": "Bélanger / Jean-Milot"
+      },
+      {
+        "stop_id": "52584",
+        "stop_name": "Bélanger / Étienne-Bouchard"
+      },
+      {
+        "stop_id": "54697",
+        "stop_name": "des Halles / Bélanger"
+      },
+      {
+        "stop_id": "54578",
+        "stop_name": "des Halles / Jean-Talon"
+      },
+      {
+        "stop_id": "54582",
+        "stop_name": "Jean-Talon / des Galeries-d'Anjou"
+      },
+      {
+        "stop_id": "54719",
+        "stop_name": "des Galeries d'Anjou / Halles d'Anjou"
+      }
+    ]
+  }
+]

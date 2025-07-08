@@ -1,0 +1,592 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "55796",
+        "stop_name": "Muir / Montpellier"
+      },
+      {
+        "stop_id": "55711",
+        "stop_name": "Montpellier / Côte-Vertu"
+      },
+      {
+        "stop_id": "55795",
+        "stop_name": "Muir / Robertson"
+      },
+      {
+        "stop_id": "55708",
+        "stop_name": "Muir / Rochon"
+      },
+      {
+        "stop_id": "55686",
+        "stop_name": "Muir / Raimbault"
+      },
+      {
+        "stop_id": "55941",
+        "stop_name": "Muir / Tassé"
+      },
+      {
+        "stop_id": "55919",
+        "stop_name": "Deguire / Champigny"
+      },
+      {
+        "stop_id": "55626",
+        "stop_name": "Deguire / Barré"
+      },
+      {
+        "stop_id": "55609",
+        "stop_name": "Deguire / Dutrisac"
+      },
+      {
+        "stop_id": "55585",
+        "stop_name": "Dutrisac / Poirier"
+      },
+      {
+        "stop_id": "55577",
+        "stop_name": "Poirier / Guertin"
+      },
+      {
+        "stop_id": "55559",
+        "stop_name": "Poirier / O'Brien"
+      },
+      {
+        "stop_id": "55536",
+        "stop_name": "Poirier / Décarie"
+      },
+      {
+        "stop_id": "55917",
+        "stop_name": "Poirier / Patricia"
+      },
+      {
+        "stop_id": "55506",
+        "stop_name": "Grenet / Poirier"
+      },
+      {
+        "stop_id": "55867",
+        "stop_name": "Grenet / Bombardier"
+      },
+      {
+        "stop_id": "55532",
+        "stop_name": "Grenet / Deguire"
+      },
+      {
+        "stop_id": "55914",
+        "stop_name": "Tassé / Grenet"
+      },
+      {
+        "stop_id": "55576",
+        "stop_name": "Tassé / Cardinal"
+      },
+      {
+        "stop_id": "55918",
+        "stop_name": "Tassé / Décarie"
+      },
+      {
+        "stop_id": "55614",
+        "stop_name": "Décarie / Rochon"
+      },
+      {
+        "stop_id": "55890",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "55650",
+        "stop_name": "Côte-Vertu / Saint-Germain"
+      },
+      {
+        "stop_id": "55664",
+        "stop_name": "Sainte-Croix / Côte-Vertu"
+      },
+      {
+        "stop_id": "55685",
+        "stop_name": "Sainte-Croix / Decelles"
+      },
+      {
+        "stop_id": "55700",
+        "stop_name": "de l'Église / Sainte-Croix"
+      },
+      {
+        "stop_id": "55690",
+        "stop_name": "de l'Église / Saint-Germain"
+      },
+      {
+        "stop_id": "55676",
+        "stop_name": "de l'Église / Décarie"
+      },
+      {
+        "stop_id": "55665",
+        "stop_name": "de l'Église / Cardinal"
+      },
+      {
+        "stop_id": "55653",
+        "stop_name": "de l'Église / Buchanan"
+      },
+      {
+        "stop_id": "55630",
+        "stop_name": "de l'Église / Marcel-Laurin"
+      },
+      {
+        "stop_id": "55619",
+        "stop_name": "de l'Église / Saint-Aubin"
+      },
+      {
+        "stop_id": "55606",
+        "stop_name": "de l'Église / Gratton"
+      },
+      {
+        "stop_id": "55592",
+        "stop_name": "de l'Église / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55570",
+        "stop_name": "Alexis-Nihon / Decelles"
+      },
+      {
+        "stop_id": "55557",
+        "stop_name": "Alexis-Nihon / Côte-Vertu"
+      },
+      {
+        "stop_id": "55522",
+        "stop_name": "Alexis-Nihon / Lucien-Thimens"
+      },
+      {
+        "stop_id": "55500",
+        "stop_name": "Thimens / Varin"
+      },
+      {
+        "stop_id": "61280",
+        "stop_name": "École Saint-Laurent"
+      },
+      {
+        "stop_id": "60853",
+        "stop_name": "Thimens / Samson"
+      },
+      {
+        "stop_id": "55797",
+        "stop_name": "Bibliothèque du Boisé (Thimens / Todd)"
+      },
+      {
+        "stop_id": "55893",
+        "stop_name": "Cavendish / Thimens"
+      },
+      {
+        "stop_id": "55892",
+        "stop_name": "Cavendish / Place Vertu"
+      },
+      {
+        "stop_id": "55503",
+        "stop_name": "Côte-Vertu / Hocquart"
+      },
+      {
+        "stop_id": "55516",
+        "stop_name": "Côte-Vertu / Hills"
+      },
+      {
+        "stop_id": "55534",
+        "stop_name": "Bertrand / Decelles"
+      },
+      {
+        "stop_id": "55550",
+        "stop_name": "Bertrand / Major"
+      },
+      {
+        "stop_id": "55564",
+        "stop_name": "Bertrand / Stevens"
+      },
+      {
+        "stop_id": "55583",
+        "stop_name": "Bertrand / Nantel"
+      },
+      {
+        "stop_id": "55599",
+        "stop_name": "Bertrand / Badeaux"
+      },
+      {
+        "stop_id": "55920",
+        "stop_name": "Bertrand / Saint-Louis"
+      },
+      {
+        "stop_id": "55618",
+        "stop_name": "Saint-Louis / Abbott"
+      },
+      {
+        "stop_id": "55629",
+        "stop_name": "Saint-Louis / Fraser"
+      },
+      {
+        "stop_id": "55646",
+        "stop_name": "Saint-Louis / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55670",
+        "stop_name": "Saint-Louis / Gratton"
+      },
+      {
+        "stop_id": "55680",
+        "stop_name": "Saint-Louis / Tait"
+      },
+      {
+        "stop_id": "55683",
+        "stop_name": "Marcel-Laurin / Hartenstein"
+      },
+      {
+        "stop_id": "55894",
+        "stop_name": "du Collège / Lindsay"
+      },
+      {
+        "stop_id": "55682",
+        "stop_name": "du Collège / Buchanan"
+      },
+      {
+        "stop_id": "55694",
+        "stop_name": "du Collège / Cardinal"
+      },
+      {
+        "stop_id": "55705",
+        "stop_name": "Station Du Collège (du Collège / Décarie)"
+      },
+      {
+        "stop_id": "55714",
+        "stop_name": "du Collège / Saint-Germain"
+      },
+      {
+        "stop_id": "55726",
+        "stop_name": "du Collège / Filiatrault"
+      },
+      {
+        "stop_id": "55742",
+        "stop_name": "Hodge / Sainte-Croix"
+      },
+      {
+        "stop_id": "55745",
+        "stop_name": "Hodge / Hébert"
+      },
+      {
+        "stop_id": "55751",
+        "stop_name": "Hodge / Laperrière"
+      },
+      {
+        "stop_id": "55754",
+        "stop_name": "Hodge / Houde"
+      },
+      {
+        "stop_id": "55895",
+        "stop_name": "Hodge / Harris"
+      },
+      {
+        "stop_id": "55759",
+        "stop_name": "Hodge / Montpellier"
+      },
+      {
+        "stop_id": "61371",
+        "stop_name": "Stinson / Montpellier"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "61371",
+        "stop_name": "Stinson / Montpellier"
+      },
+      {
+        "stop_id": "55762",
+        "stop_name": "Stinson / Hodge"
+      },
+      {
+        "stop_id": "55771",
+        "stop_name": "Stinson / Côte-de-Liesse"
+      },
+      {
+        "stop_id": "55770",
+        "stop_name": "Côte-de-Liesse / Montpellier"
+      },
+      {
+        "stop_id": "55853",
+        "stop_name": "Côte-de-Liesse / No 3155"
+      },
+      {
+        "stop_id": "55765",
+        "stop_name": "Houde / Grou"
+      },
+      {
+        "stop_id": "55752",
+        "stop_name": "Houde / Hodge"
+      },
+      {
+        "stop_id": "55750",
+        "stop_name": "Hodge / Laperrière"
+      },
+      {
+        "stop_id": "55744",
+        "stop_name": "Hodge / Hébert"
+      },
+      {
+        "stop_id": "55740",
+        "stop_name": "Hodge / Sainte-Croix"
+      },
+      {
+        "stop_id": "55727",
+        "stop_name": "du Collège / Sainte-Croix"
+      },
+      {
+        "stop_id": "55713",
+        "stop_name": "du Collège / Saint-Germain"
+      },
+      {
+        "stop_id": "55704",
+        "stop_name": "Station Du Collège (du Collège / Décarie)"
+      },
+      {
+        "stop_id": "55693",
+        "stop_name": "du Collège / Cardinal"
+      },
+      {
+        "stop_id": "55681",
+        "stop_name": "du Collège / Buchanan"
+      },
+      {
+        "stop_id": "55667",
+        "stop_name": "du Collège / Lindsay"
+      },
+      {
+        "stop_id": "55692",
+        "stop_name": "Marcel-Laurin / Saint-Louis"
+      },
+      {
+        "stop_id": "55679",
+        "stop_name": "Saint-Louis / Tait"
+      },
+      {
+        "stop_id": "55669",
+        "stop_name": "Saint-Louis / Gratton"
+      },
+      {
+        "stop_id": "55896",
+        "stop_name": "Saint-Louis / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55628",
+        "stop_name": "Saint-Louis / Fraser"
+      },
+      {
+        "stop_id": "55617",
+        "stop_name": "Saint-Louis / Abbott"
+      },
+      {
+        "stop_id": "55598",
+        "stop_name": "Bertrand / Badeaux"
+      },
+      {
+        "stop_id": "55582",
+        "stop_name": "Bertrand / Nantel"
+      },
+      {
+        "stop_id": "55563",
+        "stop_name": "Bertrand / Stevens"
+      },
+      {
+        "stop_id": "55549",
+        "stop_name": "Bertrand / Major"
+      },
+      {
+        "stop_id": "55533",
+        "stop_name": "Bertrand / Decelles"
+      },
+      {
+        "stop_id": "55517",
+        "stop_name": "Côte-Vertu / Duguay"
+      },
+      {
+        "stop_id": "55502",
+        "stop_name": "Côte-Vertu / Hocquart"
+      },
+      {
+        "stop_id": "55486",
+        "stop_name": "Côte-Vertu / Cavendish"
+      },
+      {
+        "stop_id": "55886",
+        "stop_name": "Cavendish / Place Vertu"
+      },
+      {
+        "stop_id": "55773",
+        "stop_name": "Cavendish / Thimens"
+      },
+      {
+        "stop_id": "55798",
+        "stop_name": "Bibliothèque du Boisé (Thimens / Todd)"
+      },
+      {
+        "stop_id": "60855",
+        "stop_name": "Thimens / No 2600"
+      },
+      {
+        "stop_id": "55885",
+        "stop_name": "École Saint-Laurent"
+      },
+      {
+        "stop_id": "55501",
+        "stop_name": "Thimens / Varin"
+      },
+      {
+        "stop_id": "55927",
+        "stop_name": "Thimens / Alexis-Nihon"
+      },
+      {
+        "stop_id": "55529",
+        "stop_name": "Alexis-Nihon / Hufford"
+      },
+      {
+        "stop_id": "55555",
+        "stop_name": "Alexis-Nihon / Bourgoin"
+      },
+      {
+        "stop_id": "55571",
+        "stop_name": "Alexis-Nihon / Decelles"
+      },
+      {
+        "stop_id": "55593",
+        "stop_name": "Alexis-Nihon / Cushing"
+      },
+      {
+        "stop_id": "55607",
+        "stop_name": "de l'Église / Gratton"
+      },
+      {
+        "stop_id": "55620",
+        "stop_name": "de l'Église / Saint-Aubin"
+      },
+      {
+        "stop_id": "55631",
+        "stop_name": "de l'Église / Marcel-Laurin"
+      },
+      {
+        "stop_id": "55632",
+        "stop_name": "de l'Église / Lindsay"
+      },
+      {
+        "stop_id": "55654",
+        "stop_name": "de l'Église / Buchanan"
+      },
+      {
+        "stop_id": "55666",
+        "stop_name": "de l'Église / Cardinal"
+      },
+      {
+        "stop_id": "55678",
+        "stop_name": "de l'Église / Décarie"
+      },
+      {
+        "stop_id": "55699",
+        "stop_name": "de l'Église / Sainte-Croix"
+      },
+      {
+        "stop_id": "55684",
+        "stop_name": "Sainte-Croix / Decelles"
+      },
+      {
+        "stop_id": "55649",
+        "stop_name": "Côte-Vertu / Saint-Germain"
+      },
+      {
+        "stop_id": "55640",
+        "stop_name": "Station Côte-Vertu (Décarie / Côte-Vertu)"
+      },
+      {
+        "stop_id": "55613",
+        "stop_name": "Décarie / Rochon"
+      },
+      {
+        "stop_id": "55912",
+        "stop_name": "Tassé / Gohier"
+      },
+      {
+        "stop_id": "55575",
+        "stop_name": "Tassé / Cardinal"
+      },
+      {
+        "stop_id": "55913",
+        "stop_name": "Tassé / Grenet"
+      },
+      {
+        "stop_id": "55530",
+        "stop_name": "Grenet / Deguire"
+      },
+      {
+        "stop_id": "55868",
+        "stop_name": "Grenet / Bombardier"
+      },
+      {
+        "stop_id": "55504",
+        "stop_name": "Grenet / Poirier"
+      },
+      {
+        "stop_id": "55915",
+        "stop_name": "Poirier / Laval"
+      },
+      {
+        "stop_id": "55916",
+        "stop_name": "Poirier / Décarie"
+      },
+      {
+        "stop_id": "55561",
+        "stop_name": "Poirier / O'Brien"
+      },
+      {
+        "stop_id": "55578",
+        "stop_name": "Poirier / Guertin"
+      },
+      {
+        "stop_id": "55587",
+        "stop_name": "Poirier / Dutrisac"
+      },
+      {
+        "stop_id": "55610",
+        "stop_name": "Dutrisac / Deguire"
+      },
+      {
+        "stop_id": "55627",
+        "stop_name": "Deguire / Barré"
+      },
+      {
+        "stop_id": "55643",
+        "stop_name": "Deguire / Champigny"
+      },
+      {
+        "stop_id": "55652",
+        "stop_name": "Muir / Deguire"
+      },
+      {
+        "stop_id": "55940",
+        "stop_name": "Muir / Tassé"
+      },
+      {
+        "stop_id": "55687",
+        "stop_name": "Muir / Raimbault"
+      },
+      {
+        "stop_id": "55709",
+        "stop_name": "Muir / Rochon"
+      },
+      {
+        "stop_id": "55719",
+        "stop_name": "Muir / Robertson"
+      },
+      {
+        "stop_id": "55721",
+        "stop_name": "Muir / Côte-Vertu"
+      },
+      {
+        "stop_id": "55911",
+        "stop_name": "Muir / Fortier"
+      },
+      {
+        "stop_id": "55796",
+        "stop_name": "Muir / Montpellier"
+      }
+    ]
+  }
+]

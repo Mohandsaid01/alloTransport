@@ -1,0 +1,300 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54428",
+        "stop_name": "Georges-V / Notre-Dame"
+      },
+      {
+        "stop_id": "60436",
+        "stop_name": "Hector / Notre-Dame"
+      },
+      {
+        "stop_id": "53464",
+        "stop_name": "Notre-Dame / Bilaudeau"
+      },
+      {
+        "stop_id": "53459",
+        "stop_name": "Notre-Dame / Meese"
+      },
+      {
+        "stop_id": "53445",
+        "stop_name": "Notre-Dame / Taillon"
+      },
+      {
+        "stop_id": "53441",
+        "stop_name": "Notre-Dame / Pierre-Bernard"
+      },
+      {
+        "stop_id": "53443",
+        "stop_name": "Notre-Dame / Joffre"
+      },
+      {
+        "stop_id": "53449",
+        "stop_name": "Notre-Dame / Des Ormeaux"
+      },
+      {
+        "stop_id": "53462",
+        "stop_name": "Notre-Dame / Lebrun"
+      },
+      {
+        "stop_id": "53471",
+        "stop_name": "Notre-Dame / Saint-Donat"
+      },
+      {
+        "stop_id": "53483",
+        "stop_name": "Notre-Dame / Liébert"
+      },
+      {
+        "stop_id": "53489",
+        "stop_name": "Notre-Dame / Georges-Bizet"
+      },
+      {
+        "stop_id": "53496",
+        "stop_name": "Notre-Dame / Honoré-Beaugrand"
+      },
+      {
+        "stop_id": "53505",
+        "stop_name": "Notre-Dame / Lepailleur"
+      },
+      {
+        "stop_id": "53473",
+        "stop_name": "Notre-Dame / des Futailles"
+      },
+      {
+        "stop_id": "61913",
+        "stop_name": "des Futailles / No 1947"
+      },
+      {
+        "stop_id": "54340",
+        "stop_name": "Tellier / des Futailles"
+      },
+      {
+        "stop_id": "54365",
+        "stop_name": "De Boucherville / Hector-Barsalou"
+      },
+      {
+        "stop_id": "53499",
+        "stop_name": "De Boucherville / Notre-Dame"
+      },
+      {
+        "stop_id": "53478",
+        "stop_name": "Notre-Dame / No 7200"
+      },
+      {
+        "stop_id": "53439",
+        "stop_name": "Notre-Dame / Beauclerk"
+      },
+      {
+        "stop_id": "53431",
+        "stop_name": "Notre-Dame / Haig"
+      },
+      {
+        "stop_id": "53430",
+        "stop_name": "Notre-Dame / Garnison Montréal"
+      },
+      {
+        "stop_id": "53923",
+        "stop_name": "Notre-Dame / No 6380"
+      },
+      {
+        "stop_id": "53396",
+        "stop_name": "Notre-Dame / No 6265"
+      },
+      {
+        "stop_id": "53383",
+        "stop_name": "Notre-Dame / Clarence-Gagnon"
+      },
+      {
+        "stop_id": "53376",
+        "stop_name": "Notre-Dame / De Cadillac"
+      },
+      {
+        "stop_id": "54197",
+        "stop_name": "Notre-Dame / Rougemont"
+      },
+      {
+        "stop_id": "53367",
+        "stop_name": "Notre-Dame / Dickson"
+      },
+      {
+        "stop_id": "53873",
+        "stop_name": "Dickson / No 1505"
+      },
+      {
+        "stop_id": "54192",
+        "stop_name": "Dickson / Souligny"
+      },
+      {
+        "stop_id": "53250",
+        "stop_name": "Dickson / de Toulouse"
+      },
+      {
+        "stop_id": "53230",
+        "stop_name": "Dickson / Hochelaga"
+      },
+      {
+        "stop_id": "53182",
+        "stop_name": "Dickson / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "53138",
+        "stop_name": "de Marseille / Dickson"
+      },
+      {
+        "stop_id": "54306",
+        "stop_name": "Station Assomption (de l'Assomption / Chauveau)"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54306",
+        "stop_name": "Station Assomption (de l'Assomption / Chauveau)"
+      },
+      {
+        "stop_id": "54288",
+        "stop_name": "Chauveau / Dickson"
+      },
+      {
+        "stop_id": "53139",
+        "stop_name": "Dickson / de Marseille"
+      },
+      {
+        "stop_id": "53183",
+        "stop_name": "Dickson / Pierre-De Coubertin"
+      },
+      {
+        "stop_id": "53229",
+        "stop_name": "Dickson / Hochelaga"
+      },
+      {
+        "stop_id": "53249",
+        "stop_name": "Dickson / de Toulouse"
+      },
+      {
+        "stop_id": "54193",
+        "stop_name": "Dickson / Souligny"
+      },
+      {
+        "stop_id": "53680",
+        "stop_name": "Dickson / Ontario"
+      },
+      {
+        "stop_id": "53874",
+        "stop_name": "Dickson / No 1505"
+      },
+      {
+        "stop_id": "53366",
+        "stop_name": "Notre-Dame / Dickson"
+      },
+      {
+        "stop_id": "54196",
+        "stop_name": "Notre-Dame / Bossuet"
+      },
+      {
+        "stop_id": "53378",
+        "stop_name": "Notre-Dame / De Cadillac"
+      },
+      {
+        "stop_id": "53384",
+        "stop_name": "Notre-Dame / Clarence-Gagnon"
+      },
+      {
+        "stop_id": "53922",
+        "stop_name": "Notre-Dame / No 6265"
+      },
+      {
+        "stop_id": "53410",
+        "stop_name": "Notre-Dame / No 6380"
+      },
+      {
+        "stop_id": "53924",
+        "stop_name": "Notre-Dame / Garnison Montréal"
+      },
+      {
+        "stop_id": "53433",
+        "stop_name": "Notre-Dame / Haig"
+      },
+      {
+        "stop_id": "53440",
+        "stop_name": "Notre-Dame / Beauclerk"
+      },
+      {
+        "stop_id": "61550",
+        "stop_name": "des Futailles / Notre-Dame"
+      },
+      {
+        "stop_id": "61914",
+        "stop_name": "des Futailles / No 1947"
+      },
+      {
+        "stop_id": "54339",
+        "stop_name": "Tellier / des Futailles"
+      },
+      {
+        "stop_id": "54310",
+        "stop_name": "De Boucherville / Hector-Barsalou"
+      },
+      {
+        "stop_id": "53500",
+        "stop_name": "Notre-Dame / Curatteau"
+      },
+      {
+        "stop_id": "53502",
+        "stop_name": "Notre-Dame / De Saint-Just"
+      },
+      {
+        "stop_id": "53497",
+        "stop_name": "Notre-Dame / Honoré-Beaugrand"
+      },
+      {
+        "stop_id": "53488",
+        "stop_name": "Notre-Dame / Georges-Bizet"
+      },
+      {
+        "stop_id": "53484",
+        "stop_name": "Notre-Dame / Liébert"
+      },
+      {
+        "stop_id": "53472",
+        "stop_name": "Notre-Dame / Saint-Donat"
+      },
+      {
+        "stop_id": "53463",
+        "stop_name": "Notre-Dame / Lebrun"
+      },
+      {
+        "stop_id": "53451",
+        "stop_name": "Notre-Dame / Pierre-Tétreault"
+      },
+      {
+        "stop_id": "53444",
+        "stop_name": "Notre-Dame / Joffre"
+      },
+      {
+        "stop_id": "53442",
+        "stop_name": "Notre-Dame / Pierre-Bernard"
+      },
+      {
+        "stop_id": "53446",
+        "stop_name": "Notre-Dame / Taillon"
+      },
+      {
+        "stop_id": "53460",
+        "stop_name": "Notre-Dame / Meese"
+      },
+      {
+        "stop_id": "53468",
+        "stop_name": "Notre-Dame / Hector"
+      },
+      {
+        "stop_id": "54428",
+        "stop_name": "Georges-V / Notre-Dame"
+      }
+    ]
+  }
+]

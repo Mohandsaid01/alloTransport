@@ -1,0 +1,501 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "51661",
+        "stop_name": "Station Rosemont"
+      },
+      {
+        "stop_id": "51685",
+        "stop_name": "Rosemont / Saint-Hubert"
+      },
+      {
+        "stop_id": "51728",
+        "stop_name": "Rosemont / Christophe-Colomb"
+      },
+      {
+        "stop_id": "51755",
+        "stop_name": "Rosemont / De Normanville"
+      },
+      {
+        "stop_id": "61579",
+        "stop_name": "Rosemont / Chambord"
+      },
+      {
+        "stop_id": "51788",
+        "stop_name": "Rosemont / Garnier"
+      },
+      {
+        "stop_id": "51822",
+        "stop_name": "Rosemont / Papineau"
+      },
+      {
+        "stop_id": "51844",
+        "stop_name": "Rosemont / Chabot"
+      },
+      {
+        "stop_id": "51861",
+        "stop_name": "Rosemont / De Lorimier"
+      },
+      {
+        "stop_id": "51903",
+        "stop_name": "Rosemont / des Écores"
+      },
+      {
+        "stop_id": "51958",
+        "stop_name": "Rosemont / D'Iberville"
+      },
+      {
+        "stop_id": "52000",
+        "stop_name": "Rosemont / 2e Avenue"
+      },
+      {
+        "stop_id": "52029",
+        "stop_name": "Rosemont / 5e Avenue"
+      },
+      {
+        "stop_id": "52068",
+        "stop_name": "Rosemont / 8e Avenue"
+      },
+      {
+        "stop_id": "52110",
+        "stop_name": "Rosemont / Saint-Michel"
+      },
+      {
+        "stop_id": "52175",
+        "stop_name": "Rosemont / 15e Avenue"
+      },
+      {
+        "stop_id": "52213",
+        "stop_name": "Rosemont / 17e Avenue"
+      },
+      {
+        "stop_id": "52249",
+        "stop_name": "Rosemont / Bourbonnière"
+      },
+      {
+        "stop_id": "52312",
+        "stop_name": "Rosemont / Pie-IX"
+      },
+      {
+        "stop_id": "52362",
+        "stop_name": "Rosemont / 25e Avenue"
+      },
+      {
+        "stop_id": "52413",
+        "stop_name": "Rosemont / 28e Avenue"
+      },
+      {
+        "stop_id": "52467",
+        "stop_name": "Rosemont / 31e Avenue"
+      },
+      {
+        "stop_id": "52545",
+        "stop_name": "Rosemont / 35e Avenue"
+      },
+      {
+        "stop_id": "52574",
+        "stop_name": "Rosemont / Viau"
+      },
+      {
+        "stop_id": "52622",
+        "stop_name": "Rosemont / des Marronniers"
+      },
+      {
+        "stop_id": "52668",
+        "stop_name": "Rosemont / 42e Avenue"
+      },
+      {
+        "stop_id": "52694",
+        "stop_name": "Rosemont / de l'Assomption"
+      },
+      {
+        "stop_id": "52723",
+        "stop_name": "Rosemont / Châtelain"
+      },
+      {
+        "stop_id": "52760",
+        "stop_name": "Rosemont / Pavillon Rosemont"
+      },
+      {
+        "stop_id": "52778",
+        "stop_name": "Rosemont / Lacordaire"
+      },
+      {
+        "stop_id": "52848",
+        "stop_name": "Rosemont / Duquesne"
+      },
+      {
+        "stop_id": "52885",
+        "stop_name": "Rosemont / de Carignan"
+      },
+      {
+        "stop_id": "52940",
+        "stop_name": "Rosemont / Langelier"
+      },
+      {
+        "stop_id": "53006",
+        "stop_name": "Langelier / Chauvin"
+      },
+      {
+        "stop_id": "53066",
+        "stop_name": "Langelier / De Renty"
+      },
+      {
+        "stop_id": "53097",
+        "stop_name": "Langelier / Senneville"
+      },
+      {
+        "stop_id": "53152",
+        "stop_name": "Station Langelier (Langelier / Sherbrooke)"
+      },
+      {
+        "stop_id": "54289",
+        "stop_name": "de Granby / Faribault"
+      },
+      {
+        "stop_id": "53201",
+        "stop_name": "de Marseille / Boutet"
+      },
+      {
+        "stop_id": "53151",
+        "stop_name": "Station Langelier (Langelier / Sherbrooke)"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "53151",
+        "stop_name": "Station Langelier (Langelier / Sherbrooke)"
+      },
+      {
+        "stop_id": "53096",
+        "stop_name": "Langelier / Senneville"
+      },
+      {
+        "stop_id": "53057",
+        "stop_name": "Langelier / De Renty"
+      },
+      {
+        "stop_id": "53005",
+        "stop_name": "Langelier / Chauvin"
+      },
+      {
+        "stop_id": "54045",
+        "stop_name": "Rosemont / No 6585"
+      },
+      {
+        "stop_id": "52884",
+        "stop_name": "Rosemont / de Carignan"
+      },
+      {
+        "stop_id": "52847",
+        "stop_name": "Rosemont / Duquesne"
+      },
+      {
+        "stop_id": "52776",
+        "stop_name": "Rosemont / Lacordaire"
+      },
+      {
+        "stop_id": "53740",
+        "stop_name": "Rosemont / Pavillon Rosemont"
+      },
+      {
+        "stop_id": "52722",
+        "stop_name": "Rosemont / Châtelain"
+      },
+      {
+        "stop_id": "52692",
+        "stop_name": "Rosemont / de l'Assomption"
+      },
+      {
+        "stop_id": "52667",
+        "stop_name": "Rosemont / 42e Avenue"
+      },
+      {
+        "stop_id": "52621",
+        "stop_name": "Rosemont / 39e Avenue"
+      },
+      {
+        "stop_id": "52572",
+        "stop_name": "Rosemont / Viau"
+      },
+      {
+        "stop_id": "52544",
+        "stop_name": "Rosemont / 35e Avenue"
+      },
+      {
+        "stop_id": "52466",
+        "stop_name": "Rosemont / 31e Avenue"
+      },
+      {
+        "stop_id": "52427",
+        "stop_name": "Rosemont / 29e Avenue"
+      },
+      {
+        "stop_id": "52395",
+        "stop_name": "Rosemont / 27e Avenue"
+      },
+      {
+        "stop_id": "52361",
+        "stop_name": "Rosemont / 25e Avenue"
+      },
+      {
+        "stop_id": "52310",
+        "stop_name": "Rosemont / Pie-IX"
+      },
+      {
+        "stop_id": "54047",
+        "stop_name": "Rosemont / 19e Avenue"
+      },
+      {
+        "stop_id": "52212",
+        "stop_name": "Rosemont / 17e Avenue"
+      },
+      {
+        "stop_id": "52165",
+        "stop_name": "Collège Jean-Eudes (Rosemont / 14e Avenue)"
+      },
+      {
+        "stop_id": "52108",
+        "stop_name": "Rosemont / Saint-Michel"
+      },
+      {
+        "stop_id": "52067",
+        "stop_name": "Rosemont / 8e Avenue"
+      },
+      {
+        "stop_id": "52028",
+        "stop_name": "Rosemont / 5e Avenue"
+      },
+      {
+        "stop_id": "51992",
+        "stop_name": "Rosemont / 1re Avenue"
+      },
+      {
+        "stop_id": "51956",
+        "stop_name": "Rosemont / D'Iberville"
+      },
+      {
+        "stop_id": "51902",
+        "stop_name": "Rosemont / des Écores"
+      },
+      {
+        "stop_id": "51859",
+        "stop_name": "Rosemont / De Lorimier"
+      },
+      {
+        "stop_id": "51843",
+        "stop_name": "Rosemont / Chabot"
+      },
+      {
+        "stop_id": "51820",
+        "stop_name": "Rosemont / Papineau"
+      },
+      {
+        "stop_id": "61315",
+        "stop_name": "Rosemont / Marquette"
+      },
+      {
+        "stop_id": "51787",
+        "stop_name": "Rosemont / Garnier"
+      },
+      {
+        "stop_id": "51754",
+        "stop_name": "Rosemont / De Normanville"
+      },
+      {
+        "stop_id": "51726",
+        "stop_name": "Rosemont / Christophe-Colomb"
+      },
+      {
+        "stop_id": "51684",
+        "stop_name": "Rosemont / Saint-Hubert"
+      },
+      {
+        "stop_id": "61653",
+        "stop_name": "Station Rosemont"
+      }
+    ]
+  },
+  {
+    "direction": "Est via de la Pépinière",
+    "arrets": [
+      {
+        "stop_id": "51661",
+        "stop_name": "Station Rosemont"
+      },
+      {
+        "stop_id": "51685",
+        "stop_name": "Rosemont / Saint-Hubert"
+      },
+      {
+        "stop_id": "51728",
+        "stop_name": "Rosemont / Christophe-Colomb"
+      },
+      {
+        "stop_id": "51755",
+        "stop_name": "Rosemont / De Normanville"
+      },
+      {
+        "stop_id": "61579",
+        "stop_name": "Rosemont / Chambord"
+      },
+      {
+        "stop_id": "51788",
+        "stop_name": "Rosemont / Garnier"
+      },
+      {
+        "stop_id": "51822",
+        "stop_name": "Rosemont / Papineau"
+      },
+      {
+        "stop_id": "51844",
+        "stop_name": "Rosemont / Chabot"
+      },
+      {
+        "stop_id": "51861",
+        "stop_name": "Rosemont / De Lorimier"
+      },
+      {
+        "stop_id": "51903",
+        "stop_name": "Rosemont / des Écores"
+      },
+      {
+        "stop_id": "51958",
+        "stop_name": "Rosemont / D'Iberville"
+      },
+      {
+        "stop_id": "52000",
+        "stop_name": "Rosemont / 2e Avenue"
+      },
+      {
+        "stop_id": "52029",
+        "stop_name": "Rosemont / 5e Avenue"
+      },
+      {
+        "stop_id": "52068",
+        "stop_name": "Rosemont / 8e Avenue"
+      },
+      {
+        "stop_id": "52110",
+        "stop_name": "Rosemont / Saint-Michel"
+      },
+      {
+        "stop_id": "52175",
+        "stop_name": "Rosemont / 15e Avenue"
+      },
+      {
+        "stop_id": "52213",
+        "stop_name": "Rosemont / 17e Avenue"
+      },
+      {
+        "stop_id": "52249",
+        "stop_name": "Rosemont / Bourbonnière"
+      },
+      {
+        "stop_id": "52312",
+        "stop_name": "Rosemont / Pie-IX"
+      },
+      {
+        "stop_id": "52362",
+        "stop_name": "Rosemont / 25e Avenue"
+      },
+      {
+        "stop_id": "52413",
+        "stop_name": "Rosemont / 28e Avenue"
+      },
+      {
+        "stop_id": "52467",
+        "stop_name": "Rosemont / 31e Avenue"
+      },
+      {
+        "stop_id": "52545",
+        "stop_name": "Rosemont / 35e Avenue"
+      },
+      {
+        "stop_id": "52574",
+        "stop_name": "Rosemont / Viau"
+      },
+      {
+        "stop_id": "52622",
+        "stop_name": "Rosemont / des Marronniers"
+      },
+      {
+        "stop_id": "52668",
+        "stop_name": "Rosemont / 42e Avenue"
+      },
+      {
+        "stop_id": "52694",
+        "stop_name": "Rosemont / de l'Assomption"
+      },
+      {
+        "stop_id": "52723",
+        "stop_name": "Rosemont / Châtelain"
+      },
+      {
+        "stop_id": "52760",
+        "stop_name": "Rosemont / Pavillon Rosemont"
+      },
+      {
+        "stop_id": "52778",
+        "stop_name": "Rosemont / Lacordaire"
+      },
+      {
+        "stop_id": "52848",
+        "stop_name": "Rosemont / Duquesne"
+      },
+      {
+        "stop_id": "52885",
+        "stop_name": "Rosemont / de Carignan"
+      },
+      {
+        "stop_id": "52940",
+        "stop_name": "Rosemont / Langelier"
+      },
+      {
+        "stop_id": "53006",
+        "stop_name": "Langelier / Chauvin"
+      },
+      {
+        "stop_id": "53066",
+        "stop_name": "Langelier / De Renty"
+      },
+      {
+        "stop_id": "53097",
+        "stop_name": "Langelier / Senneville"
+      },
+      {
+        "stop_id": "53152",
+        "stop_name": "Station Langelier (Langelier / Sherbrooke)"
+      },
+      {
+        "stop_id": "54289",
+        "stop_name": "de Granby / Faribault"
+      },
+      {
+        "stop_id": "54290",
+        "stop_name": "de la Pépinière / Faribault"
+      },
+      {
+        "stop_id": "54291",
+        "stop_name": "de la Pépinière / de Marseille"
+      },
+      {
+        "stop_id": "54292",
+        "stop_name": "de Carignan / de Marseille"
+      },
+      {
+        "stop_id": "53201",
+        "stop_name": "de Marseille / Boutet"
+      },
+      {
+        "stop_id": "53151",
+        "stop_name": "Station Langelier (Langelier / Sherbrooke)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,416 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54184",
+        "stop_name": "Station Saint-Michel (Édicule Est)"
+      },
+      {
+        "stop_id": "51663",
+        "stop_name": "Jean-Talon / 13e Avenue"
+      },
+      {
+        "stop_id": "51693",
+        "stop_name": "Jean-Talon / 15e Avenue"
+      },
+      {
+        "stop_id": "51707",
+        "stop_name": "Jean-Talon / 17e Avenue"
+      },
+      {
+        "stop_id": "61977",
+        "stop_name": "Jean-Talon / 18e Avenue"
+      },
+      {
+        "stop_id": "51913",
+        "stop_name": "Bélanger / Pie-IX"
+      },
+      {
+        "stop_id": "51941",
+        "stop_name": "Bélanger / 24e Avenue"
+      },
+      {
+        "stop_id": "51968",
+        "stop_name": "Bélanger / 26e Avenue"
+      },
+      {
+        "stop_id": "51999",
+        "stop_name": "Bélanger / 28e Avenue"
+      },
+      {
+        "stop_id": "52016",
+        "stop_name": "Bélanger / 30e Avenue"
+      },
+      {
+        "stop_id": "52064",
+        "stop_name": "Bélanger / 33e Avenue"
+      },
+      {
+        "stop_id": "52092",
+        "stop_name": "Bélanger / 35e Avenue"
+      },
+      {
+        "stop_id": "52119",
+        "stop_name": "Bélanger / Viau (Institut de cardiologie)"
+      },
+      {
+        "stop_id": "52164",
+        "stop_name": "Bélanger / 40e Avenue"
+      },
+      {
+        "stop_id": "52225",
+        "stop_name": "Bélanger / 43e Avenue"
+      },
+      {
+        "stop_id": "52256",
+        "stop_name": "Bélanger / de l'Assomption"
+      },
+      {
+        "stop_id": "52280",
+        "stop_name": "Bélanger / Châtelain"
+      },
+      {
+        "stop_id": "52319",
+        "stop_name": "Bélanger / de Pontoise"
+      },
+      {
+        "stop_id": "52342",
+        "stop_name": "Bélanger / Lacordaire"
+      },
+      {
+        "stop_id": "55002",
+        "stop_name": "Bélanger / Valdombre"
+      },
+      {
+        "stop_id": "55003",
+        "stop_name": "Bélanger / d'Avila"
+      },
+      {
+        "stop_id": "55005",
+        "stop_name": "Bélanger / Dumesnil"
+      },
+      {
+        "stop_id": "55008",
+        "stop_name": "Bélanger / Daveluy"
+      },
+      {
+        "stop_id": "52492",
+        "stop_name": "Bélanger / Langelier"
+      },
+      {
+        "stop_id": "52555",
+        "stop_name": "Bélanger / Jean-Milot"
+      },
+      {
+        "stop_id": "52584",
+        "stop_name": "Bélanger / Étienne-Bouchard"
+      },
+      {
+        "stop_id": "54697",
+        "stop_name": "des Halles / Bélanger"
+      },
+      {
+        "stop_id": "54578",
+        "stop_name": "des Halles / Jean-Talon"
+      },
+      {
+        "stop_id": "54582",
+        "stop_name": "Jean-Talon / des Galeries-d'Anjou"
+      },
+      {
+        "stop_id": "54712",
+        "stop_name": "Métropolitain / des Galeries d'Anjou"
+      },
+      {
+        "stop_id": "54714",
+        "stop_name": "Bourgneuf / Bertin"
+      },
+      {
+        "stop_id": "54600",
+        "stop_name": "Bourgneuf / Bodinier"
+      },
+      {
+        "stop_id": "54601",
+        "stop_name": "de Châteauneuf / Goncourt"
+      },
+      {
+        "stop_id": "54606",
+        "stop_name": "de Châteauneuf / Joseph-Renaud"
+      },
+      {
+        "stop_id": "54609",
+        "stop_name": "de Châteauneuf / Talcy"
+      },
+      {
+        "stop_id": "54610",
+        "stop_name": "de Châteauneuf / Rabelais"
+      },
+      {
+        "stop_id": "54612",
+        "stop_name": "de Châteauneuf / de la Loire"
+      },
+      {
+        "stop_id": "62113",
+        "stop_name": "de Châteauneuf / de Fougeray"
+      },
+      {
+        "stop_id": "54623",
+        "stop_name": "de Châteauneuf / Des Ormeaux"
+      },
+      {
+        "stop_id": "54649",
+        "stop_name": "Des Ormeaux / Georges"
+      },
+      {
+        "stop_id": "54658",
+        "stop_name": "Des Ormeaux / Chaumont"
+      },
+      {
+        "stop_id": "54666",
+        "stop_name": "Des Ormeaux / Yves-Prévost"
+      },
+      {
+        "stop_id": "54671",
+        "stop_name": "Des Ormeaux / Éric"
+      },
+      {
+        "stop_id": "53210",
+        "stop_name": "Des Ormeaux / Sentennes"
+      },
+      {
+        "stop_id": "53234",
+        "stop_name": "Des Ormeaux / Tiffin"
+      },
+      {
+        "stop_id": "53264",
+        "stop_name": "Des Ormeaux / De Grosbois"
+      },
+      {
+        "stop_id": "53292",
+        "stop_name": "Des Ormeaux / De Forbin-Janson"
+      },
+      {
+        "stop_id": "53313",
+        "stop_name": "Des Ormeaux / Sherbrooke"
+      },
+      {
+        "stop_id": "53301",
+        "stop_name": "Sherbrooke / Baldwin"
+      },
+      {
+        "stop_id": "53287",
+        "stop_name": "Sherbrooke / Saint-Donat"
+      },
+      {
+        "stop_id": "54237",
+        "stop_name": "Station Honoré-Beaugrand / Terminus Sud"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "53876",
+        "stop_name": "Station Honoré-Beaugrand / Terminus Sud"
+      },
+      {
+        "stop_id": "53279",
+        "stop_name": "Sherbrooke / Liébert"
+      },
+      {
+        "stop_id": "53289",
+        "stop_name": "Sherbrooke / Saint-Donat"
+      },
+      {
+        "stop_id": "53302",
+        "stop_name": "Sherbrooke / Baldwin"
+      },
+      {
+        "stop_id": "53315",
+        "stop_name": "Des Ormeaux / Sherbrooke"
+      },
+      {
+        "stop_id": "53291",
+        "stop_name": "Des Ormeaux / De Forbin-Janson"
+      },
+      {
+        "stop_id": "53263",
+        "stop_name": "Des Ormeaux / De Grosbois"
+      },
+      {
+        "stop_id": "53233",
+        "stop_name": "Des Ormeaux / Tiffin"
+      },
+      {
+        "stop_id": "53209",
+        "stop_name": "Des Ormeaux / Sentennes"
+      },
+      {
+        "stop_id": "54670",
+        "stop_name": "Des Ormeaux / Éric"
+      },
+      {
+        "stop_id": "54665",
+        "stop_name": "Des Ormeaux / Yves-Prévost"
+      },
+      {
+        "stop_id": "54657",
+        "stop_name": "Des Ormeaux / Chaumont"
+      },
+      {
+        "stop_id": "54648",
+        "stop_name": "Des Ormeaux / Georges"
+      },
+      {
+        "stop_id": "54624",
+        "stop_name": "de Châteauneuf / Azilda"
+      },
+      {
+        "stop_id": "54613",
+        "stop_name": "de Châteauneuf / Roi-René"
+      },
+      {
+        "stop_id": "54614",
+        "stop_name": "de Châteauneuf / de Fougeray"
+      },
+      {
+        "stop_id": "54611",
+        "stop_name": "de Châteauneuf / de la Loire"
+      },
+      {
+        "stop_id": "54608",
+        "stop_name": "de Châteauneuf / de Vaujours"
+      },
+      {
+        "stop_id": "54604",
+        "stop_name": "de Châteauneuf / Boreau"
+      },
+      {
+        "stop_id": "54711",
+        "stop_name": "de Châteauneuf / Louis-H.-La Fontaine"
+      },
+      {
+        "stop_id": "61264",
+        "stop_name": "Louis-H.-La Fontaine / No 7755"
+      },
+      {
+        "stop_id": "54718",
+        "stop_name": "des Galeries-d'Anjou / Jean-Talon"
+      },
+      {
+        "stop_id": "54583",
+        "stop_name": "Jean-Talon / des Galeries-d'Anjou"
+      },
+      {
+        "stop_id": "62386",
+        "stop_name": "des Halles / Jean-Talon"
+      },
+      {
+        "stop_id": "52583",
+        "stop_name": "Bélanger / Étienne-Bouchard"
+      },
+      {
+        "stop_id": "52554",
+        "stop_name": "Bélanger / Jean-Milot"
+      },
+      {
+        "stop_id": "52490",
+        "stop_name": "Bélanger / Langelier"
+      },
+      {
+        "stop_id": "55007",
+        "stop_name": "Bélanger / Daveluy"
+      },
+      {
+        "stop_id": "55006",
+        "stop_name": "Bélanger / Dumesnil"
+      },
+      {
+        "stop_id": "55004",
+        "stop_name": "Bélanger / Liénart"
+      },
+      {
+        "stop_id": "55001",
+        "stop_name": "Bélanger / Valdombre"
+      },
+      {
+        "stop_id": "52340",
+        "stop_name": "Bélanger / Lacordaire"
+      },
+      {
+        "stop_id": "52318",
+        "stop_name": "Bélanger / de Pontoise"
+      },
+      {
+        "stop_id": "52279",
+        "stop_name": "Bélanger / Châtelain"
+      },
+      {
+        "stop_id": "52254",
+        "stop_name": "Bélanger / de l'Assomption"
+      },
+      {
+        "stop_id": "52224",
+        "stop_name": "Bélanger / Sagamo"
+      },
+      {
+        "stop_id": "52163",
+        "stop_name": "Bélanger / 40e Avenue"
+      },
+      {
+        "stop_id": "52117",
+        "stop_name": "Bélanger / Viau (Institut de cardiologie)"
+      },
+      {
+        "stop_id": "52091",
+        "stop_name": "Bélanger / 35e Avenue"
+      },
+      {
+        "stop_id": "52063",
+        "stop_name": "Bélanger / 33e Avenue"
+      },
+      {
+        "stop_id": "52030",
+        "stop_name": "Bélanger / 31e Avenue"
+      },
+      {
+        "stop_id": "61942",
+        "stop_name": "Provencher / Jean-Talon"
+      },
+      {
+        "stop_id": "61943",
+        "stop_name": "Buies / Gênes"
+      },
+      {
+        "stop_id": "61981",
+        "stop_name": "Everett / Pie-IX"
+      },
+      {
+        "stop_id": "61931",
+        "stop_name": "19e Avenue / Jean-Talon"
+      },
+      {
+        "stop_id": "51706",
+        "stop_name": "Jean-Talon / 17e Avenue"
+      },
+      {
+        "stop_id": "51692",
+        "stop_name": "Jean-Talon / 15e Avenue"
+      },
+      {
+        "stop_id": "51662",
+        "stop_name": "Jean-Talon / 13e Avenue"
+      },
+      {
+        "stop_id": "51631",
+        "stop_name": "Jean-Talon / Saint-Michel"
+      },
+      {
+        "stop_id": "54294",
+        "stop_name": "Station Saint-Michel (Saint-Michel / Shaughnessy)"
+      }
+    ]
+  }
+]

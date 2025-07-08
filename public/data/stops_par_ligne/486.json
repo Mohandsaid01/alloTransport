@@ -1,0 +1,200 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54316",
+        "stop_name": "Sherbrooke / de la Famille-Dubreuil"
+      },
+      {
+        "stop_id": "53611",
+        "stop_name": "Sherbrooke / Gouin"
+      },
+      {
+        "stop_id": "54315",
+        "stop_name": "Sherbrooke / de la Famille-Dubreuil"
+      },
+      {
+        "stop_id": "53573",
+        "stop_name": "Sherbrooke / 81e Avenue"
+      },
+      {
+        "stop_id": "59315",
+        "stop_name": "Sherbrooke / Damien-Gauthier"
+      },
+      {
+        "stop_id": "50121",
+        "stop_name": "Sherbrooke / Arthur-Généreux"
+      },
+      {
+        "stop_id": "53989",
+        "stop_name": "Sherbrooke / Yves-Thériault"
+      },
+      {
+        "stop_id": "53731",
+        "stop_name": "Sherbrooke / Réal-Benoit"
+      },
+      {
+        "stop_id": "61581",
+        "stop_name": "Gare Pointe-aux-Trembles"
+      },
+      {
+        "stop_id": "53512",
+        "stop_name": "Sherbrooke / 53e Avenue"
+      },
+      {
+        "stop_id": "54380",
+        "stop_name": "Sherbrooke / Stationnement incitatif"
+      },
+      {
+        "stop_id": "53494",
+        "stop_name": "Sherbrooke / 40e Avenue"
+      },
+      {
+        "stop_id": "53486",
+        "stop_name": "Sherbrooke / 36e Avenue"
+      },
+      {
+        "stop_id": "53476",
+        "stop_name": "Sherbrooke / 32e Avenue"
+      },
+      {
+        "stop_id": "53469",
+        "stop_name": "Sherbrooke / Robert-Chevalier"
+      },
+      {
+        "stop_id": "53458",
+        "stop_name": "Sherbrooke / du Tricentenaire"
+      },
+      {
+        "stop_id": "53434",
+        "stop_name": "Sherbrooke / 16e Avenue"
+      },
+      {
+        "stop_id": "53424",
+        "stop_name": "Sherbrooke / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "53420",
+        "stop_name": "Sherbrooke / 8e Avenue"
+      },
+      {
+        "stop_id": "53411",
+        "stop_name": "Sherbrooke / 3e Avenue"
+      },
+      {
+        "stop_id": "54418",
+        "stop_name": "Sherbrooke / Marien"
+      },
+      {
+        "stop_id": "54420",
+        "stop_name": "Sherbrooke / Broadway"
+      },
+      {
+        "stop_id": "54415",
+        "stop_name": "Sherbrooke / Durocher"
+      },
+      {
+        "stop_id": "54115",
+        "stop_name": "Station Honoré-Beaugrand"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54119",
+        "stop_name": "Station Honoré-Beaugrand / Terminus Nord"
+      },
+      {
+        "stop_id": "54416",
+        "stop_name": "Sherbrooke / Durocher"
+      },
+      {
+        "stop_id": "54488",
+        "stop_name": "Sherbrooke / de la Grande Allée"
+      },
+      {
+        "stop_id": "54419",
+        "stop_name": "Sherbrooke / Marien"
+      },
+      {
+        "stop_id": "53412",
+        "stop_name": "Sherbrooke / 3e Avenue"
+      },
+      {
+        "stop_id": "53421",
+        "stop_name": "Sherbrooke / 8e Avenue"
+      },
+      {
+        "stop_id": "53426",
+        "stop_name": "Sherbrooke / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "53435",
+        "stop_name": "Sherbrooke / 16e Avenue"
+      },
+      {
+        "stop_id": "53457",
+        "stop_name": "Sherbrooke / du Tricentenaire"
+      },
+      {
+        "stop_id": "53470",
+        "stop_name": "Sherbrooke / Robert-Chevalier"
+      },
+      {
+        "stop_id": "53477",
+        "stop_name": "Sherbrooke / 32e Avenue"
+      },
+      {
+        "stop_id": "53487",
+        "stop_name": "Sherbrooke / 36e Avenue"
+      },
+      {
+        "stop_id": "53495",
+        "stop_name": "Sherbrooke / 40e Avenue"
+      },
+      {
+        "stop_id": "61311",
+        "stop_name": "Sherbrooke / Stationnement incitatif"
+      },
+      {
+        "stop_id": "53513",
+        "stop_name": "Sherbrooke / 53e Avenue"
+      },
+      {
+        "stop_id": "61582",
+        "stop_name": "Gare Pointe-aux-Trembles"
+      },
+      {
+        "stop_id": "53526",
+        "stop_name": "Sherbrooke / Réal-Benoit"
+      },
+      {
+        "stop_id": "50119",
+        "stop_name": "Sherbrooke / Yves-Thériault"
+      },
+      {
+        "stop_id": "50120",
+        "stop_name": "Sherbrooke / Arthur-Généreux"
+      },
+      {
+        "stop_id": "59316",
+        "stop_name": "Sherbrooke / Damien-Gauthier"
+      },
+      {
+        "stop_id": "53574",
+        "stop_name": "Sherbrooke / 81e Avenue"
+      },
+      {
+        "stop_id": "54316",
+        "stop_name": "Sherbrooke / de la Famille-Dubreuil"
+      },
+      {
+        "stop_id": "53611",
+        "stop_name": "Sherbrooke / Gouin"
+      }
+    ]
+  }
+]

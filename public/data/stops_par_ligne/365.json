@@ -1,0 +1,480 @@
+[
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "59308",
+        "stop_name": "Saint-Antoine / Saint-Urbain"
+      },
+      {
+        "stop_id": "52780",
+        "stop_name": "Saint-Laurent / René-Lévesque"
+      },
+      {
+        "stop_id": "61049",
+        "stop_name": "Jeanne-Mance / du Président-Kennedy"
+      },
+      {
+        "stop_id": "52442",
+        "stop_name": "Sherbrooke / De Bleury"
+      },
+      {
+        "stop_id": "50111",
+        "stop_name": "du Parc / Milton"
+      },
+      {
+        "stop_id": "50112",
+        "stop_name": "du Parc / Prince-Arthur"
+      },
+      {
+        "stop_id": "50115",
+        "stop_name": "du Parc / Léo-Pariseau"
+      },
+      {
+        "stop_id": "60663",
+        "stop_name": "du Parc / des Pins"
+      },
+      {
+        "stop_id": "53702",
+        "stop_name": "Monument Sir-George-Étienne-Cartier"
+      },
+      {
+        "stop_id": "51880",
+        "stop_name": "du Parc / du Mont-Royal"
+      },
+      {
+        "stop_id": "51798",
+        "stop_name": "du Parc / Villeneuve"
+      },
+      {
+        "stop_id": "51750",
+        "stop_name": "du Parc / Saint-Joseph"
+      },
+      {
+        "stop_id": "51709",
+        "stop_name": "du Parc / Laurier"
+      },
+      {
+        "stop_id": "51671",
+        "stop_name": "du Parc / Fairmount"
+      },
+      {
+        "stop_id": "51576",
+        "stop_name": "du Parc / Saint-Viateur"
+      },
+      {
+        "stop_id": "51501",
+        "stop_name": "du Parc / Bernard"
+      },
+      {
+        "stop_id": "51406",
+        "stop_name": "du Parc / Van Horne"
+      },
+      {
+        "stop_id": "51349",
+        "stop_name": "du Parc / Thérèse-Lavoie-Roux"
+      },
+      {
+        "stop_id": "51285",
+        "stop_name": "du Parc / No 6659"
+      },
+      {
+        "stop_id": "51258",
+        "stop_name": "du Parc / Beaumont"
+      },
+      {
+        "stop_id": "51125",
+        "stop_name": "Jean-Talon / Querbes"
+      },
+      {
+        "stop_id": "51113",
+        "stop_name": "Jean-Talon / Bloomfield"
+      },
+      {
+        "stop_id": "51084",
+        "stop_name": "Jean-Talon / Wiseman"
+      },
+      {
+        "stop_id": "51063",
+        "stop_name": "Jean-Talon / de l'Acadie"
+      },
+      {
+        "stop_id": "51016",
+        "stop_name": "de l'Acadie / Ogilvy"
+      },
+      {
+        "stop_id": "50938",
+        "stop_name": "de l'Acadie / Saint-Roch"
+      },
+      {
+        "stop_id": "50779",
+        "stop_name": "de l'Acadie / Jarry"
+      },
+      {
+        "stop_id": "50698",
+        "stop_name": "de l'Acadie / d'Anvers"
+      },
+      {
+        "stop_id": "50632",
+        "stop_name": "de l'Acadie / de Liège"
+      },
+      {
+        "stop_id": "50573",
+        "stop_name": "de l'Acadie / Crémazie"
+      },
+      {
+        "stop_id": "53823",
+        "stop_name": "Marché Central (de l'Acadie / Crémazie)"
+      },
+      {
+        "stop_id": "50481",
+        "stop_name": "de l'Acadie / Legendre"
+      },
+      {
+        "stop_id": "50428",
+        "stop_name": "de l'Acadie / Chabanel"
+      },
+      {
+        "stop_id": "50380",
+        "stop_name": "de l'Acadie / de Louvain"
+      },
+      {
+        "stop_id": "50324",
+        "stop_name": "de l'Acadie / Sauvé"
+      },
+      {
+        "stop_id": "50329",
+        "stop_name": "de l'Acadie / Sauvé"
+      },
+      {
+        "stop_id": "54082",
+        "stop_name": "de l'Acadie / Arthur-Lismer"
+      },
+      {
+        "stop_id": "50292",
+        "stop_name": "de l'Acadie / du Liban"
+      },
+      {
+        "stop_id": "53822",
+        "stop_name": "de l'Acadie / de Persillier"
+      },
+      {
+        "stop_id": "50259",
+        "stop_name": "de l'Acadie / Henri-Bourassa"
+      },
+      {
+        "stop_id": "50251",
+        "stop_name": "Aréna Marcelin-Wilson (de l'Acadie / C.-Gill)"
+      },
+      {
+        "stop_id": "50246",
+        "stop_name": "de l'Acadie / Dudemaine"
+      },
+      {
+        "stop_id": "50242",
+        "stop_name": "de l'Acadie / de Louisbourg"
+      },
+      {
+        "stop_id": "50232",
+        "stop_name": "De Salaberry / Frigon"
+      },
+      {
+        "stop_id": "50225",
+        "stop_name": "De Salaberry / Taylor"
+      },
+      {
+        "stop_id": "50217",
+        "stop_name": "De Salaberry / De Poutrincourt"
+      },
+      {
+        "stop_id": "50203",
+        "stop_name": "De Salaberry / Guertin"
+      },
+      {
+        "stop_id": "50196",
+        "stop_name": "De Salaberry / O'Brien"
+      },
+      {
+        "stop_id": "50189",
+        "stop_name": "De Salaberry / Saint-Évariste"
+      },
+      {
+        "stop_id": "50178",
+        "stop_name": "De Salaberry / De Meulles"
+      },
+      {
+        "stop_id": "50172",
+        "stop_name": "De Salaberry / Grenet"
+      },
+      {
+        "stop_id": "50167",
+        "stop_name": "De Salaberry / Lachapelle"
+      },
+      {
+        "stop_id": "61864",
+        "stop_name": "Lachapelle / Périnault"
+      },
+      {
+        "stop_id": "61865",
+        "stop_name": "Lachapelle / Ranger"
+      },
+      {
+        "stop_id": "61870",
+        "stop_name": "Gouin / Chevalier"
+      },
+      {
+        "stop_id": "61834",
+        "stop_name": "Vanier / Lachapelle"
+      }
+    ]
+  },
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "61834",
+        "stop_name": "Vanier / Lachapelle"
+      },
+      {
+        "stop_id": "61989",
+        "stop_name": "Laurentien / No 12404"
+      },
+      {
+        "stop_id": "61081",
+        "stop_name": "Laurentien / Émile-Nelligan"
+      },
+      {
+        "stop_id": "61871",
+        "stop_name": "Laurentien / Émile-Nelligan"
+      },
+      {
+        "stop_id": "61866",
+        "stop_name": "Laurentien / Périnault"
+      },
+      {
+        "stop_id": "50168",
+        "stop_name": "De Salaberry / Lachapelle"
+      },
+      {
+        "stop_id": "50174",
+        "stop_name": "De Salaberry / Grenet"
+      },
+      {
+        "stop_id": "50179",
+        "stop_name": "De Salaberry / De Meulles"
+      },
+      {
+        "stop_id": "50190",
+        "stop_name": "De Salaberry / Saint-Évariste"
+      },
+      {
+        "stop_id": "50198",
+        "stop_name": "De Salaberry / O'Brien"
+      },
+      {
+        "stop_id": "50204",
+        "stop_name": "De Salaberry / Guertin"
+      },
+      {
+        "stop_id": "50218",
+        "stop_name": "De Salaberry / De Poutrincourt"
+      },
+      {
+        "stop_id": "50226",
+        "stop_name": "De Salaberry / Taylor"
+      },
+      {
+        "stop_id": "50233",
+        "stop_name": "de l'Acadie / De Salaberry"
+      },
+      {
+        "stop_id": "50243",
+        "stop_name": "de l'Acadie / de Louisbourg"
+      },
+      {
+        "stop_id": "50249",
+        "stop_name": "de l'Acadie / Dudemaine"
+      },
+      {
+        "stop_id": "50252",
+        "stop_name": "de l'Acadie / Charles-Gill"
+      },
+      {
+        "stop_id": "50261",
+        "stop_name": "de l'Acadie / Henri-Bourassa"
+      },
+      {
+        "stop_id": "53978",
+        "stop_name": "de l'Acadie / Place de l'Acadie"
+      },
+      {
+        "stop_id": "53821",
+        "stop_name": "de l'Acadie / No 10500"
+      },
+      {
+        "stop_id": "50273",
+        "stop_name": "de l'Acadie / Persillier"
+      },
+      {
+        "stop_id": "50293",
+        "stop_name": "de l'Acadie / Olivier-Berthelet"
+      },
+      {
+        "stop_id": "54083",
+        "stop_name": "de l'Acadie / Arthur-Lismer"
+      },
+      {
+        "stop_id": "50326",
+        "stop_name": "de l'Acadie / Sauvé"
+      },
+      {
+        "stop_id": "50331",
+        "stop_name": "de l'Acadie / Yvette-Brillon"
+      },
+      {
+        "stop_id": "50378",
+        "stop_name": "de l'Acadie / de Louvain"
+      },
+      {
+        "stop_id": "50427",
+        "stop_name": "de l'Acadie / Chabanel"
+      },
+      {
+        "stop_id": "50482",
+        "stop_name": "de l'Acadie / Legendre"
+      },
+      {
+        "stop_id": "50539",
+        "stop_name": "Marché Central (de l'Acadie / Crémazie)"
+      },
+      {
+        "stop_id": "53828",
+        "stop_name": "de l'Acadie / Crémazie"
+      },
+      {
+        "stop_id": "50633",
+        "stop_name": "de l'Acadie / de Liège"
+      },
+      {
+        "stop_id": "50699",
+        "stop_name": "de l'Acadie / d'Anvers"
+      },
+      {
+        "stop_id": "50780",
+        "stop_name": "de l'Acadie / Jarry"
+      },
+      {
+        "stop_id": "50939",
+        "stop_name": "de l'Acadie / Saint-Roch"
+      },
+      {
+        "stop_id": "51017",
+        "stop_name": "de l'Acadie / Ogilvy"
+      },
+      {
+        "stop_id": "51085",
+        "stop_name": "Jean-Talon / Wiseman"
+      },
+      {
+        "stop_id": "51114",
+        "stop_name": "Jean-Talon / Bloomfield"
+      },
+      {
+        "stop_id": "51127",
+        "stop_name": "Jean-Talon / Querbes"
+      },
+      {
+        "stop_id": "51140",
+        "stop_name": "Station Parc (Jean-Talon / Hutchison)"
+      },
+      {
+        "stop_id": "51257",
+        "stop_name": "du Parc / Beaumont"
+      },
+      {
+        "stop_id": "50552",
+        "stop_name": "du Parc / No 6590"
+      },
+      {
+        "stop_id": "51348",
+        "stop_name": "du Parc / Beaubien"
+      },
+      {
+        "stop_id": "51408",
+        "stop_name": "du Parc / Van Horne"
+      },
+      {
+        "stop_id": "51503",
+        "stop_name": "du Parc / Bernard"
+      },
+      {
+        "stop_id": "51578",
+        "stop_name": "du Parc / Saint-Viateur"
+      },
+      {
+        "stop_id": "51673",
+        "stop_name": "du Parc / Fairmount"
+      },
+      {
+        "stop_id": "51711",
+        "stop_name": "du Parc / Laurier"
+      },
+      {
+        "stop_id": "51751",
+        "stop_name": "du Parc / Saint-Joseph"
+      },
+      {
+        "stop_id": "51799",
+        "stop_name": "du Parc / Villeneuve"
+      },
+      {
+        "stop_id": "51882",
+        "stop_name": "du Parc / du Mont-Royal"
+      },
+      {
+        "stop_id": "53703",
+        "stop_name": "Monument Sir-George-Étienne-Cartier"
+      },
+      {
+        "stop_id": "60664",
+        "stop_name": "du Parc / des Pins"
+      },
+      {
+        "stop_id": "52250",
+        "stop_name": "du Parc / Léo-Pariseau"
+      },
+      {
+        "stop_id": "52298",
+        "stop_name": "du Parc / Prince-Arthur"
+      },
+      {
+        "stop_id": "52365",
+        "stop_name": "du Parc / Milton"
+      },
+      {
+        "stop_id": "52443",
+        "stop_name": "du Parc / Sherbrooke"
+      },
+      {
+        "stop_id": "52534",
+        "stop_name": "Station Place-des-Arts (De Bleury / De Maisonneuve"
+      },
+      {
+        "stop_id": "52608",
+        "stop_name": "De Bleury / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52679",
+        "stop_name": "De Bleury / René-Lévesque"
+      },
+      {
+        "stop_id": "52779",
+        "stop_name": "De Bleury / Viger"
+      },
+      {
+        "stop_id": "59308",
+        "stop_name": "Saint-Antoine / Saint-Urbain"
+      }
+    ]
+  }
+]

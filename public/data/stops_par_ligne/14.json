@@ -1,0 +1,196 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "51965",
+        "stop_name": "Station Laurier Sud (Rivard / Gilford)"
+      },
+      {
+        "stop_id": "52002",
+        "stop_name": "Saint-Joseph / de Mentana"
+      },
+      {
+        "stop_id": "52019",
+        "stop_name": "Saint-Joseph / Christophe-Colomb"
+      },
+      {
+        "stop_id": "52061",
+        "stop_name": "Christophe-Colomb / Gilford"
+      },
+      {
+        "stop_id": "52161",
+        "stop_name": "Christophe-Colomb / du Mont-Royal"
+      },
+      {
+        "stop_id": "52247",
+        "stop_name": "Christophe-Colomb / Marie-Anne"
+      },
+      {
+        "stop_id": "52323",
+        "stop_name": "du Parc-La-Fontaine / Rachel"
+      },
+      {
+        "stop_id": "52394",
+        "stop_name": "du Parc-La-Fontaine / Duluth"
+      },
+      {
+        "stop_id": "52441",
+        "stop_name": "du Parc-La-Fontaine / Napoléon"
+      },
+      {
+        "stop_id": "54209",
+        "stop_name": "du Parc-La-Fontaine / Roy"
+      },
+      {
+        "stop_id": "52591",
+        "stop_name": "du Parc-La-Fontaine / Cherrier"
+      },
+      {
+        "stop_id": "54210",
+        "stop_name": "du Parc-La Fontaine / Sherbrooke"
+      },
+      {
+        "stop_id": "52730",
+        "stop_name": "Atateken / Ontario"
+      },
+      {
+        "stop_id": "52801",
+        "stop_name": "Atateken / Robin"
+      },
+      {
+        "stop_id": "52874",
+        "stop_name": "Atateken / De Maisonneuve"
+      },
+      {
+        "stop_id": "52915",
+        "stop_name": "Atateken / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52981",
+        "stop_name": "Atateken / René-Lévesque"
+      },
+      {
+        "stop_id": "52954",
+        "stop_name": "René-Lévesque / Saint-André"
+      },
+      {
+        "stop_id": "52930",
+        "stop_name": "René-Lévesque / Saint-Hubert"
+      },
+      {
+        "stop_id": "54013",
+        "stop_name": "Saint-Denis / De La Gauchetière"
+      },
+      {
+        "stop_id": "52995",
+        "stop_name": "Saint-Denis / Saint-Antoine"
+      },
+      {
+        "stop_id": "53698",
+        "stop_name": "Notre-Dame / de Bonsecours"
+      },
+      {
+        "stop_id": "52968",
+        "stop_name": "Notre-Dame / Saint-Gabriel"
+      },
+      {
+        "stop_id": "53674",
+        "stop_name": "Station Champ-de-Mars (St-Antoine / Gosford)"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "53674",
+        "stop_name": "Station Champ-de-Mars (St-Antoine / Gosford)"
+      },
+      {
+        "stop_id": "52976",
+        "stop_name": "Berri / Viger"
+      },
+      {
+        "stop_id": "52904",
+        "stop_name": "Berri / René-Lévesque"
+      },
+      {
+        "stop_id": "52931",
+        "stop_name": "René-Lévesque / Saint-Hubert"
+      },
+      {
+        "stop_id": "52983",
+        "stop_name": "Atateken / René-Lévesque"
+      },
+      {
+        "stop_id": "54042",
+        "stop_name": "Atateken / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52872",
+        "stop_name": "Atateken / De Maisonneuve"
+      },
+      {
+        "stop_id": "52800",
+        "stop_name": "Atateken / Robin"
+      },
+      {
+        "stop_id": "52728",
+        "stop_name": "Atateken / Ontario"
+      },
+      {
+        "stop_id": "52634",
+        "stop_name": "Atateken / Sherbrooke"
+      },
+      {
+        "stop_id": "52593",
+        "stop_name": "du Parc-La-Fontaine / Cherrier"
+      },
+      {
+        "stop_id": "52479",
+        "stop_name": "du Parc-La-Fontaine / Roy"
+      },
+      {
+        "stop_id": "52440",
+        "stop_name": "du Parc-La-Fontaine / Napoléon"
+      },
+      {
+        "stop_id": "52393",
+        "stop_name": "du Parc-La-Fontaine / Duluth"
+      },
+      {
+        "stop_id": "52315",
+        "stop_name": "du Parc-La Fontaine / Rachel"
+      },
+      {
+        "stop_id": "52356",
+        "stop_name": "De La Roche / Rachel"
+      },
+      {
+        "stop_id": "52271",
+        "stop_name": "De La Roche / Marie-Anne"
+      },
+      {
+        "stop_id": "52183",
+        "stop_name": "De La Roche / du Mont-Royal"
+      },
+      {
+        "stop_id": "62068",
+        "stop_name": "De La Roche / Gilford"
+      },
+      {
+        "stop_id": "52017",
+        "stop_name": "Saint-Joseph / Christophe-Colomb"
+      },
+      {
+        "stop_id": "52001",
+        "stop_name": "Saint-Joseph / de Mentana"
+      },
+      {
+        "stop_id": "51965",
+        "stop_name": "Station Laurier Sud (Rivard / Gilford)"
+      }
+    ]
+  }
+]

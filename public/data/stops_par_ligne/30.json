@@ -1,0 +1,368 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "53827",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50318",
+        "stop_name": "Saint-Hubert / Henri-Bourassa"
+      },
+      {
+        "stop_id": "50345",
+        "stop_name": "Saint-Hubert / Prieur"
+      },
+      {
+        "stop_id": "50385",
+        "stop_name": "Saint-Hubert / Fleury"
+      },
+      {
+        "stop_id": "50421",
+        "stop_name": "Saint-Hubert / Sauriol"
+      },
+      {
+        "stop_id": "50468",
+        "stop_name": "Saint-Hubert / Sauvé"
+      },
+      {
+        "stop_id": "50537",
+        "stop_name": "Saint-Hubert / de Louvain"
+      },
+      {
+        "stop_id": "50586",
+        "stop_name": "Saint-Hubert / Chabanel"
+      },
+      {
+        "stop_id": "50645",
+        "stop_name": "Saint-Hubert / Legendre"
+      },
+      {
+        "stop_id": "50709",
+        "stop_name": "Saint-Hubert / Émile-Journault"
+      },
+      {
+        "stop_id": "50858",
+        "stop_name": "Saint-Hubert / Crémazie (coin Nord-Ouest)"
+      },
+      {
+        "stop_id": "50862",
+        "stop_name": "Saint-Hubert / Crémazie (coin Sud-Ouest)"
+      },
+      {
+        "stop_id": "50909",
+        "stop_name": "Saint-Hubert / de Liège"
+      },
+      {
+        "stop_id": "50949",
+        "stop_name": "Saint-Hubert / Leman"
+      },
+      {
+        "stop_id": "50996",
+        "stop_name": "Saint-Hubert / Mistral"
+      },
+      {
+        "stop_id": "51042",
+        "stop_name": "Saint-Hubert / Jarry"
+      },
+      {
+        "stop_id": "51098",
+        "stop_name": "Saint-Hubert / Gounod"
+      },
+      {
+        "stop_id": "53781",
+        "stop_name": "De Chateaubriand / Villeray"
+      },
+      {
+        "stop_id": "53782",
+        "stop_name": "De Chateaubriand / Faillon"
+      },
+      {
+        "stop_id": "51289",
+        "stop_name": "De Chateaubriand / De Castelnau"
+      },
+      {
+        "stop_id": "51331",
+        "stop_name": "Station Jean-Talon (Jean-Talon / De Chateaubriand)"
+      },
+      {
+        "stop_id": "51389",
+        "stop_name": "De Chateaubriand / Bélanger"
+      },
+      {
+        "stop_id": "51459",
+        "stop_name": "De Chateaubriand / Saint-Zotique"
+      },
+      {
+        "stop_id": "51533",
+        "stop_name": "Station Beaubien (De Chateaubriand / Beaubien)"
+      },
+      {
+        "stop_id": "51595",
+        "stop_name": "De Chateaubriand / de Bellechasse"
+      },
+      {
+        "stop_id": "51672",
+        "stop_name": "Station Rosemont (De Chateaubriand / Rosemont)"
+      },
+      {
+        "stop_id": "51649",
+        "stop_name": "Station Rosemont (Saint-Denis / Rosemont)"
+      },
+      {
+        "stop_id": "61905",
+        "stop_name": "Saint-Denis / Saint-Grégoire"
+      },
+      {
+        "stop_id": "61903",
+        "stop_name": "Saint-Denis / Boucher"
+      },
+      {
+        "stop_id": "61900",
+        "stop_name": "Saint-Denis / Laurier"
+      },
+      {
+        "stop_id": "60993",
+        "stop_name": "Saint-Denis / Saint-Joseph"
+      },
+      {
+        "stop_id": "52011",
+        "stop_name": "Saint-Denis / Gilford"
+      },
+      {
+        "stop_id": "61897",
+        "stop_name": "Saint-Denis / du Mont-Royal"
+      },
+      {
+        "stop_id": "61894",
+        "stop_name": "Saint-Denis / Marie-Anne"
+      },
+      {
+        "stop_id": "61892",
+        "stop_name": "Saint-Denis / Rachel"
+      },
+      {
+        "stop_id": "52288",
+        "stop_name": "Saint-Denis / Duluth"
+      },
+      {
+        "stop_id": "52422",
+        "stop_name": "Saint-Denis / Roy"
+      },
+      {
+        "stop_id": "52507",
+        "stop_name": "Cherrier / Berri"
+      },
+      {
+        "stop_id": "52665",
+        "stop_name": "Berri / Ontario"
+      },
+      {
+        "stop_id": "52844",
+        "stop_name": "Station Berri-UQAM (Berri / Ste-Catherine)"
+      },
+      {
+        "stop_id": "52906",
+        "stop_name": "Berri / René-Lévesque"
+      },
+      {
+        "stop_id": "52977",
+        "stop_name": "Berri / Viger"
+      },
+      {
+        "stop_id": "60613",
+        "stop_name": "Saint-Antoine / Saint-Hubert"
+      },
+      {
+        "stop_id": "60614",
+        "stop_name": "Atateken / Viger"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "60614",
+        "stop_name": "Atateken / Viger"
+      },
+      {
+        "stop_id": "60615",
+        "stop_name": "Viger / Saint-Hubert"
+      },
+      {
+        "stop_id": "52904",
+        "stop_name": "Berri / René-Lévesque"
+      },
+      {
+        "stop_id": "61153",
+        "stop_name": "Station Berri-UQAM"
+      },
+      {
+        "stop_id": "52791",
+        "stop_name": "Station Berri-UQAM (Berri / De Maisonneuve)"
+      },
+      {
+        "stop_id": "52662",
+        "stop_name": "Berri / Ontario"
+      },
+      {
+        "stop_id": "52585",
+        "stop_name": "Berri / Sherbrooke"
+      },
+      {
+        "stop_id": "52506",
+        "stop_name": "Station Sherbrooke (Édicule Est)"
+      },
+      {
+        "stop_id": "52390",
+        "stop_name": "Roy / Rivard"
+      },
+      {
+        "stop_id": "61891",
+        "stop_name": "Saint-Denis / Duluth"
+      },
+      {
+        "stop_id": "61895",
+        "stop_name": "Saint-Denis / Rachel"
+      },
+      {
+        "stop_id": "61893",
+        "stop_name": "Saint-Denis / Marie-Anne"
+      },
+      {
+        "stop_id": "61896",
+        "stop_name": "Saint-Denis / du Mont-Royal"
+      },
+      {
+        "stop_id": "61898",
+        "stop_name": "Saint-Denis / De Bienville"
+      },
+      {
+        "stop_id": "61899",
+        "stop_name": "Saint-Denis / Saint-Joseph"
+      },
+      {
+        "stop_id": "61901",
+        "stop_name": "Saint-Denis / Laurier"
+      },
+      {
+        "stop_id": "61902",
+        "stop_name": "Saint-Denis / Boucher"
+      },
+      {
+        "stop_id": "61904",
+        "stop_name": "Saint-Denis / du Carmel"
+      },
+      {
+        "stop_id": "62141",
+        "stop_name": "Rosemont / De Saint-Vallier"
+      },
+      {
+        "stop_id": "51686",
+        "stop_name": "Saint-Hubert / Rosemont"
+      },
+      {
+        "stop_id": "51607",
+        "stop_name": "Saint-Hubert / de Bellechasse"
+      },
+      {
+        "stop_id": "51549",
+        "stop_name": "Saint-Hubert / Beaubien"
+      },
+      {
+        "stop_id": "51474",
+        "stop_name": "Saint-Hubert / Saint-Zotique"
+      },
+      {
+        "stop_id": "51401",
+        "stop_name": "Saint-Hubert / Bélanger"
+      },
+      {
+        "stop_id": "51335",
+        "stop_name": "Station Jean-Talon Est / Saint-Hubert"
+      },
+      {
+        "stop_id": "51297",
+        "stop_name": "Saint-Hubert / De Castelnau"
+      },
+      {
+        "stop_id": "51239",
+        "stop_name": "Saint-Hubert / Faillon"
+      },
+      {
+        "stop_id": "51172",
+        "stop_name": "Saint-Hubert / Villeray"
+      },
+      {
+        "stop_id": "51097",
+        "stop_name": "Saint-Hubert / Gounod"
+      },
+      {
+        "stop_id": "51044",
+        "stop_name": "Saint-Hubert / Jarry"
+      },
+      {
+        "stop_id": "50995",
+        "stop_name": "Saint-Hubert / Mistral"
+      },
+      {
+        "stop_id": "50948",
+        "stop_name": "Saint-Hubert / Leman"
+      },
+      {
+        "stop_id": "50908",
+        "stop_name": "Saint-Hubert / de Liège"
+      },
+      {
+        "stop_id": "50856",
+        "stop_name": "Saint-Hubert / Crémazie (coin Sud-Est)"
+      },
+      {
+        "stop_id": "50861",
+        "stop_name": "Saint-Hubert / Crémazie (coin Nord-Est)"
+      },
+      {
+        "stop_id": "50707",
+        "stop_name": "Saint-Hubert / Émile-Journault"
+      },
+      {
+        "stop_id": "50644",
+        "stop_name": "Collège Ahuntsic (St-Hubert / Legendre)"
+      },
+      {
+        "stop_id": "50585",
+        "stop_name": "Saint-Hubert / Chabanel"
+      },
+      {
+        "stop_id": "50535",
+        "stop_name": "Saint-Hubert / de Louvain"
+      },
+      {
+        "stop_id": "50466",
+        "stop_name": "Saint-Hubert / Sauvé"
+      },
+      {
+        "stop_id": "50420",
+        "stop_name": "Saint-Hubert / Sauriol"
+      },
+      {
+        "stop_id": "50383",
+        "stop_name": "Saint-Hubert / Fleury"
+      },
+      {
+        "stop_id": "50344",
+        "stop_name": "Saint-Hubert / Prieur"
+      },
+      {
+        "stop_id": "54126",
+        "stop_name": "Saint-Hubert / Henri-Bourassa"
+      },
+      {
+        "stop_id": "54127",
+        "stop_name": "Station Henri-Bourassa"
+      }
+    ]
+  }
+]

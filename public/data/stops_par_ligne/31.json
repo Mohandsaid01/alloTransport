@@ -1,0 +1,224 @@
+[
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "54179",
+        "stop_name": "Station Rosemont"
+      },
+      {
+        "stop_id": "61906",
+        "stop_name": "Saint-Denis / de Bellechasse"
+      },
+      {
+        "stop_id": "51508",
+        "stop_name": "Station Beaubien (Saint-Denis / Beaubien)"
+      },
+      {
+        "stop_id": "51438",
+        "stop_name": "Saint-Denis / Saint-Zotique"
+      },
+      {
+        "stop_id": "61910",
+        "stop_name": "Saint-Denis / Bélanger"
+      },
+      {
+        "stop_id": "51310",
+        "stop_name": "Saint-Denis / Jean-Talon"
+      },
+      {
+        "stop_id": "61949",
+        "stop_name": "Saint-Denis / De Castelnau"
+      },
+      {
+        "stop_id": "51196",
+        "stop_name": "Saint-Denis / Faillon"
+      },
+      {
+        "stop_id": "51130",
+        "stop_name": "Saint-Denis / Villeray"
+      },
+      {
+        "stop_id": "51052",
+        "stop_name": "Saint-Denis / Gounod"
+      },
+      {
+        "stop_id": "50979",
+        "stop_name": "Station Jarry (Saint-Denis / Jarry)"
+      },
+      {
+        "stop_id": "50914",
+        "stop_name": "Saint-Denis / Guizot"
+      },
+      {
+        "stop_id": "50840",
+        "stop_name": "Saint-Denis / de Liège"
+      },
+      {
+        "stop_id": "50756",
+        "stop_name": "Station Crémazie Sud (St-Denis / Crémazie)"
+      },
+      {
+        "stop_id": "50793",
+        "stop_name": "Station Crémazie Nord (Lajeunesse / Crémazie)"
+      },
+      {
+        "stop_id": "50678",
+        "stop_name": "Lajeunesse / Émile-Journault"
+      },
+      {
+        "stop_id": "61965",
+        "stop_name": "Lajeunesse / Legendre"
+      },
+      {
+        "stop_id": "61967",
+        "stop_name": "Lajeunesse / Chabanel"
+      },
+      {
+        "stop_id": "53760",
+        "stop_name": "Lajeunesse / de Louvain"
+      },
+      {
+        "stop_id": "61970",
+        "stop_name": "Lajeunesse / Sauvé"
+      },
+      {
+        "stop_id": "61972",
+        "stop_name": "Lajeunesse / Sauriol"
+      },
+      {
+        "stop_id": "50360",
+        "stop_name": "Lajeunesse / Fleury"
+      },
+      {
+        "stop_id": "50334",
+        "stop_name": "Lajeunesse / Prieur"
+      },
+      {
+        "stop_id": "50305",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50314",
+        "stop_name": "Millen / Henri-Bourassa"
+      }
+    ]
+  },
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "50314",
+        "stop_name": "Millen / Henri-Bourassa"
+      },
+      {
+        "stop_id": "54169",
+        "stop_name": "Berri / Gouin"
+      },
+      {
+        "stop_id": "50304",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "61974",
+        "stop_name": "Berri / Prieur"
+      },
+      {
+        "stop_id": "50358",
+        "stop_name": "Berri / Fleury"
+      },
+      {
+        "stop_id": "61973",
+        "stop_name": "Berri / Sauriol"
+      },
+      {
+        "stop_id": "61971",
+        "stop_name": "Station Sauvé (Berri / Sauvé)"
+      },
+      {
+        "stop_id": "61969",
+        "stop_name": "Berri / de Louvain"
+      },
+      {
+        "stop_id": "61968",
+        "stop_name": "Berri / Chabanel"
+      },
+      {
+        "stop_id": "61966",
+        "stop_name": "Berri / Legendre"
+      },
+      {
+        "stop_id": "61964",
+        "stop_name": "Berri / Émile-Journault"
+      },
+      {
+        "stop_id": "50768",
+        "stop_name": "Station Crémazie Nord (Berri / Crémazie)"
+      },
+      {
+        "stop_id": "50758",
+        "stop_name": "Station Crémazie Sud (St-Denis / Crémazie)"
+      },
+      {
+        "stop_id": "61963",
+        "stop_name": "Saint-Denis / de Liège"
+      },
+      {
+        "stop_id": "61961",
+        "stop_name": "Saint-Denis / Guizot"
+      },
+      {
+        "stop_id": "61959",
+        "stop_name": "Station Jarry (Saint-Denis / Jarry)"
+      },
+      {
+        "stop_id": "61957",
+        "stop_name": "Saint-Denis / Gounod"
+      },
+      {
+        "stop_id": "61955",
+        "stop_name": "Saint-Denis / Villeray"
+      },
+      {
+        "stop_id": "61953",
+        "stop_name": "Saint-Denis / Faillon"
+      },
+      {
+        "stop_id": "61951",
+        "stop_name": "Saint-Denis / De Castelnau"
+      },
+      {
+        "stop_id": "61912",
+        "stop_name": "Saint-Denis / Jean-Talon"
+      },
+      {
+        "stop_id": "61911",
+        "stop_name": "Saint-Denis / Bélanger"
+      },
+      {
+        "stop_id": "61909",
+        "stop_name": "Saint-Denis / Saint-Zotique"
+      },
+      {
+        "stop_id": "61908",
+        "stop_name": "Saint-Denis / Beaubien"
+      },
+      {
+        "stop_id": "61907",
+        "stop_name": "Saint-Denis / de Bellechasse"
+      },
+      {
+        "stop_id": "51649",
+        "stop_name": "Station Rosemont (Saint-Denis / Rosemont)"
+      },
+      {
+        "stop_id": "54168",
+        "stop_name": "Saint-Denis / No 5675"
+      },
+      {
+        "stop_id": "61653",
+        "stop_name": "Station Rosemont"
+      }
+    ]
+  }
+]

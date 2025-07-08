@@ -1,0 +1,773 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "51238",
+        "stop_name": "Ozias-Leduc / Paul-Letondal"
+      },
+      {
+        "stop_id": "51219",
+        "stop_name": "Ozias-Leduc / Gouin"
+      },
+      {
+        "stop_id": "61115",
+        "stop_name": "Gouin / No 7015"
+      },
+      {
+        "stop_id": "55314",
+        "stop_name": "Gouin / No 6885"
+      },
+      {
+        "stop_id": "55313",
+        "stop_name": "Gouin / No 6755"
+      },
+      {
+        "stop_id": "55217",
+        "stop_name": "Langelier / Allard"
+      },
+      {
+        "stop_id": "55234",
+        "stop_name": "Langelier / Léger"
+      },
+      {
+        "stop_id": "55243",
+        "stop_name": "Langelier / Villeneuve"
+      },
+      {
+        "stop_id": "55273",
+        "stop_name": "Langelier / Arthur-Chevrier"
+      },
+      {
+        "stop_id": "55287",
+        "stop_name": "Langelier / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "55298",
+        "stop_name": "Langelier / Marie-Victorin"
+      },
+      {
+        "stop_id": "55303",
+        "stop_name": "Langelier / Dijon"
+      },
+      {
+        "stop_id": "55304",
+        "stop_name": "Langelier / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55312",
+        "stop_name": "Henri-Bourassa / No 6475"
+      },
+      {
+        "stop_id": "55300",
+        "stop_name": "Henri-Bourassa / Valade"
+      },
+      {
+        "stop_id": "55292",
+        "stop_name": "Henri-Bourassa / Rolland"
+      },
+      {
+        "stop_id": "59462",
+        "stop_name": "Henri-Bourassa / No 6085"
+      },
+      {
+        "stop_id": "55277",
+        "stop_name": "Henri-Bourassa / Désy"
+      },
+      {
+        "stop_id": "55258",
+        "stop_name": "Lacordaire / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55270",
+        "stop_name": "Lacordaire / d'Amos"
+      },
+      {
+        "stop_id": "55279",
+        "stop_name": "Lacordaire / de Charleroi"
+      },
+      {
+        "stop_id": "55284",
+        "stop_name": "Lacordaire / Industriel"
+      },
+      {
+        "stop_id": "61721",
+        "stop_name": "Gare Saint-Léonard-Montréal-Nord"
+      },
+      {
+        "stop_id": "54775",
+        "stop_name": "des Grandes-Prairies / No 5850"
+      },
+      {
+        "stop_id": "54793",
+        "stop_name": "des Grandes-Prairies / du Prado"
+      },
+      {
+        "stop_id": "55020",
+        "stop_name": "des Grandes-Prairies / No 6150"
+      },
+      {
+        "stop_id": "55027",
+        "stop_name": "des Grandes-Prairies / Langelier"
+      },
+      {
+        "stop_id": "55022",
+        "stop_name": "Langelier / No 9300"
+      },
+      {
+        "stop_id": "54837",
+        "stop_name": "Langelier / Couture"
+      },
+      {
+        "stop_id": "54862",
+        "stop_name": "Langelier / Lavoisier"
+      },
+      {
+        "stop_id": "54880",
+        "stop_name": "Langelier / Lacoursière"
+      },
+      {
+        "stop_id": "54888",
+        "stop_name": "Langelier / Bombardier"
+      },
+      {
+        "stop_id": "54897",
+        "stop_name": "Langelier / Belherbe"
+      },
+      {
+        "stop_id": "54911",
+        "stop_name": "Langelier / P.-E.-Lamarche"
+      },
+      {
+        "stop_id": "54923",
+        "stop_name": "Langelier / Robert"
+      },
+      {
+        "stop_id": "54938",
+        "stop_name": "Langelier / De Blainville"
+      },
+      {
+        "stop_id": "54956",
+        "stop_name": "Langelier / Jarry"
+      },
+      {
+        "stop_id": "54980",
+        "stop_name": "Langelier / Métropolitain (coin Nord-Ouest)"
+      },
+      {
+        "stop_id": "55025",
+        "stop_name": "Langelier / Métropolitain (coin Sud-Ouest)"
+      },
+      {
+        "stop_id": "54993",
+        "stop_name": "Langelier / Jean-Talon"
+      },
+      {
+        "stop_id": "54997",
+        "stop_name": "Langelier / Dumesnil"
+      },
+      {
+        "stop_id": "55000",
+        "stop_name": "Langelier / De Lotbinière"
+      },
+      {
+        "stop_id": "52491",
+        "stop_name": "Langelier / Bélanger"
+      },
+      {
+        "stop_id": "52658",
+        "stop_name": "Langelier / Michel-Bouvier"
+      },
+      {
+        "stop_id": "52750",
+        "stop_name": "Langelier / Beaubien"
+      },
+      {
+        "stop_id": "52838",
+        "stop_name": "Langelier / Ernest-Lavigne"
+      },
+      {
+        "stop_id": "52939",
+        "stop_name": "Langelier / Rosemont"
+      },
+      {
+        "stop_id": "53006",
+        "stop_name": "Langelier / Chauvin"
+      },
+      {
+        "stop_id": "53066",
+        "stop_name": "Langelier / De Renty"
+      },
+      {
+        "stop_id": "53097",
+        "stop_name": "Langelier / Senneville"
+      },
+      {
+        "stop_id": "53153",
+        "stop_name": "Station Langelier (Langelier / Sherbrooke)"
+      },
+      {
+        "stop_id": "53215",
+        "stop_name": "Langelier / de Marseille"
+      },
+      {
+        "stop_id": "53268",
+        "stop_name": "Pierre-De Coubertin / Parkville"
+      },
+      {
+        "stop_id": "53284",
+        "stop_name": "Pierre-De Coubertin / Haig"
+      },
+      {
+        "stop_id": "53319",
+        "stop_name": "Haig / Hochelaga"
+      },
+      {
+        "stop_id": "53844",
+        "stop_name": "Haig / No 2105"
+      },
+      {
+        "stop_id": "53371",
+        "stop_name": "Haig / Ontario"
+      },
+      {
+        "stop_id": "53393",
+        "stop_name": "La Fontaine / Haig"
+      },
+      {
+        "stop_id": "53399",
+        "stop_name": "La Fontaine / Émile-Legrand"
+      },
+      {
+        "stop_id": "53436",
+        "stop_name": "Émile-Legrand / Notre-Dame"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "53436",
+        "stop_name": "Émile-Legrand / Notre-Dame"
+      },
+      {
+        "stop_id": "53431",
+        "stop_name": "Notre-Dame / Haig"
+      },
+      {
+        "stop_id": "53391",
+        "stop_name": "Haig / La Fontaine"
+      },
+      {
+        "stop_id": "53370",
+        "stop_name": "Haig / Ontario"
+      },
+      {
+        "stop_id": "53353",
+        "stop_name": "Haig / No 2105"
+      },
+      {
+        "stop_id": "61839",
+        "stop_name": "Haig / Hochelaga"
+      },
+      {
+        "stop_id": "53281",
+        "stop_name": "Pierre-De Coubertin / Arcand"
+      },
+      {
+        "stop_id": "53267",
+        "stop_name": "Pierre-De Coubertin / Langelier"
+      },
+      {
+        "stop_id": "53214",
+        "stop_name": "Langelier / de Marseille"
+      },
+      {
+        "stop_id": "54174",
+        "stop_name": "Station Langelier (Langelier / Sherbrooke)"
+      },
+      {
+        "stop_id": "53096",
+        "stop_name": "Langelier / Senneville"
+      },
+      {
+        "stop_id": "53057",
+        "stop_name": "Langelier / De Renty"
+      },
+      {
+        "stop_id": "53005",
+        "stop_name": "Langelier / Chauvin"
+      },
+      {
+        "stop_id": "52938",
+        "stop_name": "Langelier / Rosemont"
+      },
+      {
+        "stop_id": "52837",
+        "stop_name": "Langelier / Ernest-Lavigne"
+      },
+      {
+        "stop_id": "52748",
+        "stop_name": "Langelier / Beaubien"
+      },
+      {
+        "stop_id": "52657",
+        "stop_name": "Langelier / Michel-Bouvier"
+      },
+      {
+        "stop_id": "52489",
+        "stop_name": "Langelier / Bélanger"
+      },
+      {
+        "stop_id": "54999",
+        "stop_name": "Langelier / De Lotbinière"
+      },
+      {
+        "stop_id": "54996",
+        "stop_name": "Langelier / Dumesnil"
+      },
+      {
+        "stop_id": "54991",
+        "stop_name": "Langelier / Jean-Talon"
+      },
+      {
+        "stop_id": "54979",
+        "stop_name": "Langelier / Métropolitain (coin Sud-Est)"
+      },
+      {
+        "stop_id": "55024",
+        "stop_name": "Langelier / Métropolitain (coin Nord-Est)"
+      },
+      {
+        "stop_id": "54958",
+        "stop_name": "Langelier / Jarry"
+      },
+      {
+        "stop_id": "54937",
+        "stop_name": "Langelier / De Blainville"
+      },
+      {
+        "stop_id": "54922",
+        "stop_name": "Langelier / Robert"
+      },
+      {
+        "stop_id": "54910",
+        "stop_name": "Langelier / P.-E.-Lamarche"
+      },
+      {
+        "stop_id": "54896",
+        "stop_name": "Langelier / Belherbe"
+      },
+      {
+        "stop_id": "54886",
+        "stop_name": "Langelier / Bombardier"
+      },
+      {
+        "stop_id": "54881",
+        "stop_name": "Langelier / Lacoursière"
+      },
+      {
+        "stop_id": "54861",
+        "stop_name": "Langelier / Lavoisier"
+      },
+      {
+        "stop_id": "54836",
+        "stop_name": "Langelier / Couture"
+      },
+      {
+        "stop_id": "54816",
+        "stop_name": "Langelier / des Grandes-Prairies"
+      },
+      {
+        "stop_id": "55018",
+        "stop_name": "des Grandes-Prairies / No 6363"
+      },
+      {
+        "stop_id": "55019",
+        "stop_name": "des Grandes-Prairies / No 6205"
+      },
+      {
+        "stop_id": "54792",
+        "stop_name": "des Grandes-Prairies / du Prado"
+      },
+      {
+        "stop_id": "54772",
+        "stop_name": "des Grandes-Prairies / Lacordaire"
+      },
+      {
+        "stop_id": "61547",
+        "stop_name": "Gare Saint-Léonard-Montréal-Nord"
+      },
+      {
+        "stop_id": "55283",
+        "stop_name": "Lacordaire / Industriel"
+      },
+      {
+        "stop_id": "55280",
+        "stop_name": "Lacordaire / de Charleroi"
+      },
+      {
+        "stop_id": "55269",
+        "stop_name": "Lacordaire / d'Amos"
+      },
+      {
+        "stop_id": "55254",
+        "stop_name": "Lacordaire / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55278",
+        "stop_name": "Henri-Bourassa / Désy"
+      },
+      {
+        "stop_id": "59461",
+        "stop_name": "Henri-Bourassa / No 6100"
+      },
+      {
+        "stop_id": "55294",
+        "stop_name": "Henri-Bourassa / Rolland"
+      },
+      {
+        "stop_id": "55301",
+        "stop_name": "Henri-Bourassa / Valade"
+      },
+      {
+        "stop_id": "55306",
+        "stop_name": "Langelier / Renoir"
+      },
+      {
+        "stop_id": "55302",
+        "stop_name": "Langelier / Dijon"
+      },
+      {
+        "stop_id": "55296",
+        "stop_name": "Langelier / Marie-Victorin"
+      },
+      {
+        "stop_id": "55285",
+        "stop_name": "Langelier / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "55272",
+        "stop_name": "Langelier / Arthur-Chevrier"
+      },
+      {
+        "stop_id": "55315",
+        "stop_name": "Langelier / Léger"
+      },
+      {
+        "stop_id": "60386",
+        "stop_name": "Langelier / Léger"
+      },
+      {
+        "stop_id": "55218",
+        "stop_name": "Langelier / Allard"
+      },
+      {
+        "stop_id": "55317",
+        "stop_name": "Gouin / No 6700"
+      },
+      {
+        "stop_id": "55311",
+        "stop_name": "Gouin / No 6750"
+      },
+      {
+        "stop_id": "53697",
+        "stop_name": "Gouin / No 6880"
+      },
+      {
+        "stop_id": "54186",
+        "stop_name": "Gouin / No 7015"
+      },
+      {
+        "stop_id": "51220",
+        "stop_name": "Gouin / Ozias-Leduc"
+      },
+      {
+        "stop_id": "54281",
+        "stop_name": "Ozias-Leduc / Paul-Letondal"
+      },
+      {
+        "stop_id": "54138",
+        "stop_name": "Ozias-Leduc / Perras (Hôpital Rivière-des-Prairies"
+      },
+      {
+        "stop_id": "54311",
+        "stop_name": "Hector-Barsalou / De Boucherville"
+      },
+      {
+        "stop_id": "53499",
+        "stop_name": "De Boucherville / Notre-Dame"
+      },
+      {
+        "stop_id": "53478",
+        "stop_name": "Notre-Dame / No 7200"
+      },
+      {
+        "stop_id": "53473",
+        "stop_name": "Notre-Dame / des Futailles"
+      },
+      {
+        "stop_id": "53439",
+        "stop_name": "Notre-Dame / Beauclerk"
+      }
+    ]
+  },
+  {
+    "direction": "Sud destination Hector-Barsalou / de Boucherville",
+    "arrets": [
+      {
+        "stop_id": "51238",
+        "stop_name": "Ozias-Leduc / Paul-Letondal"
+      },
+      {
+        "stop_id": "51219",
+        "stop_name": "Ozias-Leduc / Gouin"
+      },
+      {
+        "stop_id": "61115",
+        "stop_name": "Gouin / No 7015"
+      },
+      {
+        "stop_id": "55314",
+        "stop_name": "Gouin / No 6885"
+      },
+      {
+        "stop_id": "55313",
+        "stop_name": "Gouin / No 6755"
+      },
+      {
+        "stop_id": "55217",
+        "stop_name": "Langelier / Allard"
+      },
+      {
+        "stop_id": "55234",
+        "stop_name": "Langelier / Léger"
+      },
+      {
+        "stop_id": "55243",
+        "stop_name": "Langelier / Villeneuve"
+      },
+      {
+        "stop_id": "55273",
+        "stop_name": "Langelier / Arthur-Chevrier"
+      },
+      {
+        "stop_id": "55287",
+        "stop_name": "Langelier / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "55298",
+        "stop_name": "Langelier / Marie-Victorin"
+      },
+      {
+        "stop_id": "55303",
+        "stop_name": "Langelier / Dijon"
+      },
+      {
+        "stop_id": "55304",
+        "stop_name": "Langelier / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55312",
+        "stop_name": "Henri-Bourassa / No 6475"
+      },
+      {
+        "stop_id": "55300",
+        "stop_name": "Henri-Bourassa / Valade"
+      },
+      {
+        "stop_id": "55292",
+        "stop_name": "Henri-Bourassa / Rolland"
+      },
+      {
+        "stop_id": "59462",
+        "stop_name": "Henri-Bourassa / No 6085"
+      },
+      {
+        "stop_id": "55277",
+        "stop_name": "Henri-Bourassa / Désy"
+      },
+      {
+        "stop_id": "55258",
+        "stop_name": "Lacordaire / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55270",
+        "stop_name": "Lacordaire / d'Amos"
+      },
+      {
+        "stop_id": "55279",
+        "stop_name": "Lacordaire / de Charleroi"
+      },
+      {
+        "stop_id": "55284",
+        "stop_name": "Lacordaire / Industriel"
+      },
+      {
+        "stop_id": "61721",
+        "stop_name": "Gare Saint-Léonard-Montréal-Nord"
+      },
+      {
+        "stop_id": "54775",
+        "stop_name": "des Grandes-Prairies / No 5850"
+      },
+      {
+        "stop_id": "54793",
+        "stop_name": "des Grandes-Prairies / du Prado"
+      },
+      {
+        "stop_id": "55020",
+        "stop_name": "des Grandes-Prairies / No 6150"
+      },
+      {
+        "stop_id": "55027",
+        "stop_name": "des Grandes-Prairies / Langelier"
+      },
+      {
+        "stop_id": "55022",
+        "stop_name": "Langelier / No 9300"
+      },
+      {
+        "stop_id": "54837",
+        "stop_name": "Langelier / Couture"
+      },
+      {
+        "stop_id": "54862",
+        "stop_name": "Langelier / Lavoisier"
+      },
+      {
+        "stop_id": "54880",
+        "stop_name": "Langelier / Lacoursière"
+      },
+      {
+        "stop_id": "54888",
+        "stop_name": "Langelier / Bombardier"
+      },
+      {
+        "stop_id": "54897",
+        "stop_name": "Langelier / Belherbe"
+      },
+      {
+        "stop_id": "54911",
+        "stop_name": "Langelier / P.-E.-Lamarche"
+      },
+      {
+        "stop_id": "54923",
+        "stop_name": "Langelier / Robert"
+      },
+      {
+        "stop_id": "54938",
+        "stop_name": "Langelier / De Blainville"
+      },
+      {
+        "stop_id": "54956",
+        "stop_name": "Langelier / Jarry"
+      },
+      {
+        "stop_id": "54980",
+        "stop_name": "Langelier / Métropolitain (coin Nord-Ouest)"
+      },
+      {
+        "stop_id": "55025",
+        "stop_name": "Langelier / Métropolitain (coin Sud-Ouest)"
+      },
+      {
+        "stop_id": "54993",
+        "stop_name": "Langelier / Jean-Talon"
+      },
+      {
+        "stop_id": "54997",
+        "stop_name": "Langelier / Dumesnil"
+      },
+      {
+        "stop_id": "55000",
+        "stop_name": "Langelier / De Lotbinière"
+      },
+      {
+        "stop_id": "52491",
+        "stop_name": "Langelier / Bélanger"
+      },
+      {
+        "stop_id": "52658",
+        "stop_name": "Langelier / Michel-Bouvier"
+      },
+      {
+        "stop_id": "52750",
+        "stop_name": "Langelier / Beaubien"
+      },
+      {
+        "stop_id": "52838",
+        "stop_name": "Langelier / Ernest-Lavigne"
+      },
+      {
+        "stop_id": "52939",
+        "stop_name": "Langelier / Rosemont"
+      },
+      {
+        "stop_id": "53006",
+        "stop_name": "Langelier / Chauvin"
+      },
+      {
+        "stop_id": "53066",
+        "stop_name": "Langelier / De Renty"
+      },
+      {
+        "stop_id": "53097",
+        "stop_name": "Langelier / Senneville"
+      },
+      {
+        "stop_id": "53153",
+        "stop_name": "Station Langelier (Langelier / Sherbrooke)"
+      },
+      {
+        "stop_id": "53215",
+        "stop_name": "Langelier / de Marseille"
+      },
+      {
+        "stop_id": "53268",
+        "stop_name": "Pierre-De Coubertin / Parkville"
+      },
+      {
+        "stop_id": "53284",
+        "stop_name": "Pierre-De Coubertin / Haig"
+      },
+      {
+        "stop_id": "53319",
+        "stop_name": "Haig / Hochelaga"
+      },
+      {
+        "stop_id": "53844",
+        "stop_name": "Haig / No 2105"
+      },
+      {
+        "stop_id": "53371",
+        "stop_name": "Haig / Ontario"
+      },
+      {
+        "stop_id": "53392",
+        "stop_name": "Haig / La Fontaine"
+      },
+      {
+        "stop_id": "53432",
+        "stop_name": "Haig / Notre-Dame"
+      },
+      {
+        "stop_id": "53440",
+        "stop_name": "Notre-Dame / Beauclerk"
+      },
+      {
+        "stop_id": "53921",
+        "stop_name": "Notre-Dame / des Futailles"
+      },
+      {
+        "stop_id": "53479",
+        "stop_name": "Notre-Dame / No 7200"
+      },
+      {
+        "stop_id": "54311",
+        "stop_name": "Hector-Barsalou / De Boucherville"
+      }
+    ]
+  }
+]

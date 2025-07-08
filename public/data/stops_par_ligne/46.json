@@ -1,0 +1,84 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54167",
+        "stop_name": "Station Laurier Sud (Rivard / Saint-Joseph)"
+      },
+      {
+        "stop_id": "51919",
+        "stop_name": "Saint-Joseph / Saint-Denis"
+      },
+      {
+        "stop_id": "51855",
+        "stop_name": "Saint-Joseph / De Bullion"
+      },
+      {
+        "stop_id": "51828",
+        "stop_name": "Saint-Joseph / Saint-Laurent"
+      },
+      {
+        "stop_id": "51742",
+        "stop_name": "Casgrain / Maguire"
+      },
+      {
+        "stop_id": "51665",
+        "stop_name": "Casgrain / Saint-Viateur"
+      },
+      {
+        "stop_id": "51642",
+        "stop_name": "Saint-Viateur / Saint-Laurent"
+      },
+      {
+        "stop_id": "51623",
+        "stop_name": "Saint-Viateur / Saint-Urbain"
+      },
+      {
+        "stop_id": "51577",
+        "stop_name": "Saint-Viateur / du Parc"
+      },
+      {
+        "stop_id": "51526",
+        "stop_name": "Bernard / de l'Esplanade"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "51526",
+        "stop_name": "Bernard / de l'Esplanade"
+      },
+      {
+        "stop_id": "51556",
+        "stop_name": "Bernard / Saint-Urbain"
+      },
+      {
+        "stop_id": "51643",
+        "stop_name": "Saint-Viateur / Saint-Laurent"
+      },
+      {
+        "stop_id": "51674",
+        "stop_name": "Saint-Viateur / De Gaspé"
+      },
+      {
+        "stop_id": "51752",
+        "stop_name": "De Gaspé / Maguire"
+      },
+      {
+        "stop_id": "51832",
+        "stop_name": "De Gaspé / Laurier"
+      },
+      {
+        "stop_id": "51865",
+        "stop_name": "Laurier / Saint-Denis"
+      },
+      {
+        "stop_id": "54167",
+        "stop_name": "Station Laurier Sud (Rivard / Saint-Joseph)"
+      }
+    ]
+  }
+]

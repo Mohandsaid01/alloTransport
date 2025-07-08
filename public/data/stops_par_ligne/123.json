@@ -1,0 +1,244 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "50743",
+        "stop_name": "Elmhurst / Coffee"
+      },
+      {
+        "stop_id": "50801",
+        "stop_name": "Elmhurst / Harley"
+      },
+      {
+        "stop_id": "50850",
+        "stop_name": "Elmhurst / Saint-Jacques"
+      },
+      {
+        "stop_id": "56447",
+        "stop_name": "Avon / Westminster"
+      },
+      {
+        "stop_id": "56445",
+        "stop_name": "Avon / Milton"
+      },
+      {
+        "stop_id": "56478",
+        "stop_name": "Saint-Jacques / Ouellette"
+      },
+      {
+        "stop_id": "62070",
+        "stop_name": "Saint-Jacques / du Chalet"
+      },
+      {
+        "stop_id": "56475",
+        "stop_name": "Saint-Pierre / Notre-Dame"
+      },
+      {
+        "stop_id": "57100",
+        "stop_name": "Dollard / No 850"
+      },
+      {
+        "stop_id": "56796",
+        "stop_name": "Dollard / Elmslie"
+      },
+      {
+        "stop_id": "56808",
+        "stop_name": "Dollard / Hull"
+      },
+      {
+        "stop_id": "56816",
+        "stop_name": "Dollard / Trudeau"
+      },
+      {
+        "stop_id": "56821",
+        "stop_name": "Dollard / Bédard"
+      },
+      {
+        "stop_id": "56835",
+        "stop_name": "Newman / Dollard"
+      },
+      {
+        "stop_id": "57075",
+        "stop_name": "Newman / No 8600"
+      },
+      {
+        "stop_id": "56853",
+        "stop_name": "Newman / Shevchenko"
+      },
+      {
+        "stop_id": "56869",
+        "stop_name": "Shevchenko / David-Boyer"
+      },
+      {
+        "stop_id": "56890",
+        "stop_name": "Shevchenko / Lemieux"
+      },
+      {
+        "stop_id": "56913",
+        "stop_name": "Shevchenko / Robert"
+      },
+      {
+        "stop_id": "56924",
+        "stop_name": "Shevchenko / Jean-Brillon"
+      },
+      {
+        "stop_id": "57043",
+        "stop_name": "Shevchenko / Jean-Chevalier"
+      },
+      {
+        "stop_id": "56949",
+        "stop_name": "Shevchenko / Bouvier"
+      },
+      {
+        "stop_id": "56963",
+        "stop_name": "Shevchenko / De La Vérendrye"
+      },
+      {
+        "stop_id": "62347",
+        "stop_name": "Bishop-Power / Champlain"
+      },
+      {
+        "stop_id": "56983",
+        "stop_name": "George / 9e Avenue"
+      },
+      {
+        "stop_id": "56990",
+        "stop_name": "9e Avenue / Broadway"
+      },
+      {
+        "stop_id": "57005",
+        "stop_name": "Centrale / Bishop-Power"
+      },
+      {
+        "stop_id": "57004",
+        "stop_name": "Bishop-Power / No 506"
+      },
+      {
+        "stop_id": "56979",
+        "stop_name": "Bishop-Power / George"
+      },
+      {
+        "stop_id": "57095",
+        "stop_name": "Champlain / Bishop-Power"
+      },
+      {
+        "stop_id": "57061",
+        "stop_name": "Gagné / Centre Lecavalier"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "57061",
+        "stop_name": "Gagné / Centre Lecavalier"
+      },
+      {
+        "stop_id": "57097",
+        "stop_name": "Gagné / George"
+      },
+      {
+        "stop_id": "56971",
+        "stop_name": "Bishop-Power / Champlain"
+      },
+      {
+        "stop_id": "56964",
+        "stop_name": "Shevchenko / De La Vérendrye"
+      },
+      {
+        "stop_id": "56948",
+        "stop_name": "Shevchenko / Bouvier"
+      },
+      {
+        "stop_id": "56728",
+        "stop_name": "Shevchenko / Jean-Chevalier"
+      },
+      {
+        "stop_id": "56922",
+        "stop_name": "Shevchenko / Jean-Brillon"
+      },
+      {
+        "stop_id": "56912",
+        "stop_name": "Shevchenko / Robert"
+      },
+      {
+        "stop_id": "56884",
+        "stop_name": "Shevchenko / Lefebvre"
+      },
+      {
+        "stop_id": "56868",
+        "stop_name": "Shevchenko / David-Boyer"
+      },
+      {
+        "stop_id": "57082",
+        "stop_name": "CLSC de LaSalle (Newman / No 8550)"
+      },
+      {
+        "stop_id": "56827",
+        "stop_name": "Dollard / Newman (côté Nord)"
+      },
+      {
+        "stop_id": "56820",
+        "stop_name": "Dollard / Hardy"
+      },
+      {
+        "stop_id": "56815",
+        "stop_name": "Dollard / Trudeau"
+      },
+      {
+        "stop_id": "56807",
+        "stop_name": "Dollard / Hull"
+      },
+      {
+        "stop_id": "56795",
+        "stop_name": "Dollard / Elmslie"
+      },
+      {
+        "stop_id": "56797",
+        "stop_name": "Dollard / Saint-Patrick"
+      },
+      {
+        "stop_id": "56471",
+        "stop_name": "Saint-Pierre / Notre-Dame"
+      },
+      {
+        "stop_id": "62071",
+        "stop_name": "Saint-Jacques / du Chalet"
+      },
+      {
+        "stop_id": "56479",
+        "stop_name": "Saint-Jacques / Duranceau"
+      },
+      {
+        "stop_id": "56487",
+        "stop_name": "Saint-Jacques / No 92"
+      },
+      {
+        "stop_id": "56444",
+        "stop_name": "Avon / Ronald"
+      },
+      {
+        "stop_id": "56448",
+        "stop_name": "Avon / Brynmor"
+      },
+      {
+        "stop_id": "54035",
+        "stop_name": "Elmhurst / Saint-Jacques"
+      },
+      {
+        "stop_id": "50800",
+        "stop_name": "Elmhurst / Harley"
+      },
+      {
+        "stop_id": "54160",
+        "stop_name": "Elmhurst / Sherbrooke"
+      },
+      {
+        "stop_id": "50743",
+        "stop_name": "Elmhurst / Coffee"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "53970",
+        "stop_name": "Station Papineau (De Maisonneuve / Cartier)"
+      },
+      {
+        "stop_id": "53841",
+        "stop_name": "Pont Jacques-Cartier (Papineau/Logan)"
+      },
+      {
+        "stop_id": "54177",
+        "stop_name": "La Ronde"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "54177",
+        "stop_name": "La Ronde"
+      },
+      {
+        "stop_id": "53970",
+        "stop_name": "Station Papineau (De Maisonneuve / Cartier)"
+      }
+    ]
+  }
+]

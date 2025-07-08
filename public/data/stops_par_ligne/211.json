@@ -1,0 +1,388 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "61338",
+        "stop_name": "Station Lionel-Groulx"
+      },
+      {
+        "stop_id": "57539",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "57522",
+        "stop_name": "Dorval / No 353"
+      },
+      {
+        "stop_id": "57458",
+        "stop_name": "Carson / Les Jardins Dorval"
+      },
+      {
+        "stop_id": "57454",
+        "stop_name": "Carson / Lepage"
+      },
+      {
+        "stop_id": "57448",
+        "stop_name": "Carson / Roy"
+      },
+      {
+        "stop_id": "57444",
+        "stop_name": "Fénelon / Dumont"
+      },
+      {
+        "stop_id": "57422",
+        "stop_name": "Gare Pine Beach"
+      },
+      {
+        "stop_id": "57790",
+        "stop_name": "Gare Pointe-Claire"
+      },
+      {
+        "stop_id": "57811",
+        "stop_name": "Autoroute 20 Ouest / Saint-Jean"
+      },
+      {
+        "stop_id": "57769",
+        "stop_name": "Cartier / Salisbury"
+      },
+      {
+        "stop_id": "57771",
+        "stop_name": "Cartier / de Val-Soleil"
+      },
+      {
+        "stop_id": "57635",
+        "stop_name": "Cartier / No 117"
+      },
+      {
+        "stop_id": "57642",
+        "stop_name": "Cartier / Lanthier"
+      },
+      {
+        "stop_id": "57641",
+        "stop_name": "de Lourdes / Bord-du-Lac"
+      },
+      {
+        "stop_id": "57802",
+        "stop_name": "Bord-du-Lac / Sainte-Anne"
+      },
+      {
+        "stop_id": "57631",
+        "stop_name": "Bord-du-Lac / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "57618",
+        "stop_name": "Bord-du-Lac / Pointe-Claire"
+      },
+      {
+        "stop_id": "58479",
+        "stop_name": "Lakeshore / Beaconsfield"
+      },
+      {
+        "stop_id": "58490",
+        "stop_name": "Beaconsfield / Hyde Park"
+      },
+      {
+        "stop_id": "58476",
+        "stop_name": "Beaconsfield / Claude"
+      },
+      {
+        "stop_id": "58475",
+        "stop_name": "Beaconsfield / Saint-Charles"
+      },
+      {
+        "stop_id": "58468",
+        "stop_name": "Beaconsfield / Kenwood"
+      },
+      {
+        "stop_id": "58460",
+        "stop_name": "Beaconsfield / Fieldsend"
+      },
+      {
+        "stop_id": "58454",
+        "stop_name": "Beaconsfield / Gables"
+      },
+      {
+        "stop_id": "60148",
+        "stop_name": "Beaconsfield / Beaconsfield Court"
+      },
+      {
+        "stop_id": "58446",
+        "stop_name": "Beaconsfield / Shore"
+      },
+      {
+        "stop_id": "58440",
+        "stop_name": "Beaconsfield / Harrow"
+      },
+      {
+        "stop_id": "58437",
+        "stop_name": "Beaconsfield / Neveu"
+      },
+      {
+        "stop_id": "58431",
+        "stop_name": "Beaconsfield / Legault"
+      },
+      {
+        "stop_id": "58428",
+        "stop_name": "Beaconsfield / Saint-Louis"
+      },
+      {
+        "stop_id": "58426",
+        "stop_name": "Beaconsfield / Woodland"
+      },
+      {
+        "stop_id": "58424",
+        "stop_name": "Beaconsfield / Madsen"
+      },
+      {
+        "stop_id": "58422",
+        "stop_name": "Beaconsfield / Lakeview"
+      },
+      {
+        "stop_id": "58421",
+        "stop_name": "Beaconsfield / Brentwood"
+      },
+      {
+        "stop_id": "58513",
+        "stop_name": "Lakeshore / Magnolia"
+      },
+      {
+        "stop_id": "58511",
+        "stop_name": "Lakeshore / Willowdale"
+      },
+      {
+        "stop_id": "58509",
+        "stop_name": "Lakeshore / Apple Hill"
+      },
+      {
+        "stop_id": "58507",
+        "stop_name": "Lakeshore / Normandy"
+      },
+      {
+        "stop_id": "58505",
+        "stop_name": "Lakeshore / Sunny Acres"
+      },
+      {
+        "stop_id": "58502",
+        "stop_name": "Lakeshore / Morgan"
+      },
+      {
+        "stop_id": "58520",
+        "stop_name": "Lakeshore / No 20551"
+      },
+      {
+        "stop_id": "58499",
+        "stop_name": "Lakeshore / Churchill"
+      },
+      {
+        "stop_id": "58517",
+        "stop_name": "Lakeshore / No 20713"
+      },
+      {
+        "stop_id": "58496",
+        "stop_name": "Lakeshore / Saint-Andrew's"
+      },
+      {
+        "stop_id": "58516",
+        "stop_name": "Lakeshore / No 20846"
+      },
+      {
+        "stop_id": "58590",
+        "stop_name": "Lakeshore / Macdonald"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "58590",
+        "stop_name": "Lakeshore / Macdonald"
+      },
+      {
+        "stop_id": "58571",
+        "stop_name": "Lakeshore / No 20846"
+      },
+      {
+        "stop_id": "58497",
+        "stop_name": "Lakeshore / Saint-Andrew's"
+      },
+      {
+        "stop_id": "58498",
+        "stop_name": "Lakeshore / Case"
+      },
+      {
+        "stop_id": "58500",
+        "stop_name": "Lakeshore / Churchill"
+      },
+      {
+        "stop_id": "58501",
+        "stop_name": "Lakeshore / No 20578"
+      },
+      {
+        "stop_id": "58504",
+        "stop_name": "Lakeshore / Morgan"
+      },
+      {
+        "stop_id": "58506",
+        "stop_name": "Lakeshore / Sunny Acres"
+      },
+      {
+        "stop_id": "58508",
+        "stop_name": "Lakeshore / Normandy"
+      },
+      {
+        "stop_id": "58510",
+        "stop_name": "Lakeshore / Apple Hill"
+      },
+      {
+        "stop_id": "58512",
+        "stop_name": "Lakeshore / Wilson"
+      },
+      {
+        "stop_id": "58514",
+        "stop_name": "Lakeshore / Magnolia"
+      },
+      {
+        "stop_id": "58486",
+        "stop_name": "Beaconsfield / Redfern"
+      },
+      {
+        "stop_id": "58423",
+        "stop_name": "Beaconsfield / Lakeview"
+      },
+      {
+        "stop_id": "58425",
+        "stop_name": "Beaconsfield / Madsen"
+      },
+      {
+        "stop_id": "58427",
+        "stop_name": "Beaconsfield / Woodland"
+      },
+      {
+        "stop_id": "58429",
+        "stop_name": "Beaconsfield / Saint-Louis"
+      },
+      {
+        "stop_id": "58432",
+        "stop_name": "Beaconsfield / Legault"
+      },
+      {
+        "stop_id": "58436",
+        "stop_name": "Beaconsfield / Neveu"
+      },
+      {
+        "stop_id": "58441",
+        "stop_name": "Beaconsfield / Harrow"
+      },
+      {
+        "stop_id": "58447",
+        "stop_name": "Beaconsfield / Shore"
+      },
+      {
+        "stop_id": "58417",
+        "stop_name": "Beaconsfield / Beaconsfield Court"
+      },
+      {
+        "stop_id": "58455",
+        "stop_name": "Beaconsfield / Gables"
+      },
+      {
+        "stop_id": "58463",
+        "stop_name": "Beaconsfield / East Gables"
+      },
+      {
+        "stop_id": "58469",
+        "stop_name": "Beaconsfield / Kenwood"
+      },
+      {
+        "stop_id": "58473",
+        "stop_name": "Beaconsfield / Saint-Charles"
+      },
+      {
+        "stop_id": "58477",
+        "stop_name": "Beaconsfield / Claude"
+      },
+      {
+        "stop_id": "58478",
+        "stop_name": "Beaconsfield / Hyde Park"
+      },
+      {
+        "stop_id": "58480",
+        "stop_name": "Beaconsfield / Lakeshore"
+      },
+      {
+        "stop_id": "57619",
+        "stop_name": "Bord-du-Lac / Pointe-Claire"
+      },
+      {
+        "stop_id": "57632",
+        "stop_name": "Bord-du-Lac / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "57803",
+        "stop_name": "Bord-du-Lac / Sainte-Anne"
+      },
+      {
+        "stop_id": "57643",
+        "stop_name": "Lanthier / Cartier"
+      },
+      {
+        "stop_id": "57785",
+        "stop_name": "Cartier / No 117"
+      },
+      {
+        "stop_id": "57770",
+        "stop_name": "Cartier / de Val-Soleil"
+      },
+      {
+        "stop_id": "57601",
+        "stop_name": "Cartier / Autoroute 20"
+      },
+      {
+        "stop_id": "57772",
+        "stop_name": "Autoroute 20 / Saint-Jean"
+      },
+      {
+        "stop_id": "57789",
+        "stop_name": "Gare Pointe-Claire"
+      },
+      {
+        "stop_id": "57423",
+        "stop_name": "Herron / Pine Beach"
+      },
+      {
+        "stop_id": "57519",
+        "stop_name": "Herron / No 1268"
+      },
+      {
+        "stop_id": "57518",
+        "stop_name": "Dumont / Fénelon"
+      },
+      {
+        "stop_id": "57453",
+        "stop_name": "Carson / Roy"
+      },
+      {
+        "stop_id": "57455",
+        "stop_name": "Carson / Lepage"
+      },
+      {
+        "stop_id": "57499",
+        "stop_name": "Carson / Les Jardins Dorval"
+      },
+      {
+        "stop_id": "57491",
+        "stop_name": "Dorval / No 352"
+      },
+      {
+        "stop_id": "57538",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "61339",
+        "stop_name": "Station Lionel-Groulx"
+      }
+    ]
+  }
+]

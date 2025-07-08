@@ -1,0 +1,700 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "54526",
+        "stop_name": "L.-J.- Forget / Larrey"
+      },
+      {
+        "stop_id": "54515",
+        "stop_name": "L.-J.- Forget / Henri-Bourassa"
+      },
+      {
+        "stop_id": "52026",
+        "stop_name": "Armand-Bombardier / Henri-Bourassa"
+      },
+      {
+        "stop_id": "51878",
+        "stop_name": "Armand-Bombardier / Blaise-Pascal"
+      },
+      {
+        "stop_id": "51756",
+        "stop_name": "Maurice-Duplessis / No 7861"
+      },
+      {
+        "stop_id": "51699",
+        "stop_name": "Maurice-Duplessis / La Valinière"
+      },
+      {
+        "stop_id": "53927",
+        "stop_name": "Maurice-Duplessis / Fernand-Gauthier"
+      },
+      {
+        "stop_id": "54051",
+        "stop_name": "Maurice-Duplessis / No 7588"
+      },
+      {
+        "stop_id": "51552",
+        "stop_name": "Maurice-Duplessis / Pierre-Blanchet"
+      },
+      {
+        "stop_id": "51521",
+        "stop_name": "Maurice-Duplessis / 5e Avenue"
+      },
+      {
+        "stop_id": "53930",
+        "stop_name": "Maurice-Duplessis / Marie-Victorin (Cégep Marie-Vi"
+      },
+      {
+        "stop_id": "53931",
+        "stop_name": "Maurice-Duplessis / No 7000 (Hôpital Rivière-des-P"
+      },
+      {
+        "stop_id": "55290",
+        "stop_name": "Maurice-Duplessis / Albert-Hudon"
+      },
+      {
+        "stop_id": "55282",
+        "stop_name": "Maurice-Duplessis / Monty"
+      },
+      {
+        "stop_id": "55276",
+        "stop_name": "Maurice-Duplessis / Lapierre"
+      },
+      {
+        "stop_id": "55261",
+        "stop_name": "Maurice-Duplessis / Rolland"
+      },
+      {
+        "stop_id": "55232",
+        "stop_name": "Maurice-Duplessis / Laurier"
+      },
+      {
+        "stop_id": "55211",
+        "stop_name": "Lacordaire / des Tulipes"
+      },
+      {
+        "stop_id": "55230",
+        "stop_name": "Lacordaire / des Iris"
+      },
+      {
+        "stop_id": "55256",
+        "stop_name": "Lacordaire / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55222",
+        "stop_name": "Henri-Bourassa / Jean-Meunier"
+      },
+      {
+        "stop_id": "55199",
+        "stop_name": "Henri-Bourassa / Salk"
+      },
+      {
+        "stop_id": "55190",
+        "stop_name": "Henri-Bourassa / Alfred"
+      },
+      {
+        "stop_id": "55174",
+        "stop_name": "Henri-Bourassa / Racette"
+      },
+      {
+        "stop_id": "55145",
+        "stop_name": "Henri-Bourassa / Sainte-Gertrude"
+      },
+      {
+        "stop_id": "55115",
+        "stop_name": "Henri-Bourassa / L'Archevêque"
+      },
+      {
+        "stop_id": "55095",
+        "stop_name": "Henri-Bourassa / Drapeau"
+      },
+      {
+        "stop_id": "55072",
+        "stop_name": "Henri-Bourassa / Pelletier"
+      },
+      {
+        "stop_id": "55064",
+        "stop_name": "Henri-Bourassa / Pie-IX"
+      },
+      {
+        "stop_id": "55052",
+        "stop_name": "Henri-Bourassa / London"
+      },
+      {
+        "stop_id": "55048",
+        "stop_name": "Henri-Bourassa / Plaza"
+      },
+      {
+        "stop_id": "55043",
+        "stop_name": "Henri-Bourassa / Saint-Vital"
+      },
+      {
+        "stop_id": "55039",
+        "stop_name": "Henri-Bourassa / Mère-Anselme"
+      },
+      {
+        "stop_id": "55038",
+        "stop_name": "Henri-Bourassa / De Belleville"
+      },
+      {
+        "stop_id": "55034",
+        "stop_name": "Henri-Bourassa / Audoin"
+      },
+      {
+        "stop_id": "50513",
+        "stop_name": "Henri-Bourassa / Saint-Michel"
+      },
+      {
+        "stop_id": "50494",
+        "stop_name": "Henri-Bourassa / J.-J.-Gagnier"
+      },
+      {
+        "stop_id": "50483",
+        "stop_name": "Henri-Bourassa / Sackville"
+      },
+      {
+        "stop_id": "50464",
+        "stop_name": "Henri-Bourassa / D'Iberville"
+      },
+      {
+        "stop_id": "50444",
+        "stop_name": "Henri-Bourassa / de Lille"
+      },
+      {
+        "stop_id": "50429",
+        "stop_name": "Henri-Bourassa / Parthenais"
+      },
+      {
+        "stop_id": "50413",
+        "stop_name": "Henri-Bourassa / De Saint-Firmin"
+      },
+      {
+        "stop_id": "50408",
+        "stop_name": "Henri-Bourassa / Séguin"
+      },
+      {
+        "stop_id": "53805",
+        "stop_name": "Henri-Bourassa / Lambert"
+      },
+      {
+        "stop_id": "50387",
+        "stop_name": "Henri-Bourassa / du Fort-Lorette"
+      },
+      {
+        "stop_id": "50366",
+        "stop_name": "Henri-Bourassa / Francis"
+      },
+      {
+        "stop_id": "50363",
+        "stop_name": "Henri-Bourassa / Hamel"
+      },
+      {
+        "stop_id": "50350",
+        "stop_name": "Henri-Bourassa / Christophe-Colomb"
+      },
+      {
+        "stop_id": "50333",
+        "stop_name": "Henri-Bourassa / De La Roche"
+      },
+      {
+        "stop_id": "50316",
+        "stop_name": "Henri-Bourassa / Saint-Hubert"
+      },
+      {
+        "stop_id": "50306",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50301",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50299",
+        "stop_name": "Henri-Bourassa / Laverdure"
+      },
+      {
+        "stop_id": "62372",
+        "stop_name": "Henri-Bourassa / Saint-Laurent"
+      },
+      {
+        "stop_id": "62373",
+        "stop_name": "Henri-Bourassa / de l'Esplanade"
+      },
+      {
+        "stop_id": "50279",
+        "stop_name": "Henri-Bourassa / Tanguay"
+      },
+      {
+        "stop_id": "53727",
+        "stop_name": "SAAQ (Henri-Bourassa / No 750)"
+      },
+      {
+        "stop_id": "62374",
+        "stop_name": "Henri-Bourassa / du Bois-de-Boulogne"
+      },
+      {
+        "stop_id": "50264",
+        "stop_name": "Henri-Bourassa / Marcelin-Wilson"
+      },
+      {
+        "stop_id": "50260",
+        "stop_name": "Henri-Bourassa / de l'Acadie"
+      },
+      {
+        "stop_id": "55648",
+        "stop_name": "Jules-Poitras / Crépeau"
+      },
+      {
+        "stop_id": "55660",
+        "stop_name": "Jules-Poitras / Deguire"
+      },
+      {
+        "stop_id": "55815",
+        "stop_name": "Jules-Poitras / No 1385"
+      },
+      {
+        "stop_id": "55716",
+        "stop_name": "Jules-Poitras / Thompson"
+      },
+      {
+        "stop_id": "55729",
+        "stop_name": "Jules-Poitras / Côte-Vertu"
+      },
+      {
+        "stop_id": "55718",
+        "stop_name": "Côte-Vertu / Muir"
+      },
+      {
+        "stop_id": "55707",
+        "stop_name": "Côte-Vertu / Champigny"
+      },
+      {
+        "stop_id": "55696",
+        "stop_name": "Côte-Vertu / Barré"
+      },
+      {
+        "stop_id": "55689",
+        "stop_name": "Côte-Vertu / Dutrisac"
+      },
+      {
+        "stop_id": "55661",
+        "stop_name": "Côte-Vertu / Sainte-Croix"
+      },
+      {
+        "stop_id": "55649",
+        "stop_name": "Côte-Vertu / Saint-Germain"
+      },
+      {
+        "stop_id": "60289",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "55677",
+        "stop_name": "Décarie / de l'Église"
+      },
+      {
+        "stop_id": "55825",
+        "stop_name": "Décarie / Beaudet"
+      },
+      {
+        "stop_id": "55714",
+        "stop_name": "du Collège / Saint-Germain"
+      },
+      {
+        "stop_id": "55726",
+        "stop_name": "du Collège / Filiatrault"
+      },
+      {
+        "stop_id": "55742",
+        "stop_name": "Hodge / Sainte-Croix"
+      },
+      {
+        "stop_id": "55745",
+        "stop_name": "Hodge / Hébert"
+      },
+      {
+        "stop_id": "55751",
+        "stop_name": "Hodge / Laperrière"
+      },
+      {
+        "stop_id": "55754",
+        "stop_name": "Hodge / Houde"
+      },
+      {
+        "stop_id": "55895",
+        "stop_name": "Hodge / Harris"
+      },
+      {
+        "stop_id": "55759",
+        "stop_name": "Hodge / Montpellier"
+      },
+      {
+        "stop_id": "61371",
+        "stop_name": "Stinson / Montpellier"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "61371",
+        "stop_name": "Stinson / Montpellier"
+      },
+      {
+        "stop_id": "55762",
+        "stop_name": "Stinson / Hodge"
+      },
+      {
+        "stop_id": "55758",
+        "stop_name": "Hodge / Montpellier"
+      },
+      {
+        "stop_id": "55753",
+        "stop_name": "Hodge / Houde"
+      },
+      {
+        "stop_id": "55750",
+        "stop_name": "Hodge / Laperrière"
+      },
+      {
+        "stop_id": "55744",
+        "stop_name": "Hodge / Hébert"
+      },
+      {
+        "stop_id": "55740",
+        "stop_name": "Hodge / Sainte-Croix"
+      },
+      {
+        "stop_id": "55727",
+        "stop_name": "du Collège / Sainte-Croix"
+      },
+      {
+        "stop_id": "55713",
+        "stop_name": "du Collège / Saint-Germain"
+      },
+      {
+        "stop_id": "55704",
+        "stop_name": "Station Du Collège (du Collège / Décarie)"
+      },
+      {
+        "stop_id": "55675",
+        "stop_name": "Décarie / de l'Église"
+      },
+      {
+        "stop_id": "55658",
+        "stop_name": "Décarie / Decelles"
+      },
+      {
+        "stop_id": "61323",
+        "stop_name": "Décarie / Côte-Vertu"
+      },
+      {
+        "stop_id": "55650",
+        "stop_name": "Côte-Vertu / Saint-Germain"
+      },
+      {
+        "stop_id": "55662",
+        "stop_name": "Côte-Vertu / Sainte-Croix"
+      },
+      {
+        "stop_id": "55688",
+        "stop_name": "Côte-Vertu / Dutrisac"
+      },
+      {
+        "stop_id": "55712",
+        "stop_name": "Côte-Vertu / Montpellier"
+      },
+      {
+        "stop_id": "55720",
+        "stop_name": "Côte-Vertu / Muir"
+      },
+      {
+        "stop_id": "55731",
+        "stop_name": "Jules-Poitras / Côte-Vertu"
+      },
+      {
+        "stop_id": "55715",
+        "stop_name": "Jules-Poitras / Thompson"
+      },
+      {
+        "stop_id": "55695",
+        "stop_name": "Jules-Poitras / No 1385"
+      },
+      {
+        "stop_id": "55659",
+        "stop_name": "Jules-Poitras / Deguire"
+      },
+      {
+        "stop_id": "55647",
+        "stop_name": "Jules-Poitras / Crépeau"
+      },
+      {
+        "stop_id": "50262",
+        "stop_name": "Henri-Bourassa / de l'Acadie"
+      },
+      {
+        "stop_id": "50263",
+        "stop_name": "Henri-Bourassa / de l'Acadie"
+      },
+      {
+        "stop_id": "62369",
+        "stop_name": "Henri-Bourassa / Marcelin-Wilson"
+      },
+      {
+        "stop_id": "50270",
+        "stop_name": "Collège de Bois-de-Boulogne"
+      },
+      {
+        "stop_id": "50278",
+        "stop_name": "SAAQ (Henri-Bourassa / Meilleur)"
+      },
+      {
+        "stop_id": "62419",
+        "stop_name": "Henri-Bourassa / Verville"
+      },
+      {
+        "stop_id": "62370",
+        "stop_name": "Henri-Bourassa / de l'Esplanade"
+      },
+      {
+        "stop_id": "50297",
+        "stop_name": "Henri-Bourassa / Saint-Laurent"
+      },
+      {
+        "stop_id": "62371",
+        "stop_name": "Henri-Bourassa / Laverdure"
+      },
+      {
+        "stop_id": "50303",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50307",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "50317",
+        "stop_name": "Henri-Bourassa / Saint-Hubert"
+      },
+      {
+        "stop_id": "50321",
+        "stop_name": "Henri-Bourassa / Georges-Baril"
+      },
+      {
+        "stop_id": "50335",
+        "stop_name": "Henri-Bourassa / Chambord"
+      },
+      {
+        "stop_id": "50351",
+        "stop_name": "Henri-Bourassa / Christophe-Colomb"
+      },
+      {
+        "stop_id": "50364",
+        "stop_name": "Henri-Bourassa / Hamel"
+      },
+      {
+        "stop_id": "50367",
+        "stop_name": "Henri-Bourassa / Francis"
+      },
+      {
+        "stop_id": "50388",
+        "stop_name": "Henri-Bourassa / du Fort-Lorette"
+      },
+      {
+        "stop_id": "50400",
+        "stop_name": "Henri-Bourassa / Papineau"
+      },
+      {
+        "stop_id": "50409",
+        "stop_name": "Henri-Bourassa / Séguin"
+      },
+      {
+        "stop_id": "50415",
+        "stop_name": "Henri-Bourassa / De Saint-Firmin"
+      },
+      {
+        "stop_id": "50430",
+        "stop_name": "Henri-Bourassa / Parthenais"
+      },
+      {
+        "stop_id": "50445",
+        "stop_name": "Henri-Bourassa / de Lille"
+      },
+      {
+        "stop_id": "50465",
+        "stop_name": "Henri-Bourassa / D'Iberville"
+      },
+      {
+        "stop_id": "50484",
+        "stop_name": "Henri-Bourassa / Sackville"
+      },
+      {
+        "stop_id": "50495",
+        "stop_name": "Henri-Bourassa / J.-J.-Gagnier"
+      },
+      {
+        "stop_id": "50514",
+        "stop_name": "Henri-Bourassa / Saint-Michel (coin Sud-Ouest)"
+      },
+      {
+        "stop_id": "50515",
+        "stop_name": "Henri-Bourassa / Saint-Michel"
+      },
+      {
+        "stop_id": "55035",
+        "stop_name": "Henri-Bourassa / Leblanc"
+      },
+      {
+        "stop_id": "55040",
+        "stop_name": "Henri-Bourassa / du Parc-Georges"
+      },
+      {
+        "stop_id": "55045",
+        "stop_name": "Henri-Bourassa / Saint-Vital"
+      },
+      {
+        "stop_id": "55049",
+        "stop_name": "Henri-Bourassa / Plaza"
+      },
+      {
+        "stop_id": "55053",
+        "stop_name": "Henri-Bourassa / des Récollets"
+      },
+      {
+        "stop_id": "61542",
+        "stop_name": "Henri-Bourassa / Pie-IX"
+      },
+      {
+        "stop_id": "55067",
+        "stop_name": "Henri-Bourassa / Hôtel-de-Ville"
+      },
+      {
+        "stop_id": "55073",
+        "stop_name": "Henri-Bourassa / Pelletier"
+      },
+      {
+        "stop_id": "55094",
+        "stop_name": "Henri-Bourassa / Balzac"
+      },
+      {
+        "stop_id": "55109",
+        "stop_name": "Henri-Bourassa / Bellevois"
+      },
+      {
+        "stop_id": "55147",
+        "stop_name": "Henri-Bourassa / Sainte-Gertrude"
+      },
+      {
+        "stop_id": "55175",
+        "stop_name": "Henri-Bourassa / Racette"
+      },
+      {
+        "stop_id": "55191",
+        "stop_name": "Henri-Bourassa / Alfred"
+      },
+      {
+        "stop_id": "55200",
+        "stop_name": "Henri-Bourassa / Salk"
+      },
+      {
+        "stop_id": "55214",
+        "stop_name": "Henri-Bourassa / Sainte-Colette"
+      },
+      {
+        "stop_id": "55245",
+        "stop_name": "CLSC de Montréal-Nord"
+      },
+      {
+        "stop_id": "55221",
+        "stop_name": "Lacordaire / Crevier"
+      },
+      {
+        "stop_id": "55209",
+        "stop_name": "Lacordaire / Maurice-Duplessis"
+      },
+      {
+        "stop_id": "55227",
+        "stop_name": "Maurice-Duplessis / Désy"
+      },
+      {
+        "stop_id": "55244",
+        "stop_name": "Maurice-Duplessis / P.-M.-Favier"
+      },
+      {
+        "stop_id": "55263",
+        "stop_name": "Maurice-Duplessis / Rolland"
+      },
+      {
+        "stop_id": "55281",
+        "stop_name": "Maurice-Duplessis / Matte"
+      },
+      {
+        "stop_id": "55288",
+        "stop_name": "Maurice-Duplessis / Langelier"
+      },
+      {
+        "stop_id": "55291",
+        "stop_name": "Maurice-Duplessis / Albert-Hudon"
+      },
+      {
+        "stop_id": "54236",
+        "stop_name": "Maurice-Duplessis / No 7000"
+      },
+      {
+        "stop_id": "51464",
+        "stop_name": "Maurice-Duplessis / Marie-Victorin (Cégep Marie-Vi"
+      },
+      {
+        "stop_id": "54048",
+        "stop_name": "Maurice-Duplessis / 6e Avenue"
+      },
+      {
+        "stop_id": "51553",
+        "stop_name": "Maurice-Duplessis / Pierre-Blanchet"
+      },
+      {
+        "stop_id": "51610",
+        "stop_name": "Maurice-Duplessis / Marc-Aurèle-Fortin"
+      },
+      {
+        "stop_id": "53928",
+        "stop_name": "Maurice-Duplessis / Fernand-Gauthier"
+      },
+      {
+        "stop_id": "51698",
+        "stop_name": "Maurice-Duplessis / La Valinière"
+      },
+      {
+        "stop_id": "51760",
+        "stop_name": "Maurice-Duplessis / No 7860"
+      },
+      {
+        "stop_id": "51811",
+        "stop_name": "Maurice-Duplessis / Armand-Bombardier"
+      },
+      {
+        "stop_id": "51877",
+        "stop_name": "Armand-Bombardier / Blaise-Pascal"
+      },
+      {
+        "stop_id": "52025",
+        "stop_name": "Armand-Bombardier / Henri-Bourassa"
+      },
+      {
+        "stop_id": "54721",
+        "stop_name": "L.-J.- Forget / Henri-Bourassa"
+      },
+      {
+        "stop_id": "54717",
+        "stop_name": "Larrey / L.-J.-Forget"
+      },
+      {
+        "stop_id": "54526",
+        "stop_name": "L.-J.- Forget / Larrey"
+      }
+    ]
+  }
+]

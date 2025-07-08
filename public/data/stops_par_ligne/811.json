@@ -1,0 +1,91 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "62138",
+        "stop_name": "du Trianon / Joseph-Daoust (Terminus Radisson Sud"
+      },
+      {
+        "stop_id": "53196",
+        "stop_name": "Station Radisson (Sherbrooke / Des Groseilliers)"
+      },
+      {
+        "stop_id": "53149",
+        "stop_name": "Station Langelier (Sherbrooke / Langelier)"
+      },
+      {
+        "stop_id": "53099",
+        "stop_name": "Station Cadillac (Sherbrooke / De Cadillac)"
+      },
+      {
+        "stop_id": "53080",
+        "stop_name": "de l'Assomption / Chauveau"
+      },
+      {
+        "stop_id": "52862",
+        "stop_name": "de l'Assomption / des Saules (Polyclinique)"
+      },
+      {
+        "stop_id": "52784",
+        "stop_name": "de l'Assomption / des Sapins (Hôp. M.-Rosemont)"
+      },
+      {
+        "stop_id": "52234",
+        "stop_name": "Viau / Saint-Zotique"
+      },
+      {
+        "stop_id": "52116",
+        "stop_name": "Viau / Bélanger (Institut de cardiologie)"
+      },
+      {
+        "stop_id": "52164",
+        "stop_name": "Bélanger / 40e Avenue"
+      },
+      {
+        "stop_id": "52280",
+        "stop_name": "Bélanger / Châtelain"
+      },
+      {
+        "stop_id": "52319",
+        "stop_name": "Bélanger / de Pontoise"
+      },
+      {
+        "stop_id": "52462",
+        "stop_name": "Lacordaire / Saint-Zotique"
+      },
+      {
+        "stop_id": "53740",
+        "stop_name": "Rosemont / Pavillon Rosemont"
+      },
+      {
+        "stop_id": "52722",
+        "stop_name": "Rosemont / Châtelain"
+      },
+      {
+        "stop_id": "52785",
+        "stop_name": "de l'Assomption / des Sapins (Hôp. M.-Rosemont)"
+      },
+      {
+        "stop_id": "52863",
+        "stop_name": "de l'Assomption / des Saules (Polyclinique)"
+      },
+      {
+        "stop_id": "53081",
+        "stop_name": "Chauveau / de l'Assomption"
+      },
+      {
+        "stop_id": "61692",
+        "stop_name": "Station Cadillac (Sherbrooke / De Cadillac)"
+      },
+      {
+        "stop_id": "60440",
+        "stop_name": "Station Langelier (Sherbrooke / Langelier)"
+      },
+      {
+        "stop_id": "62344",
+        "stop_name": "Sherbrooke / du Trianon"
+      }
+    ]
+  }
+]

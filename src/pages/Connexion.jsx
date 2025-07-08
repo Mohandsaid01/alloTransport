@@ -5,7 +5,7 @@ import { AuthContext } from '../auth/AuthContext';
 
 const Connexion = () => {
   const navigate = useNavigate();
-  const { login } = useContext(AuthContext); // 🔐 Utilisation du contexte
+  const { login } = useContext(AuthContext); //  Utilisation du contexte
   const [email, setEmail] = useState('');
   const [motDePasse, setMotDePasse] = useState('');
 

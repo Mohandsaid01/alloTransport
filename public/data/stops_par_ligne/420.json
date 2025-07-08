@@ -1,0 +1,176 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "56385",
+        "stop_name": "Westminster / Côte-Saint-Luc"
+      },
+      {
+        "stop_id": "56399",
+        "stop_name": "Côte-Saint-Luc / Robert-Burns"
+      },
+      {
+        "stop_id": "56410",
+        "stop_name": "Côte-Saint-Luc / Rosedale"
+      },
+      {
+        "stop_id": "50606",
+        "stop_name": "Côte-Saint-Luc / Cavendish"
+      },
+      {
+        "stop_id": "50726",
+        "stop_name": "Cavendish / Fielding"
+      },
+      {
+        "stop_id": "50824",
+        "stop_name": "Cavendish / Somerled"
+      },
+      {
+        "stop_id": "50955",
+        "stop_name": "Cavendish / de Monkland"
+      },
+      {
+        "stop_id": "51078",
+        "stop_name": "Sherbrooke / Benny"
+      },
+      {
+        "stop_id": "51268",
+        "stop_name": "Sherbrooke / de Clifton"
+      },
+      {
+        "stop_id": "51398",
+        "stop_name": "Sherbrooke / Girouard"
+      },
+      {
+        "stop_id": "61992",
+        "stop_name": "Saint-Jacques / Décarie"
+      },
+      {
+        "stop_id": "52617",
+        "stop_name": "Peel / Saint-Antoine"
+      },
+      {
+        "stop_id": "52666",
+        "stop_name": "Robert-Bourassa / De La Gauchetière"
+      },
+      {
+        "stop_id": "52588",
+        "stop_name": "Robert-Bourassa / René-Lévesque"
+      },
+      {
+        "stop_id": "52499",
+        "stop_name": "Robert-Bourassa / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52384",
+        "stop_name": "De Maisonneuve / Mansfield"
+      },
+      {
+        "stop_id": "54001",
+        "stop_name": "Metcalfe / Sainte-Catherine"
+      },
+      {
+        "stop_id": "54004",
+        "stop_name": "Metcalfe / René-Lévesque"
+      },
+      {
+        "stop_id": "54175",
+        "stop_name": "Lucien-L'Allier / René-Lévesque"
+      },
+      {
+        "stop_id": "61923",
+        "stop_name": "Torrance / de la Montagne"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "61923",
+        "stop_name": "Torrance / de la Montagne"
+      },
+      {
+        "stop_id": "52617",
+        "stop_name": "Peel / Saint-Antoine"
+      },
+      {
+        "stop_id": "52666",
+        "stop_name": "Robert-Bourassa / De La Gauchetière"
+      },
+      {
+        "stop_id": "52588",
+        "stop_name": "Robert-Bourassa / René-Lévesque"
+      },
+      {
+        "stop_id": "52499",
+        "stop_name": "Robert-Bourassa / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52384",
+        "stop_name": "De Maisonneuve / Mansfield"
+      },
+      {
+        "stop_id": "54001",
+        "stop_name": "Metcalfe / Sainte-Catherine"
+      },
+      {
+        "stop_id": "54004",
+        "stop_name": "Metcalfe / René-Lévesque"
+      },
+      {
+        "stop_id": "52416",
+        "stop_name": "René-Lévesque / de la Montagne"
+      },
+      {
+        "stop_id": "52284",
+        "stop_name": "René-Lévesque / Saint-Mathieu"
+      },
+      {
+        "stop_id": "61993",
+        "stop_name": "Décarie / Saint-Jacques (CUSM)"
+      },
+      {
+        "stop_id": "51396",
+        "stop_name": "Sherbrooke / Girouard"
+      },
+      {
+        "stop_id": "51259",
+        "stop_name": "Sherbrooke / Royal"
+      },
+      {
+        "stop_id": "51027",
+        "stop_name": "Sherbrooke / Cavendish"
+      },
+      {
+        "stop_id": "50953",
+        "stop_name": "Cavendish / de Monkland"
+      },
+      {
+        "stop_id": "50826",
+        "stop_name": "Cavendish / Somerled"
+      },
+      {
+        "stop_id": "50724",
+        "stop_name": "Cavendish / Fielding"
+      },
+      {
+        "stop_id": "54092",
+        "stop_name": "Côte-Saint-Luc / Cumberland"
+      },
+      {
+        "stop_id": "56409",
+        "stop_name": "Côte-Saint-Luc / Rosedale"
+      },
+      {
+        "stop_id": "56398",
+        "stop_name": "Côte-Saint-Luc / Ashdale"
+      },
+      {
+        "stop_id": "56386",
+        "stop_name": "Côte-Saint-Luc / Westminster"
+      }
+    ]
+  }
+]

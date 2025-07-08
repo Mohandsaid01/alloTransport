@@ -1,0 +1,264 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "52148",
+        "stop_name": "Station Guy-Concordia (De Maisonneuve/St-Mathieu)"
+      },
+      {
+        "stop_id": "52238",
+        "stop_name": "Guy / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52425",
+        "stop_name": "Guy / Saint-Antoine"
+      },
+      {
+        "stop_id": "52501",
+        "stop_name": "Guy / Saint-Jacques"
+      },
+      {
+        "stop_id": "54308",
+        "stop_name": "Guy / Paxton"
+      },
+      {
+        "stop_id": "52674",
+        "stop_name": "Guy / William"
+      },
+      {
+        "stop_id": "52605",
+        "stop_name": "William / des Seigneurs"
+      },
+      {
+        "stop_id": "53723",
+        "stop_name": "des Seigneurs / du Canal"
+      },
+      {
+        "stop_id": "52725",
+        "stop_name": "Saint-Patrick / Shearer"
+      },
+      {
+        "stop_id": "52767",
+        "stop_name": "Shearer / Richardson"
+      },
+      {
+        "stop_id": "62165",
+        "stop_name": "du Centre / Shearer"
+      },
+      {
+        "stop_id": "54307",
+        "stop_name": "de la Sucrerie / Grand Trunk"
+      },
+      {
+        "stop_id": "52902",
+        "stop_name": "Sainte-Madeleine / Wellington"
+      },
+      {
+        "stop_id": "52978",
+        "stop_name": "Sainte-Madeleine / Favard"
+      },
+      {
+        "stop_id": "53030",
+        "stop_name": "Sainte-Madeleine / Le Ber"
+      },
+      {
+        "stop_id": "54234",
+        "stop_name": "Charon / Frank-Selke"
+      },
+      {
+        "stop_id": "54235",
+        "stop_name": "Dick-Irvin / Frank-Selke"
+      },
+      {
+        "stop_id": "54230",
+        "stop_name": "Dick-Irvin / Ash"
+      },
+      {
+        "stop_id": "53048",
+        "stop_name": "Ash / Le Ber"
+      },
+      {
+        "stop_id": "52979",
+        "stop_name": "Ash / Favard"
+      },
+      {
+        "stop_id": "52886",
+        "stop_name": "Wellington / Fortune"
+      },
+      {
+        "stop_id": "52870",
+        "stop_name": "Wellington / de Liverpool"
+      },
+      {
+        "stop_id": "52817",
+        "stop_name": "Wellington / Charlevoix"
+      },
+      {
+        "stop_id": "56643",
+        "stop_name": "Wellington / Gilberte-Dubé"
+      },
+      {
+        "stop_id": "62219",
+        "stop_name": "Wellington / Albert-Denault"
+      },
+      {
+        "stop_id": "62237",
+        "stop_name": "LaSalle / Hickson"
+      },
+      {
+        "stop_id": "62238",
+        "stop_name": "LaSalle / de l'Église"
+      },
+      {
+        "stop_id": "56634",
+        "stop_name": "Station De l'Église"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "56634",
+        "stop_name": "Station De l'Église"
+      },
+      {
+        "stop_id": "56611",
+        "stop_name": "de l'Église / Gertrude"
+      },
+      {
+        "stop_id": "56630",
+        "stop_name": "Station De l'Église (Galt / Wellington)"
+      },
+      {
+        "stop_id": "56648",
+        "stop_name": "Galt / LaSalle"
+      },
+      {
+        "stop_id": "62231",
+        "stop_name": "LaSalle / de l'Église"
+      },
+      {
+        "stop_id": "62232",
+        "stop_name": "LaSalle / Hickson"
+      },
+      {
+        "stop_id": "62233",
+        "stop_name": "LaSalle / Lafleur"
+      },
+      {
+        "stop_id": "56718",
+        "stop_name": "Wellington / No 3500"
+      },
+      {
+        "stop_id": "56719",
+        "stop_name": "Wellington / No 3265"
+      },
+      {
+        "stop_id": "60540",
+        "stop_name": "Wellington / Gilberte-Dubé"
+      },
+      {
+        "stop_id": "53900",
+        "stop_name": "Wellington / Charlevoix"
+      },
+      {
+        "stop_id": "52871",
+        "stop_name": "Parc-Marguerite-Bourgeoys"
+      },
+      {
+        "stop_id": "52887",
+        "stop_name": "Wellington / Fortune"
+      },
+      {
+        "stop_id": "52893",
+        "stop_name": "Wellington / Charon"
+      },
+      {
+        "stop_id": "54233",
+        "stop_name": "Charon / Favard"
+      },
+      {
+        "stop_id": "54229",
+        "stop_name": "Charon / Le Ber"
+      },
+      {
+        "stop_id": "53049",
+        "stop_name": "Ash / Dick-Irvin"
+      },
+      {
+        "stop_id": "54232",
+        "stop_name": "Charon / Dick-Irvin"
+      },
+      {
+        "stop_id": "54228",
+        "stop_name": "Charon / Le Ber"
+      },
+      {
+        "stop_id": "53029",
+        "stop_name": "Le Ber / de la Congrégation"
+      },
+      {
+        "stop_id": "54231",
+        "stop_name": "de la Congrégation / Favard"
+      },
+      {
+        "stop_id": "52911",
+        "stop_name": "de la Congrégation / de Sébastopol"
+      },
+      {
+        "stop_id": "52829",
+        "stop_name": "du Centre / de la Sucrerie"
+      },
+      {
+        "stop_id": "52799",
+        "stop_name": "Shearer / Clarendon"
+      },
+      {
+        "stop_id": "52724",
+        "stop_name": "Shearer / Saint-Patrick"
+      },
+      {
+        "stop_id": "53722",
+        "stop_name": "des Seigneurs / du Canal"
+      },
+      {
+        "stop_id": "52604",
+        "stop_name": "des Seigneurs / des Bassins"
+      },
+      {
+        "stop_id": "52675",
+        "stop_name": "Guy / William"
+      },
+      {
+        "stop_id": "52615",
+        "stop_name": "Guy / Paxton"
+      },
+      {
+        "stop_id": "52500",
+        "stop_name": "Guy / Saint-Jacques"
+      },
+      {
+        "stop_id": "52424",
+        "stop_name": "Guy / Saint-Antoine"
+      },
+      {
+        "stop_id": "52326",
+        "stop_name": "Guy / René-Lévesque"
+      },
+      {
+        "stop_id": "52236",
+        "stop_name": "Guy / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52148",
+        "stop_name": "Station Guy-Concordia (De Maisonneuve/St-Mathieu)"
+      },
+      {
+        "stop_id": "62567",
+        "stop_name": "Dick-Irvin / Charon"
+      }
+    ]
+  }
+]

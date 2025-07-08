@@ -1,0 +1,400 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "57540",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "57462",
+        "stop_name": "Dorval / Carson"
+      },
+      {
+        "stop_id": "57458",
+        "stop_name": "Carson / Les Jardins Dorval"
+      },
+      {
+        "stop_id": "57454",
+        "stop_name": "Carson / Lepage"
+      },
+      {
+        "stop_id": "57448",
+        "stop_name": "Carson / Roy"
+      },
+      {
+        "stop_id": "57440",
+        "stop_name": "Carson / Claude"
+      },
+      {
+        "stop_id": "57434",
+        "stop_name": "Carson / Elmridge"
+      },
+      {
+        "stop_id": "57430",
+        "stop_name": "Carson / Thorncrest"
+      },
+      {
+        "stop_id": "57418",
+        "stop_name": "Carson / Saint-Louis"
+      },
+      {
+        "stop_id": "57406",
+        "stop_name": "Carson / Stream"
+      },
+      {
+        "stop_id": "57498",
+        "stop_name": "Carson / Neptune"
+      },
+      {
+        "stop_id": "57400",
+        "stop_name": "Neptune / Bord-du-Lac"
+      },
+      {
+        "stop_id": "57390",
+        "stop_name": "Bord-du-Lac / Thrush"
+      },
+      {
+        "stop_id": "57382",
+        "stop_name": "Bord-du-Lac / Lake"
+      },
+      {
+        "stop_id": "57377",
+        "stop_name": "Bord-du-Lac / de l'Église"
+      },
+      {
+        "stop_id": "57763",
+        "stop_name": "Bord-du-Lac / Lakebreeze"
+      },
+      {
+        "stop_id": "57761",
+        "stop_name": "des Sources / Chanteclerc"
+      },
+      {
+        "stop_id": "57828",
+        "stop_name": "Belmont / Vincennes"
+      },
+      {
+        "stop_id": "57752",
+        "stop_name": "Belmont / Chester"
+      },
+      {
+        "stop_id": "57745",
+        "stop_name": "Belmont / King"
+      },
+      {
+        "stop_id": "57736",
+        "stop_name": "Belmont / de la Baie-de-Valois"
+      },
+      {
+        "stop_id": "57739",
+        "stop_name": "de la Baie-de-Valois / Mount-Pleasant"
+      },
+      {
+        "stop_id": "57754",
+        "stop_name": "Donegani / de la Baie-de-Valois"
+      },
+      {
+        "stop_id": "57731",
+        "stop_name": "Donegani / Broadview"
+      },
+      {
+        "stop_id": "57721",
+        "stop_name": "Donegani / Windcrest"
+      },
+      {
+        "stop_id": "57708",
+        "stop_name": "Gare Pointe-Claire (Donegani / Ashgrove)"
+      },
+      {
+        "stop_id": "57816",
+        "stop_name": "Donegani / Gateway"
+      },
+      {
+        "stop_id": "57696",
+        "stop_name": "Donegani / Terra Cotta"
+      },
+      {
+        "stop_id": "60535",
+        "stop_name": "Donegani / Maywood"
+      },
+      {
+        "stop_id": "57682",
+        "stop_name": "Maywood / Drake"
+      },
+      {
+        "stop_id": "57678",
+        "stop_name": "Maywood / Viburnum"
+      },
+      {
+        "stop_id": "57774",
+        "stop_name": "École Pointe-Claire"
+      },
+      {
+        "stop_id": "57778",
+        "stop_name": "École John-Rennie (Douglas-Shand / Saint-Jean)"
+      },
+      {
+        "stop_id": "57661",
+        "stop_name": "Douglas-Shand / Saint-Jean"
+      },
+      {
+        "stop_id": "57650",
+        "stop_name": "Douglas-Shand / Oakridge"
+      },
+      {
+        "stop_id": "57633",
+        "stop_name": "Douglas-Shand / Heather"
+      },
+      {
+        "stop_id": "57629",
+        "stop_name": "École Félix-Leclerc (Inglewood / Ashington)"
+      },
+      {
+        "stop_id": "57626",
+        "stop_name": "Inglewood / Rothbury"
+      },
+      {
+        "stop_id": "60234",
+        "stop_name": "Sedgefield / Stillview (Hôpital du Lakeshore)"
+      },
+      {
+        "stop_id": "57613",
+        "stop_name": "Stillview / Frobisher"
+      },
+      {
+        "stop_id": "57773",
+        "stop_name": "Stillview / Canvin"
+      },
+      {
+        "stop_id": "57602",
+        "stop_name": "Stillview / Hymus"
+      },
+      {
+        "stop_id": "60651",
+        "stop_name": "Hymus / No 300"
+      },
+      {
+        "stop_id": "57623",
+        "stop_name": "Hymus / Alston"
+      },
+      {
+        "stop_id": "57636",
+        "stop_name": "Hymus / Paprican"
+      },
+      {
+        "stop_id": "57648",
+        "stop_name": "Hymus / Saint-Jean"
+      },
+      {
+        "stop_id": "57808",
+        "stop_name": "Saint-Jean / Holiday"
+      },
+      {
+        "stop_id": "57792",
+        "stop_name": "Saint-Jean / Complexe Pointe-Claire"
+      },
+      {
+        "stop_id": "57767",
+        "stop_name": "Revcon / Place Frontenac"
+      },
+      {
+        "stop_id": "57798",
+        "stop_name": "Terminus Fairview"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "57798",
+        "stop_name": "Terminus Fairview"
+      },
+      {
+        "stop_id": "57621",
+        "stop_name": "Brunswick / Saint-Jean"
+      },
+      {
+        "stop_id": "57649",
+        "stop_name": "Hymus / Saint-Jean"
+      },
+      {
+        "stop_id": "57637",
+        "stop_name": "Hymus / Paprican"
+      },
+      {
+        "stop_id": "57622",
+        "stop_name": "Hymus / Alston"
+      },
+      {
+        "stop_id": "57614",
+        "stop_name": "Hymus / No 285"
+      },
+      {
+        "stop_id": "60652",
+        "stop_name": "Hymus / No 300"
+      },
+      {
+        "stop_id": "57606",
+        "stop_name": "Stillview / Hymus"
+      },
+      {
+        "stop_id": "57610",
+        "stop_name": "Stillview / Canvin"
+      },
+      {
+        "stop_id": "57615",
+        "stop_name": "Stillview / Sedgefield (Hôpital du Lakeshore)"
+      },
+      {
+        "stop_id": "57617",
+        "stop_name": "Rothbury / Stillview"
+      },
+      {
+        "stop_id": "57625",
+        "stop_name": "Rothbury / Inglewood"
+      },
+      {
+        "stop_id": "57630",
+        "stop_name": "École Félix-Leclerc (Inglewood / Ashington)"
+      },
+      {
+        "stop_id": "57634",
+        "stop_name": "Inglewood / Douglas-Shand"
+      },
+      {
+        "stop_id": "57651",
+        "stop_name": "Douglas-Shand / Oakridge"
+      },
+      {
+        "stop_id": "57660",
+        "stop_name": "Douglas-Shand / Saint-Jean"
+      },
+      {
+        "stop_id": "57671",
+        "stop_name": "École John-Rennie (Douglas-Shand / Saint-Jean)"
+      },
+      {
+        "stop_id": "57784",
+        "stop_name": "Douglas-Shand / Maywood"
+      },
+      {
+        "stop_id": "57679",
+        "stop_name": "Maywood / Viburnum"
+      },
+      {
+        "stop_id": "57683",
+        "stop_name": "Maywood / Drake"
+      },
+      {
+        "stop_id": "60534",
+        "stop_name": "Maywood / Donegani"
+      },
+      {
+        "stop_id": "57697",
+        "stop_name": "Donegani / Terra Cotta"
+      },
+      {
+        "stop_id": "57817",
+        "stop_name": "Donegani / Gateway"
+      },
+      {
+        "stop_id": "57709",
+        "stop_name": "Gare Pointe-Claire (Donegani / Ashgrove)"
+      },
+      {
+        "stop_id": "57722",
+        "stop_name": "Donegani / Windcrest"
+      },
+      {
+        "stop_id": "57733",
+        "stop_name": "Donegani / Broadview"
+      },
+      {
+        "stop_id": "57741",
+        "stop_name": "Gare Valois (Donegani / de la Baie-de-Valois)"
+      },
+      {
+        "stop_id": "57738",
+        "stop_name": "de la Baie-de-Valois / Mount-Pleasant"
+      },
+      {
+        "stop_id": "57737",
+        "stop_name": "Belmont / de la Baie-de-Valois"
+      },
+      {
+        "stop_id": "57746",
+        "stop_name": "Belmont / Queen"
+      },
+      {
+        "stop_id": "57753",
+        "stop_name": "Belmont / Chester"
+      },
+      {
+        "stop_id": "57758",
+        "stop_name": "Belmont / Vincennes"
+      },
+      {
+        "stop_id": "57762",
+        "stop_name": "des Sources / Chanteclerc"
+      },
+      {
+        "stop_id": "57381",
+        "stop_name": "Herron / Strathmore"
+      },
+      {
+        "stop_id": "57396",
+        "stop_name": "Herron / Neptune"
+      },
+      {
+        "stop_id": "57398",
+        "stop_name": "Neptune / Nightingale"
+      },
+      {
+        "stop_id": "57497",
+        "stop_name": "Carson / Neptune"
+      },
+      {
+        "stop_id": "57407",
+        "stop_name": "Carson / Stream"
+      },
+      {
+        "stop_id": "57419",
+        "stop_name": "Carson / Saint-Louis"
+      },
+      {
+        "stop_id": "57431",
+        "stop_name": "Carson / Caledonia"
+      },
+      {
+        "stop_id": "57435",
+        "stop_name": "Carson / Elmridge"
+      },
+      {
+        "stop_id": "57441",
+        "stop_name": "Carson / Claude"
+      },
+      {
+        "stop_id": "57453",
+        "stop_name": "Carson / Roy"
+      },
+      {
+        "stop_id": "57455",
+        "stop_name": "Carson / Lepage"
+      },
+      {
+        "stop_id": "57499",
+        "stop_name": "Carson / Les Jardins Dorval"
+      },
+      {
+        "stop_id": "57463",
+        "stop_name": "Carson / Dorval"
+      },
+      {
+        "stop_id": "61317",
+        "stop_name": "Terminus Dorval"
+      }
+    ]
+  }
+]

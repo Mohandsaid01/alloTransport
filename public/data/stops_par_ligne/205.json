@@ -1,0 +1,328 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "61982",
+        "stop_name": "Gare Roxboro-Pierrefonds"
+      },
+      {
+        "stop_id": "58024",
+        "stop_name": "Gouin / 5e Avenue"
+      },
+      {
+        "stop_id": "58020",
+        "stop_name": "Gouin / 8e Avenue"
+      },
+      {
+        "stop_id": "58203",
+        "stop_name": "Gouin / de Pierrefonds"
+      },
+      {
+        "stop_id": "58288",
+        "stop_name": "des Sources / Gouin"
+      },
+      {
+        "stop_id": "58192",
+        "stop_name": "Pavillon / Blondin"
+      },
+      {
+        "stop_id": "58189",
+        "stop_name": "Pavillon / Woodland"
+      },
+      {
+        "stop_id": "58186",
+        "stop_name": "Pavillon / Richer"
+      },
+      {
+        "stop_id": "58184",
+        "stop_name": "Pavillon / Savoie"
+      },
+      {
+        "stop_id": "58180",
+        "stop_name": "Pavillon / Hunter"
+      },
+      {
+        "stop_id": "58171",
+        "stop_name": "Pavillon / Saint-Louis"
+      },
+      {
+        "stop_id": "58166",
+        "stop_name": "Pavillon / Perron"
+      },
+      {
+        "stop_id": "58167",
+        "stop_name": "Brook / Perron"
+      },
+      {
+        "stop_id": "58154",
+        "stop_name": "Brook / des Arbres"
+      },
+      {
+        "stop_id": "58330",
+        "stop_name": "de Versailles / Huntington"
+      },
+      {
+        "stop_id": "58156",
+        "stop_name": "de Versailles / Elizabeth"
+      },
+      {
+        "stop_id": "58161",
+        "stop_name": "de Versailles / Louis-XV"
+      },
+      {
+        "stop_id": "58164",
+        "stop_name": "Monk / Fredmir"
+      },
+      {
+        "stop_id": "58177",
+        "stop_name": "Monk / Perron"
+      },
+      {
+        "stop_id": "58178",
+        "stop_name": "Perron / Gouin"
+      },
+      {
+        "stop_id": "58169",
+        "stop_name": "Gouin / Fredmir"
+      },
+      {
+        "stop_id": "58331",
+        "stop_name": "Gouin / Monk"
+      },
+      {
+        "stop_id": "58158",
+        "stop_name": "Gouin / Belleville"
+      },
+      {
+        "stop_id": "58152",
+        "stop_name": "Gouin / Beamish"
+      },
+      {
+        "stop_id": "58146",
+        "stop_name": "Gouin / Richmond"
+      },
+      {
+        "stop_id": "58321",
+        "stop_name": "Gouin / des Maçons"
+      },
+      {
+        "stop_id": "58138",
+        "stop_name": "Gouin / René-Émard"
+      },
+      {
+        "stop_id": "58142",
+        "stop_name": "René-Émard / de Pierrefonds"
+      },
+      {
+        "stop_id": "58145",
+        "stop_name": "René-Émard / de Pierrefonds"
+      },
+      {
+        "stop_id": "58309",
+        "stop_name": "René-Émard / No 4600"
+      },
+      {
+        "stop_id": "58157",
+        "stop_name": "René-Émard / Anselme-Lavigne"
+      },
+      {
+        "stop_id": "58148",
+        "stop_name": "Anselme-Lavigne / Saint-Jean"
+      },
+      {
+        "stop_id": "57997",
+        "stop_name": "Saint-Jean / Jolicoeur"
+      },
+      {
+        "stop_id": "57851",
+        "stop_name": "Saint-Jean / Harris"
+      },
+      {
+        "stop_id": "57853",
+        "stop_name": "Saint-Jean / Shakespeare"
+      },
+      {
+        "stop_id": "57855",
+        "stop_name": "Saint-Jean / Westminster"
+      },
+      {
+        "stop_id": "57833",
+        "stop_name": "Saint-Jean / de Salaberry"
+      },
+      {
+        "stop_id": "57858",
+        "stop_name": "Saint-Jean / Devon"
+      },
+      {
+        "stop_id": "57616",
+        "stop_name": "Saint-Jean / Labrosse"
+      },
+      {
+        "stop_id": "57620",
+        "stop_name": "Saint-Jean / Brunswick"
+      },
+      {
+        "stop_id": "57800",
+        "stop_name": "Terminus Fairview"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "57800",
+        "stop_name": "Terminus Fairview"
+      },
+      {
+        "stop_id": "57981",
+        "stop_name": "Saint-Jean / Blue Haven"
+      },
+      {
+        "stop_id": "57834",
+        "stop_name": "Saint-Jean / de Salaberry"
+      },
+      {
+        "stop_id": "57854",
+        "stop_name": "Saint-Jean / Lake"
+      },
+      {
+        "stop_id": "57852",
+        "stop_name": "Saint-Jean / Roger-Pilon"
+      },
+      {
+        "stop_id": "57994",
+        "stop_name": "Saint-Jean / Ernest"
+      },
+      {
+        "stop_id": "58147",
+        "stop_name": "Saint-Jean / Anselme-Lavigne"
+      },
+      {
+        "stop_id": "58289",
+        "stop_name": "René-Émard / Anselme-Lavigne"
+      },
+      {
+        "stop_id": "58310",
+        "stop_name": "René-Émard / No 4600"
+      },
+      {
+        "stop_id": "58140",
+        "stop_name": "René-Émard / de Pierrefonds"
+      },
+      {
+        "stop_id": "58144",
+        "stop_name": "René-Émard / de Pierrefonds"
+      },
+      {
+        "stop_id": "58139",
+        "stop_name": "René-Émard / Gouin"
+      },
+      {
+        "stop_id": "58322",
+        "stop_name": "Gouin / des Maçons"
+      },
+      {
+        "stop_id": "58150",
+        "stop_name": "Gouin / Richmond"
+      },
+      {
+        "stop_id": "58151",
+        "stop_name": "Gouin / Beamish"
+      },
+      {
+        "stop_id": "58159",
+        "stop_name": "Gouin / Belleville"
+      },
+      {
+        "stop_id": "58332",
+        "stop_name": "Gouin / Monk"
+      },
+      {
+        "stop_id": "58170",
+        "stop_name": "Gouin / Fredmir"
+      },
+      {
+        "stop_id": "58179",
+        "stop_name": "Gouin / Perron"
+      },
+      {
+        "stop_id": "58176",
+        "stop_name": "Perron / Monk"
+      },
+      {
+        "stop_id": "58163",
+        "stop_name": "Monk / Fredmir"
+      },
+      {
+        "stop_id": "58160",
+        "stop_name": "de Versailles / Louis-XV"
+      },
+      {
+        "stop_id": "58155",
+        "stop_name": "de Versailles / Elizabeth"
+      },
+      {
+        "stop_id": "58153",
+        "stop_name": "de Versailles / Huntington"
+      },
+      {
+        "stop_id": "58168",
+        "stop_name": "Brook / Perron"
+      },
+      {
+        "stop_id": "58165",
+        "stop_name": "Perron / Pavillon"
+      },
+      {
+        "stop_id": "58172",
+        "stop_name": "Pavillon / Saint-Louis"
+      },
+      {
+        "stop_id": "58181",
+        "stop_name": "Pavillon / Hunter"
+      },
+      {
+        "stop_id": "58185",
+        "stop_name": "Pavillon / Savoie"
+      },
+      {
+        "stop_id": "58187",
+        "stop_name": "Pavillon / Richer"
+      },
+      {
+        "stop_id": "58190",
+        "stop_name": "Pavillon / Woodland"
+      },
+      {
+        "stop_id": "58193",
+        "stop_name": "des Sources / Pavillon"
+      },
+      {
+        "stop_id": "58194",
+        "stop_name": "des Sources / Gouin"
+      },
+      {
+        "stop_id": "58195",
+        "stop_name": "Gouin / des Sources"
+      },
+      {
+        "stop_id": "58204",
+        "stop_name": "Gouin / de Pierrefonds"
+      },
+      {
+        "stop_id": "58013",
+        "stop_name": "Gouin / 6e Avenue"
+      },
+      {
+        "stop_id": "58208",
+        "stop_name": "Gare Roxboro-Pierrefonds"
+      },
+      {
+        "stop_id": "61982",
+        "stop_name": "Gare Roxboro-Pierrefonds"
+      }
+    ]
+  }
+]

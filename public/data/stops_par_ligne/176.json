@@ -1,0 +1,116 @@
+[
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "60700",
+        "stop_name": "de la Pointe-Sud / No 250"
+      },
+      {
+        "stop_id": "60693",
+        "stop_name": "de la Pointe-Sud / des Parulines"
+      },
+      {
+        "stop_id": "60694",
+        "stop_name": "de la Pointe-Sud / des Sommets"
+      },
+      {
+        "stop_id": "56654",
+        "stop_name": "de l'Île-des-Soeurs / De Gaspé"
+      },
+      {
+        "stop_id": "56656",
+        "stop_name": "de l'Île-des-Soeurs / François"
+      },
+      {
+        "stop_id": "56663",
+        "stop_name": "de l'Île-des-Soeurs / Darwin"
+      },
+      {
+        "stop_id": "56661",
+        "stop_name": "de l'Île-des-Soeurs / Berlioz"
+      },
+      {
+        "stop_id": "62078",
+        "stop_name": "Berlioz / O'Reilly"
+      },
+      {
+        "stop_id": "62357",
+        "stop_name": "Berlioz / Terry-Fox"
+      },
+      {
+        "stop_id": "56695",
+        "stop_name": "René-Lévesque / Berlioz"
+      },
+      {
+        "stop_id": "56702",
+        "stop_name": "René-Lévesque / Levert"
+      },
+      {
+        "stop_id": "62202",
+        "stop_name": "Station REM Île-des-Soeurs"
+      }
+    ]
+  },
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "62065",
+        "stop_name": "Station REM Île-des-Soeurs"
+      },
+      {
+        "stop_id": "61671",
+        "stop_name": "René-Lévesque / Levert"
+      },
+      {
+        "stop_id": "56691",
+        "stop_name": "Berlioz / Terry-Fox"
+      },
+      {
+        "stop_id": "56665",
+        "stop_name": "Berlioz / Place du Soleil"
+      },
+      {
+        "stop_id": "56666",
+        "stop_name": "Berlioz / Place de la Fontaine"
+      },
+      {
+        "stop_id": "56664",
+        "stop_name": "Berlioz / Landreville"
+      },
+      {
+        "stop_id": "56662",
+        "stop_name": "Berlioz / de l'Île-des-Soeurs"
+      },
+      {
+        "stop_id": "56700",
+        "stop_name": "de l'Île-des-Soeurs / Berlioz"
+      },
+      {
+        "stop_id": "56660",
+        "stop_name": "de l'Île-des-Soeurs / Elgar"
+      },
+      {
+        "stop_id": "56653",
+        "stop_name": "de l'Île-des-Soeurs / De Gaspé"
+      },
+      {
+        "stop_id": "60400",
+        "stop_name": "de l'Île-des-Soeurs / Hall"
+      },
+      {
+        "stop_id": "60696",
+        "stop_name": "de la Pointe-Sud / de l'Orée-du-Bois"
+      },
+      {
+        "stop_id": "60697",
+        "stop_name": "de la Pointe-Sud / des Parulines"
+      },
+      {
+        "stop_id": "60699",
+        "stop_name": "de la Pointe-Sud / No 250"
+      }
+    ]
+  }
+]

@@ -1,0 +1,261 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "57822",
+        "stop_name": "Brunswick / Terminus Fairview"
+      },
+      {
+        "stop_id": "57621",
+        "stop_name": "Brunswick / Saint-Jean"
+      },
+      {
+        "stop_id": "58396",
+        "stop_name": "Transcanadienne / Berne"
+      },
+      {
+        "stop_id": "58398",
+        "stop_name": "Transcanadienne / Houde"
+      },
+      {
+        "stop_id": "58416",
+        "stop_name": "Sainte-Marie / No 18111"
+      },
+      {
+        "stop_id": "58401",
+        "stop_name": "Jean-Yves / Transcanadienne"
+      },
+      {
+        "stop_id": "58400",
+        "stop_name": "Jean-Yves / Cinéma"
+      },
+      {
+        "stop_id": "58337",
+        "stop_name": "Sainte-Marie / Meaney"
+      },
+      {
+        "stop_id": "58333",
+        "stop_name": "Sainte-Marie / de l'Anse-à-l'Orme"
+      },
+      {
+        "stop_id": "60800",
+        "stop_name": "Sainte-Marie / No 19925"
+      },
+      {
+        "stop_id": "58335",
+        "stop_name": "Institut national de santé publique (Sainte-Marie"
+      },
+      {
+        "stop_id": "58413",
+        "stop_name": "Sainte-Marie / Morgan"
+      },
+      {
+        "stop_id": "58595",
+        "stop_name": "Sainte-Marie / Industriel"
+      },
+      {
+        "stop_id": "58574",
+        "stop_name": "Sainte-Marie / Meloche"
+      },
+      {
+        "stop_id": "58552",
+        "stop_name": "Sainte-Marie / Émile A.-Lods"
+      },
+      {
+        "stop_id": "58588",
+        "stop_name": "Zoo Écomuseum"
+      },
+      {
+        "stop_id": "58553",
+        "stop_name": "Sainte-Marie / des Pins"
+      },
+      {
+        "stop_id": "58585",
+        "stop_name": "Poultry Cottages / des Pins"
+      },
+      {
+        "stop_id": "58580",
+        "stop_name": "Collège John Abbott"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "58580",
+        "stop_name": "Collège John Abbott"
+      },
+      {
+        "stop_id": "58586",
+        "stop_name": "Poultry Cottages / des Pins"
+      },
+      {
+        "stop_id": "58578",
+        "stop_name": "Des Pins/Sainte-Marie"
+      },
+      {
+        "stop_id": "58587",
+        "stop_name": "Zoo Écomuseum"
+      },
+      {
+        "stop_id": "58581",
+        "stop_name": "Sainte-Marie / No 21025"
+      },
+      {
+        "stop_id": "58575",
+        "stop_name": "Sainte-Marie / Meloche"
+      },
+      {
+        "stop_id": "58573",
+        "stop_name": "Sainte-Marie / Daoust"
+      },
+      {
+        "stop_id": "60987",
+        "stop_name": "Institut national de santé publique (Sainte-Marie"
+      },
+      {
+        "stop_id": "60799",
+        "stop_name": "Sainte-Marie / No 19925"
+      },
+      {
+        "stop_id": "61234",
+        "stop_name": "Sainte-Marie / de l'Anse-à-l'Orme"
+      },
+      {
+        "stop_id": "58336",
+        "stop_name": "Sainte-Marie / Meaney"
+      },
+      {
+        "stop_id": "58387",
+        "stop_name": "Sainte-Marie / Transcanadienne"
+      },
+      {
+        "stop_id": "58393",
+        "stop_name": "Sainte-Marie / Transcanadienne"
+      },
+      {
+        "stop_id": "58392",
+        "stop_name": "Transcanadienne / Montrose"
+      },
+      {
+        "stop_id": "58394",
+        "stop_name": "Transcanadienne / Daniel"
+      },
+      {
+        "stop_id": "58395",
+        "stop_name": "Transcanadienne / Mountain View"
+      },
+      {
+        "stop_id": "60124",
+        "stop_name": "Transcanadienne / No 16800"
+      },
+      {
+        "stop_id": "61340",
+        "stop_name": "Transcanadienne / Edmond"
+      },
+      {
+        "stop_id": "57792",
+        "stop_name": "Saint-Jean / Complexe Pointe-Claire"
+      },
+      {
+        "stop_id": "57767",
+        "stop_name": "Revcon / Place Frontenac"
+      },
+      {
+        "stop_id": "57822",
+        "stop_name": "Brunswick / Terminus Fairview"
+      },
+      {
+        "stop_id": "58591",
+        "stop_name": "Lakeshore / Macdonald"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest destination Terminus Macdonald",
+    "arrets": [
+      {
+        "stop_id": "57822",
+        "stop_name": "Brunswick / Terminus Fairview"
+      },
+      {
+        "stop_id": "57621",
+        "stop_name": "Brunswick / Saint-Jean"
+      },
+      {
+        "stop_id": "58396",
+        "stop_name": "Transcanadienne / Berne"
+      },
+      {
+        "stop_id": "58398",
+        "stop_name": "Transcanadienne / Houde"
+      },
+      {
+        "stop_id": "58416",
+        "stop_name": "Sainte-Marie / No 18111"
+      },
+      {
+        "stop_id": "58401",
+        "stop_name": "Jean-Yves / Transcanadienne"
+      },
+      {
+        "stop_id": "58400",
+        "stop_name": "Jean-Yves / Cinéma"
+      },
+      {
+        "stop_id": "58337",
+        "stop_name": "Sainte-Marie / Meaney"
+      },
+      {
+        "stop_id": "58333",
+        "stop_name": "Sainte-Marie / de l'Anse-à-l'Orme"
+      },
+      {
+        "stop_id": "60800",
+        "stop_name": "Sainte-Marie / No 19925"
+      },
+      {
+        "stop_id": "58335",
+        "stop_name": "Institut national de santé publique (Sainte-Marie"
+      },
+      {
+        "stop_id": "58413",
+        "stop_name": "Sainte-Marie / Morgan"
+      },
+      {
+        "stop_id": "58595",
+        "stop_name": "Sainte-Marie / Industriel"
+      },
+      {
+        "stop_id": "58574",
+        "stop_name": "Sainte-Marie / Meloche"
+      },
+      {
+        "stop_id": "58552",
+        "stop_name": "Sainte-Marie / Émile A.-Lods"
+      },
+      {
+        "stop_id": "58588",
+        "stop_name": "Zoo Écomuseum"
+      },
+      {
+        "stop_id": "58553",
+        "stop_name": "Sainte-Marie / des Pins"
+      },
+      {
+        "stop_id": "58585",
+        "stop_name": "Poultry Cottages / des Pins"
+      },
+      {
+        "stop_id": "58580",
+        "stop_name": "Collège John Abbott"
+      },
+      {
+        "stop_id": "58591",
+        "stop_name": "Lakeshore / Macdonald"
+      }
+    ]
+  }
+]

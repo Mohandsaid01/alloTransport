@@ -1,0 +1,328 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "55334",
+        "stop_name": "Saint-Michel / Henri-Bourassa"
+      },
+      {
+        "stop_id": "60505",
+        "stop_name": "Saint-Michel / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55335",
+        "stop_name": "Saint-Michel / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55047",
+        "stop_name": "Saint-Michel / Prieur"
+      },
+      {
+        "stop_id": "55059",
+        "stop_name": "Saint-Michel / Fleury"
+      },
+      {
+        "stop_id": "55079",
+        "stop_name": "Saint-Michel / Mont-Joli"
+      },
+      {
+        "stop_id": "50733",
+        "stop_name": "Saint-Michel / Sauvé"
+      },
+      {
+        "stop_id": "50815",
+        "stop_name": "Saint-Michel / Charland"
+      },
+      {
+        "stop_id": "50880",
+        "stop_name": "Saint-Michel / Champdoré"
+      },
+      {
+        "stop_id": "50932",
+        "stop_name": "Saint-Michel / de Louvain"
+      },
+      {
+        "stop_id": "51001",
+        "stop_name": "Saint-Michel / Legendre"
+      },
+      {
+        "stop_id": "51079",
+        "stop_name": "Saint-Michel / Émile-Journault"
+      },
+      {
+        "stop_id": "51143",
+        "stop_name": "Saint-Michel / Denis-Papin"
+      },
+      {
+        "stop_id": "51224",
+        "stop_name": "Saint-Michel / Robert"
+      },
+      {
+        "stop_id": "51277",
+        "stop_name": "Saint-Michel / Deville"
+      },
+      {
+        "stop_id": "51360",
+        "stop_name": "Saint-Michel / D'Hérelle"
+      },
+      {
+        "stop_id": "51394",
+        "stop_name": "Saint-Michel / Jarry"
+      },
+      {
+        "stop_id": "51471",
+        "stop_name": "Saint-Michel / Crémazie"
+      },
+      {
+        "stop_id": "51473",
+        "stop_name": "Saint-Michel / Crémazie"
+      },
+      {
+        "stop_id": "51519",
+        "stop_name": "Saint-Michel / Villeray"
+      },
+      {
+        "stop_id": "51557",
+        "stop_name": "Saint-Michel / L.-O.-David"
+      },
+      {
+        "stop_id": "51605",
+        "stop_name": "Station Saint-Michel (Saint-Michel / Shaughnessy)"
+      },
+      {
+        "stop_id": "51632",
+        "stop_name": "Saint-Michel / Jean-Talon"
+      },
+      {
+        "stop_id": "54364",
+        "stop_name": "Saint-Michel / Bélair"
+      },
+      {
+        "stop_id": "51745",
+        "stop_name": "Saint-Michel / Bélanger"
+      },
+      {
+        "stop_id": "51839",
+        "stop_name": "Saint-Michel / Saint-Zotique"
+      },
+      {
+        "stop_id": "51945",
+        "stop_name": "Saint-Michel / Beaubien"
+      },
+      {
+        "stop_id": "52047",
+        "stop_name": "Saint-Michel / de Bellechasse"
+      },
+      {
+        "stop_id": "52109",
+        "stop_name": "Saint-Michel / Rosemont"
+      },
+      {
+        "stop_id": "52159",
+        "stop_name": "Saint-Michel / Holt"
+      },
+      {
+        "stop_id": "52240",
+        "stop_name": "Saint-Michel / Dandurand"
+      },
+      {
+        "stop_id": "52349",
+        "stop_name": "Saint-Michel / Masson"
+      },
+      {
+        "stop_id": "52432",
+        "stop_name": "Saint-Michel / Laurier"
+      },
+      {
+        "stop_id": "52522",
+        "stop_name": "Saint-Michel / Saint-Joseph"
+      },
+      {
+        "stop_id": "52628",
+        "stop_name": "Saint-Michel / du Mont-Royal"
+      },
+      {
+        "stop_id": "53826",
+        "stop_name": "Saint-Michel / William-Tremblay"
+      },
+      {
+        "stop_id": "61046",
+        "stop_name": "Rachel / Cuvillier"
+      },
+      {
+        "stop_id": "52865",
+        "stop_name": "Rachel / De Chambly"
+      },
+      {
+        "stop_id": "52952",
+        "stop_name": "Valois / Sherbrooke"
+      },
+      {
+        "stop_id": "53053",
+        "stop_name": "Nicolet / Hochelaga"
+      },
+      {
+        "stop_id": "53036",
+        "stop_name": "Station Joliette (Hochelaga / Joliette)"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "53036",
+        "stop_name": "Station Joliette (Hochelaga / Joliette)"
+      },
+      {
+        "stop_id": "53011",
+        "stop_name": "Hochelaga / Davidson"
+      },
+      {
+        "stop_id": "52922",
+        "stop_name": "Davidson / Sherbrooke"
+      },
+      {
+        "stop_id": "52815",
+        "stop_name": "Davidson / Rachel"
+      },
+      {
+        "stop_id": "53825",
+        "stop_name": "Saint-Michel / William-Tremblay"
+      },
+      {
+        "stop_id": "52651",
+        "stop_name": "Saint-Michel / du Mont-Royal"
+      },
+      {
+        "stop_id": "52520",
+        "stop_name": "Saint-Michel / Saint-Joseph"
+      },
+      {
+        "stop_id": "52431",
+        "stop_name": "Saint-Michel / Laurier"
+      },
+      {
+        "stop_id": "52347",
+        "stop_name": "Saint-Michel / Masson"
+      },
+      {
+        "stop_id": "52239",
+        "stop_name": "Saint-Michel / Dandurand"
+      },
+      {
+        "stop_id": "52158",
+        "stop_name": "Saint-Michel / Holt"
+      },
+      {
+        "stop_id": "52107",
+        "stop_name": "Saint-Michel / Rosemont"
+      },
+      {
+        "stop_id": "52046",
+        "stop_name": "Saint-Michel / de Bellechasse"
+      },
+      {
+        "stop_id": "51943",
+        "stop_name": "Saint-Michel / Beaubien"
+      },
+      {
+        "stop_id": "51838",
+        "stop_name": "Saint-Michel / Saint-Zotique"
+      },
+      {
+        "stop_id": "51743",
+        "stop_name": "Saint-Michel / Bélanger"
+      },
+      {
+        "stop_id": "60617",
+        "stop_name": "Saint-Michel / Bélair"
+      },
+      {
+        "stop_id": "51630",
+        "stop_name": "Saint-Michel / Jean-Talon"
+      },
+      {
+        "stop_id": "51606",
+        "stop_name": "Station Saint-Michel (Saint-Michel / Everett)"
+      },
+      {
+        "stop_id": "51517",
+        "stop_name": "Saint-Michel / Villeray"
+      },
+      {
+        "stop_id": "51469",
+        "stop_name": "Saint-Michel / Crémazie"
+      },
+      {
+        "stop_id": "51392",
+        "stop_name": "Saint-Michel / Jarry"
+      },
+      {
+        "stop_id": "51359",
+        "stop_name": "Saint-Michel / D'Hérelle est"
+      },
+      {
+        "stop_id": "53968",
+        "stop_name": "Saint-Michel / D'Hérelle ouest"
+      },
+      {
+        "stop_id": "51276",
+        "stop_name": "Saint-Michel / Deville"
+      },
+      {
+        "stop_id": "54180",
+        "stop_name": "Saint-Michel / Robert"
+      },
+      {
+        "stop_id": "51142",
+        "stop_name": "Saint-Michel / Denis-Papin"
+      },
+      {
+        "stop_id": "51080",
+        "stop_name": "Saint-Michel / Émile-Journault"
+      },
+      {
+        "stop_id": "51000",
+        "stop_name": "Saint-Michel / Legendre"
+      },
+      {
+        "stop_id": "50931",
+        "stop_name": "Saint-Michel / de Louvain"
+      },
+      {
+        "stop_id": "50879",
+        "stop_name": "Saint-Michel / Champdoré"
+      },
+      {
+        "stop_id": "50814",
+        "stop_name": "Saint-Michel / Charland"
+      },
+      {
+        "stop_id": "50732",
+        "stop_name": "Saint-Michel / Sauvé"
+      },
+      {
+        "stop_id": "55078",
+        "stop_name": "Saint-Michel / Mont-Joli"
+      },
+      {
+        "stop_id": "55057",
+        "stop_name": "Saint-Michel / Fleury"
+      },
+      {
+        "stop_id": "55046",
+        "stop_name": "Saint-Michel / Prieur"
+      },
+      {
+        "stop_id": "55333",
+        "stop_name": "Saint-Michel / Henri-Bourassa"
+      },
+      {
+        "stop_id": "55334",
+        "stop_name": "Saint-Michel / Henri-Bourassa"
+      }
+    ]
+  }
+]

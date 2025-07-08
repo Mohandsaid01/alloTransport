@@ -1,0 +1,214 @@
+.arrets-wrapper {
+  background-color: #121212;
+  color: #ffffff;
+  padding: 2rem;
+  min-height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.arrets-wrapper h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #555;
+  padding-bottom: 0.5rem;
+}
+
+.direction-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.direction-buttons button {
+  background-color: #1a73e8;
+  color: white;
+  border: none;
+  padding: 0.7rem 1.2rem;
+  border-radius: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.direction-buttons button:hover {
+  background-color: #4285f4;
+}
+
+.direction-buttons button.active {
+  background-color: #0d47a1;
+  border: 2px solid #ffffff;
+}
+
+/* === Layout colonne gauche (arrêts) et droite (horaires) === */
+.arrets-container {
+  display: flex;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+/* Colonne GAUCHE (les arrêts) */
+.arret-column {
+  flex: 1;
+  animation: fadeInSlideLeft 0.4s ease-out;
+}
+
+/* Colonne DROITE (les horaires) */
+.horaire-column {
+  flex: 2;
+  animation: fadeInSlideRight 0.4s ease-out;
+}
+
+/* Liste des arrêts */
+.arret-list {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.arret-list li button {
+  width: 100%;
+  background-color: #2c2c2c;
+  color: #e0e0e0;
+  border: 1px solid #444;
+  padding: 0.8rem 1rem;
+  text-align: left;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s, transform 0.1s;
+}
+
+.arret-list li button:hover {
+  background-color: #3a3a3a;
+  border-color: #666;
+  transform: translateX(3px);
+}
+
+.arret-list li button.active {
+  background-color: #1a73e8;
+  color: white;
+  transform: scale(1.03);
+}
+
+/* Détails des horaires */
+.horaire-details {
+  margin-top: 0;
+  background-color: #1f1f1f;
+  padding: 1.5rem;
+  border-radius: 10px;
+  border: 1px solid #333;
+}
+
+.horaire-details h3 {
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+  color: #90caf9;
+}
+
+.horaire-details h4 {
+  font-size: 1.1rem;
+  color: #ffca28;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid #444;
+  padding-bottom: 0.2rem;
+}
+
+.horaire-details ul {
+  padding-left: 0;
+}
+
+.horaire-details li {
+  background-color: #2c2c2c;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  color: #e0e0e0;
+  margin-bottom: 0.3rem;
+}
+
+/* Filtres */
+.horaire-filtres {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.horaire-filtres label {
+  font-size: 0.95rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+/* === Animations slide in === */
+@keyframes fadeInSlideLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes fadeInSlideRight {
+  from {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .arrets-container {
+    flex-direction: column;
+  }
+
+  .horaire-column,
+  .arret-column {
+    width: 100%;
+  }
+}
+.arret-list {
+  transition: max-height 0.4s ease, opacity 0.4s ease;
+  overflow: hidden;
+}
+
+.arret-list.hide {
+  max-height: 0;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.arret-list.show {
+  max-height: 1000px;
+  opacity: 1;
+  pointer-events: auto;
+}
+.etoile {
+  font-size: 1.4rem;
+  margin-left: 0.5rem;
+  color: #888;
+  cursor: pointer;
+  transition: color 0.3s, transform 0.2s;
+}
+
+.etoile:hover {
+  color: gold;
+  transform: scale(1.2);
+}
+
+.etoile.favori {
+  color: gold;
+}
+

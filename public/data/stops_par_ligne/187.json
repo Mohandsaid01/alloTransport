@@ -1,0 +1,477 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "53474",
+        "stop_name": "42e Avenue / Henri-Bourassa"
+      },
+      {
+        "stop_id": "53448",
+        "stop_name": "Prince-Arthur / François-Harel"
+      },
+      {
+        "stop_id": "53465",
+        "stop_name": "Prince-Arthur / De La Rousselière"
+      },
+      {
+        "stop_id": "53718",
+        "stop_name": "Prince-Arthur / No 14135"
+      },
+      {
+        "stop_id": "53719",
+        "stop_name": "52e Avenue / Prince-Arthur"
+      },
+      {
+        "stop_id": "53513",
+        "stop_name": "Sherbrooke / 53e Avenue"
+      },
+      {
+        "stop_id": "53532",
+        "stop_name": "53e Avenue / Forsyth"
+      },
+      {
+        "stop_id": "53567",
+        "stop_name": "53e Avenue / De Montigny"
+      },
+      {
+        "stop_id": "53561",
+        "stop_name": "De Montigny / 51e Avenue"
+      },
+      {
+        "stop_id": "53558",
+        "stop_name": "De Montigny / De La Rousselière"
+      },
+      {
+        "stop_id": "53551",
+        "stop_name": "De Montigny / 47e Avenue"
+      },
+      {
+        "stop_id": "53545",
+        "stop_name": "De Montigny / 43e Avenue"
+      },
+      {
+        "stop_id": "53536",
+        "stop_name": "De Montigny / 40e Avenue"
+      },
+      {
+        "stop_id": "53527",
+        "stop_name": "De Montigny / 36e Avenue"
+      },
+      {
+        "stop_id": "53518",
+        "stop_name": "De Montigny / 32e Avenue"
+      },
+      {
+        "stop_id": "53514",
+        "stop_name": "De Montigny / Régnier"
+      },
+      {
+        "stop_id": "53522",
+        "stop_name": "De Montigny / Georges-Vermette"
+      },
+      {
+        "stop_id": "53540",
+        "stop_name": "du Tricentenaire / De Montigny"
+      },
+      {
+        "stop_id": "53547",
+        "stop_name": "du Tricentenaire / Joseph-d'Argent"
+      },
+      {
+        "stop_id": "53589",
+        "stop_name": "du Tricentenaire / René-Lévesque"
+      },
+      {
+        "stop_id": "53708",
+        "stop_name": "René-Lévesque / du Tricentenaire"
+      },
+      {
+        "stop_id": "53579",
+        "stop_name": "René-Lévesque / des Saules"
+      },
+      {
+        "stop_id": "53575",
+        "stop_name": "René-Lévesque / 18e Avenue"
+      },
+      {
+        "stop_id": "53571",
+        "stop_name": "René-Lévesque / 16e Avenue"
+      },
+      {
+        "stop_id": "53563",
+        "stop_name": "René-Lévesque / 14e Avenue"
+      },
+      {
+        "stop_id": "53554",
+        "stop_name": "René-Lévesque / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "53548",
+        "stop_name": "René-Lévesque / 8e Avenue"
+      },
+      {
+        "stop_id": "53543",
+        "stop_name": "René-Lévesque / 5e Avenue"
+      },
+      {
+        "stop_id": "53534",
+        "stop_name": "René-Lévesque / 3e Avenue"
+      },
+      {
+        "stop_id": "53529",
+        "stop_name": "René-Lévesque / 1re Avenue"
+      },
+      {
+        "stop_id": "54448",
+        "stop_name": "Dorchester / Marien"
+      },
+      {
+        "stop_id": "54443",
+        "stop_name": "Sainte-Catherine / Dubé"
+      },
+      {
+        "stop_id": "54439",
+        "stop_name": "Sainte-Catherine / Broadway"
+      },
+      {
+        "stop_id": "54437",
+        "stop_name": "Sainte-Catherine / Lelièvre"
+      },
+      {
+        "stop_id": "54434",
+        "stop_name": "Sainte-Catherine / Durocher"
+      },
+      {
+        "stop_id": "54480",
+        "stop_name": "Durocher / Nexans"
+      },
+      {
+        "stop_id": "54414",
+        "stop_name": "Durocher / Sherbrooke"
+      },
+      {
+        "stop_id": "54476",
+        "stop_name": "Sherbrooke / Indorama"
+      },
+      {
+        "stop_id": "54411",
+        "stop_name": "Sherbrooke / No 9999"
+      },
+      {
+        "stop_id": "53344",
+        "stop_name": "Sherbrooke / Fletcher"
+      },
+      {
+        "stop_id": "61877",
+        "stop_name": "Sherbrooke / Pierre-Bernard"
+      },
+      {
+        "stop_id": "53312",
+        "stop_name": "Sherbrooke / Des Ormeaux"
+      },
+      {
+        "stop_id": "53287",
+        "stop_name": "Sherbrooke / Saint-Donat"
+      },
+      {
+        "stop_id": "54115",
+        "stop_name": "Station Honoré-Beaugrand"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "53724",
+        "stop_name": "Station Honoré-Beaugrand / Terminus Nord"
+      },
+      {
+        "stop_id": "53289",
+        "stop_name": "Sherbrooke / Saint-Donat"
+      },
+      {
+        "stop_id": "53314",
+        "stop_name": "Sherbrooke / Des Ormeaux"
+      },
+      {
+        "stop_id": "53327",
+        "stop_name": "Sherbrooke / Pierre-Bernard"
+      },
+      {
+        "stop_id": "53345",
+        "stop_name": "Sherbrooke / Fletcher"
+      },
+      {
+        "stop_id": "54473",
+        "stop_name": "Sherbrooke / Joseph-Versailles"
+      },
+      {
+        "stop_id": "54405",
+        "stop_name": "Sherbrooke / Indorama"
+      },
+      {
+        "stop_id": "54417",
+        "stop_name": "Durocher / Sherbrooke"
+      },
+      {
+        "stop_id": "54479",
+        "stop_name": "Durocher / Nexans"
+      },
+      {
+        "stop_id": "54435",
+        "stop_name": "Durocher / Sainte-Catherine"
+      },
+      {
+        "stop_id": "54436",
+        "stop_name": "Sainte-Catherine / Lelièvre"
+      },
+      {
+        "stop_id": "54441",
+        "stop_name": "Sainte-Catherine / Broadway"
+      },
+      {
+        "stop_id": "54442",
+        "stop_name": "Sainte-Catherine / Marien"
+      },
+      {
+        "stop_id": "54449",
+        "stop_name": "Marien / Dorchester"
+      },
+      {
+        "stop_id": "53530",
+        "stop_name": "René-Lévesque / 1re Avenue"
+      },
+      {
+        "stop_id": "53535",
+        "stop_name": "René-Lévesque / 3e Avenue"
+      },
+      {
+        "stop_id": "53544",
+        "stop_name": "René-Lévesque / 5e Avenue"
+      },
+      {
+        "stop_id": "53549",
+        "stop_name": "René-Lévesque / 8e Avenue"
+      },
+      {
+        "stop_id": "53556",
+        "stop_name": "René-Lévesque / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "53564",
+        "stop_name": "René-Lévesque / 14e Avenue"
+      },
+      {
+        "stop_id": "53572",
+        "stop_name": "René-Lévesque / 16e Avenue"
+      },
+      {
+        "stop_id": "53576",
+        "stop_name": "René-Lévesque / du Poitou"
+      },
+      {
+        "stop_id": "53580",
+        "stop_name": "René-Lévesque / des Saules"
+      },
+      {
+        "stop_id": "53707",
+        "stop_name": "René-Lévesque / No 865"
+      },
+      {
+        "stop_id": "53590",
+        "stop_name": "René-Lévesque / du Tricentenaire"
+      },
+      {
+        "stop_id": "53710",
+        "stop_name": "du Tricentenaire / Joseph-d'Argent"
+      },
+      {
+        "stop_id": "53538",
+        "stop_name": "du Tricentenaire / De Montigny"
+      },
+      {
+        "stop_id": "53523",
+        "stop_name": "De Montigny / Georges-Vermette"
+      },
+      {
+        "stop_id": "53515",
+        "stop_name": "De Montigny / Régnier"
+      },
+      {
+        "stop_id": "53519",
+        "stop_name": "De Montigny / 32e Avenue"
+      },
+      {
+        "stop_id": "53528",
+        "stop_name": "De Montigny / 36e Avenue"
+      },
+      {
+        "stop_id": "53537",
+        "stop_name": "De Montigny / 40e Avenue"
+      },
+      {
+        "stop_id": "53546",
+        "stop_name": "De Montigny / 43e Avenue"
+      },
+      {
+        "stop_id": "53552",
+        "stop_name": "De Montigny / 47e Avenue"
+      },
+      {
+        "stop_id": "53560",
+        "stop_name": "De Montigny / De La Rousselière"
+      },
+      {
+        "stop_id": "53562",
+        "stop_name": "De Montigny / 51e Avenue"
+      },
+      {
+        "stop_id": "53569",
+        "stop_name": "53e Avenue / De Montigny"
+      },
+      {
+        "stop_id": "53531",
+        "stop_name": "53e Avenue / Forsyth"
+      },
+      {
+        "stop_id": "53511",
+        "stop_name": "53e Avenue / 52e Avenue"
+      },
+      {
+        "stop_id": "53720",
+        "stop_name": "52e Avenue / Sherbrooke"
+      },
+      {
+        "stop_id": "53717",
+        "stop_name": "Prince-Arthur / No 14135"
+      },
+      {
+        "stop_id": "53466",
+        "stop_name": "Prince-Arthur / François-Harel"
+      },
+      {
+        "stop_id": "53447",
+        "stop_name": "Prince-Arthur / 44e Avenue"
+      },
+      {
+        "stop_id": "53474",
+        "stop_name": "42e Avenue / Henri-Bourassa"
+      }
+    ]
+  },
+  {
+    "direction": "Est destination Tricentenaire / De Montigny",
+    "arrets": [
+      {
+        "stop_id": "53724",
+        "stop_name": "Station Honoré-Beaugrand / Terminus Nord"
+      },
+      {
+        "stop_id": "53289",
+        "stop_name": "Sherbrooke / Saint-Donat"
+      },
+      {
+        "stop_id": "53314",
+        "stop_name": "Sherbrooke / Des Ormeaux"
+      },
+      {
+        "stop_id": "53327",
+        "stop_name": "Sherbrooke / Pierre-Bernard"
+      },
+      {
+        "stop_id": "53345",
+        "stop_name": "Sherbrooke / Fletcher"
+      },
+      {
+        "stop_id": "54473",
+        "stop_name": "Sherbrooke / Joseph-Versailles"
+      },
+      {
+        "stop_id": "54405",
+        "stop_name": "Sherbrooke / Indorama"
+      },
+      {
+        "stop_id": "54417",
+        "stop_name": "Durocher / Sherbrooke"
+      },
+      {
+        "stop_id": "54479",
+        "stop_name": "Durocher / Nexans"
+      },
+      {
+        "stop_id": "54435",
+        "stop_name": "Durocher / Sainte-Catherine"
+      },
+      {
+        "stop_id": "54436",
+        "stop_name": "Sainte-Catherine / Lelièvre"
+      },
+      {
+        "stop_id": "54441",
+        "stop_name": "Sainte-Catherine / Broadway"
+      },
+      {
+        "stop_id": "54442",
+        "stop_name": "Sainte-Catherine / Marien"
+      },
+      {
+        "stop_id": "54449",
+        "stop_name": "Marien / Dorchester"
+      },
+      {
+        "stop_id": "53530",
+        "stop_name": "René-Lévesque / 1re Avenue"
+      },
+      {
+        "stop_id": "53535",
+        "stop_name": "René-Lévesque / 3e Avenue"
+      },
+      {
+        "stop_id": "53544",
+        "stop_name": "René-Lévesque / 5e Avenue"
+      },
+      {
+        "stop_id": "53549",
+        "stop_name": "René-Lévesque / 8e Avenue"
+      },
+      {
+        "stop_id": "53556",
+        "stop_name": "René-Lévesque / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "53564",
+        "stop_name": "René-Lévesque / 14e Avenue"
+      },
+      {
+        "stop_id": "53572",
+        "stop_name": "René-Lévesque / 16e Avenue"
+      },
+      {
+        "stop_id": "53576",
+        "stop_name": "René-Lévesque / du Poitou"
+      },
+      {
+        "stop_id": "53580",
+        "stop_name": "René-Lévesque / des Saules"
+      },
+      {
+        "stop_id": "53707",
+        "stop_name": "René-Lévesque / No 865"
+      },
+      {
+        "stop_id": "53590",
+        "stop_name": "René-Lévesque / du Tricentenaire"
+      },
+      {
+        "stop_id": "53710",
+        "stop_name": "du Tricentenaire / Joseph-d'Argent"
+      },
+      {
+        "stop_id": "53538",
+        "stop_name": "du Tricentenaire / De Montigny"
+      }
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "52846",
+        "stop_name": "Station Berri-UQAM (Berri / Place Émilie-Gamelin)"
+      },
+      {
+        "stop_id": "52995",
+        "stop_name": "Saint-Denis / Saint-Antoine"
+      },
+      {
+        "stop_id": "53698",
+        "stop_name": "Notre-Dame / de Bonsecours"
+      },
+      {
+        "stop_id": "60726",
+        "stop_name": "Saint-Laurent / de la Commune"
+      },
+      {
+        "stop_id": "60728",
+        "stop_name": "de la Commune / D'Youville"
+      },
+      {
+        "stop_id": "60729",
+        "stop_name": "de la Commune / McGill"
+      },
+      {
+        "stop_id": "60426",
+        "stop_name": "McGill / Le Moyne"
+      },
+      {
+        "stop_id": "52826",
+        "stop_name": "McGill / Saint-Jacques"
+      },
+      {
+        "stop_id": "52705",
+        "stop_name": "Station Square-Victoria-OACI"
+      },
+      {
+        "stop_id": "52666",
+        "stop_name": "Robert-Bourassa / De La Gauchetière"
+      },
+      {
+        "stop_id": "52529",
+        "stop_name": "René-Lévesque / Mansfield"
+      },
+      {
+        "stop_id": "52397",
+        "stop_name": "Peel / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52336",
+        "stop_name": "Station Peel (Peel / De Maisonneuve)"
+      },
+      {
+        "stop_id": "52275",
+        "stop_name": "Peel / Sherbrooke"
+      },
+      {
+        "stop_id": "52176",
+        "stop_name": "Peel / du Docteur-Penfield"
+      },
+      {
+        "stop_id": "53843",
+        "stop_name": "du Docteur-Penfield / Réservoir McTavish"
+      },
+      {
+        "stop_id": "54346",
+        "stop_name": "des Pins / du Docteur-Penfield"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "54346",
+        "stop_name": "des Pins / du Docteur-Penfield"
+      },
+      {
+        "stop_id": "52106",
+        "stop_name": "Peel / des Pins"
+      },
+      {
+        "stop_id": "52177",
+        "stop_name": "Peel / du Docteur-Penfield"
+      },
+      {
+        "stop_id": "52276",
+        "stop_name": "Peel / Sherbrooke"
+      },
+      {
+        "stop_id": "59061",
+        "stop_name": "Metcalfe / De Maisonneuve"
+      },
+      {
+        "stop_id": "60713",
+        "stop_name": "Metcalfe / du Square Dorchester"
+      },
+      {
+        "stop_id": "52530",
+        "stop_name": "René-Lévesque / Mansfield"
+      },
+      {
+        "stop_id": "52626",
+        "stop_name": "René-Lévesque / du Beaver Hall"
+      },
+      {
+        "stop_id": "52669",
+        "stop_name": "du Beaver Hall / Belmont"
+      },
+      {
+        "stop_id": "61657",
+        "stop_name": "du Beaver Hall / Viger"
+      },
+      {
+        "stop_id": "52856",
+        "stop_name": "McGill / Notre-Dame"
+      },
+      {
+        "stop_id": "54070",
+        "stop_name": "McGill / Saint-Paul"
+      },
+      {
+        "stop_id": "52991",
+        "stop_name": "McGill / William"
+      },
+      {
+        "stop_id": "60716",
+        "stop_name": "de la Commune / McGill"
+      },
+      {
+        "stop_id": "60717",
+        "stop_name": "de la Commune / de Callière"
+      },
+      {
+        "stop_id": "60718",
+        "stop_name": "de la Commune / Saint-Jean-Baptiste"
+      },
+      {
+        "stop_id": "60719",
+        "stop_name": "de la Commune / Jacques-Cartier"
+      },
+      {
+        "stop_id": "60720",
+        "stop_name": "de la Commune / de Bonsecours"
+      },
+      {
+        "stop_id": "60801",
+        "stop_name": "Berri / Cirque Éloize"
+      },
+      {
+        "stop_id": "52976",
+        "stop_name": "Berri / Viger"
+      },
+      {
+        "stop_id": "52904",
+        "stop_name": "Berri / René-Lévesque"
+      },
+      {
+        "stop_id": "52846",
+        "stop_name": "Station Berri-UQAM (Berri / Place Émilie-Gamelin)"
+      },
+      {
+        "stop_id": "54001",
+        "stop_name": "Metcalfe / Sainte-Catherine"
+      }
+    ]
+  }
+]

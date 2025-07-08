@@ -1,0 +1,36 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "60296",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "58211",
+        "stop_name": "Gare Sunnybrooke (Gouin / de Lucerne)"
+      },
+      {
+        "stop_id": "61988",
+        "stop_name": "Gare Roxboro-Pierrefonds"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "61988",
+        "stop_name": "Gare Roxboro-Pierrefonds"
+      },
+      {
+        "stop_id": "58235",
+        "stop_name": "Gare Sunnybrooke (Gouin / Sunnybrooke)"
+      },
+      {
+        "stop_id": "60296",
+        "stop_name": "Station Côte-Vertu"
+      }
+    ]
+  }
+]

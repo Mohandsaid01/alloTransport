@@ -1,0 +1,100 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "60250",
+        "stop_name": "Station Crémazie Sud (Berri / Crémazie)"
+      },
+      {
+        "stop_id": "50841",
+        "stop_name": "de Liège / Saint-Denis"
+      },
+      {
+        "stop_id": "50816",
+        "stop_name": "de Liège / De Gaspé"
+      },
+      {
+        "stop_id": "50788",
+        "stop_name": "Saint-Laurent / de Liège"
+      },
+      {
+        "stop_id": "50891",
+        "stop_name": "Jarry / de l'Esplanade"
+      },
+      {
+        "stop_id": "54391",
+        "stop_name": "de l'Esplanade / Guizot"
+      },
+      {
+        "stop_id": "50740",
+        "stop_name": "de Liège / de l'Esplanade"
+      },
+      {
+        "stop_id": "50715",
+        "stop_name": "de Liège / Jeanne-Mance"
+      },
+      {
+        "stop_id": "50787",
+        "stop_name": "de Liège / Clark"
+      },
+      {
+        "stop_id": "50751",
+        "stop_name": "de Liège / de Reims"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "50715",
+        "stop_name": "de Liège / Jeanne-Mance"
+      },
+      {
+        "stop_id": "50675",
+        "stop_name": "Jeanne-Mance / Bellarmin"
+      },
+      {
+        "stop_id": "50624",
+        "stop_name": "Jeanne-Mance / Crémazie"
+      },
+      {
+        "stop_id": "50657",
+        "stop_name": "Crémazie / de l'Esplanade"
+      },
+      {
+        "stop_id": "50681",
+        "stop_name": "Crémazie / de Reims"
+      },
+      {
+        "stop_id": "50665",
+        "stop_name": "Crémazie / Clark"
+      },
+      {
+        "stop_id": "50671",
+        "stop_name": "Crémazie / Saint-Laurent"
+      },
+      {
+        "stop_id": "50720",
+        "stop_name": "Crémazie / Casgrain"
+      },
+      {
+        "stop_id": "50734",
+        "stop_name": "Crémazie / Henri-Julien"
+      },
+      {
+        "stop_id": "60250",
+        "stop_name": "Station Crémazie Sud (Berri / Crémazie)"
+      },
+      {
+        "stop_id": "50892",
+        "stop_name": "de l'Esplanade / Guizot"
+      },
+      {
+        "stop_id": "50785",
+        "stop_name": "Saint-Laurent / de Liège"
+      }
+    ]
+  }
+]

@@ -1,0 +1,468 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "57507",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "57462",
+        "stop_name": "Dorval / Carson"
+      },
+      {
+        "stop_id": "57465",
+        "stop_name": "Dorval / Dawson"
+      },
+      {
+        "stop_id": "57550",
+        "stop_name": "Dorval / No 135"
+      },
+      {
+        "stop_id": "57468",
+        "stop_name": "Bord-du-Lac / Decary"
+      },
+      {
+        "stop_id": "57471",
+        "stop_name": "Bord-du-Lac / de la Présentation"
+      },
+      {
+        "stop_id": "57473",
+        "stop_name": "Bord-du-Lac / Dahlia"
+      },
+      {
+        "stop_id": "57479",
+        "stop_name": "Bord-du-Lac / Saint-Charles"
+      },
+      {
+        "stop_id": "57482",
+        "stop_name": "Bord-du-Lac / Sévigny"
+      },
+      {
+        "stop_id": "57485",
+        "stop_name": "Bord-du-Lac / Joubert"
+      },
+      {
+        "stop_id": "62286",
+        "stop_name": "Saint-Joseph / 56e Avenue"
+      },
+      {
+        "stop_id": "62287",
+        "stop_name": "Saint-Joseph / 53e Avenue"
+      },
+      {
+        "stop_id": "62288",
+        "stop_name": "Saint-Joseph / 51e Avenue"
+      },
+      {
+        "stop_id": "62289",
+        "stop_name": "Saint-Joseph / 48e Avenue"
+      },
+      {
+        "stop_id": "57162",
+        "stop_name": "Saint-Joseph / 46e Avenue"
+      },
+      {
+        "stop_id": "57168",
+        "stop_name": "Broadway / 44e Avenue"
+      },
+      {
+        "stop_id": "57174",
+        "stop_name": "Broadway / 42e Avenue"
+      },
+      {
+        "stop_id": "57182",
+        "stop_name": "Broadway / 39e Avenue"
+      },
+      {
+        "stop_id": "57187",
+        "stop_name": "Broadway / 36e Avenue"
+      },
+      {
+        "stop_id": "57190",
+        "stop_name": "Victoria / 33e Avenue"
+      },
+      {
+        "stop_id": "57285",
+        "stop_name": "32e Avenue / Remembrance"
+      },
+      {
+        "stop_id": "57198",
+        "stop_name": "32e Avenue / Saint-Antoine"
+      },
+      {
+        "stop_id": "62120",
+        "stop_name": "32e Avenue / Provost"
+      },
+      {
+        "stop_id": "57204",
+        "stop_name": "Provost / 26e Avenue"
+      },
+      {
+        "stop_id": "57214",
+        "stop_name": "Provost / 24e Avenue"
+      },
+      {
+        "stop_id": "57223",
+        "stop_name": "Provost / 18e Avenue"
+      },
+      {
+        "stop_id": "57231",
+        "stop_name": "Provost / 16e Avenue"
+      },
+      {
+        "stop_id": "57244",
+        "stop_name": "Provost / 10e Avenue"
+      },
+      {
+        "stop_id": "57256",
+        "stop_name": "Provost / 7e Avenue"
+      },
+      {
+        "stop_id": "57267",
+        "stop_name": "Provost / 3e Avenue"
+      },
+      {
+        "stop_id": "57271",
+        "stop_name": "Provost / 1re Avenue"
+      },
+      {
+        "stop_id": "57276",
+        "stop_name": "1re Avenue / Saint-Antoine"
+      },
+      {
+        "stop_id": "57278",
+        "stop_name": "William-MacDonald / George-V"
+      },
+      {
+        "stop_id": "56463",
+        "stop_name": "Saint-Jacques / Richardson"
+      },
+      {
+        "stop_id": "57302",
+        "stop_name": "Saint-Jacques / Jolicoeur"
+      },
+      {
+        "stop_id": "56475",
+        "stop_name": "Saint-Pierre / Notre-Dame"
+      },
+      {
+        "stop_id": "57100",
+        "stop_name": "Dollard / No 850"
+      },
+      {
+        "stop_id": "56796",
+        "stop_name": "Dollard / Elmslie"
+      },
+      {
+        "stop_id": "56808",
+        "stop_name": "Dollard / Hull"
+      },
+      {
+        "stop_id": "56816",
+        "stop_name": "Dollard / Trudeau"
+      },
+      {
+        "stop_id": "56821",
+        "stop_name": "Dollard / Bédard"
+      },
+      {
+        "stop_id": "56826",
+        "stop_name": "Dollard / Newman"
+      },
+      {
+        "stop_id": "56844",
+        "stop_name": "Dollard / Réjane"
+      },
+      {
+        "stop_id": "57105",
+        "stop_name": "Dollard / Chartrand"
+      },
+      {
+        "stop_id": "56879",
+        "stop_name": "Dollard / Jean-Brillon"
+      },
+      {
+        "stop_id": "56892",
+        "stop_name": "Dollard / Salley"
+      },
+      {
+        "stop_id": "56916",
+        "stop_name": "Dollard / Champlain (Hôpital de LaSalle)"
+      },
+      {
+        "stop_id": "56930",
+        "stop_name": "Champlain / 35e Avenue"
+      },
+      {
+        "stop_id": "56947",
+        "stop_name": "Champlain / Raymond"
+      },
+      {
+        "stop_id": "62290",
+        "stop_name": "Champlain / Gagné"
+      },
+      {
+        "stop_id": "56972",
+        "stop_name": "Champlain / Bishop-Power"
+      },
+      {
+        "stop_id": "57087",
+        "stop_name": "Bourdeau / No 7675"
+      },
+      {
+        "stop_id": "57079",
+        "stop_name": "Bourdeau / Thierry"
+      },
+      {
+        "stop_id": "57080",
+        "stop_name": "Bourdeau / Lapierre"
+      },
+      {
+        "stop_id": "51611",
+        "stop_name": "des Trinitaires / Lamont"
+      },
+      {
+        "stop_id": "61263",
+        "stop_name": "Station Angrignon"
+      },
+      {
+        "stop_id": "57529",
+        "stop_name": "École Dorval-Jean-XXIII (Dawson / No 1301)"
+      },
+      {
+        "stop_id": "57466",
+        "stop_name": "Dawson / Dorval"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "61662",
+        "stop_name": "Station Angrignon (des Trinitaires / Lamont)"
+      },
+      {
+        "stop_id": "56986",
+        "stop_name": "De La Vérendrye / Lapierre"
+      },
+      {
+        "stop_id": "57086",
+        "stop_name": "De La Vérendrye / Melatti"
+      },
+      {
+        "stop_id": "57095",
+        "stop_name": "Champlain / Bishop-Power"
+      },
+      {
+        "stop_id": "62291",
+        "stop_name": "Champlain / Gagné"
+      },
+      {
+        "stop_id": "62292",
+        "stop_name": "Champlain / Raymond"
+      },
+      {
+        "stop_id": "56929",
+        "stop_name": "Champlain / 35e Avenue"
+      },
+      {
+        "stop_id": "56917",
+        "stop_name": "Dollard / Champlain (Hôpital de LaSalle)"
+      },
+      {
+        "stop_id": "56891",
+        "stop_name": "Dollard / Salley"
+      },
+      {
+        "stop_id": "56877",
+        "stop_name": "Dollard / Jean-Brillon"
+      },
+      {
+        "stop_id": "56858",
+        "stop_name": "Dollard / David-Boyer"
+      },
+      {
+        "stop_id": "56843",
+        "stop_name": "Dollard / Réjane"
+      },
+      {
+        "stop_id": "56825",
+        "stop_name": "Dollard / Newman"
+      },
+      {
+        "stop_id": "56827",
+        "stop_name": "Dollard / Newman (côté Nord)"
+      },
+      {
+        "stop_id": "56820",
+        "stop_name": "Dollard / Hardy"
+      },
+      {
+        "stop_id": "56815",
+        "stop_name": "Dollard / Trudeau"
+      },
+      {
+        "stop_id": "56807",
+        "stop_name": "Dollard / Hull"
+      },
+      {
+        "stop_id": "56795",
+        "stop_name": "Dollard / Elmslie"
+      },
+      {
+        "stop_id": "56797",
+        "stop_name": "Dollard / Saint-Patrick"
+      },
+      {
+        "stop_id": "56471",
+        "stop_name": "Saint-Pierre / Notre-Dame"
+      },
+      {
+        "stop_id": "56470",
+        "stop_name": "Saint-Jacques / No 345"
+      },
+      {
+        "stop_id": "56461",
+        "stop_name": "Saint-Jacques / Richardson"
+      },
+      {
+        "stop_id": "57272",
+        "stop_name": "Victoria / 1re Avenue"
+      },
+      {
+        "stop_id": "57275",
+        "stop_name": "1re Avenue / Saint-Antoine"
+      },
+      {
+        "stop_id": "57270",
+        "stop_name": "1re Avenue / Provost"
+      },
+      {
+        "stop_id": "57266",
+        "stop_name": "Provost / 3e Avenue"
+      },
+      {
+        "stop_id": "57255",
+        "stop_name": "Provost / 7e Avenue"
+      },
+      {
+        "stop_id": "57243",
+        "stop_name": "Provost / 10e Avenue"
+      },
+      {
+        "stop_id": "57230",
+        "stop_name": "Provost / 16e Avenue"
+      },
+      {
+        "stop_id": "57221",
+        "stop_name": "Provost / Esther-Blondin"
+      },
+      {
+        "stop_id": "57217",
+        "stop_name": "Provost / 20e Avenue"
+      },
+      {
+        "stop_id": "57207",
+        "stop_name": "Provost / 25e Avenue"
+      },
+      {
+        "stop_id": "62132",
+        "stop_name": "Provost / 31e Avenue"
+      },
+      {
+        "stop_id": "57197",
+        "stop_name": "32e Avenue / Provost"
+      },
+      {
+        "stop_id": "57200",
+        "stop_name": "32e Avenue / Saint-Antoine"
+      },
+      {
+        "stop_id": "57344",
+        "stop_name": "Victoria / 33e Avenue"
+      },
+      {
+        "stop_id": "57186",
+        "stop_name": "Broadway / 36e Avenue"
+      },
+      {
+        "stop_id": "57181",
+        "stop_name": "Broadway / 40e Avenue"
+      },
+      {
+        "stop_id": "57332",
+        "stop_name": "Broadway / 43e Avenue"
+      },
+      {
+        "stop_id": "57169",
+        "stop_name": "Broadway / Saint-Joseph"
+      },
+      {
+        "stop_id": "57157",
+        "stop_name": "Saint-Joseph / 48e Avenue"
+      },
+      {
+        "stop_id": "62293",
+        "stop_name": "Saint-Joseph / 51e Avenue"
+      },
+      {
+        "stop_id": "62294",
+        "stop_name": "Saint-Joseph / 52e Avenue"
+      },
+      {
+        "stop_id": "62295",
+        "stop_name": "Saint-Joseph / 56e Avenue"
+      },
+      {
+        "stop_id": "57486",
+        "stop_name": "Bord-du-Lac / Brockwell"
+      },
+      {
+        "stop_id": "57541",
+        "stop_name": "Bord-du-Lac / McNicoll"
+      },
+      {
+        "stop_id": "57478",
+        "stop_name": "Bord-du-Lac / Saint-Charles"
+      },
+      {
+        "stop_id": "57472",
+        "stop_name": "Bord-du-Lac / Tulip"
+      },
+      {
+        "stop_id": "57470",
+        "stop_name": "Bord-du-Lac / de la Présentation"
+      },
+      {
+        "stop_id": "57469",
+        "stop_name": "Bord-du-Lac / Decary"
+      },
+      {
+        "stop_id": "60627",
+        "stop_name": "Dorval / No 150"
+      },
+      {
+        "stop_id": "57464",
+        "stop_name": "Dorval / Dawson"
+      },
+      {
+        "stop_id": "57461",
+        "stop_name": "Dorval / Carson"
+      },
+      {
+        "stop_id": "57491",
+        "stop_name": "Dorval / No 352"
+      },
+      {
+        "stop_id": "61317",
+        "stop_name": "Terminus Dorval"
+      },
+      {
+        "stop_id": "57528",
+        "stop_name": "École Dorval-Jean-XXIII (Dawson / No 1301)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "direction": "Station Côte-Vertu",
+    "arrets": [
+      {
+        "stop_id": "68",
+        "stop_name": "Station Montmorency -Zone B"
+      },
+      {
+        "stop_id": "67",
+        "stop_name": "Station De la Concorde -Zone B"
+      },
+      {
+        "stop_id": "66",
+        "stop_name": "Station Cartier -Zone B"
+      },
+      {
+        "stop_id": "1",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "2",
+        "stop_name": "Station Sauvé"
+      },
+      {
+        "stop_id": "3",
+        "stop_name": "Station Crémazie"
+      },
+      {
+        "stop_id": "4",
+        "stop_name": "Station Jarry"
+      },
+      {
+        "stop_id": "9999052",
+        "stop_name": "Station Jean-Talon"
+      },
+      {
+        "stop_id": "6",
+        "stop_name": "Station Beaubien"
+      },
+      {
+        "stop_id": "7",
+        "stop_name": "Station Rosemont"
+      },
+      {
+        "stop_id": "8",
+        "stop_name": "Station Laurier"
+      },
+      {
+        "stop_id": "9",
+        "stop_name": "Station Mont-Royal"
+      },
+      {
+        "stop_id": "10",
+        "stop_name": "Station Sherbrooke"
+      },
+      {
+        "stop_id": "9999112",
+        "stop_name": "Station Berri-UQAM"
+      },
+      {
+        "stop_id": "12",
+        "stop_name": "Station Champ-de-Mars"
+      },
+      {
+        "stop_id": "13",
+        "stop_name": "Station Place-d'Armes"
+      },
+      {
+        "stop_id": "14",
+        "stop_name": "Station Square-Victoria–OACI"
+      },
+      {
+        "stop_id": "15",
+        "stop_name": "Station Bonaventure"
+      },
+      {
+        "stop_id": "16",
+        "stop_name": "Station Lucien-L'Allier"
+      },
+      {
+        "stop_id": "17",
+        "stop_name": "Station Georges-Vanier"
+      },
+      {
+        "stop_id": "36",
+        "stop_name": "Station Lionel-Groulx"
+      },
+      {
+        "stop_id": "46",
+        "stop_name": "Station Place-Saint-Henri"
+      },
+      {
+        "stop_id": "47",
+        "stop_name": "Station Vendôme"
+      },
+      {
+        "stop_id": "48",
+        "stop_name": "Station Villa-Maria"
+      },
+      {
+        "stop_id": "9999492",
+        "stop_name": "Station Snowdon"
+      },
+      {
+        "stop_id": "50",
+        "stop_name": "Station Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "51",
+        "stop_name": "Station Plamondon"
+      },
+      {
+        "stop_id": "52",
+        "stop_name": "Station Namur"
+      },
+      {
+        "stop_id": "53",
+        "stop_name": "Station De la Savane"
+      },
+      {
+        "stop_id": "54",
+        "stop_name": "Station Du Collège"
+      },
+      {
+        "stop_id": "65",
+        "stop_name": "Station Côte-Vertu"
+      }
+    ]
+  },
+  {
+    "direction": "Station Montmorency -Zone B",
+    "arrets": [
+      {
+        "stop_id": "65",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "54",
+        "stop_name": "Station Du Collège"
+      },
+      {
+        "stop_id": "53",
+        "stop_name": "Station De la Savane"
+      },
+      {
+        "stop_id": "52",
+        "stop_name": "Station Namur"
+      },
+      {
+        "stop_id": "51",
+        "stop_name": "Station Plamondon"
+      },
+      {
+        "stop_id": "50",
+        "stop_name": "Station Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "9999492",
+        "stop_name": "Station Snowdon"
+      },
+      {
+        "stop_id": "48",
+        "stop_name": "Station Villa-Maria"
+      },
+      {
+        "stop_id": "47",
+        "stop_name": "Station Vendôme"
+      },
+      {
+        "stop_id": "46",
+        "stop_name": "Station Place-Saint-Henri"
+      },
+      {
+        "stop_id": "36",
+        "stop_name": "Station Lionel-Groulx"
+      },
+      {
+        "stop_id": "17",
+        "stop_name": "Station Georges-Vanier"
+      },
+      {
+        "stop_id": "16",
+        "stop_name": "Station Lucien-L'Allier"
+      },
+      {
+        "stop_id": "15",
+        "stop_name": "Station Bonaventure"
+      },
+      {
+        "stop_id": "14",
+        "stop_name": "Station Square-Victoria–OACI"
+      },
+      {
+        "stop_id": "13",
+        "stop_name": "Station Place-d'Armes"
+      },
+      {
+        "stop_id": "12",
+        "stop_name": "Station Champ-de-Mars"
+      },
+      {
+        "stop_id": "9999112",
+        "stop_name": "Station Berri-UQAM"
+      },
+      {
+        "stop_id": "10",
+        "stop_name": "Station Sherbrooke"
+      },
+      {
+        "stop_id": "9",
+        "stop_name": "Station Mont-Royal"
+      },
+      {
+        "stop_id": "8",
+        "stop_name": "Station Laurier"
+      },
+      {
+        "stop_id": "7",
+        "stop_name": "Station Rosemont"
+      },
+      {
+        "stop_id": "6",
+        "stop_name": "Station Beaubien"
+      },
+      {
+        "stop_id": "9999052",
+        "stop_name": "Station Jean-Talon"
+      },
+      {
+        "stop_id": "4",
+        "stop_name": "Station Jarry"
+      },
+      {
+        "stop_id": "3",
+        "stop_name": "Station Crémazie"
+      },
+      {
+        "stop_id": "2",
+        "stop_name": "Station Sauvé"
+      },
+      {
+        "stop_id": "1",
+        "stop_name": "Station Henri-Bourassa"
+      },
+      {
+        "stop_id": "66",
+        "stop_name": "Station Cartier -Zone B"
+      },
+      {
+        "stop_id": "67",
+        "stop_name": "Station De la Concorde -Zone B"
+      },
+      {
+        "stop_id": "68",
+        "stop_name": "Station Montmorency -Zone B"
+      }
+    ]
+  },
+  {
+    "direction": "Station Henri-Bourassa",
+    "arrets": [
+      {
+        "stop_id": "65",
+        "stop_name": "Station Côte-Vertu"
+      },
+      {
+        "stop_id": "54",
+        "stop_name": "Station Du Collège"
+      },
+      {
+        "stop_id": "53",
+        "stop_name": "Station De la Savane"
+      },
+      {
+        "stop_id": "52",
+        "stop_name": "Station Namur"
+      },
+      {
+        "stop_id": "51",
+        "stop_name": "Station Plamondon"
+      },
+      {
+        "stop_id": "50",
+        "stop_name": "Station Côte-Sainte-Catherine"
+      },
+      {
+        "stop_id": "9999492",
+        "stop_name": "Station Snowdon"
+      },
+      {
+        "stop_id": "48",
+        "stop_name": "Station Villa-Maria"
+      },
+      {
+        "stop_id": "47",
+        "stop_name": "Station Vendôme"
+      },
+      {
+        "stop_id": "46",
+        "stop_name": "Station Place-Saint-Henri"
+      },
+      {
+        "stop_id": "36",
+        "stop_name": "Station Lionel-Groulx"
+      },
+      {
+        "stop_id": "17",
+        "stop_name": "Station Georges-Vanier"
+      },
+      {
+        "stop_id": "16",
+        "stop_name": "Station Lucien-L'Allier"
+      },
+      {
+        "stop_id": "15",
+        "stop_name": "Station Bonaventure"
+      },
+      {
+        "stop_id": "14",
+        "stop_name": "Station Square-Victoria–OACI"
+      },
+      {
+        "stop_id": "13",
+        "stop_name": "Station Place-d'Armes"
+      },
+      {
+        "stop_id": "12",
+        "stop_name": "Station Champ-de-Mars"
+      },
+      {
+        "stop_id": "9999112",
+        "stop_name": "Station Berri-UQAM"
+      },
+      {
+        "stop_id": "10",
+        "stop_name": "Station Sherbrooke"
+      },
+      {
+        "stop_id": "9",
+        "stop_name": "Station Mont-Royal"
+      },
+      {
+        "stop_id": "8",
+        "stop_name": "Station Laurier"
+      },
+      {
+        "stop_id": "7",
+        "stop_name": "Station Rosemont"
+      },
+      {
+        "stop_id": "6",
+        "stop_name": "Station Beaubien"
+      },
+      {
+        "stop_id": "9999052",
+        "stop_name": "Station Jean-Talon"
+      },
+      {
+        "stop_id": "4",
+        "stop_name": "Station Jarry"
+      },
+      {
+        "stop_id": "3",
+        "stop_name": "Station Crémazie"
+      },
+      {
+        "stop_id": "2",
+        "stop_name": "Station Sauvé"
+      },
+      {
+        "stop_id": "1",
+        "stop_name": "Station Henri-Bourassa"
+      }
+    ]
+  }
+]

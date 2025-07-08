@@ -1,0 +1,224 @@
+[
+  {
+    "direction": "Sud",
+    "arrets": [
+      {
+        "stop_id": "52451",
+        "stop_name": "Station McGill (Union / De Maisonneuve)"
+      },
+      {
+        "stop_id": "52527",
+        "stop_name": "Union / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52669",
+        "stop_name": "du Beaver Hall / Belmont"
+      },
+      {
+        "stop_id": "52705",
+        "stop_name": "Station Square-Victoria-OACI"
+      },
+      {
+        "stop_id": "52732",
+        "stop_name": "Robert-Bourassa / Viger"
+      },
+      {
+        "stop_id": "52754",
+        "stop_name": "Robert-Bourassa / Saint-Jacques"
+      },
+      {
+        "stop_id": "62168",
+        "stop_name": "Robert-Bourassa / Notre-Dame"
+      },
+      {
+        "stop_id": "53919",
+        "stop_name": "Robert-Bourassa / William"
+      },
+      {
+        "stop_id": "54372",
+        "stop_name": "Robert-Bourassa / Ottawa"
+      },
+      {
+        "stop_id": "52971",
+        "stop_name": "Robert-Bourassa / Wellington"
+      },
+      {
+        "stop_id": "53920",
+        "stop_name": "des Moulins / No 950"
+      },
+      {
+        "stop_id": "54312",
+        "stop_name": "des Moulins / Pierre-Dupuy"
+      },
+      {
+        "stop_id": "60747",
+        "stop_name": "Campus Bell"
+      },
+      {
+        "stop_id": "62134",
+        "stop_name": "Station REM Île-des-Soeurs"
+      },
+      {
+        "stop_id": "61671",
+        "stop_name": "René-Lévesque / Levert"
+      },
+      {
+        "stop_id": "56691",
+        "stop_name": "Berlioz / Terry-Fox"
+      },
+      {
+        "stop_id": "56665",
+        "stop_name": "Berlioz / Place du Soleil"
+      },
+      {
+        "stop_id": "56666",
+        "stop_name": "Berlioz / Place de la Fontaine"
+      },
+      {
+        "stop_id": "56664",
+        "stop_name": "Berlioz / Landreville"
+      },
+      {
+        "stop_id": "56662",
+        "stop_name": "Berlioz / de l'Île-des-Soeurs"
+      },
+      {
+        "stop_id": "56700",
+        "stop_name": "de l'Île-des-Soeurs / Berlioz"
+      },
+      {
+        "stop_id": "56660",
+        "stop_name": "de l'Île-des-Soeurs / Elgar"
+      },
+      {
+        "stop_id": "56653",
+        "stop_name": "de l'Île-des-Soeurs / De Gaspé"
+      },
+      {
+        "stop_id": "60400",
+        "stop_name": "de l'Île-des-Soeurs / Hall"
+      },
+      {
+        "stop_id": "60696",
+        "stop_name": "de la Pointe-Sud / de l'Orée-du-Bois"
+      },
+      {
+        "stop_id": "60697",
+        "stop_name": "de la Pointe-Sud / des Parulines"
+      },
+      {
+        "stop_id": "60699",
+        "stop_name": "de la Pointe-Sud / No 250"
+      },
+      {
+        "stop_id": "62130",
+        "stop_name": "de la Pointe-Sud / André-Prévost"
+      },
+      {
+        "stop_id": "62163",
+        "stop_name": "André-Prévost / Serge-Garant"
+      }
+    ]
+  },
+  {
+    "direction": "Nord",
+    "arrets": [
+      {
+        "stop_id": "62163",
+        "stop_name": "André-Prévost / Serge-Garant"
+      },
+      {
+        "stop_id": "62074",
+        "stop_name": "André-Prévost / Claude-Vivier"
+      },
+      {
+        "stop_id": "62205",
+        "stop_name": "de la Pointe-Sud / Symphonia"
+      },
+      {
+        "stop_id": "60693",
+        "stop_name": "de la Pointe-Sud / des Parulines"
+      },
+      {
+        "stop_id": "60694",
+        "stop_name": "de la Pointe-Sud / des Sommets"
+      },
+      {
+        "stop_id": "56654",
+        "stop_name": "de l'Île-des-Soeurs / De Gaspé"
+      },
+      {
+        "stop_id": "56656",
+        "stop_name": "de l'Île-des-Soeurs / François"
+      },
+      {
+        "stop_id": "56663",
+        "stop_name": "de l'Île-des-Soeurs / Darwin"
+      },
+      {
+        "stop_id": "56661",
+        "stop_name": "de l'Île-des-Soeurs / Berlioz"
+      },
+      {
+        "stop_id": "62078",
+        "stop_name": "Berlioz / O'Reilly"
+      },
+      {
+        "stop_id": "62357",
+        "stop_name": "Berlioz / Terry-Fox"
+      },
+      {
+        "stop_id": "56695",
+        "stop_name": "René-Lévesque / Berlioz"
+      },
+      {
+        "stop_id": "56702",
+        "stop_name": "René-Lévesque / Levert"
+      },
+      {
+        "stop_id": "62080",
+        "stop_name": "Station REM Île-des-Soeurs"
+      },
+      {
+        "stop_id": "60748",
+        "stop_name": "Campus Bell (de la Pointe-Nord / J.-Le Ber)"
+      },
+      {
+        "stop_id": "54314",
+        "stop_name": "des Moulins / Pierre-Dupuy"
+      },
+      {
+        "stop_id": "52973",
+        "stop_name": "Robert-Bourassa / Wellington"
+      },
+      {
+        "stop_id": "52880",
+        "stop_name": "Robert-Bourassa / William"
+      },
+      {
+        "stop_id": "52804",
+        "stop_name": "Robert-Bourassa / Notre-Dame"
+      },
+      {
+        "stop_id": "52752",
+        "stop_name": "Robert-Bourassa / Saint-Jacques"
+      },
+      {
+        "stop_id": "52666",
+        "stop_name": "Robert-Bourassa / De La Gauchetière"
+      },
+      {
+        "stop_id": "52588",
+        "stop_name": "Robert-Bourassa / René-Lévesque"
+      },
+      {
+        "stop_id": "52499",
+        "stop_name": "Robert-Bourassa / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52412",
+        "stop_name": "Station McGill (R.-Bourassa / Président-Kennedy)"
+      }
+    ]
+  }
+]

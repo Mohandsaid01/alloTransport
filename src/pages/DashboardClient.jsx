@@ -572,23 +572,42 @@ const DashboardClient = () => {
             <div className="incident-form">
               <div className="form-section">
                 <h3>Détails de l'incident</h3>
-                <form onSubmit={(e) => {
-                  e.preventDefault();
-                  const formData = new FormData(e.target);
-                  const incidentData = {
-                    type: formData.get('incident-type'),
-                    line: formData.get('line'),
-                    station: formData.get('station'),
-                    description: formData.get('description'),
-                    severity: formData.get('severity'),
-                    reporter: user.id,
-                    timestamp: new Date().toISOString()
-                  };
-                  
-                  console.log('Incident signalé:', incidentData);
-                  alert('Incident signalé avec succès! La STM en sera informée et vous recevrez un suivi par email.');
-                  e.target.reset();
-                }}>
+                <form onSubmit={async (e) => {
+                e.preventDefault();
+                const formData = new FormData(e.target);
+                
+                const payload = {
+                  type_incident: formData.get('incident-type'),
+                  ligne: formData.get('line'),
+                  station: formData.get('station'),
+                  description: formData.get('description'),
+                  gravite: formData.get('severity'),
+                  suivi: formData.get('contact') === 'oui',
+                  email: user.email  // utile pour le suivi
+                };
+
+                try {
+                  const response = await fetch('http://127.0.0.1:8000/api/incidents', {
+                    method: 'POST',
+                    headers: {
+                      'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(payload)
+                  });
+
+                  if (response.ok) {
+                    alert('Incident signalé avec succès!');
+                    e.target.reset();
+                  } else {
+                    const errorData = await response.json();
+                    alert('Erreur lors de l’envoi : ' + JSON.stringify(errorData));
+                  }
+                } catch (error) {
+                  console.error(error);
+                  alert('Une erreur est survenue lors de l’envoi.');
+                }
+              }}>
+
                   <div className="form-group">
                     <label>Type d'incident</label>
                     <select name="incident-type" required>

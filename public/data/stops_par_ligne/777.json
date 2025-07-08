@@ -1,0 +1,109 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "62148",
+        "stop_name": "Station Bonaventure (Gauchetière / Mansfield)"
+      },
+      {
+        "stop_id": "62168",
+        "stop_name": "Robert-Bourassa / Notre-Dame"
+      },
+      {
+        "stop_id": "53919",
+        "stop_name": "Robert-Bourassa / William"
+      },
+      {
+        "stop_id": "52971",
+        "stop_name": "Robert-Bourassa / Wellington"
+      },
+      {
+        "stop_id": "53920",
+        "stop_name": "des Moulins / No 950"
+      },
+      {
+        "stop_id": "62149",
+        "stop_name": "Pierre-Dupuy / des Moulins"
+      },
+      {
+        "stop_id": "62150",
+        "stop_name": "Pierre-Dupuy / Quai Bickerdike"
+      },
+      {
+        "stop_id": "62151",
+        "stop_name": "Pierre-Dupuy / Habitat 67"
+      },
+      {
+        "stop_id": "62152",
+        "stop_name": "Pierre-Dupuy / de la Concorde"
+      },
+      {
+        "stop_id": "62153",
+        "stop_name": "Casino de Montréal"
+      },
+      {
+        "stop_id": "54335",
+        "stop_name": "Station Jean-Drapeau"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "50117",
+        "stop_name": "Station Jean-Drapeau"
+      },
+      {
+        "stop_id": "54330",
+        "stop_name": "Casino de Montréal"
+      },
+      {
+        "stop_id": "62154",
+        "stop_name": "Pierre-Dupuy / de la Concorde"
+      },
+      {
+        "stop_id": "62155",
+        "stop_name": "Pierre-Dupuy / Habitat 67"
+      },
+      {
+        "stop_id": "62156",
+        "stop_name": "Pierre-Dupuy / Quai Bickerdike"
+      },
+      {
+        "stop_id": "62157",
+        "stop_name": "Pierre-Dupuy / des Moulins"
+      },
+      {
+        "stop_id": "52973",
+        "stop_name": "Robert-Bourassa / Wellington"
+      },
+      {
+        "stop_id": "52880",
+        "stop_name": "Robert-Bourassa / William"
+      },
+      {
+        "stop_id": "52804",
+        "stop_name": "Robert-Bourassa / Notre-Dame"
+      },
+      {
+        "stop_id": "62148",
+        "stop_name": "Station Bonaventure (Gauchetière / Mansfield)"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest destination Casino de Montréal",
+    "arrets": [
+      {
+        "stop_id": "50117",
+        "stop_name": "Station Jean-Drapeau"
+      },
+      {
+        "stop_id": "54330",
+        "stop_name": "Casino de Montréal"
+      }
+    ]
+  }
+]

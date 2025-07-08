@@ -1,0 +1,248 @@
+[
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "60999",
+        "stop_name": "Station Guy-Concordia (Maisonneuve / St-Mathieu)"
+      },
+      {
+        "stop_id": "52196",
+        "stop_name": "Saint-Mathieu / Sainte-Catherine"
+      },
+      {
+        "stop_id": "52329",
+        "stop_name": "René-Lévesque / Guy"
+      },
+      {
+        "stop_id": "52374",
+        "stop_name": "René-Lévesque / Bishop"
+      },
+      {
+        "stop_id": "52437",
+        "stop_name": "René-Lévesque / Drummond"
+      },
+      {
+        "stop_id": "61807",
+        "stop_name": "René-Lévesque / Stanley"
+      },
+      {
+        "stop_id": "52530",
+        "stop_name": "René-Lévesque / Mansfield"
+      },
+      {
+        "stop_id": "53918",
+        "stop_name": "René-Lévesque / Union"
+      },
+      {
+        "stop_id": "60683",
+        "stop_name": "René-Lévesque / Jeanne-Mance"
+      },
+      {
+        "stop_id": "52782",
+        "stop_name": "René-Lévesque / Saint-Laurent"
+      },
+      {
+        "stop_id": "60994",
+        "stop_name": "René-Lévesque / Sanguinet (CHUM)"
+      },
+      {
+        "stop_id": "52791",
+        "stop_name": "Station Berri-UQAM (Berri / De Maisonneuve)"
+      },
+      {
+        "stop_id": "52662",
+        "stop_name": "Berri / Ontario"
+      },
+      {
+        "stop_id": "61890",
+        "stop_name": "Saint-Denis / des Pins"
+      },
+      {
+        "stop_id": "61895",
+        "stop_name": "Saint-Denis / Rachel"
+      },
+      {
+        "stop_id": "61896",
+        "stop_name": "Saint-Denis / du Mont-Royal"
+      },
+      {
+        "stop_id": "61719",
+        "stop_name": "Station Laurier (Saint-Joseph / Rivard)"
+      },
+      {
+        "stop_id": "52019",
+        "stop_name": "Saint-Joseph / Christophe-Colomb"
+      },
+      {
+        "stop_id": "52081",
+        "stop_name": "Saint-Joseph / De Lanaudière"
+      },
+      {
+        "stop_id": "52145",
+        "stop_name": "Saint-Joseph / Papineau"
+      },
+      {
+        "stop_id": "52223",
+        "stop_name": "Saint-Joseph / De Lorimier"
+      },
+      {
+        "stop_id": "52295",
+        "stop_name": "Saint-Joseph / Fullum"
+      },
+      {
+        "stop_id": "53765",
+        "stop_name": "Saint-Joseph / Molson"
+      },
+      {
+        "stop_id": "52421",
+        "stop_name": "Saint-Joseph / 3e Avenue"
+      },
+      {
+        "stop_id": "52449",
+        "stop_name": "Saint-Joseph / 6e Avenue"
+      },
+      {
+        "stop_id": "52523",
+        "stop_name": "Saint-Joseph / Saint-Michel"
+      },
+      {
+        "stop_id": "50106",
+        "stop_name": "Saint-Joseph / No 3500"
+      },
+      {
+        "stop_id": "52644",
+        "stop_name": "Saint-Joseph / Bourbonnière"
+      },
+      {
+        "stop_id": "52579",
+        "stop_name": "Laurier / Jeanne-d'Arc"
+      }
+    ]
+  },
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "52579",
+        "stop_name": "Laurier / Jeanne-d'Arc"
+      },
+      {
+        "stop_id": "52643",
+        "stop_name": "Saint-Joseph / Bourbonnière"
+      },
+      {
+        "stop_id": "53749",
+        "stop_name": "Saint-Joseph / No 3600"
+      },
+      {
+        "stop_id": "52521",
+        "stop_name": "Saint-Joseph / Saint-Michel"
+      },
+      {
+        "stop_id": "52448",
+        "stop_name": "Saint-Joseph / 6e Avenue"
+      },
+      {
+        "stop_id": "52420",
+        "stop_name": "Saint-Joseph / 3e Avenue"
+      },
+      {
+        "stop_id": "61697",
+        "stop_name": "Saint-Joseph / Molson"
+      },
+      {
+        "stop_id": "54266",
+        "stop_name": "Saint-Joseph / Messier"
+      },
+      {
+        "stop_id": "52221",
+        "stop_name": "Saint-Joseph / De Lorimier"
+      },
+      {
+        "stop_id": "52143",
+        "stop_name": "Saint-Joseph / Papineau"
+      },
+      {
+        "stop_id": "52080",
+        "stop_name": "Saint-Joseph / De Lanaudière"
+      },
+      {
+        "stop_id": "52017",
+        "stop_name": "Saint-Joseph / Christophe-Colomb"
+      },
+      {
+        "stop_id": "60993",
+        "stop_name": "Saint-Denis / Saint-Joseph"
+      },
+      {
+        "stop_id": "61897",
+        "stop_name": "Saint-Denis / du Mont-Royal"
+      },
+      {
+        "stop_id": "61892",
+        "stop_name": "Saint-Denis / Rachel"
+      },
+      {
+        "stop_id": "52422",
+        "stop_name": "Saint-Denis / Roy"
+      },
+      {
+        "stop_id": "52665",
+        "stop_name": "Berri / Ontario"
+      },
+      {
+        "stop_id": "52844",
+        "stop_name": "Station Berri-UQAM (Berri / Ste-Catherine)"
+      },
+      {
+        "stop_id": "52881",
+        "stop_name": "René-Lévesque / Saint-Denis (CHUM)"
+      },
+      {
+        "stop_id": "52745",
+        "stop_name": "René-Lévesque / Saint-Urbain"
+      },
+      {
+        "stop_id": "52697",
+        "stop_name": "René-Lévesque / Jeanne-Mance"
+      },
+      {
+        "stop_id": "52625",
+        "stop_name": "Place du Frère-André"
+      },
+      {
+        "stop_id": "52587",
+        "stop_name": "René-Lévesque / Robert-Bourassa"
+      },
+      {
+        "stop_id": "52529",
+        "stop_name": "René-Lévesque / Mansfield"
+      },
+      {
+        "stop_id": "52483",
+        "stop_name": "René-Lévesque / Peel"
+      },
+      {
+        "stop_id": "52416",
+        "stop_name": "René-Lévesque / de la Montagne"
+      },
+      {
+        "stop_id": "52373",
+        "stop_name": "René-Lévesque / Bishop"
+      },
+      {
+        "stop_id": "52327",
+        "stop_name": "René-Lévesque / Guy"
+      },
+      {
+        "stop_id": "52236",
+        "stop_name": "Guy / Sainte-Catherine"
+      },
+      {
+        "stop_id": "60999",
+        "stop_name": "Station Guy-Concordia (Maisonneuve / St-Mathieu)"
+      }
+    ]
+  }
+]

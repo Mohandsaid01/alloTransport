@@ -1,0 +1,461 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "50718",
+        "stop_name": "Sauvé / J.-J.-Gagnier"
+      },
+      {
+        "stop_id": "50685",
+        "stop_name": "Sauvé / Sackville"
+      },
+      {
+        "stop_id": "50666",
+        "stop_name": "Sauvé / D'Iberville"
+      },
+      {
+        "stop_id": "50635",
+        "stop_name": "de Lille / Sauvé"
+      },
+      {
+        "stop_id": "50705",
+        "stop_name": "de Lille / Charland"
+      },
+      {
+        "stop_id": "61243",
+        "stop_name": "Charland / Parthenais"
+      },
+      {
+        "stop_id": "50652",
+        "stop_name": "Charland / De Lorimier"
+      },
+      {
+        "stop_id": "50611",
+        "stop_name": "Charland / Charton"
+      },
+      {
+        "stop_id": "50647",
+        "stop_name": "Papineau / de Louvain"
+      },
+      {
+        "stop_id": "61595",
+        "stop_name": "Papineau / Lecocq"
+      },
+      {
+        "stop_id": "50805",
+        "stop_name": "Papineau / Legendre"
+      },
+      {
+        "stop_id": "50877",
+        "stop_name": "Papineau / Émile-Journault"
+      },
+      {
+        "stop_id": "50833",
+        "stop_name": "Émile-Journault / André-Grasset"
+      },
+      {
+        "stop_id": "50773",
+        "stop_name": "Émile-Journault / Christophe-Colomb"
+      },
+      {
+        "stop_id": "50853",
+        "stop_name": "Christophe-Colomb / Étienne-Blanchard"
+      },
+      {
+        "stop_id": "50921",
+        "stop_name": "Christophe-Colomb / Henri-Gauthier"
+      },
+      {
+        "stop_id": "50975",
+        "stop_name": "Christophe-Colomb / Crémazie"
+      },
+      {
+        "stop_id": "53950",
+        "stop_name": "Collège André-Grasset"
+      },
+      {
+        "stop_id": "50857",
+        "stop_name": "Crémazie / Saint-Hubert"
+      },
+      {
+        "stop_id": "50812",
+        "stop_name": "Crémazie / Foucher"
+      },
+      {
+        "stop_id": "54205",
+        "stop_name": "Station Crémazie Nord (Crémazie / Lajeunesse)"
+      },
+      {
+        "stop_id": "53947",
+        "stop_name": "Crémazie / De Gaspé"
+      },
+      {
+        "stop_id": "50669",
+        "stop_name": "Crémazie / Saint-Laurent"
+      },
+      {
+        "stop_id": "50619",
+        "stop_name": "Saint-Laurent / De Beauharnois"
+      },
+      {
+        "stop_id": "50562",
+        "stop_name": "Saint-Laurent / Legendre"
+      },
+      {
+        "stop_id": "61028",
+        "stop_name": "Chabanel / Clark"
+      },
+      {
+        "stop_id": "61020",
+        "stop_name": "Chabanel / de l'Esplanade"
+      },
+      {
+        "stop_id": "54348",
+        "stop_name": "Chabanel / Jeanne-Mance"
+      },
+      {
+        "stop_id": "50450",
+        "stop_name": "Gare Chabanel"
+      },
+      {
+        "stop_id": "54359",
+        "stop_name": "Chabanel / du Marché-Central"
+      },
+      {
+        "stop_id": "50428",
+        "stop_name": "de l'Acadie / Chabanel"
+      },
+      {
+        "stop_id": "50381",
+        "stop_name": "de Louvain / de l'Acadie"
+      },
+      {
+        "stop_id": "50362",
+        "stop_name": "de Louvain / Charles-De La Tour"
+      },
+      {
+        "stop_id": "50412",
+        "stop_name": "Charles-De La Tour / Chabanel"
+      },
+      {
+        "stop_id": "50454",
+        "stop_name": "Charles-De La Tour / Legendre"
+      },
+      {
+        "stop_id": "50491",
+        "stop_name": "Charles-De La Tour / De Beauharnois"
+      },
+      {
+        "stop_id": "53830",
+        "stop_name": "Gince / No 95"
+      },
+      {
+        "stop_id": "55768",
+        "stop_name": "Lebeau / Benjamin-Hudon"
+      },
+      {
+        "stop_id": "55766",
+        "stop_name": "Benjamin-Hudon / Deslauriers"
+      },
+      {
+        "stop_id": "55824",
+        "stop_name": "Deslauriers / No 390"
+      },
+      {
+        "stop_id": "55341",
+        "stop_name": "Deslauriers / No 555"
+      },
+      {
+        "stop_id": "55749",
+        "stop_name": "Deslauriers / Lebeau"
+      },
+      {
+        "stop_id": "55735",
+        "stop_name": "Lebeau / Côte-Vertu"
+      },
+      {
+        "stop_id": "55737",
+        "stop_name": "de la Côte-Vertu / Lebeau"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "55737",
+        "stop_name": "de la Côte-Vertu / Lebeau"
+      },
+      {
+        "stop_id": "55748",
+        "stop_name": "Lebeau / Deslauriers"
+      },
+      {
+        "stop_id": "55340",
+        "stop_name": "Deslauriers / No 605"
+      },
+      {
+        "stop_id": "55823",
+        "stop_name": "Deslauriers / No 390"
+      },
+      {
+        "stop_id": "55822",
+        "stop_name": "Benjamin-Hudon / Deslauriers"
+      },
+      {
+        "stop_id": "55769",
+        "stop_name": "Benjamin-Hudon / Lebeau"
+      },
+      {
+        "stop_id": "55821",
+        "stop_name": "Gince / Lebeau"
+      },
+      {
+        "stop_id": "53829",
+        "stop_name": "Gince / No 55"
+      },
+      {
+        "stop_id": "50490",
+        "stop_name": "Charles-De La Tour / De Beauharnois"
+      },
+      {
+        "stop_id": "50453",
+        "stop_name": "Charles-De La Tour / Legendre"
+      },
+      {
+        "stop_id": "50411",
+        "stop_name": "Charles-De La Tour / Chabanel"
+      },
+      {
+        "stop_id": "50361",
+        "stop_name": "Charles-De La Tour / de Louvain"
+      },
+      {
+        "stop_id": "50379",
+        "stop_name": "de Louvain / de l'Acadie"
+      },
+      {
+        "stop_id": "50426",
+        "stop_name": "Chabanel / de l'Acadie"
+      },
+      {
+        "stop_id": "50448",
+        "stop_name": "Gare Chabanel"
+      },
+      {
+        "stop_id": "54349",
+        "stop_name": "Chabanel / Jeanne-Mance"
+      },
+      {
+        "stop_id": "61022",
+        "stop_name": "Chabanel / Meunier"
+      },
+      {
+        "stop_id": "60887",
+        "stop_name": "Chabanel / Saint-Laurent"
+      },
+      {
+        "stop_id": "50564",
+        "stop_name": "Saint-Laurent / Legendre"
+      },
+      {
+        "stop_id": "50620",
+        "stop_name": "Saint-Laurent / De Beauharnois"
+      },
+      {
+        "stop_id": "50671",
+        "stop_name": "Crémazie / Saint-Laurent"
+      },
+      {
+        "stop_id": "50720",
+        "stop_name": "Crémazie / Casgrain"
+      },
+      {
+        "stop_id": "50734",
+        "stop_name": "Crémazie / Henri-Julien"
+      },
+      {
+        "stop_id": "50769",
+        "stop_name": "Station Crémazie Sud (Crémazie / Berri)"
+      },
+      {
+        "stop_id": "50813",
+        "stop_name": "Crémazie / Foucher"
+      },
+      {
+        "stop_id": "50859",
+        "stop_name": "Crémazie / Saint-Hubert"
+      },
+      {
+        "stop_id": "50860",
+        "stop_name": "Crémazie / Saint-Hubert"
+      },
+      {
+        "stop_id": "50978",
+        "stop_name": "Christophe-Colomb / Crémazie"
+      },
+      {
+        "stop_id": "62192",
+        "stop_name": "Christophe-Colomb / Raymond-Pelletier"
+      },
+      {
+        "stop_id": "62193",
+        "stop_name": "Christophe-Colomb / Étienne-Blanchard"
+      },
+      {
+        "stop_id": "62194",
+        "stop_name": "Émile-Journault / Christophe-Colomb"
+      },
+      {
+        "stop_id": "50834",
+        "stop_name": "Émile-Journault / André-Grasset"
+      },
+      {
+        "stop_id": "50878",
+        "stop_name": "Émile-Journault / Papineau"
+      },
+      {
+        "stop_id": "50804",
+        "stop_name": "Papineau / Legendre"
+      },
+      {
+        "stop_id": "61556",
+        "stop_name": "Stade de soccer de Montréal (Papineau / Lecocq)"
+      },
+      {
+        "stop_id": "50646",
+        "stop_name": "Papineau / de Louvain"
+      },
+      {
+        "stop_id": "50610",
+        "stop_name": "Papineau / Charland"
+      },
+      {
+        "stop_id": "50653",
+        "stop_name": "Charland / De Lorimier"
+      },
+      {
+        "stop_id": "61242",
+        "stop_name": "Charland / Parthenais"
+      },
+      {
+        "stop_id": "50706",
+        "stop_name": "Charland / de Lille"
+      },
+      {
+        "stop_id": "50755",
+        "stop_name": "Charland / Sackville"
+      },
+      {
+        "stop_id": "50803",
+        "stop_name": "Charland / J.-J.-Gagnier"
+      },
+      {
+        "stop_id": "50718",
+        "stop_name": "Sauvé / J.-J.-Gagnier"
+      }
+    ]
+  },
+  {
+    "direction": "Est destination Station Crémazie",
+    "arrets": [
+      {
+        "stop_id": "55737",
+        "stop_name": "de la Côte-Vertu / Lebeau"
+      },
+      {
+        "stop_id": "55748",
+        "stop_name": "Lebeau / Deslauriers"
+      },
+      {
+        "stop_id": "55340",
+        "stop_name": "Deslauriers / No 605"
+      },
+      {
+        "stop_id": "55823",
+        "stop_name": "Deslauriers / No 390"
+      },
+      {
+        "stop_id": "55822",
+        "stop_name": "Benjamin-Hudon / Deslauriers"
+      },
+      {
+        "stop_id": "55769",
+        "stop_name": "Benjamin-Hudon / Lebeau"
+      },
+      {
+        "stop_id": "55821",
+        "stop_name": "Gince / Lebeau"
+      },
+      {
+        "stop_id": "53829",
+        "stop_name": "Gince / No 55"
+      },
+      {
+        "stop_id": "50490",
+        "stop_name": "Charles-De La Tour / De Beauharnois"
+      },
+      {
+        "stop_id": "50453",
+        "stop_name": "Charles-De La Tour / Legendre"
+      },
+      {
+        "stop_id": "50411",
+        "stop_name": "Charles-De La Tour / Chabanel"
+      },
+      {
+        "stop_id": "50361",
+        "stop_name": "Charles-De La Tour / de Louvain"
+      },
+      {
+        "stop_id": "50379",
+        "stop_name": "de Louvain / de l'Acadie"
+      },
+      {
+        "stop_id": "50426",
+        "stop_name": "Chabanel / de l'Acadie"
+      },
+      {
+        "stop_id": "50448",
+        "stop_name": "Gare Chabanel"
+      },
+      {
+        "stop_id": "54349",
+        "stop_name": "Chabanel / Jeanne-Mance"
+      },
+      {
+        "stop_id": "61022",
+        "stop_name": "Chabanel / Meunier"
+      },
+      {
+        "stop_id": "60887",
+        "stop_name": "Chabanel / Saint-Laurent"
+      },
+      {
+        "stop_id": "50564",
+        "stop_name": "Saint-Laurent / Legendre"
+      },
+      {
+        "stop_id": "50620",
+        "stop_name": "Saint-Laurent / De Beauharnois"
+      },
+      {
+        "stop_id": "50671",
+        "stop_name": "Crémazie / Saint-Laurent"
+      },
+      {
+        "stop_id": "50720",
+        "stop_name": "Crémazie / Casgrain"
+      },
+      {
+        "stop_id": "50734",
+        "stop_name": "Crémazie / Henri-Julien"
+      },
+      {
+        "stop_id": "50769",
+        "stop_name": "Station Crémazie Sud (Crémazie / Berri)"
+      }
+    ]
+  }
+]

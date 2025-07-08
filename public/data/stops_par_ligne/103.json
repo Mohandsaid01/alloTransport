@@ -1,0 +1,208 @@
+[
+  {
+    "direction": "Ouest",
+    "arrets": [
+      {
+        "stop_id": "53799",
+        "stop_name": "Station Villa-Maria"
+      },
+      {
+        "stop_id": "51202",
+        "stop_name": "de Monkland / Girouard"
+      },
+      {
+        "stop_id": "51170",
+        "stop_name": "de Monkland / Marcil"
+      },
+      {
+        "stop_id": "51153",
+        "stop_name": "de Monkland / Harvard"
+      },
+      {
+        "stop_id": "51121",
+        "stop_name": "de Monkland / de Melrose"
+      },
+      {
+        "stop_id": "51091",
+        "stop_name": "de Monkland / Royal"
+      },
+      {
+        "stop_id": "51060",
+        "stop_name": "de Monkland / Hingston"
+      },
+      {
+        "stop_id": "51033",
+        "stop_name": "de Monkland / Grand Boulevard"
+      },
+      {
+        "stop_id": "50962",
+        "stop_name": "Grand Boulevard / de Terrebonne"
+      },
+      {
+        "stop_id": "50910",
+        "stop_name": "Grand Boulevard / Somerled"
+      },
+      {
+        "stop_id": "50796",
+        "stop_name": "Grand Boulevard / Fielding"
+      },
+      {
+        "stop_id": "56318",
+        "stop_name": "Côte-Saint-Luc / Kensington"
+      },
+      {
+        "stop_id": "56414",
+        "stop_name": "Côte-Saint-Luc / Alpine"
+      },
+      {
+        "stop_id": "50626",
+        "stop_name": "Côte-Saint-Luc / Randall"
+      },
+      {
+        "stop_id": "50604",
+        "stop_name": "Côte-Saint-Luc / Cavendish"
+      },
+      {
+        "stop_id": "50570",
+        "stop_name": "Côte-Saint-Luc / Walkley"
+      },
+      {
+        "stop_id": "56409",
+        "stop_name": "Côte-Saint-Luc / Rosedale"
+      },
+      {
+        "stop_id": "56405",
+        "stop_name": "Côte-Saint-Luc / Silverson"
+      },
+      {
+        "stop_id": "53798",
+        "stop_name": "Côte-Saint-Luc / Saint-Ignatius"
+      },
+      {
+        "stop_id": "56398",
+        "stop_name": "Côte-Saint-Luc / Ashdale"
+      },
+      {
+        "stop_id": "56395",
+        "stop_name": "Côte-Saint-Luc / Sunnybrooke"
+      },
+      {
+        "stop_id": "56424",
+        "stop_name": "Côte-Saint-Luc / Westminster"
+      },
+      {
+        "stop_id": "56378",
+        "stop_name": "Côte-Saint-Luc / Wolseley"
+      },
+      {
+        "stop_id": "56418",
+        "stop_name": "Smart / Arcadian"
+      },
+      {
+        "stop_id": "56373",
+        "stop_name": "Arcadian / Westluke"
+      },
+      {
+        "stop_id": "56361",
+        "stop_name": "Westluke / Côte-Saint-Luc"
+      },
+      {
+        "stop_id": "56379",
+        "stop_name": "Côte-Saint-Luc / Wolseley"
+      },
+      {
+        "stop_id": "56388",
+        "stop_name": "Côte-Saint-Luc / Hudson"
+      }
+    ]
+  },
+  {
+    "direction": "Est",
+    "arrets": [
+      {
+        "stop_id": "56388",
+        "stop_name": "Côte-Saint-Luc / Hudson"
+      },
+      {
+        "stop_id": "56396",
+        "stop_name": "Côte-Saint-Luc / Sunnybrooke"
+      },
+      {
+        "stop_id": "56399",
+        "stop_name": "Côte-Saint-Luc / Robert-Burns"
+      },
+      {
+        "stop_id": "56406",
+        "stop_name": "Centre Côte Saint-Luc (Côte St-Luc / Coronation)"
+      },
+      {
+        "stop_id": "56410",
+        "stop_name": "Côte-Saint-Luc / Rosedale"
+      },
+      {
+        "stop_id": "56413",
+        "stop_name": "Côte-Saint-Luc / Walkley"
+      },
+      {
+        "stop_id": "50606",
+        "stop_name": "Côte-Saint-Luc / Cavendish"
+      },
+      {
+        "stop_id": "50627",
+        "stop_name": "Côte-Saint-Luc / Randall"
+      },
+      {
+        "stop_id": "56415",
+        "stop_name": "Côte-Saint-Luc / West Hill"
+      },
+      {
+        "stop_id": "56317",
+        "stop_name": "Côte-Saint-Luc / Grand Boulevard"
+      },
+      {
+        "stop_id": "50798",
+        "stop_name": "Grand Boulevard / Fielding"
+      },
+      {
+        "stop_id": "50912",
+        "stop_name": "Grand Boulevard / Somerled"
+      },
+      {
+        "stop_id": "50963",
+        "stop_name": "Grand Boulevard / de Terrebonne"
+      },
+      {
+        "stop_id": "51034",
+        "stop_name": "Grand Boulevard / de Monkland"
+      },
+      {
+        "stop_id": "51061",
+        "stop_name": "de Monkland / Hingston"
+      },
+      {
+        "stop_id": "51092",
+        "stop_name": "de Monkland / Royal"
+      },
+      {
+        "stop_id": "51122",
+        "stop_name": "de Monkland / de Melrose"
+      },
+      {
+        "stop_id": "51154",
+        "stop_name": "de Monkland / Harvard"
+      },
+      {
+        "stop_id": "51171",
+        "stop_name": "de Monkland / Marcil"
+      },
+      {
+        "stop_id": "51204",
+        "stop_name": "de Monkland / Girouard"
+      },
+      {
+        "stop_id": "51243",
+        "stop_name": "Station Villa-Maria (Décarie / de Monkland)"
+      }
+    ]
+  }
+]
