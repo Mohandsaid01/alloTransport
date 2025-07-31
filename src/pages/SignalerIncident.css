@@ -1,61 +1,174 @@
-/* SignalerIncident.css - styles pour le formulaire d’incident */
-
-.incident-container {
-  max-width: 600px;
-  margin: 50px auto;
-  padding: 30px;
-  background-color: #ffffff;
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+/* Fond général de la page */
+body {
+  background: linear-gradient(135deg, #d1e8ff, #f8fbff);
   font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
 }
 
+/* Conteneur du formulaire avec effet "glass" */
+.incident-container {
+  max-width: 720px;
+  margin: 60px auto;
+  padding: 40px 35px;
+  background: rgba(255, 255, 255, 0.75);
+  border-radius: 16px;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease;
+  animation: fadeInUp 0.8s ease;
+}
+
+/* Animation d'apparition fluide */
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Titre du formulaire */
 .incident-container h2 {
   text-align: center;
-  margin-bottom: 20px;
-  color: #0059b2;
+  margin-bottom: 32px;
+  color: #003366;
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  position: relative;
 }
 
+.incident-container h2::after {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 4px;
+  background: linear-gradient(to right, #00c3a0, #0087d4);
+  margin: 12px auto 0;
+  border-radius: 4px;
+}
+
+/* Champs du formulaire */
 .incident-form {
   display: flex;
   flex-direction: column;
+  gap: 20px;
 }
 
 .incident-form label {
-  margin-top: 12px;
-  margin-bottom: 5px;
   font-weight: 600;
-  color: #333;
+  color: #2c3e50;
+  margin-bottom: 6px;
 }
 
 .incident-form input,
-.incident-form textarea,
-.incident-form select {
-  padding: 10px;
-  border-radius: 8px;
+.incident-form select,
+.incident-form textarea {
+  width: 100%;
+  padding: 14px 16px;
+  border-radius: 10px;
   border: 1px solid #ccc;
-  font-size: 1rem;
+  font-size: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  transition: all 0.3s ease;
+  font-family: inherit;
+}
+
+.incident-form input::placeholder,
+.incident-form textarea::placeholder {
+  font-style: italic;
+  color: #aaa;
+}
+
+.incident-form input:focus,
+.incident-form select:focus,
+.incident-form textarea:focus {
+  border-color: #0073e6;
+  box-shadow: 0 0 0 3px rgba(0, 115, 230, 0.2);
   outline: none;
 }
 
 .incident-form textarea {
+  min-height: 120px;
   resize: vertical;
-  min-height: 100px;
 }
 
-.incident-form button {
-  margin-top: 20px;
-  padding: 12px;
-  background-color: #0073e6;
-  color: white;
-  border: none;
-  border-radius: 8px;
-  font-size: 1rem;
-  font-weight: bold;
+/* Groupe de boutons radio */
+.radio-group {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: -5px;
+}
+
+.radio-group label {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-weight: 500;
+  color: #34495e;
   cursor: pointer;
-  transition: background-color 0.3s ease;
+}
+
+.radio-group input[type="radio"] {
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  border: 2px solid #0073e6;
+  border-radius: 50%;
+  background: white;
+  transition: 0.3s;
+  position: relative;
+}
+
+.radio-group input[type="radio"]:checked::before {
+  content: '';
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 8px;
+  background: #0073e6;
+  border-radius: 50%;
+}
+
+.radio-group input[type="radio"]:hover {
+  border-color: #005bb5;
+}
+
+/* Bouton principal */
+.incident-form button {
+  padding: 16px;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  background: linear-gradient(135deg, #00c3a0, #0087d4);
+  box-shadow: 0 6px 14px rgba(0, 132, 181, 0.3);
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
 }
 
 .incident-form button:hover {
-  background-color: #005bb5;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 18px rgba(0, 132, 181, 0.4);
+  background: linear-gradient(135deg, #00a789, #0073b5);
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .incident-container {
+    padding: 30px 20px;
+  }
+
+  .incident-container h2 {
+    font-size: 24px;
+  }
 }

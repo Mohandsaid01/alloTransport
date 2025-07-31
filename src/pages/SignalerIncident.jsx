@@ -1,83 +1,126 @@
-// src/pages/SignalerIncident.jsx
+
 import React, { useState } from 'react';
-import './SignalerIncident.css'; // ✅ Styles dédiés pour cette page
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './SignalerIncident.css';
+
+
 
 const SignalerIncident = () => {
-  // 🔽 État local pour stocker les données saisies par l'utilisateur
   const [form, setForm] = useState({
     type: '',
+    ligne: '',
+    station: '',
     description: '',
-    localisation: '',
-    niveau: 'faible',
+    gravite: '',
+    contact: 'non',
   });
 
-  // 🔄 Mettre à jour les champs du formulaire
   const handleChange = (e) => {
     setForm({ ...form, [e.target.name]: e.target.value });
   };
 
-  // ✅ Soumission du formulaire
   const handleSubmit = (e) => {
     e.preventDefault();
-
-    // 🔁 TODO BACKEND :
-    // ➤ Envoyer ces données à une API POST (ex: /api/incidents)
-    // ➤ Sauvegarder les incidents dans la base de données
-    // ➤ Associer l'incident à un agent STM pour traitement
-    console.log('Données envoyées à l’agent STM :', form);
-
-    alert("L'incident a été signalé avec succès !");
+    console.log("Données soumises :", form);
+    alert("Incident signalé avec succès !");
   };
 
   return (
-    <div className="incident-container">
-      <h2>🚨 Signaler un incident</h2>
+    <div className="container py-5">
+      <div className="row justify-content-center">
+        <div className="col-lg-8">
+          <div className="card shadow-sm">
+            <div className="card-body">
+              <h3 className="text-center mb-4 text-primary"> Signaler un incident</h3>
+              <form onSubmit={handleSubmit}>
+                <div className="mb-3">
+                  <label className="form-label">Type d'incident</label>
+                  <select className="form-select" name="type" onChange={handleChange} required>
+                    <option value="">Sélectionnez le type</option>
+                    <option value="retard">Retard</option>
+                    <option value="panne">Panne</option>
+                    <option value="securite">Problème de sécurité</option>
+                    <option value="accessibilite">Accessibilité</option>
+                    <option value="proprete">Propreté</option>
+                    <option value="autre">Autre</option>
+                  </select>
+                </div>
 
-      {/* 📝 Formulaire à remplir par l'utilisateur */}
-      <form className="incident-form" onSubmit={handleSubmit}>
-        {/* Type de l'incident (ex: Retard, Accident) */}
-        <label>Type d’incident :</label>
-        <input
-          type="text"
-          name="type"
-          value={form.type}
-          onChange={handleChange}
-          placeholder="Ex : Panne, Retard, Accident"
-          required
-        />
+                <div className="mb-3">
+                  <label className="form-label">Ligne concernée</label>
+                  <select className="form-select" name="ligne" onChange={handleChange} required>
+                    <option value="">Sélectionnez la ligne</option>
+                    <option value="orange">Orange</option>
+                    <option value="verte">Verte</option>
+                    <option value="bleue">Bleue</option>
+                    <option value="jaune">Jaune</option>
+                    <option value="bus">Bus</option>
+                    <option value="train">Train de banlieue</option>
+                  </select>
+                </div>
 
-        {/* Description détaillée du problème */}
-        <label>Description :</label>
-        <textarea
-          name="description"
-          value={form.description}
-          onChange={handleChange}
-          placeholder="Décrivez ce qui s’est passé..."
-          required
-        />
+                <div className="mb-3">
+                  <label className="form-label">Station ou arrêt / Bus</label>
+                  <input
+                    type="text"
+                    className="form-control"
+                    name="station"
+                    placeholder="Ex: Berri-UQAM, Bus 80"
+                    onChange={handleChange}
+                    required
+                  />
+                </div>
 
-        {/* Lieu ou station concernée */}
-        <label>Localisation :</label>
-        <input
-          type="text"
-          name="localisation"
-          value={form.localisation}
-          onChange={handleChange}
-          placeholder="Station, arrêt ou ligne"
-          required
-        />
+                <div className="mb-3">
+                  <label className="form-label">Description</label>
+                  <textarea
+                    className="form-control"
+                    name="description"
+                    rows="4"
+                    placeholder="Décrivez les circonstances, heure, etc."
+                    onChange={handleChange}
+                    required
+                  ></textarea>
+                </div>
 
-        {/* Gravité de l'incident (pour prioriser côté backend) */}
-        <label>Niveau de gravité :</label>
-        <select name="niveau" value={form.niveau} onChange={handleChange}>
-          <option value="faible">Faible</option>
-          <option value="moyen">Moyen</option>
-          <option value="élevé">Élevé</option>
-        </select>
+                <div className="mb-3">
+                  <label className="form-label">Niveau de gravité</label>
+                  <div className="form-check">
+                    <input className="form-check-input" type="radio" name="gravite" value="faible" onChange={handleChange} required />
+                    <label className="form-check-label">Faible - Inconvénient mineur</label>
+                  </div>
+                  <div className="form-check">
+                    <input className="form-check-input" type="radio" name="gravite" value="modere" onChange={handleChange} />
+                    <label className="form-check-label">Modéré - Impact significatif</label>
+                  </div>
+                  <div className="form-check">
+                    <input className="form-check-input" type="radio" name="gravite" value="eleve" onChange={handleChange} />
+                    <label className="form-check-label">Élevé - Situation urgente</label>
+                  </div>
+                </div>
 
-        {/* Bouton de soumission */}
-        <button type="submit">Envoyer à un agent</button>
-      </form>
+                <div className="mb-4">
+                  <label className="form-label">Souhaitez-vous un suivi ?</label>
+                  <div className="form-check">
+                    <input className="form-check-input" type="radio" name="contact" value="oui" onChange={handleChange} />
+                    <label className="form-check-label">Oui, je souhaite être contacté</label>
+                  </div>
+                  <div className="form-check">
+                    <input className="form-check-input" type="radio" name="contact" value="non" onChange={handleChange} defaultChecked />
+                    <label className="form-check-label">Non, rapport anonyme</label>
+                  </div>
+                </div>
+
+                <div className="d-grid">
+                  <button type="submit" className="btn btn-primary btn-lg">
+                    Soumettre le rapport d'incident
+                  </button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };

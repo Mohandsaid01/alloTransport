@@ -565,130 +565,97 @@ const DashboardClient = () => {
           </div>
         );
 
-      case 'incidents':
-        return (
-          <div className="content-section">
-            <h2>Signaler un incident</h2>
-            <div className="incident-form">
-              <div className="form-section">
-                <h3>Détails de l'incident</h3>
-                <form onSubmit={async (e) => {
-                e.preventDefault();
-                const formData = new FormData(e.target);
-                
-                const payload = {
-                  type_incident: formData.get('incident-type'),
-                  ligne: formData.get('line'),
-                  station: formData.get('station'),
-                  description: formData.get('description'),
-                  gravite: formData.get('severity'),
-                  suivi: formData.get('contact') === 'oui',
-                  email: user.email  // utile pour le suivi
-                };
+    case 'incidents':
+  return (
+    <div className="incident-container">
+      <h2> Signaler un incident</h2>
+      <form onSubmit={async (e) => {
+        e.preventDefault();
+        const formData = new FormData(e.target);
+        const payload = {
+          type_incident: formData.get('incident-type'),
+          ligne: formData.get('line'),
+          station: formData.get('station'),
+          description: formData.get('description'),
+          gravite: formData.get('severity'),
+          suivi: formData.get('contact') === 'oui',
+          email: user.email
+        };
 
-                try {
-                  const response = await fetch('http://127.0.0.1:8000/api/incidents', {
-                    method: 'POST',
-                    headers: {
-                      'Content-Type': 'application/json'
-                    },
-                    body: JSON.stringify(payload)
-                  });
+        try {
+          const response = await fetch('http://127.0.0.1:8000/api/incidents', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload)
+          });
+          if (response.ok) {
+            alert('Incident signalé avec succès!');
+            e.target.reset();
+          } else {
+            const errorData = await response.json();
+            alert('Erreur : ' + JSON.stringify(errorData));
+          }
+        } catch (error) {
+          console.error(error);
+          alert("Une erreur s'est produite.");
+        }
+      }} className="incident-form">
 
-                  if (response.ok) {
-                    alert('Incident signalé avec succès!');
-                    e.target.reset();
-                  } else {
-                    const errorData = await response.json();
-                    alert('Erreur lors de l’envoi : ' + JSON.stringify(errorData));
-                  }
-                } catch (error) {
-                  console.error(error);
-                  alert('Une erreur est survenue lors de l’envoi.');
-                }
-              }}>
+        <div>
+          <label>Type d'incident</label>
+          <select name="incident-type" required>
+            <option value="">Sélectionnez le type</option>
+            <option value="retard">Retard important</option>
+            <option value="panne">Panne de véhicule</option>
+            <option value="securite">Problème de sécurité</option>
+            <option value="service">Service non assuré</option>
+            <option value="accessibilite">Accessibilité</option>
+            <option value="proprete">Propreté</option>
+            <option value="autre">Autre</option>
+          </select>
+        </div>
 
-                  <div className="form-group">
-                    <label>Type d'incident</label>
-                    <select name="incident-type" required>
-                      <option value="">Sélectionnez le type</option>
-                      <option value="retard">Retard important</option>
-                      <option value="panne">Panne de véhicule</option>
-                      <option value="securite">Problème de sécurité</option>
-                      <option value="service">Service non assuré</option>
-                      <option value="accessibilite">Problème d'accessibilité</option>
-                      <option value="proprete">Problème de propreté</option>
-                      <option value="autre">Autre</option>
-                    </select>
-                  </div>
-                  <div className="form-group">
-                    <label>Ligne concernée</label>
-                    <select name="line" required>
-                      <option value="">Sélectionnez la ligne</option>
-                      <option value="orange">Ligne orange</option>
-                      <option value="verte">Ligne verte</option>
-                      <option value="bleue">Ligne bleue</option>
-                      <option value="jaune">Ligne jaune</option>
-                      <option value="bus">Bus (préciser le numéro)</option>
-                      <option value="train">Train de banlieue</option>
-                    </select>
-                  </div>
-                  <div className="form-group">
-                    <label>Station/Arrêt ou numéro de bus</label>
-                    <input 
-                      type="text" 
-                      name="station"
-                      placeholder="Ex: Station Berri-UQAM, Arrêt René-Lévesque / Peel, Bus 80"
-                      required
-                    />
-                  </div>
-                  <div className="form-group">
-                    <label>Description détaillée</label>
-                    <textarea 
-                      name="description"
-                      rows="4" 
-                      placeholder="Décrivez l'incident en détail: heure exacte, circonstances, impact sur votre trajet, etc."
-                      required
-                    ></textarea>
-                  </div>
-                  <div className="form-group">
-                    <label>Niveau de gravité</label>
-                    <div className="severity-options">
-                      <div className="severity-option">
-                        <input type="radio" id="low" name="severity" value="faible" required />
-                        <label htmlFor="low">Faible - Inconvénient mineur</label>
-                      </div>
-                      <div className="severity-option">
-                        <input type="radio" id="medium" name="severity" value="modere" required />
-                        <label htmlFor="medium">Modéré - Impact significatif</label>
-                      </div>
-                      <div className="severity-option">
-                        <input type="radio" id="high" name="severity" value="eleve" required />
-                        <label htmlFor="high">Élevé - Situation urgente</label>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="form-group">
-                    <label>Souhaitez-vous être contacté pour un suivi?</label>
-                    <div className="contact-options">
-                      <div className="contact-option">
-                        <input type="radio" id="contact-yes" name="contact" value="oui" />
-                        <label htmlFor="contact-yes">Oui, par email</label>
-                      </div>
-                      <div className="contact-option">
-                        <input type="radio" id="contact-no" name="contact" value="non" defaultChecked />
-                        <label htmlFor="contact-no">Non, rapport anonyme</label>
-                      </div>
-                    </div>
-                  </div>
-                  <button type="submit" className="btn-submit-incident">
-                    Soumettre le rapport d'incident
-                  </button>
-                </form>
-              </div>
-            </div>
-          </div>
-        );
+        <div>
+          <label>Ligne concernée</label>
+          <select name="line" required>
+            <option value="">Sélectionnez la ligne</option>
+            <option value="orange">Ligne orange</option>
+            <option value="verte">Ligne verte</option>
+            <option value="bleue">Ligne bleue</option>
+            <option value="jaune">Ligne jaune</option>
+            <option value="bus">Bus (préciser le numéro)</option>
+            <option value="train">Train de banlieue</option>
+          </select>
+        </div>
+
+        <div>
+          <label>Station ou arrêt / Bus</label>
+          <input type="text" name="station" placeholder="Ex: Berri-UQAM, Bus 80" required />
+        </div>
+
+        <div>
+          <label>Description</label>
+          <textarea name="description" rows="4" placeholder="Décrivez les circonstances, heure, etc." required />
+        </div>
+
+        <div className="radio-group">
+          <label>Niveau de gravité</label>
+          <label><input type="radio" name="severity" value="faible" required /> Faible - Inconvénient mineur</label>
+          <label><input type="radio" name="severity" value="modere" /> Modéré - Impact significatif</label>
+          <label><input type="radio" name="severity" value="eleve" /> Élevé - Situation urgente</label>
+        </div>
+
+        <div className="radio-group">
+          <label>Souhaitez-vous un suivi ?</label>
+          <label><input type="radio" name="contact" value="oui" /> Oui, par email</label>
+          <label><input type="radio" name="contact" value="non" defaultChecked /> Non, rapport anonyme</label>
+        </div>
+
+        <button type="submit">Soumettre le rapport d'incident</button>
+      </form>
+    </div>
+  );
+
 
       default:
         return <div>Section non trouvée</div>;

@@ -1,7 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from database import Base, engine
-import models
 
 # Import des routers
 from routes.client import router as client_router
@@ -20,6 +19,9 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Import models après la création de l'app pour éviter les imports circulaires
+import models
 
 # Création des tables si elles n'existent pas encore
 Base.metadata.create_all(bind=engine)
